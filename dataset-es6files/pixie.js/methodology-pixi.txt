@@ -1,0 +1,8 @@
+1- Create the flow files (src+tests) for each class. Ex: DisplayObject-flow.js, Bounds-flow.js, etc
+2- Add the specific test code to the end of each generated file. 
+3- Verify if the variable names created in the require statements are equal to the class names. If equal, just comment the require statement line. If not, the variable must be assigned to the value exported by the file indicated in the require statement (the parameter).
+4- Remove the 'export default' before the definition of the imported classes (classes copied from other files).
+5- Check manually every dependency in the test file. The file index.js imports the whole src folder at once inside a variable PIXI. Then, to use the class Bounds, for example, one has to call PIXI.Bounds. So, I have to copy the defition of the used classes and erase the prefix PIXI wherever it appears.
+6- We import the definitions of every import command, even when the imported files do not cointain classes. Ex: const.js
+
+OBS: During the analysis of a class A, if it imports class B and class B imports another class C, its not necessary to copy the definition of class C inside the file that implements A, unless there is an inheritance relationship between B and C. 
