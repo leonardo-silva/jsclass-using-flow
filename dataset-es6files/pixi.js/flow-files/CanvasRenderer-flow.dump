@@ -1,0 +1,4401 @@
+CanvasRenderer-flow.js:11:7-16: 
+CanvasRenderer-flow.js:11:20-31: 
+CanvasRenderer-flow.js:11:24-29: 
+CanvasRenderer-flow.js:22:1,303:1: [class: SystemRenderer]
+CanvasRenderer-flow.js:22:30-41: 
+CanvasRenderer-flow.js:42:17-22: string
+CanvasRenderer-flow.js:42:25-29: number
+CanvasRenderer-flow.js:42:32-37: number
+CanvasRenderer-flow.js:42:40-46: {}
+CanvasRenderer-flow.js:44:9-15: 
+CanvasRenderer-flow.js:46:9-16: 
+CanvasRenderer-flow.js:46:9-24: 
+CanvasRenderer-flow.js:46:18-23: string
+CanvasRenderer-flow.js:49:13-19: {}
+CanvasRenderer-flow.js:51:24: string
+CanvasRenderer-flow.js:51:29-50: 
+CanvasRenderer-flow.js:53:28-34: {}
+CanvasRenderer-flow.js:53:28-37: 
+CanvasRenderer-flow.js:53:36: string
+CanvasRenderer-flow.js:55:21-27: {}
+CanvasRenderer-flow.js:55:21-58: 
+CanvasRenderer-flow.js:55:29: string
+CanvasRenderer-flow.js:55:34-55: 
+CanvasRenderer-flow.js:55:34-58: 
+CanvasRenderer-flow.js:55:57: string
+CanvasRenderer-flow.js:61:13-44: 
+CanvasRenderer-flow.js:61:23-44: 
+CanvasRenderer-flow.js:71:9-12: SystemRenderer
+CanvasRenderer-flow.js:71:9-41: number
+CanvasRenderer-flow.js:71:21-33: {CANVAS: number, UNKNOWN: number, WEBGL: number}
+CanvasRenderer-flow.js:71:21-41: number
+CanvasRenderer-flow.js:79:9-12: SystemRenderer
+CanvasRenderer-flow.js:79:9-33: number
+CanvasRenderer-flow.js:79:22-26: number
+CanvasRenderer-flow.js:79:22-33: number
+CanvasRenderer-flow.js:79:31-33: number
+CanvasRenderer-flow.js:87:9-12: SystemRenderer
+CanvasRenderer-flow.js:87:9-35: number
+CanvasRenderer-flow.js:87:23-28: number
+CanvasRenderer-flow.js:87:23-35: number
+CanvasRenderer-flow.js:87:33-35: number
+CanvasRenderer-flow.js:94:9-12: SystemRenderer
+CanvasRenderer-flow.js:94:9-68: 
+CanvasRenderer-flow.js:94:21-27: {}
+CanvasRenderer-flow.js:94:21-68: 
+CanvasRenderer-flow.js:94:37-44: Document
+CanvasRenderer-flow.js:94:37-68: HTMLCanvasElement
+CanvasRenderer-flow.js:94:60-67: string
+CanvasRenderer-flow.js:102:9-12: SystemRenderer
+CanvasRenderer-flow.js:102:9-44: 
+CanvasRenderer-flow.js:102:27-33: {}
+CanvasRenderer-flow.js:102:27-44: 
+CanvasRenderer-flow.js:109:9-12: SystemRenderer
+CanvasRenderer-flow.js:109:9-46: 
+CanvasRenderer-flow.js:109:28-34: {}
+CanvasRenderer-flow.js:109:28-46: 
+CanvasRenderer-flow.js:116:9-12: SystemRenderer
+CanvasRenderer-flow.js:116:9-53: 
+CanvasRenderer-flow.js:116:27-33: {}
+CanvasRenderer-flow.js:116:27-53: 
+CanvasRenderer-flow.js:116:49-53: boolean
+CanvasRenderer-flow.js:123:9-12: SystemRenderer
+CanvasRenderer-flow.js:123:9-30: null
+CanvasRenderer-flow.js:123:27-30: null
+CanvasRenderer-flow.js:131:9-12: SystemRenderer
+CanvasRenderer-flow.js:131:9-66: 
+CanvasRenderer-flow.js:131:38-44: {}
+CanvasRenderer-flow.js:131:38-66: 
+CanvasRenderer-flow.js:143:9-12: SystemRenderer
+CanvasRenderer-flow.js:143:9-58: 
+CanvasRenderer-flow.js:143:34-40: {}
+CanvasRenderer-flow.js:143:34-58: 
+CanvasRenderer-flow.js:151:9-12: SystemRenderer
+CanvasRenderer-flow.js:151:9-46: 
+CanvasRenderer-flow.js:151:28-34: {}
+CanvasRenderer-flow.js:151:28-46: 
+CanvasRenderer-flow.js:159:9-12: SystemRenderer
+CanvasRenderer-flow.js:159:9-40: number
+CanvasRenderer-flow.js:159:33-40: number
+CanvasRenderer-flow.js:167:9-12: SystemRenderer
+CanvasRenderer-flow.js:167:9-48: [number, number, number, number]
+CanvasRenderer-flow.js:167:37-48: [number, number, number, number]
+CanvasRenderer-flow.js:167:38: number
+CanvasRenderer-flow.js:167:41: number
+CanvasRenderer-flow.js:167:44: number
+CanvasRenderer-flow.js:167:47: number
+CanvasRenderer-flow.js:175:9-12: SystemRenderer
+CanvasRenderer-flow.js:175:9-47: string
+CanvasRenderer-flow.js:175:39-47: string
+CanvasRenderer-flow.js:177:9-12: SystemRenderer
+CanvasRenderer-flow.js:177:9-79: 
+CanvasRenderer-flow.js:177:32-38: {}
+CanvasRenderer-flow.js:177:32-79: 
+CanvasRenderer-flow.js:177:59-79: number
+CanvasRenderer-flow.js:185:9-12: SystemRenderer
+CanvasRenderer-flow.js:185:9-55: 
+CanvasRenderer-flow.js:185:41-55: 
+CanvasRenderer-flow.js:185:45-53: 
+CanvasRenderer-flow.js:193:9-12: SystemRenderer
+CanvasRenderer-flow.js:193:9-64: 
+CanvasRenderer-flow.js:193:36-64: 
+CanvasRenderer-flow.js:202:12-16: number
+CanvasRenderer-flow.js:202:19-24: number
+CanvasRenderer-flow.js:204:9-12: SystemRenderer
+CanvasRenderer-flow.js:204:9-44: number
+CanvasRenderer-flow.js:204:22-26: number
+CanvasRenderer-flow.js:204:22-44: number
+CanvasRenderer-flow.js:204:30-33: SystemRenderer
+CanvasRenderer-flow.js:204:30-44: 
+CanvasRenderer-flow.js:205:9-12: SystemRenderer
+CanvasRenderer-flow.js:205:9-46: number
+CanvasRenderer-flow.js:205:23-28: number
+CanvasRenderer-flow.js:205:23-46: number
+CanvasRenderer-flow.js:205:32-35: SystemRenderer
+CanvasRenderer-flow.js:205:32-46: 
+CanvasRenderer-flow.js:207:9-12: SystemRenderer
+CanvasRenderer-flow.js:207:9-17: 
+CanvasRenderer-flow.js:207:9-36: number
+CanvasRenderer-flow.js:207:27-36: number
+CanvasRenderer-flow.js:208:9-12: SystemRenderer
+CanvasRenderer-flow.js:208:9-17: 
+CanvasRenderer-flow.js:208:9-38: number
+CanvasRenderer-flow.js:208:28-38: number
+CanvasRenderer-flow.js:210:13-16: SystemRenderer
+CanvasRenderer-flow.js:212:13-16: SystemRenderer
+CanvasRenderer-flow.js:212:13-21: 
+CanvasRenderer-flow.js:212:13-27: 
+CanvasRenderer-flow.js:212:13-71: string
+CanvasRenderer-flow.js:212:37-71: string
+CanvasRenderer-flow.js:212:40-43: SystemRenderer
+CanvasRenderer-flow.js:212:40-49: 
+CanvasRenderer-flow.js:212:40-67: number
+CanvasRenderer-flow.js:212:53-56: SystemRenderer
+CanvasRenderer-flow.js:212:53-67: 
+CanvasRenderer-flow.js:213:13-16: SystemRenderer
+CanvasRenderer-flow.js:213:13-21: 
+CanvasRenderer-flow.js:213:13-27: 
+CanvasRenderer-flow.js:213:13-73: string
+CanvasRenderer-flow.js:213:38-73: string
+CanvasRenderer-flow.js:213:41-44: SystemRenderer
+CanvasRenderer-flow.js:213:41-51: 
+CanvasRenderer-flow.js:213:41-69: number
+CanvasRenderer-flow.js:213:55-58: SystemRenderer
+CanvasRenderer-flow.js:213:55-69: 
+CanvasRenderer-flow.js:226:21-33: 
+CanvasRenderer-flow.js:226:36-44: 
+CanvasRenderer-flow.js:226:47-56: 
+CanvasRenderer-flow.js:228:15-20: 
+CanvasRenderer-flow.js:228:24-36: 
+CanvasRenderer-flow.js:228:24-53: 
+CanvasRenderer-flow.js:230:15-27: 
+CanvasRenderer-flow.js:230:31-43: 
+CanvasRenderer-flow.js:230:31-110: 
+CanvasRenderer-flow.js:230:52-57: 
+CanvasRenderer-flow.js:230:52-63: 
+CanvasRenderer-flow.js:230:52-67: number
+CanvasRenderer-flow.js:230:67: number
+CanvasRenderer-flow.js:230:70-75: 
+CanvasRenderer-flow.js:230:70-82: 
+CanvasRenderer-flow.js:230:70-86: number
+CanvasRenderer-flow.js:230:86: number
+CanvasRenderer-flow.js:230:89-97: 
+CanvasRenderer-flow.js:230:100-109: 
+CanvasRenderer-flow.js:232:9-18: 
+CanvasRenderer-flow.js:232:9-33: 
+CanvasRenderer-flow.js:232:25-33: 
+CanvasRenderer-flow.js:232:26-31: 
+CanvasRenderer-flow.js:232:26-33: 
+CanvasRenderer-flow.js:233:9-18: 
+CanvasRenderer-flow.js:233:9-33: 
+CanvasRenderer-flow.js:233:25-33: 
+CanvasRenderer-flow.js:233:26-31: 
+CanvasRenderer-flow.js:233:26-33: 
+CanvasRenderer-flow.js:235:9-12: SystemRenderer
+CanvasRenderer-flow.js:235:9-74: 
+CanvasRenderer-flow.js:235:21-33: 
+CanvasRenderer-flow.js:235:36-48: 
+CanvasRenderer-flow.js:235:51-55: boolean
+CanvasRenderer-flow.js:235:58-67: 
+CanvasRenderer-flow.js:235:70-73: boolean
+CanvasRenderer-flow.js:237:16-28: 
+CanvasRenderer-flow.js:245:13-22: 
+CanvasRenderer-flow.js:247:13-22: 
+CanvasRenderer-flow.js:247:27-30: SystemRenderer
+CanvasRenderer-flow.js:247:27-35: 
+CanvasRenderer-flow.js:249:13-32: 
+CanvasRenderer-flow.js:249:13-55: 
+CanvasRenderer-flow.js:249:46-54: 
+CanvasRenderer-flow.js:252:9-12: SystemRenderer
+CanvasRenderer-flow.js:252:9-41: number
+CanvasRenderer-flow.js:252:21-33: {CANVAS: number, UNKNOWN: number, WEBGL: number}
+CanvasRenderer-flow.js:252:21-41: number
+CanvasRenderer-flow.js:254:9-12: SystemRenderer
+CanvasRenderer-flow.js:254:9-22: number
+CanvasRenderer-flow.js:254:22: number
+CanvasRenderer-flow.js:255:9-12: SystemRenderer
+CanvasRenderer-flow.js:255:9-23: number
+CanvasRenderer-flow.js:255:23: number
+CanvasRenderer-flow.js:257:9-12: SystemRenderer
+CanvasRenderer-flow.js:257:9-24: null
+CanvasRenderer-flow.js:257:21-24: null
+CanvasRenderer-flow.js:259:9-12: SystemRenderer
+CanvasRenderer-flow.js:259:9-27: number
+CanvasRenderer-flow.js:259:27: number
+CanvasRenderer-flow.js:261:9-12: SystemRenderer
+CanvasRenderer-flow.js:261:9-32: boolean
+CanvasRenderer-flow.js:261:28-32: boolean
+CanvasRenderer-flow.js:263:9-12: SystemRenderer
+CanvasRenderer-flow.js:263:9-31: boolean
+CanvasRenderer-flow.js:263:27-31: boolean
+CanvasRenderer-flow.js:265:9-12: SystemRenderer
+CanvasRenderer-flow.js:265:9-30: null
+CanvasRenderer-flow.js:265:27-30: null
+CanvasRenderer-flow.js:267:9-12: SystemRenderer
+CanvasRenderer-flow.js:267:9-42: boolean
+CanvasRenderer-flow.js:267:38-42: boolean
+CanvasRenderer-flow.js:268:9-12: SystemRenderer
+CanvasRenderer-flow.js:268:9-38: boolean
+CanvasRenderer-flow.js:268:34-38: boolean
+CanvasRenderer-flow.js:270:9-12: SystemRenderer
+CanvasRenderer-flow.js:270:9-32: boolean
+CanvasRenderer-flow.js:270:28-32: boolean
+CanvasRenderer-flow.js:272:9-12: SystemRenderer
+CanvasRenderer-flow.js:272:9-33: number
+CanvasRenderer-flow.js:272:33: number
+CanvasRenderer-flow.js:273:9-12: SystemRenderer
+CanvasRenderer-flow.js:273:9-40: null
+CanvasRenderer-flow.js:273:37-40: null
+CanvasRenderer-flow.js:274:9-12: SystemRenderer
+CanvasRenderer-flow.js:274:9-42: null
+CanvasRenderer-flow.js:274:39-42: null
+CanvasRenderer-flow.js:276:9-12: SystemRenderer
+CanvasRenderer-flow.js:276:9-32: number
+CanvasRenderer-flow.js:276:32: number
+CanvasRenderer-flow.js:277:9-12: SystemRenderer
+CanvasRenderer-flow.js:277:9-44: null
+CanvasRenderer-flow.js:277:41-44: null
+CanvasRenderer-flow.js:278:9-12: SystemRenderer
+CanvasRenderer-flow.js:278:9-39: null
+CanvasRenderer-flow.js:278:36-39: null
+CanvasRenderer-flow.js:289:16-19: SystemRenderer
+CanvasRenderer-flow.js:289:16-36: 
+CanvasRenderer-flow.js:297:25-29: number
+CanvasRenderer-flow.js:299:9-12: SystemRenderer
+CanvasRenderer-flow.js:299:9-37: number
+CanvasRenderer-flow.js:299:33-37: number
+CanvasRenderer-flow.js:300:9-12: SystemRenderer
+CanvasRenderer-flow.js:300:9-55: 
+CanvasRenderer-flow.js:300:39-48: 
+CanvasRenderer-flow.js:300:39-55: 
+CanvasRenderer-flow.js:300:50-54: number
+CanvasRenderer-flow.js:301:9-15: 
+CanvasRenderer-flow.js:301:9-49: 
+CanvasRenderer-flow.js:301:17-21: number
+CanvasRenderer-flow.js:301:24-27: SystemRenderer
+CanvasRenderer-flow.js:301:24-48: 
+CanvasRenderer-flow.js:313:1,477:1: [class: CanvasMaskManager]
+CanvasRenderer-flow.js:318:17-24: CanvasRenderer
+CanvasRenderer-flow.js:320:9-12: CanvasMaskManager
+CanvasRenderer-flow.js:320:9-32: CanvasRenderer
+CanvasRenderer-flow.js:320:25-32: CanvasRenderer
+CanvasRenderer-flow.js:328:14-21: 
+CanvasRenderer-flow.js:330:15-22: 
+CanvasRenderer-flow.js:330:26-29: CanvasMaskManager
+CanvasRenderer-flow.js:330:26-38: 
+CanvasRenderer-flow.js:332:9-16: 
+CanvasRenderer-flow.js:332:9-24: 
+CanvasRenderer-flow.js:332:9-31: 
+CanvasRenderer-flow.js:334:15-24: 
+CanvasRenderer-flow.js:334:28-35: 
+CanvasRenderer-flow.js:334:28-41: 
+CanvasRenderer-flow.js:335:15-23: 
+CanvasRenderer-flow.js:335:27-34: 
+CanvasRenderer-flow.js:335:27-44: 
+CanvasRenderer-flow.js:335:27-59: 
+CanvasRenderer-flow.js:336:15-24: 
+CanvasRenderer-flow.js:336:28-35: 
+CanvasRenderer-flow.js:336:28-46: 
+CanvasRenderer-flow.js:338:9-16: 
+CanvasRenderer-flow.js:338:9-24: 
+CanvasRenderer-flow.js:338:9,345:9: 
+CanvasRenderer-flow.js:339:13-21: 
+CanvasRenderer-flow.js:339:13-23: 
+CanvasRenderer-flow.js:339:13-36: number
+CanvasRenderer-flow.js:339:27-36: 
+CanvasRenderer-flow.js:340:13-21: 
+CanvasRenderer-flow.js:340:13-23: 
+CanvasRenderer-flow.js:340:13-36: number
+CanvasRenderer-flow.js:340:27-36: 
+CanvasRenderer-flow.js:341:13-21: 
+CanvasRenderer-flow.js:341:13-23: 
+CanvasRenderer-flow.js:341:13-36: number
+CanvasRenderer-flow.js:341:27-36: 
+CanvasRenderer-flow.js:342:13-21: 
+CanvasRenderer-flow.js:342:13-23: 
+CanvasRenderer-flow.js:342:13-36: number
+CanvasRenderer-flow.js:342:27-36: 
+CanvasRenderer-flow.js:343:13-21: 
+CanvasRenderer-flow.js:343:13-24: 
+CanvasRenderer-flow.js:343:13-37: number
+CanvasRenderer-flow.js:343:28-37: 
+CanvasRenderer-flow.js:344:13-21: 
+CanvasRenderer-flow.js:344:13-24: 
+CanvasRenderer-flow.js:344:13-37: number
+CanvasRenderer-flow.js:344:28-37: 
+CanvasRenderer-flow.js:349:14-21: 
+CanvasRenderer-flow.js:351:13-16: CanvasMaskManager
+CanvasRenderer-flow.js:351:13-46: void
+CanvasRenderer-flow.js:351:38-45: 
+CanvasRenderer-flow.js:352:13-20: 
+CanvasRenderer-flow.js:352:13-28: 
+CanvasRenderer-flow.js:352:13-35: 
+CanvasRenderer-flow.js:355:9-16: 
+CanvasRenderer-flow.js:355:9-40: 
+CanvasRenderer-flow.js:355:31-40: 
+CanvasRenderer-flow.js:363:25-32: 
+CanvasRenderer-flow.js:365:15-21: 
+CanvasRenderer-flow.js:365:25-28: CanvasMaskManager
+CanvasRenderer-flow.js:365:25-37: 
+CanvasRenderer-flow.js:365:25-45: 
+CanvasRenderer-flow.js:366:15-17: 
+CanvasRenderer-flow.js:366:21-28: 
+CanvasRenderer-flow.js:366:21-41: 
+CanvasRenderer-flow.js:366:21-48: 
+CanvasRenderer-flow.js:368:13-15: 
+CanvasRenderer-flow.js:368:21: number
+CanvasRenderer-flow.js:373:9-15: 
+CanvasRenderer-flow.js:373:9-27: 
+CanvasRenderer-flow.js:375:18: number
+CanvasRenderer-flow.js:375:22: number
+CanvasRenderer-flow.js:375:25: number
+CanvasRenderer-flow.js:375:25-31: boolean
+CanvasRenderer-flow.js:375:29-31: 
+CanvasRenderer-flow.js:375:34-36: number
+CanvasRenderer-flow.js:377:19-22: 
+CanvasRenderer-flow.js:377:26-33: 
+CanvasRenderer-flow.js:377:26-46: 
+CanvasRenderer-flow.js:377:26-49: 
+CanvasRenderer-flow.js:377:48: number
+CanvasRenderer-flow.js:378:19-23: 
+CanvasRenderer-flow.js:378:27-30: 
+CanvasRenderer-flow.js:378:27-36: 
+CanvasRenderer-flow.js:380:17-20: 
+CanvasRenderer-flow.js:380:31-36: 
+CanvasRenderer-flow.js:380:31-41: 
+CanvasRenderer-flow.js:382:23-28: 
+CanvasRenderer-flow.js:382:32-36: 
+CanvasRenderer-flow.js:382:32-43: 
+CanvasRenderer-flow.js:384:17-23: 
+CanvasRenderer-flow.js:384:17-52: 
+CanvasRenderer-flow.js:384:32-37: 
+CanvasRenderer-flow.js:384:32-40: 
+CanvasRenderer-flow.js:384:39: number
+CanvasRenderer-flow.js:384:43-48: 
+CanvasRenderer-flow.js:384:43-51: 
+CanvasRenderer-flow.js:384:50: number
+CanvasRenderer-flow.js:386:26: number
+CanvasRenderer-flow.js:386:30: number
+CanvasRenderer-flow.js:386:33: number
+CanvasRenderer-flow.js:386:33-53: boolean
+CanvasRenderer-flow.js:386:37-42: 
+CanvasRenderer-flow.js:386:37-49: 
+CanvasRenderer-flow.js:386:37-53: number
+CanvasRenderer-flow.js:386:53: number
+CanvasRenderer-flow.js:386:56-58: number
+CanvasRenderer-flow.js:388:21-27: 
+CanvasRenderer-flow.js:388:21-70: 
+CanvasRenderer-flow.js:388:36-41: 
+CanvasRenderer-flow.js:388:36-48: 
+CanvasRenderer-flow.js:388:43: number
+CanvasRenderer-flow.js:388:43-47: number
+CanvasRenderer-flow.js:388:47: number
+CanvasRenderer-flow.js:388:51-56: 
+CanvasRenderer-flow.js:388:51-69: 
+CanvasRenderer-flow.js:388:58-68: number
+CanvasRenderer-flow.js:388:59: number
+CanvasRenderer-flow.js:388:59-63: number
+CanvasRenderer-flow.js:388:63: number
+CanvasRenderer-flow.js:388:68: number
+CanvasRenderer-flow.js:392:21-26: 
+CanvasRenderer-flow.js:392:21-29: 
+CanvasRenderer-flow.js:392:28: number
+CanvasRenderer-flow.js:392:35-40: 
+CanvasRenderer-flow.js:392:35-59: 
+CanvasRenderer-flow.js:392:42-47: 
+CanvasRenderer-flow.js:392:42-54: 
+CanvasRenderer-flow.js:392:42-58: number
+CanvasRenderer-flow.js:392:58: number
+CanvasRenderer-flow.js:392:64-69: 
+CanvasRenderer-flow.js:392:64-72: 
+CanvasRenderer-flow.js:392:71: number
+CanvasRenderer-flow.js:392:78-83: 
+CanvasRenderer-flow.js:392:78-102: 
+CanvasRenderer-flow.js:392:85-90: 
+CanvasRenderer-flow.js:392:85-97: 
+CanvasRenderer-flow.js:392:85-101: number
+CanvasRenderer-flow.js:392:101: number
+CanvasRenderer-flow.js:394:21-27: 
+CanvasRenderer-flow.js:394:21-39: 
+CanvasRenderer-flow.js:397:22-25: 
+CanvasRenderer-flow.js:397:36-41: 
+CanvasRenderer-flow.js:397:36-46: 
+CanvasRenderer-flow.js:399:17-23: 
+CanvasRenderer-flow.js:399:17-73: 
+CanvasRenderer-flow.js:399:30-34: 
+CanvasRenderer-flow.js:399:30-36: 
+CanvasRenderer-flow.js:399:39-43: 
+CanvasRenderer-flow.js:399:39-45: 
+CanvasRenderer-flow.js:399:48-52: 
+CanvasRenderer-flow.js:399:48-58: 
+CanvasRenderer-flow.js:399:61-65: 
+CanvasRenderer-flow.js:399:61-72: 
+CanvasRenderer-flow.js:400:17-23: 
+CanvasRenderer-flow.js:400:17-35: 
+CanvasRenderer-flow.js:402:22-25: 
+CanvasRenderer-flow.js:402:36-41: 
+CanvasRenderer-flow.js:402:36-46: 
+CanvasRenderer-flow.js:405:17-23: 
+CanvasRenderer-flow.js:405:17-75: 
+CanvasRenderer-flow.js:405:29-33: 
+CanvasRenderer-flow.js:405:29-35: 
+CanvasRenderer-flow.js:405:38-42: 
+CanvasRenderer-flow.js:405:38-44: 
+CanvasRenderer-flow.js:405:47-51: 
+CanvasRenderer-flow.js:405:47-58: 
+CanvasRenderer-flow.js:405:61: number
+CanvasRenderer-flow.js:405:64: number
+CanvasRenderer-flow.js:405:64-74: number
+CanvasRenderer-flow.js:405:68-71: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+CanvasRenderer-flow.js:405:68-74: number
+CanvasRenderer-flow.js:406:17-23: 
+CanvasRenderer-flow.js:406:17-35: 
+CanvasRenderer-flow.js:408:22-25: 
+CanvasRenderer-flow.js:408:36-41: 
+CanvasRenderer-flow.js:408:36-46: 
+CanvasRenderer-flow.js:412:23: number
+CanvasRenderer-flow.js:412:27-31: 
+CanvasRenderer-flow.js:412:27-37: 
+CanvasRenderer-flow.js:412:27-41: number
+CanvasRenderer-flow.js:412:41: number
+CanvasRenderer-flow.js:413:23: number
+CanvasRenderer-flow.js:413:27-31: 
+CanvasRenderer-flow.js:413:27-38: 
+CanvasRenderer-flow.js:413:27-42: number
+CanvasRenderer-flow.js:413:42: number
+CanvasRenderer-flow.js:415:23: number
+CanvasRenderer-flow.js:415:27-31: 
+CanvasRenderer-flow.js:415:27-33: 
+CanvasRenderer-flow.js:415:27-43: number
+CanvasRenderer-flow.js:415:38: number
+CanvasRenderer-flow.js:415:38-42: number
+CanvasRenderer-flow.js:415:42: number
+CanvasRenderer-flow.js:416:23: number
+CanvasRenderer-flow.js:416:27-31: 
+CanvasRenderer-flow.js:416:27-33: 
+CanvasRenderer-flow.js:416:27-43: number
+CanvasRenderer-flow.js:416:38: number
+CanvasRenderer-flow.js:416:38-42: number
+CanvasRenderer-flow.js:416:42: number
+CanvasRenderer-flow.js:418:23-27: number
+CanvasRenderer-flow.js:418:31-39: number
+CanvasRenderer-flow.js:419:23-24: number
+CanvasRenderer-flow.js:419:28-42: number
+CanvasRenderer-flow.js:419:29: number
+CanvasRenderer-flow.js:419:29-33: number
+CanvasRenderer-flow.js:419:33: number
+CanvasRenderer-flow.js:419:38-42: number
+CanvasRenderer-flow.js:420:23-24: number
+CanvasRenderer-flow.js:420:28-42: number
+CanvasRenderer-flow.js:420:29: number
+CanvasRenderer-flow.js:420:29-33: number
+CanvasRenderer-flow.js:420:33: number
+CanvasRenderer-flow.js:420:38-42: number
+CanvasRenderer-flow.js:421:23-24: number
+CanvasRenderer-flow.js:421:28: number
+CanvasRenderer-flow.js:421:28-32: number
+CanvasRenderer-flow.js:421:32: number
+CanvasRenderer-flow.js:422:23-24: number
+CanvasRenderer-flow.js:422:28: number
+CanvasRenderer-flow.js:422:28-32: number
+CanvasRenderer-flow.js:422:32: number
+CanvasRenderer-flow.js:423:23-24: number
+CanvasRenderer-flow.js:423:28: number
+CanvasRenderer-flow.js:423:28-38: number
+CanvasRenderer-flow.js:423:33: number
+CanvasRenderer-flow.js:423:33-37: number
+CanvasRenderer-flow.js:423:37: number
+CanvasRenderer-flow.js:424:23-24: number
+CanvasRenderer-flow.js:424:28: number
+CanvasRenderer-flow.js:424:28-38: number
+CanvasRenderer-flow.js:424:33: number
+CanvasRenderer-flow.js:424:33-37: number
+CanvasRenderer-flow.js:424:37: number
+CanvasRenderer-flow.js:426:17-23: 
+CanvasRenderer-flow.js:426:17-37: 
+CanvasRenderer-flow.js:426:32: number
+CanvasRenderer-flow.js:426:35-36: number
+CanvasRenderer-flow.js:427:17-23: 
+CanvasRenderer-flow.js:427:17-68: 
+CanvasRenderer-flow.js:427:39: number
+CanvasRenderer-flow.js:427:42-43: number
+CanvasRenderer-flow.js:427:42-48: number
+CanvasRenderer-flow.js:427:47-48: number
+CanvasRenderer-flow.js:427:51-52: number
+CanvasRenderer-flow.js:427:51-57: number
+CanvasRenderer-flow.js:427:56-57: number
+CanvasRenderer-flow.js:427:60: number
+CanvasRenderer-flow.js:427:63-64: number
+CanvasRenderer-flow.js:427:67: number
+CanvasRenderer-flow.js:428:17-23: 
+CanvasRenderer-flow.js:428:17-70: 
+CanvasRenderer-flow.js:428:39-40: number
+CanvasRenderer-flow.js:428:39-45: number
+CanvasRenderer-flow.js:428:44-45: number
+CanvasRenderer-flow.js:428:48: number
+CanvasRenderer-flow.js:428:51-52: number
+CanvasRenderer-flow.js:428:55-56: number
+CanvasRenderer-flow.js:428:55-61: number
+CanvasRenderer-flow.js:428:60-61: number
+CanvasRenderer-flow.js:428:64-65: number
+CanvasRenderer-flow.js:428:68-69: number
+CanvasRenderer-flow.js:429:17-23: 
+CanvasRenderer-flow.js:429:17-71: 
+CanvasRenderer-flow.js:429:39-40: number
+CanvasRenderer-flow.js:429:43-44: number
+CanvasRenderer-flow.js:429:43-49: number
+CanvasRenderer-flow.js:429:48-49: number
+CanvasRenderer-flow.js:429:52-53: number
+CanvasRenderer-flow.js:429:52-58: number
+CanvasRenderer-flow.js:429:57-58: number
+CanvasRenderer-flow.js:429:61-62: number
+CanvasRenderer-flow.js:429:65-66: number
+CanvasRenderer-flow.js:429:69-70: number
+CanvasRenderer-flow.js:430:17-23: 
+CanvasRenderer-flow.js:430:17-69: 
+CanvasRenderer-flow.js:430:39-40: number
+CanvasRenderer-flow.js:430:39-45: number
+CanvasRenderer-flow.js:430:44-45: number
+CanvasRenderer-flow.js:430:48-49: number
+CanvasRenderer-flow.js:430:52: number
+CanvasRenderer-flow.js:430:55-56: number
+CanvasRenderer-flow.js:430:55-61: number
+CanvasRenderer-flow.js:430:60-61: number
+CanvasRenderer-flow.js:430:64: number
+CanvasRenderer-flow.js:430:67-68: number
+CanvasRenderer-flow.js:431:17-23: 
+CanvasRenderer-flow.js:431:17-35: 
+CanvasRenderer-flow.js:433:22-25: 
+CanvasRenderer-flow.js:433:36-41: 
+CanvasRenderer-flow.js:433:36-46: 
+CanvasRenderer-flow.js:435:23-24: 
+CanvasRenderer-flow.js:435:28-32: 
+CanvasRenderer-flow.js:435:28-34: 
+CanvasRenderer-flow.js:436:23-24: 
+CanvasRenderer-flow.js:436:28-32: 
+CanvasRenderer-flow.js:436:28-34: 
+CanvasRenderer-flow.js:437:23-27: 
+CanvasRenderer-flow.js:437:31-35: 
+CanvasRenderer-flow.js:437:31-41: 
+CanvasRenderer-flow.js:438:23-28: 
+CanvasRenderer-flow.js:438:32-36: 
+CanvasRenderer-flow.js:438:32-43: 
+CanvasRenderer-flow.js:439:21-26: number
+CanvasRenderer-flow.js:439:30-34: 
+CanvasRenderer-flow.js:439:30-41: 
+CanvasRenderer-flow.js:441:23-31: number
+CanvasRenderer-flow.js:441:35-38: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+CanvasRenderer-flow.js:441:35-57: number
+CanvasRenderer-flow.js:441:35-61: number
+CanvasRenderer-flow.js:441:35-65: number
+CanvasRenderer-flow.js:441:44-48: 
+CanvasRenderer-flow.js:441:51-56: 
+CanvasRenderer-flow.js:441:61: number
+CanvasRenderer-flow.js:441:65: number
+CanvasRenderer-flow.js:443:17-64: number
+CanvasRenderer-flow.js:443:26-31: 
+CanvasRenderer-flow.js:443:26-43: boolean
+CanvasRenderer-flow.js:443:26-64: number
+CanvasRenderer-flow.js:443:35-43: number
+CanvasRenderer-flow.js:443:47-55: number
+CanvasRenderer-flow.js:443:59-64: 
+CanvasRenderer-flow.js:445:17-23: 
+CanvasRenderer-flow.js:445:17-47: 
+CanvasRenderer-flow.js:445:32-33: 
+CanvasRenderer-flow.js:445:36-37: 
+CanvasRenderer-flow.js:445:36-46: 
+CanvasRenderer-flow.js:445:41-46: number
+CanvasRenderer-flow.js:446:17-23: 
+CanvasRenderer-flow.js:446:17-56: 
+CanvasRenderer-flow.js:446:32-33: 
+CanvasRenderer-flow.js:446:36-37: 
+CanvasRenderer-flow.js:446:36-46: 
+CanvasRenderer-flow.js:446:36-55: number
+CanvasRenderer-flow.js:446:41-46: 
+CanvasRenderer-flow.js:446:50-55: number
+CanvasRenderer-flow.js:447:17-23: 
+CanvasRenderer-flow.js:447:17-83: 
+CanvasRenderer-flow.js:447:42-43: 
+CanvasRenderer-flow.js:447:46-47: 
+CanvasRenderer-flow.js:447:46-56: 
+CanvasRenderer-flow.js:447:51-56: 
+CanvasRenderer-flow.js:447:59-60: 
+CanvasRenderer-flow.js:447:59-69: 
+CanvasRenderer-flow.js:447:64-69: number
+CanvasRenderer-flow.js:447:72-73: 
+CanvasRenderer-flow.js:447:72-82: 
+CanvasRenderer-flow.js:447:77-82: 
+CanvasRenderer-flow.js:448:17-23: 
+CanvasRenderer-flow.js:448:17-64: 
+CanvasRenderer-flow.js:448:32-33: 
+CanvasRenderer-flow.js:448:32-41: 
+CanvasRenderer-flow.js:448:32-50: number
+CanvasRenderer-flow.js:448:37-41: 
+CanvasRenderer-flow.js:448:45-50: number
+CanvasRenderer-flow.js:448:53-54: 
+CanvasRenderer-flow.js:448:53-63: 
+CanvasRenderer-flow.js:448:58-63: 
+CanvasRenderer-flow.js:449:17-23: 
+CanvasRenderer-flow.js:449:17-99: 
+CanvasRenderer-flow.js:449:42-43: 
+CanvasRenderer-flow.js:449:42-51: 
+CanvasRenderer-flow.js:449:47-51: 
+CanvasRenderer-flow.js:449:54-55: 
+CanvasRenderer-flow.js:449:54-64: 
+CanvasRenderer-flow.js:449:59-64: 
+CanvasRenderer-flow.js:449:67-68: 
+CanvasRenderer-flow.js:449:67-76: 
+CanvasRenderer-flow.js:449:72-76: 
+CanvasRenderer-flow.js:449:79-80: 
+CanvasRenderer-flow.js:449:79-89: 
+CanvasRenderer-flow.js:449:79-98: number
+CanvasRenderer-flow.js:449:84-89: 
+CanvasRenderer-flow.js:449:93-98: number
+CanvasRenderer-flow.js:450:17-23: 
+CanvasRenderer-flow.js:450:17-55: 
+CanvasRenderer-flow.js:450:32-33: 
+CanvasRenderer-flow.js:450:32-41: 
+CanvasRenderer-flow.js:450:37-41: 
+CanvasRenderer-flow.js:450:44-45: 
+CanvasRenderer-flow.js:450:44-54: 
+CanvasRenderer-flow.js:450:49-54: number
+CanvasRenderer-flow.js:451:17-23: 
+CanvasRenderer-flow.js:451:17-81: 
+CanvasRenderer-flow.js:451:42-43: 
+CanvasRenderer-flow.js:451:42-51: 
+CanvasRenderer-flow.js:451:47-51: 
+CanvasRenderer-flow.js:451:54-55: 
+CanvasRenderer-flow.js:451:58-59: 
+CanvasRenderer-flow.js:451:58-67: 
+CanvasRenderer-flow.js:451:58-76: number
+CanvasRenderer-flow.js:451:63-67: 
+CanvasRenderer-flow.js:451:71-76: number
+CanvasRenderer-flow.js:451:79-80: 
+CanvasRenderer-flow.js:452:17-23: 
+CanvasRenderer-flow.js:452:17-47: 
+CanvasRenderer-flow.js:452:32-33: 
+CanvasRenderer-flow.js:452:32-42: 
+CanvasRenderer-flow.js:452:37-42: number
+CanvasRenderer-flow.js:452:45-46: 
+CanvasRenderer-flow.js:453:17-23: 
+CanvasRenderer-flow.js:453:17-65: 
+CanvasRenderer-flow.js:453:42-43: 
+CanvasRenderer-flow.js:453:46-47: 
+CanvasRenderer-flow.js:453:50-51: 
+CanvasRenderer-flow.js:453:54-55: 
+CanvasRenderer-flow.js:453:54-64: 
+CanvasRenderer-flow.js:453:59-64: number
+CanvasRenderer-flow.js:454:17-23: 
+CanvasRenderer-flow.js:454:17-35: 
+CanvasRenderer-flow.js:464:13-20: 
+CanvasRenderer-flow.js:466:9-16: 
+CanvasRenderer-flow.js:466:9-24: 
+CanvasRenderer-flow.js:466:9-34: 
+CanvasRenderer-flow.js:487:1,589:1: [class: CanvasRenderTarget]
+CanvasRenderer-flow.js:494:17-21: 
+CanvasRenderer-flow.js:494:24-29: 
+CanvasRenderer-flow.js:494:32-41: 
+CanvasRenderer-flow.js:501:9-12: CanvasRenderTarget
+CanvasRenderer-flow.js:501:9-54: HTMLCanvasElement
+CanvasRenderer-flow.js:501:23-30: Document
+CanvasRenderer-flow.js:501:23-54: HTMLCanvasElement
+CanvasRenderer-flow.js:501:46-53: string
+CanvasRenderer-flow.js:508:9-12: CanvasRenderTarget
+CanvasRenderer-flow.js:508:9-51: ?CanvasRenderingContext2D
+CanvasRenderer-flow.js:508:24-34: HTMLCanvasElement
+CanvasRenderer-flow.js:508:24-51: ?CanvasRenderingContext2D
+CanvasRenderer-flow.js:508:47-50: string
+CanvasRenderer-flow.js:510:9-12: CanvasRenderTarget
+CanvasRenderer-flow.js:510:9-50: 
+CanvasRenderer-flow.js:510:27-36: 
+CanvasRenderer-flow.js:510:27-50: 
+CanvasRenderer-flow.js:510:41-50: 
+CanvasRenderer-flow.js:512:9-12: CanvasRenderTarget
+CanvasRenderer-flow.js:512:9-34: void
+CanvasRenderer-flow.js:512:21-25: 
+CanvasRenderer-flow.js:512:28-33: 
+CanvasRenderer-flow.js:522:9-12: CanvasRenderTarget
+CanvasRenderer-flow.js:522:9-20: 
+CanvasRenderer-flow.js:522:9-51: 
+CanvasRenderer-flow.js:522:35: number
+CanvasRenderer-flow.js:522:38: number
+CanvasRenderer-flow.js:522:41: number
+CanvasRenderer-flow.js:522:44: number
+CanvasRenderer-flow.js:522:47: number
+CanvasRenderer-flow.js:522:50: number
+CanvasRenderer-flow.js:523:9-12: CanvasRenderTarget
+CanvasRenderer-flow.js:523:9-20: 
+CanvasRenderer-flow.js:523:9-75: 
+CanvasRenderer-flow.js:523:32: number
+CanvasRenderer-flow.js:523:35: number
+CanvasRenderer-flow.js:523:38-41: CanvasRenderTarget
+CanvasRenderer-flow.js:523:38-48: 
+CanvasRenderer-flow.js:523:38-54: 
+CanvasRenderer-flow.js:523:57-60: CanvasRenderTarget
+CanvasRenderer-flow.js:523:57-67: 
+CanvasRenderer-flow.js:523:57-74: 
+CanvasRenderer-flow.js:532:12-16: 
+CanvasRenderer-flow.js:532:19-24: 
+CanvasRenderer-flow.js:534:9-12: CanvasRenderTarget
+CanvasRenderer-flow.js:534:9-19: 
+CanvasRenderer-flow.js:534:9-51: number
+CanvasRenderer-flow.js:534:29-33: 
+CanvasRenderer-flow.js:534:29-51: number
+CanvasRenderer-flow.js:534:37-40: CanvasRenderTarget
+CanvasRenderer-flow.js:534:37-51: 
+CanvasRenderer-flow.js:535:9-12: CanvasRenderTarget
+CanvasRenderer-flow.js:535:9-19: 
+CanvasRenderer-flow.js:535:9-53: number
+CanvasRenderer-flow.js:535:30-35: 
+CanvasRenderer-flow.js:535:30-53: number
+CanvasRenderer-flow.js:535:39-42: CanvasRenderTarget
+CanvasRenderer-flow.js:535:39-53: 
+CanvasRenderer-flow.js:544:9-12: CanvasRenderTarget
+CanvasRenderer-flow.js:544:9-27: null
+CanvasRenderer-flow.js:544:24-27: null
+CanvasRenderer-flow.js:545:9-12: CanvasRenderTarget
+CanvasRenderer-flow.js:545:9-26: null
+CanvasRenderer-flow.js:545:23-26: null
+CanvasRenderer-flow.js:556:16-19: CanvasRenderTarget
+CanvasRenderer-flow.js:556:16-26: 
+CanvasRenderer-flow.js:556:16-32: 
+CanvasRenderer-flow.js:564:15-17: 
+CanvasRenderer-flow.js:566:9-12: CanvasRenderTarget
+CanvasRenderer-flow.js:566:9-19: 
+CanvasRenderer-flow.js:566:9-31: 
+CanvasRenderer-flow.js:566:29-31: 
+CanvasRenderer-flow.js:577:16-19: CanvasRenderTarget
+CanvasRenderer-flow.js:577:16-26: 
+CanvasRenderer-flow.js:577:16-33: 
+CanvasRenderer-flow.js:585:16-18: 
+CanvasRenderer-flow.js:587:9-12: CanvasRenderTarget
+CanvasRenderer-flow.js:587:9-19: 
+CanvasRenderer-flow.js:587:9-32: 
+CanvasRenderer-flow.js:587:30-32: 
+CanvasRenderer-flow.js:600:10-34: (array?: Array<string>) => Array<string>
+CanvasRenderer-flow.js:600:44-45: Array<string>
+CanvasRenderer-flow.js:602:9-33: 
+CanvasRenderer-flow.js:602:9-35: 
+CanvasRenderer-flow.js:604:9-13: Array<string>
+CanvasRenderer-flow.js:604:9-49: string
+CanvasRenderer-flow.js:604:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:604:15-32: number
+CanvasRenderer-flow.js:604:37-49: string
+CanvasRenderer-flow.js:605:9-13: Array<string>
+CanvasRenderer-flow.js:605:9-42: string
+CanvasRenderer-flow.js:605:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:605:15-29: number
+CanvasRenderer-flow.js:605:34-42: string
+CanvasRenderer-flow.js:606:9-13: Array<string>
+CanvasRenderer-flow.js:606:9-48: string
+CanvasRenderer-flow.js:606:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:606:15-34: number
+CanvasRenderer-flow.js:606:39-48: string
+CanvasRenderer-flow.js:607:9-13: Array<string>
+CanvasRenderer-flow.js:607:9-44: string
+CanvasRenderer-flow.js:607:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:607:15-32: number
+CanvasRenderer-flow.js:607:37-44: string
+CanvasRenderer-flow.js:608:9-13: Array<string>
+CanvasRenderer-flow.js:608:9-46: string
+CanvasRenderer-flow.js:608:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:608:15-33: number
+CanvasRenderer-flow.js:608:38-46: string
+CanvasRenderer-flow.js:609:9-13: Array<string>
+CanvasRenderer-flow.js:609:9-44: string
+CanvasRenderer-flow.js:609:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:609:15-32: number
+CanvasRenderer-flow.js:609:37-44: string
+CanvasRenderer-flow.js:610:9-13: Array<string>
+CanvasRenderer-flow.js:610:9-46: string
+CanvasRenderer-flow.js:610:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:610:15-33: number
+CanvasRenderer-flow.js:610:38-46: string
+CanvasRenderer-flow.js:611:9-13: Array<string>
+CanvasRenderer-flow.js:611:9-54: string
+CanvasRenderer-flow.js:611:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:611:15-37: number
+CanvasRenderer-flow.js:611:42-54: string
+CanvasRenderer-flow.js:612:9-13: Array<string>
+CanvasRenderer-flow.js:612:9-52: string
+CanvasRenderer-flow.js:612:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:612:15-36: number
+CanvasRenderer-flow.js:612:41-52: string
+CanvasRenderer-flow.js:613:9-13: Array<string>
+CanvasRenderer-flow.js:613:9-52: string
+CanvasRenderer-flow.js:613:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:613:15-36: number
+CanvasRenderer-flow.js:613:41-52: string
+CanvasRenderer-flow.js:614:9-13: Array<string>
+CanvasRenderer-flow.js:614:9-52: string
+CanvasRenderer-flow.js:614:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:614:15-36: number
+CanvasRenderer-flow.js:614:41-52: string
+CanvasRenderer-flow.js:615:9-13: Array<string>
+CanvasRenderer-flow.js:615:9-52: string
+CanvasRenderer-flow.js:615:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:615:15-36: number
+CanvasRenderer-flow.js:615:41-52: string
+CanvasRenderer-flow.js:616:9-13: Array<string>
+CanvasRenderer-flow.js:616:9-50: string
+CanvasRenderer-flow.js:616:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:616:15-35: number
+CanvasRenderer-flow.js:616:40-50: string
+CanvasRenderer-flow.js:617:9-13: Array<string>
+CanvasRenderer-flow.js:617:9-38: string
+CanvasRenderer-flow.js:617:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:617:15-29: number
+CanvasRenderer-flow.js:617:34-38: string
+CanvasRenderer-flow.js:618:9-13: Array<string>
+CanvasRenderer-flow.js:618:9-50: string
+CanvasRenderer-flow.js:618:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:618:15-36: number
+CanvasRenderer-flow.js:618:41-50: string
+CanvasRenderer-flow.js:619:9-13: Array<string>
+CanvasRenderer-flow.js:619:9-42: string
+CanvasRenderer-flow.js:619:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:619:15-31: number
+CanvasRenderer-flow.js:619:36-42: string
+CanvasRenderer-flow.js:620:9-13: Array<string>
+CanvasRenderer-flow.js:620:9-52: string
+CanvasRenderer-flow.js:620:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:620:15-36: number
+CanvasRenderer-flow.js:620:41-52: string
+CanvasRenderer-flow.js:625:9-13: Array<string>
+CanvasRenderer-flow.js:625:9-49: string
+CanvasRenderer-flow.js:625:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:625:15-32: number
+CanvasRenderer-flow.js:625:37-49: string
+CanvasRenderer-flow.js:626:9-13: Array<string>
+CanvasRenderer-flow.js:626:9-42: string
+CanvasRenderer-flow.js:626:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:626:15-29: number
+CanvasRenderer-flow.js:626:34-42: string
+CanvasRenderer-flow.js:627:9-13: Array<string>
+CanvasRenderer-flow.js:627:9-51: string
+CanvasRenderer-flow.js:627:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:627:15-34: number
+CanvasRenderer-flow.js:627:39-51: string
+CanvasRenderer-flow.js:628:9-13: Array<string>
+CanvasRenderer-flow.js:628:9-49: string
+CanvasRenderer-flow.js:628:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:628:15-32: number
+CanvasRenderer-flow.js:628:37-49: string
+CanvasRenderer-flow.js:629:9-13: Array<string>
+CanvasRenderer-flow.js:629:9-50: string
+CanvasRenderer-flow.js:629:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:629:15-33: number
+CanvasRenderer-flow.js:629:38-50: string
+CanvasRenderer-flow.js:630:9-13: Array<string>
+CanvasRenderer-flow.js:630:9-49: string
+CanvasRenderer-flow.js:630:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:630:15-32: number
+CanvasRenderer-flow.js:630:37-49: string
+CanvasRenderer-flow.js:631:9-13: Array<string>
+CanvasRenderer-flow.js:631:9-50: string
+CanvasRenderer-flow.js:631:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:631:15-33: number
+CanvasRenderer-flow.js:631:38-50: string
+CanvasRenderer-flow.js:632:9-13: Array<string>
+CanvasRenderer-flow.js:632:9-54: string
+CanvasRenderer-flow.js:632:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:632:15-37: number
+CanvasRenderer-flow.js:632:42-54: string
+CanvasRenderer-flow.js:633:9-13: Array<string>
+CanvasRenderer-flow.js:633:9-53: string
+CanvasRenderer-flow.js:633:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:633:15-36: number
+CanvasRenderer-flow.js:633:41-53: string
+CanvasRenderer-flow.js:634:9-13: Array<string>
+CanvasRenderer-flow.js:634:9-53: string
+CanvasRenderer-flow.js:634:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:634:15-36: number
+CanvasRenderer-flow.js:634:41-53: string
+CanvasRenderer-flow.js:635:9-13: Array<string>
+CanvasRenderer-flow.js:635:9-53: string
+CanvasRenderer-flow.js:635:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:635:15-36: number
+CanvasRenderer-flow.js:635:41-53: string
+CanvasRenderer-flow.js:636:9-13: Array<string>
+CanvasRenderer-flow.js:636:9-53: string
+CanvasRenderer-flow.js:636:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:636:15-36: number
+CanvasRenderer-flow.js:636:41-53: string
+CanvasRenderer-flow.js:637:9-13: Array<string>
+CanvasRenderer-flow.js:637:9-52: string
+CanvasRenderer-flow.js:637:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:637:15-35: number
+CanvasRenderer-flow.js:637:40-52: string
+CanvasRenderer-flow.js:638:9-13: Array<string>
+CanvasRenderer-flow.js:638:9-46: string
+CanvasRenderer-flow.js:638:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:638:15-29: number
+CanvasRenderer-flow.js:638:34-46: string
+CanvasRenderer-flow.js:639:9-13: Array<string>
+CanvasRenderer-flow.js:639:9-53: string
+CanvasRenderer-flow.js:639:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:639:15-36: number
+CanvasRenderer-flow.js:639:41-53: string
+CanvasRenderer-flow.js:640:9-13: Array<string>
+CanvasRenderer-flow.js:640:9-48: string
+CanvasRenderer-flow.js:640:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:640:15-31: number
+CanvasRenderer-flow.js:640:36-48: string
+CanvasRenderer-flow.js:641:9-13: Array<string>
+CanvasRenderer-flow.js:641:9-53: string
+CanvasRenderer-flow.js:641:15-25: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:641:15-36: number
+CanvasRenderer-flow.js:641:41-53: string
+CanvasRenderer-flow.js:644:12-16: Array<string>
+CanvasRenderer-flow.js:650:10-21: (obj: ) => void
+CanvasRenderer-flow.js:650:23-25: 
+CanvasRenderer-flow.js:652:5-7: 
+CanvasRenderer-flow.js:652:5-22: {}
+CanvasRenderer-flow.js:652:21-22: {}
+CanvasRenderer-flow.js:660:5-7: 
+CanvasRenderer-flow.js:660:5,663:5: (pluginName: , ctor: ) => void
+CanvasRenderer-flow.js:660:26,663:5: (pluginName: , ctor: ) => void
+CanvasRenderer-flow.js:660:50-59: 
+CanvasRenderer-flow.js:660:62-65: 
+CanvasRenderer-flow.js:662:9-11: 
+CanvasRenderer-flow.js:662:9-21: 
+CanvasRenderer-flow.js:662:9-40: 
+CanvasRenderer-flow.js:662:23-32: 
+CanvasRenderer-flow.js:662:37-40: 
+CanvasRenderer-flow.js:669:5-7: 
+CanvasRenderer-flow.js:669:5-17: 
+CanvasRenderer-flow.js:669:5,677:5: () => void
+CanvasRenderer-flow.js:669:33,677:5: () => void
+CanvasRenderer-flow.js:671:9-12: 
+CanvasRenderer-flow.js:671:9-41: 
+CanvasRenderer-flow.js:671:24-27: 
+CanvasRenderer-flow.js:671:24-41: 
+CanvasRenderer-flow.js:671:40-41: {}
+CanvasRenderer-flow.js:673:20: string
+CanvasRenderer-flow.js:673:25-27: 
+CanvasRenderer-flow.js:673:25-37: 
+CanvasRenderer-flow.js:675:13-24: 
+CanvasRenderer-flow.js:675:13-58: 
+CanvasRenderer-flow.js:675:26: string
+CanvasRenderer-flow.js:675:31-58: 
+CanvasRenderer-flow.js:675:36-48: 
+CanvasRenderer-flow.js:675:36-51: 
+CanvasRenderer-flow.js:675:50: string
+CanvasRenderer-flow.js:675:54-57: 
+CanvasRenderer-flow.js:683:5-7: 
+CanvasRenderer-flow.js:683:5-17: 
+CanvasRenderer-flow.js:683:5,692:5: () => void
+CanvasRenderer-flow.js:683:36,692:5: () => void
+CanvasRenderer-flow.js:685:20: string
+CanvasRenderer-flow.js:685:25-28: 
+CanvasRenderer-flow.js:685:25-36: 
+CanvasRenderer-flow.js:687:13-24: 
+CanvasRenderer-flow.js:687:13-27: 
+CanvasRenderer-flow.js:687:13-37: 
+CanvasRenderer-flow.js:687:26: string
+CanvasRenderer-flow.js:688:13-16: 
+CanvasRenderer-flow.js:688:13-24: 
+CanvasRenderer-flow.js:688:13-34: null
+CanvasRenderer-flow.js:688:26: string
+CanvasRenderer-flow.js:688:31-34: null
+CanvasRenderer-flow.js:691:9-12: 
+CanvasRenderer-flow.js:691:9-27: null
+CanvasRenderer-flow.js:691:24-27: null
+CanvasRenderer-flow.js:701:12,704:5: (obj: ) => void
+CanvasRenderer-flow.js:701:12,705:1: null
+CanvasRenderer-flow.js:701:27-29: 
+CanvasRenderer-flow.js:703:9-20: (obj: ) => void
+CanvasRenderer-flow.js:703:9-25: void
+CanvasRenderer-flow.js:703:22-24: 
+CanvasRenderer-flow.js:705:1: null
+CanvasRenderer-flow.js:707:7-19: {CANVAS: number, UNKNOWN: number, WEBGL: number}
+CanvasRenderer-flow.js:707:23,711:1: {CANVAS: number, UNKNOWN: number, WEBGL: number}
+CanvasRenderer-flow.js:708:17: number
+CanvasRenderer-flow.js:709:17: number
+CanvasRenderer-flow.js:710:17: number
+CanvasRenderer-flow.js:713:7-17: {DEFAULT: number, LINEAR: number, NEAREST: number}
+CanvasRenderer-flow.js:713:21,717:1: {DEFAULT: number, LINEAR: number, NEAREST: number}
+CanvasRenderer-flow.js:714:17: number
+CanvasRenderer-flow.js:715:17: number
+CanvasRenderer-flow.js:716:17: number
+CanvasRenderer-flow.js:719:7-17: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:719:21,737:1: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:720:21: number
+CanvasRenderer-flow.js:721:21: number
+CanvasRenderer-flow.js:722:21: number
+CanvasRenderer-flow.js:723:21: number
+CanvasRenderer-flow.js:724:21: number
+CanvasRenderer-flow.js:725:21: number
+CanvasRenderer-flow.js:726:21: number
+CanvasRenderer-flow.js:727:21: number
+CanvasRenderer-flow.js:728:21: number
+CanvasRenderer-flow.js:729:21: number
+CanvasRenderer-flow.js:730:21-22: number
+CanvasRenderer-flow.js:731:21-22: number
+CanvasRenderer-flow.js:732:21-22: number
+CanvasRenderer-flow.js:733:21-22: number
+CanvasRenderer-flow.js:734:21-22: number
+CanvasRenderer-flow.js:735:21-22: number
+CanvasRenderer-flow.js:736:21-22: number
+CanvasRenderer-flow.js:751:1,1002:1: [class: CanvasRenderer]
+CanvasRenderer-flow.js:751:30-43: [class: SystemRenderer]
+CanvasRenderer-flow.js:770:17-21: number
+CanvasRenderer-flow.js:770:24-29: number
+CanvasRenderer-flow.js:770:42-43: {}
+CanvasRenderer-flow.js:772:9-47: void
+CanvasRenderer-flow.js:772:15-22: string
+CanvasRenderer-flow.js:772:25-29: number
+CanvasRenderer-flow.js:772:32-37: number
+CanvasRenderer-flow.js:772:40-46: {}
+CanvasRenderer-flow.js:774:9-12: CanvasRenderer
+CanvasRenderer-flow.js:774:9-40: number
+CanvasRenderer-flow.js:774:21-33: {CANVAS: number, UNKNOWN: number, WEBGL: number}
+CanvasRenderer-flow.js:774:21-40: number
+CanvasRenderer-flow.js:781:9-12: CanvasRenderer
+CanvasRenderer-flow.js:781:9-82: 
+CanvasRenderer-flow.js:781:28-31: CanvasRenderer
+CanvasRenderer-flow.js:781:28-36: 
+CanvasRenderer-flow.js:781:28-82: 
+CanvasRenderer-flow.js:781:49-52: string
+CanvasRenderer-flow.js:781:55-81: {alpha: }
+CanvasRenderer-flow.js:781:64-67: CanvasRenderer
+CanvasRenderer-flow.js:781:64-79: 
+CanvasRenderer-flow.js:788:9-12: CanvasRenderer
+CanvasRenderer-flow.js:788:9-27: boolean
+CanvasRenderer-flow.js:788:24-27: boolean
+CanvasRenderer-flow.js:795:9-12: CanvasRenderer
+CanvasRenderer-flow.js:795:9-54: CanvasMaskManager
+CanvasRenderer-flow.js:795:28-54: CanvasMaskManager
+CanvasRenderer-flow.js:795:32-48: [class: CanvasMaskManager]
+CanvasRenderer-flow.js:795:50-53: CanvasRenderer
+CanvasRenderer-flow.js:802:9-12: CanvasRenderer
+CanvasRenderer-flow.js:802:9-53: string
+CanvasRenderer-flow.js:802:31-53: string
+CanvasRenderer-flow.js:804:14-29: 
+CanvasRenderer-flow.js:806:17-32: 
+CanvasRenderer-flow.js:808:17-20: CanvasRenderer
+CanvasRenderer-flow.js:808:17-67: string
+CanvasRenderer-flow.js:808:39-67: string
+CanvasRenderer-flow.js:810:22-37: 
+CanvasRenderer-flow.js:812:17-20: CanvasRenderer
+CanvasRenderer-flow.js:812:17-64: string
+CanvasRenderer-flow.js:812:39-64: string
+CanvasRenderer-flow.js:814:22-37: 
+CanvasRenderer-flow.js:816:17-20: CanvasRenderer
+CanvasRenderer-flow.js:816:17-62: string
+CanvasRenderer-flow.js:816:39-62: string
+CanvasRenderer-flow.js:818:22-37: 
+CanvasRenderer-flow.js:820:17-20: CanvasRenderer
+CanvasRenderer-flow.js:820:17-63: string
+CanvasRenderer-flow.js:820:39-63: string
+CanvasRenderer-flow.js:824:9-12: CanvasRenderer
+CanvasRenderer-flow.js:824:9-26: 
+CanvasRenderer-flow.js:826:9-12: CanvasRenderer
+CanvasRenderer-flow.js:826:9-53: Array<string>
+CanvasRenderer-flow.js:826:27-51: (array?: Array<string>) => Array<string>
+CanvasRenderer-flow.js:826:27-53: Array<string>
+CanvasRenderer-flow.js:827:9-12: CanvasRenderer
+CanvasRenderer-flow.js:827:9-36: null
+CanvasRenderer-flow.js:827:33-36: null
+CanvasRenderer-flow.js:829:9-12: CanvasRenderer
+CanvasRenderer-flow.js:829:9-27: null
+CanvasRenderer-flow.js:829:24-27: null
+CanvasRenderer-flow.js:830:9-12: CanvasRenderer
+CanvasRenderer-flow.js:830:9-38: boolean
+CanvasRenderer-flow.js:830:34-38: boolean
+CanvasRenderer-flow.js:832:9-12: CanvasRenderer
+CanvasRenderer-flow.js:832:9-34: void
+CanvasRenderer-flow.js:832:21-25: number
+CanvasRenderer-flow.js:832:28-33: number
+CanvasRenderer-flow.js:845:12-24: 
+CanvasRenderer-flow.js:845:27-39: void
+CanvasRenderer-flow.js:845:42-46: void
+CanvasRenderer-flow.js:845:49-57: void
+CanvasRenderer-flow.js:845:60-78: void
+CanvasRenderer-flow.js:847:14-17: CanvasRenderer
+CanvasRenderer-flow.js:853:9-12: CanvasRenderer
+CanvasRenderer-flow.js:853:9-47: boolean
+CanvasRenderer-flow.js:853:34-47: boolean
+CanvasRenderer-flow.js:853:35-47: void
+CanvasRenderer-flow.js:855:9-12: CanvasRenderer
+CanvasRenderer-flow.js:855:9-30: 
+CanvasRenderer-flow.js:855:19-29: string
+CanvasRenderer-flow.js:857:13-25: void
+CanvasRenderer-flow.js:859:13-70: 
+CanvasRenderer-flow.js:859:29-41: 
+CanvasRenderer-flow.js:859:29-70: 
+CanvasRenderer-flow.js:859:58-70: 
+CanvasRenderer-flow.js:861:18-30: 
+CanvasRenderer-flow.js:863:17-29: 
+CanvasRenderer-flow.js:863:17,867:17: CanvasRenderTarget
+CanvasRenderer-flow.js:863:53,867:17: CanvasRenderTarget
+CanvasRenderer-flow.js:863:57-74: [class: CanvasRenderTarget]
+CanvasRenderer-flow.js:864:21-33: 
+CanvasRenderer-flow.js:864:21-39: 
+CanvasRenderer-flow.js:865:21-33: 
+CanvasRenderer-flow.js:865:21-40: 
+CanvasRenderer-flow.js:866:21-33: 
+CanvasRenderer-flow.js:866:21-44: 
+CanvasRenderer-flow.js:868:17-29: 
+CanvasRenderer-flow.js:868:17-79: 
+CanvasRenderer-flow.js:868:40-72: CanvasRenderTarget
+CanvasRenderer-flow.js:868:40-79: 
+CanvasRenderer-flow.js:869:17-29: 
+CanvasRenderer-flow.js:869:17-42: boolean
+CanvasRenderer-flow.js:869:39-42: boolean
+CanvasRenderer-flow.js:872:13-16: CanvasRenderer
+CanvasRenderer-flow.js:872:13-68: 
+CanvasRenderer-flow.js:872:28-60: CanvasRenderTarget
+CanvasRenderer-flow.js:872:28-68: 
+CanvasRenderer-flow.js:873:13-16: CanvasRenderer
+CanvasRenderer-flow.js:873:13-74: 
+CanvasRenderer-flow.js:873:31-63: CanvasRenderTarget
+CanvasRenderer-flow.js:873:31-74: 
+CanvasRenderer-flow.js:877:13-16: CanvasRenderer
+CanvasRenderer-flow.js:877:13-43: 
+CanvasRenderer-flow.js:877:28-31: CanvasRenderer
+CanvasRenderer-flow.js:877:28-43: 
+CanvasRenderer-flow.js:880:15-21: 
+CanvasRenderer-flow.js:880:25-36: 
+CanvasRenderer-flow.js:882:14-26: void
+CanvasRenderer-flow.js:884:13-16: CanvasRenderer
+CanvasRenderer-flow.js:884:13-52: 
+CanvasRenderer-flow.js:884:40-52: 
+CanvasRenderer-flow.js:887:14-32: void
+CanvasRenderer-flow.js:890:19-29: 
+CanvasRenderer-flow.js:890:33-45: 
+CanvasRenderer-flow.js:890:33-52: 
+CanvasRenderer-flow.js:891:19-24: 
+CanvasRenderer-flow.js:891:28-31: CanvasRenderer
+CanvasRenderer-flow.js:891:28-56: 
+CanvasRenderer-flow.js:891:28-66: 
+CanvasRenderer-flow.js:891:28-81: 
+CanvasRenderer-flow.js:893:17-25: void
+CanvasRenderer-flow.js:895:17-25: 
+CanvasRenderer-flow.js:895:17-38: 
+CanvasRenderer-flow.js:895:32-37: 
+CanvasRenderer-flow.js:899:17-22: 
+CanvasRenderer-flow.js:899:17-33: 
+CanvasRenderer-flow.js:902:13-25: 
+CanvasRenderer-flow.js:902:13-64: 
+CanvasRenderer-flow.js:902:36-39: CanvasRenderer
+CanvasRenderer-flow.js:902:36-64: 
+CanvasRenderer-flow.js:903:13-25: 
+CanvasRenderer-flow.js:903:13-43: 
+CanvasRenderer-flow.js:904:13-25: 
+CanvasRenderer-flow.js:904:13-46: 
+CanvasRenderer-flow.js:904:36-46: 
+CanvasRenderer-flow.js:908:9-15: 
+CanvasRenderer-flow.js:908:9-46: 
+CanvasRenderer-flow.js:908:30: number
+CanvasRenderer-flow.js:908:33: number
+CanvasRenderer-flow.js:908:36: number
+CanvasRenderer-flow.js:908:39: number
+CanvasRenderer-flow.js:908:42: number
+CanvasRenderer-flow.js:908:45: number
+CanvasRenderer-flow.js:909:9-15: 
+CanvasRenderer-flow.js:909:9-31: number
+CanvasRenderer-flow.js:909:31: number
+CanvasRenderer-flow.js:910:9-15: 
+CanvasRenderer-flow.js:910:9-78: 
+CanvasRenderer-flow.js:910:44-47: CanvasRenderer
+CanvasRenderer-flow.js:910:44-58: 
+CanvasRenderer-flow.js:910:44-78: 
+CanvasRenderer-flow.js:910:60-70: {ADD: number, COLOR: number, COLOR_BURN: number, COLOR_DODGE: number, DARKEN: number, DIFFERENCE: number, EXCLUSION: number, HARD_LIGHT: number, HUE: number, LIGHTEN: number, LUMINOSITY: number, MULTIPLY: number, NORMAL: number, OVERLAY: number, SATURATION: number, SCREEN: number, SOFT_LIGHT: number}
+CanvasRenderer-flow.js:910:60-77: number
+CanvasRenderer-flow.js:912:13-21: Navigator
+CanvasRenderer-flow.js:912:37-40: CanvasRenderer
+CanvasRenderer-flow.js:912:37-45: 
+CanvasRenderer-flow.js:914:13-19: 
+CanvasRenderer-flow.js:914:13-39: string
+CanvasRenderer-flow.js:914:33-39: string
+CanvasRenderer-flow.js:915:13-19: 
+CanvasRenderer-flow.js:915:13-27: 
+CanvasRenderer-flow.js:918:13-17: void
+CanvasRenderer-flow.js:918:13-64: 
+CanvasRenderer-flow.js:918:23-31: void
+CanvasRenderer-flow.js:918:35-39: 
+CanvasRenderer-flow.js:918:43-46: CanvasRenderer
+CanvasRenderer-flow.js:918:43-64: 
+CanvasRenderer-flow.js:920:17-20: CanvasRenderer
+CanvasRenderer-flow.js:922:21-24: CanvasRenderer
+CanvasRenderer-flow.js:924:21-27: 
+CanvasRenderer-flow.js:924:21-68: 
+CanvasRenderer-flow.js:924:39: number
+CanvasRenderer-flow.js:924:42: number
+CanvasRenderer-flow.js:924:45-48: CanvasRenderer
+CanvasRenderer-flow.js:924:45-54: 
+CanvasRenderer-flow.js:924:57-60: CanvasRenderer
+CanvasRenderer-flow.js:924:57-67: 
+CanvasRenderer-flow.js:928:21-27: 
+CanvasRenderer-flow.js:928:21-67: 
+CanvasRenderer-flow.js:928:41-44: CanvasRenderer
+CanvasRenderer-flow.js:928:41-67: 
+CanvasRenderer-flow.js:929:21-27: 
+CanvasRenderer-flow.js:929:21-67: 
+CanvasRenderer-flow.js:929:38: number
+CanvasRenderer-flow.js:929:41: number
+CanvasRenderer-flow.js:929:44-47: CanvasRenderer
+CanvasRenderer-flow.js:929:44-53: 
+CanvasRenderer-flow.js:929:56-59: CanvasRenderer
+CanvasRenderer-flow.js:929:56-66: 
+CanvasRenderer-flow.js:937:15-25: 
+CanvasRenderer-flow.js:937:29-32: CanvasRenderer
+CanvasRenderer-flow.js:937:29-40: 
+CanvasRenderer-flow.js:939:9-12: CanvasRenderer
+CanvasRenderer-flow.js:939:9-30: 
+CanvasRenderer-flow.js:939:24-30: 
+CanvasRenderer-flow.js:940:9-21: 
+CanvasRenderer-flow.js:940:9-40: 
+CanvasRenderer-flow.js:940:36-39: CanvasRenderer
+CanvasRenderer-flow.js:941:9-12: CanvasRenderer
+CanvasRenderer-flow.js:941:9-34: 
+CanvasRenderer-flow.js:941:24-34: 
+CanvasRenderer-flow.js:943:9-12: CanvasRenderer
+CanvasRenderer-flow.js:943:9-31: 
+CanvasRenderer-flow.js:943:19-30: string
+CanvasRenderer-flow.js:951:18-26: 
+CanvasRenderer-flow.js:953:13-16: CanvasRenderer
+CanvasRenderer-flow.js:953:39-47: 
+CanvasRenderer-flow.js:958:9-12: 
+CanvasRenderer-flow.js:958:9-20: 
+CanvasRenderer-flow.js:958:9-74: 
+CanvasRenderer-flow.js:958:49-52: 
+CanvasRenderer-flow.js:958:49-63: 
+CanvasRenderer-flow.js:958:49-74: 
+CanvasRenderer-flow.js:958:65-73: 
+CanvasRenderer-flow.js:966:13-22: 
+CanvasRenderer-flow.js:968:9-12: CanvasRenderer
+CanvasRenderer-flow.js:968:9-29: 
+CanvasRenderer-flow.js:971:9-33: void
+CanvasRenderer-flow.js:971:23-32: 
+CanvasRenderer-flow.js:973:9-12: CanvasRenderer
+CanvasRenderer-flow.js:973:9-27: null
+CanvasRenderer-flow.js:973:24-27: null
+CanvasRenderer-flow.js:975:9-12: CanvasRenderer
+CanvasRenderer-flow.js:975:9-27: boolean
+CanvasRenderer-flow.js:975:24-27: boolean
+CanvasRenderer-flow.js:977:9-12: CanvasRenderer
+CanvasRenderer-flow.js:977:9-24: 
+CanvasRenderer-flow.js:977:9-34: 
+CanvasRenderer-flow.js:978:9-12: CanvasRenderer
+CanvasRenderer-flow.js:978:9-31: null
+CanvasRenderer-flow.js:978:28-31: null
+CanvasRenderer-flow.js:980:9-12: CanvasRenderer
+CanvasRenderer-flow.js:980:9-34: null
+CanvasRenderer-flow.js:980:31-34: null
+CanvasRenderer-flow.js:991:12-16: number
+CanvasRenderer-flow.js:991:19-24: number
+CanvasRenderer-flow.js:993:9-35: void
+CanvasRenderer-flow.js:993:22-26: number
+CanvasRenderer-flow.js:993:29-34: number
+CanvasRenderer-flow.js:997:13-16: CanvasRenderer
+CanvasRenderer-flow.js:999:13-16: CanvasRenderer
+CanvasRenderer-flow.js:999:13-28: 
+CanvasRenderer-flow.js:999:13-95: boolean
+CanvasRenderer-flow.js:999:30-48: 
+CanvasRenderer-flow.js:999:54-64: {DEFAULT: number, LINEAR: number, NEAREST: number}
+CanvasRenderer-flow.js:999:54-72: number
+CanvasRenderer-flow.js:999:54-95: boolean
+CanvasRenderer-flow.js:999:78-88: {DEFAULT: number, LINEAR: number, NEAREST: number}
+CanvasRenderer-flow.js:999:78-95: number
+CanvasRenderer-flow.js:1004:1-12: (obj: ) => void
+CanvasRenderer-flow.js:1004:1-34: 
+CanvasRenderer-flow.js:1004:20-33: [class: CanvasRenderer]
+CanvasRenderer-flow.js:1018:1-8: 
+CanvasRenderer-flow.js:1018:1,1038:2: 
+CanvasRenderer-flow.js:1018:10-38: string
+CanvasRenderer-flow.js:1018:41,1038:1: () => void
+CanvasRenderer-flow.js:1020:5-12: 
+CanvasRenderer-flow.js:1020:5,1037:6: 
+CanvasRenderer-flow.js:1020:14-31: string
+CanvasRenderer-flow.js:1020:34,1037:5: () => void
+CanvasRenderer-flow.js:1022:9-10: 
+CanvasRenderer-flow.js:1022:9,1036:10: 
+CanvasRenderer-flow.js:1022:12-57: string
+CanvasRenderer-flow.js:1022:60,1036:9: () => void
+CanvasRenderer-flow.js:1024:17-20: 
+CanvasRenderer-flow.js:1024:24-44: 
+CanvasRenderer-flow.js:1024:28-42: 
+CanvasRenderer-flow.js:1025:17-21: 
+CanvasRenderer-flow.js:1025:25-43: 
+CanvasRenderer-flow.js:1025:29-41: 
+CanvasRenderer-flow.js:1026:17-29: 
+CanvasRenderer-flow.js:1026:33-51: 
+CanvasRenderer-flow.js:1026:37-49: 
+CanvasRenderer-flow.js:1027:17-21: 
+CanvasRenderer-flow.js:1027:25-35: 
+CanvasRenderer-flow.js:1027:29-33: 
+CanvasRenderer-flow.js:1029:13-16: 
+CanvasRenderer-flow.js:1029:13-23: 
+CanvasRenderer-flow.js:1029:13-35: 
+CanvasRenderer-flow.js:1029:29-30: number
+CanvasRenderer-flow.js:1029:33-34: number
+CanvasRenderer-flow.js:1030:13-25: 
+CanvasRenderer-flow.js:1030:13-34: 
+CanvasRenderer-flow.js:1030:13-44: 
+CanvasRenderer-flow.js:1030:40: number
+CanvasRenderer-flow.js:1030:43: number
+CanvasRenderer-flow.js:1031:13-25: 
+CanvasRenderer-flow.js:1031:13-40: 
+CanvasRenderer-flow.js:1031:36-40: 
+CanvasRenderer-flow.js:1032:13-25: 
+CanvasRenderer-flow.js:1032:13-56: 
+CanvasRenderer-flow.js:1033:13-16: 
+CanvasRenderer-flow.js:1033:13-55: 
+CanvasRenderer-flow.js:1033:35-47: 
+CanvasRenderer-flow.js:1033:50-54: 
+CanvasRenderer-flow.js:1034:13-18: 
+CanvasRenderer-flow.js:1034:13-27: 
+CanvasRenderer-flow.js:1034:13-30: 
+CanvasRenderer-flow.js:1034:13-39: 
+CanvasRenderer-flow.js:1034:20-24: 
+CanvasRenderer-flow.js:1034:20-26: 
+CanvasRenderer-flow.js:1034:38: number
+CanvasRenderer-flow.js:1035:13-18: 
+CanvasRenderer-flow.js:1035:13-27: 
+CanvasRenderer-flow.js:1035:13-30: 
+CanvasRenderer-flow.js:1035:13-39: 
+CanvasRenderer-flow.js:1035:20-24: 
+CanvasRenderer-flow.js:1035:20-26: 
+CanvasRenderer-flow.js:1035:38: number
+CanvasRenderer-flow.js:1045:1-8: 
+CanvasRenderer-flow.js:1045:1,1279:2: 
+CanvasRenderer-flow.js:1045:10-16: string
+CanvasRenderer-flow.js:1045:19,1279:1: () => void
+CanvasRenderer-flow.js:1047:5-12: 
+CanvasRenderer-flow.js:1047:5,1060:6: 
+CanvasRenderer-flow.js:1047:14-18: string
+CanvasRenderer-flow.js:1047:21,1060:5: () => void
+CanvasRenderer-flow.js:1049:9-10: 
+CanvasRenderer-flow.js:1049:9,1053:10: 
+CanvasRenderer-flow.js:1049:12-25: string
+CanvasRenderer-flow.js:1049:28,1053:9: () => void
+CanvasRenderer-flow.js:1051:13-18: 
+CanvasRenderer-flow.js:1051:13-29: 
+CanvasRenderer-flow.js:1051:13,1052:19: 
+CanvasRenderer-flow.js:1051:13,1052:22: 
+CanvasRenderer-flow.js:1051:13,1052:36: 
+CanvasRenderer-flow.js:1051:20-24: 
+CanvasRenderer-flow.js:1051:20-28: 
+CanvasRenderer-flow.js:1052:26-35: string
+CanvasRenderer-flow.js:1055:9-10: 
+CanvasRenderer-flow.js:1055:9,1059:10: 
+CanvasRenderer-flow.js:1055:12-35: string
+CanvasRenderer-flow.js:1055:38,1059:9: () => void
+CanvasRenderer-flow.js:1057:13-18: 
+CanvasRenderer-flow.js:1057:13-31: 
+CanvasRenderer-flow.js:1057:13,1058:19: 
+CanvasRenderer-flow.js:1057:13,1058:22: 
+CanvasRenderer-flow.js:1057:13,1058:34: 
+CanvasRenderer-flow.js:1057:20-24: 
+CanvasRenderer-flow.js:1057:20-30: 
+CanvasRenderer-flow.js:1058:26-33: string
+CanvasRenderer-flow.js:1062:5-12: 
+CanvasRenderer-flow.js:1062:5,1071:6: 
+CanvasRenderer-flow.js:1062:14-22: string
+CanvasRenderer-flow.js:1062:25,1071:5: () => void
+CanvasRenderer-flow.js:1064:9-10: 
+CanvasRenderer-flow.js:1064:9,1068:10: 
+CanvasRenderer-flow.js:1064:12-25: string
+CanvasRenderer-flow.js:1064:28,1068:9: () => void
+CanvasRenderer-flow.js:1066:13-18: 
+CanvasRenderer-flow.js:1066:13-33: 
+CanvasRenderer-flow.js:1066:13,1067:19: 
+CanvasRenderer-flow.js:1066:13,1067:22: 
+CanvasRenderer-flow.js:1066:13,1067:36: 
+CanvasRenderer-flow.js:1066:20-24: 
+CanvasRenderer-flow.js:1066:20-32: 
+CanvasRenderer-flow.js:1067:26-35: string
+CanvasRenderer-flow.js:1073:5-12: 
+CanvasRenderer-flow.js:1073:5,1082:6: 
+CanvasRenderer-flow.js:1073:14-25: string
+CanvasRenderer-flow.js:1073:28,1082:5: () => void
+CanvasRenderer-flow.js:1075:9-10: 
+CanvasRenderer-flow.js:1075:9,1079:10: 
+CanvasRenderer-flow.js:1075:12-25: string
+CanvasRenderer-flow.js:1075:28,1079:9: () => void
+CanvasRenderer-flow.js:1077:13-18: 
+CanvasRenderer-flow.js:1077:13-36: 
+CanvasRenderer-flow.js:1077:13,1078:19: 
+CanvasRenderer-flow.js:1077:13,1078:22: 
+CanvasRenderer-flow.js:1077:13,1078:36: 
+CanvasRenderer-flow.js:1077:20-24: 
+CanvasRenderer-flow.js:1077:20-35: 
+CanvasRenderer-flow.js:1078:26-35: string
+CanvasRenderer-flow.js:1084:5-12: 
+CanvasRenderer-flow.js:1084:5,1093:6: 
+CanvasRenderer-flow.js:1084:14-22: string
+CanvasRenderer-flow.js:1084:25,1093:5: () => void
+CanvasRenderer-flow.js:1086:9-10: 
+CanvasRenderer-flow.js:1086:9,1090:10: 
+CanvasRenderer-flow.js:1086:12-25: string
+CanvasRenderer-flow.js:1086:28,1090:9: () => void
+CanvasRenderer-flow.js:1088:13-18: 
+CanvasRenderer-flow.js:1088:13-33: 
+CanvasRenderer-flow.js:1088:13,1089:19: 
+CanvasRenderer-flow.js:1088:13,1089:22: 
+CanvasRenderer-flow.js:1088:13,1089:36: 
+CanvasRenderer-flow.js:1088:20-24: 
+CanvasRenderer-flow.js:1088:20-32: 
+CanvasRenderer-flow.js:1089:26-35: string
+CanvasRenderer-flow.js:1095:5-12: 
+CanvasRenderer-flow.js:1095:5,1104:6: 
+CanvasRenderer-flow.js:1095:14-33: string
+CanvasRenderer-flow.js:1095:36,1104:5: () => void
+CanvasRenderer-flow.js:1097:9-10: 
+CanvasRenderer-flow.js:1097:9,1101:10: 
+CanvasRenderer-flow.js:1097:12-25: string
+CanvasRenderer-flow.js:1097:28,1101:9: () => void
+CanvasRenderer-flow.js:1099:13-18: 
+CanvasRenderer-flow.js:1099:13-44: 
+CanvasRenderer-flow.js:1099:13,1100:19: 
+CanvasRenderer-flow.js:1099:13,1100:22: 
+CanvasRenderer-flow.js:1099:13,1100:36: 
+CanvasRenderer-flow.js:1099:20-24: 
+CanvasRenderer-flow.js:1099:20-43: 
+CanvasRenderer-flow.js:1100:26-35: string
+CanvasRenderer-flow.js:1106:5-12: 
+CanvasRenderer-flow.js:1106:5,1137:6: 
+CanvasRenderer-flow.js:1106:14-31: string
+CanvasRenderer-flow.js:1106:34,1137:5: () => void
+CanvasRenderer-flow.js:1108:9-10: 
+CanvasRenderer-flow.js:1108:9,1112:10: 
+CanvasRenderer-flow.js:1108:12-25: string
+CanvasRenderer-flow.js:1108:28,1112:9: () => void
+CanvasRenderer-flow.js:1110:13-18: 
+CanvasRenderer-flow.js:1110:13-42: 
+CanvasRenderer-flow.js:1110:13,1111:19: 
+CanvasRenderer-flow.js:1110:13,1111:22: 
+CanvasRenderer-flow.js:1110:13,1111:36: 
+CanvasRenderer-flow.js:1110:20-24: 
+CanvasRenderer-flow.js:1110:20-41: 
+CanvasRenderer-flow.js:1111:26-35: string
+CanvasRenderer-flow.js:1114:9-10: 
+CanvasRenderer-flow.js:1114:9,1128:10: 
+CanvasRenderer-flow.js:1114:12-40: string
+CanvasRenderer-flow.js:1114:43,1128:9: () => void
+CanvasRenderer-flow.js:1116:17-23: 
+CanvasRenderer-flow.js:1116:27-31: 
+CanvasRenderer-flow.js:1116:27-86: 
+CanvasRenderer-flow.js:1116:50-85: string
+CanvasRenderer-flow.js:1118:13-18: 
+CanvasRenderer-flow.js:1118:13-27: 
+CanvasRenderer-flow.js:1118:13,1119:19: 
+CanvasRenderer-flow.js:1118:13,1119:22: 
+CanvasRenderer-flow.js:1118:13,1119:35: 
+CanvasRenderer-flow.js:1118:20-26: 
+CanvasRenderer-flow.js:1119:27-34: string
+CanvasRenderer-flow.js:1120:13-18: 
+CanvasRenderer-flow.js:1120:13-37: 
+CanvasRenderer-flow.js:1120:13,1121:19: 
+CanvasRenderer-flow.js:1120:13,1121:34: 
+CanvasRenderer-flow.js:1120:20-26: 
+CanvasRenderer-flow.js:1120:20-36: 
+CanvasRenderer-flow.js:1121:27-33: string
+CanvasRenderer-flow.js:1122:13-18: 
+CanvasRenderer-flow.js:1122:13-35: 
+CanvasRenderer-flow.js:1122:13,1123:19: 
+CanvasRenderer-flow.js:1122:13,1123:32: 
+CanvasRenderer-flow.js:1122:20-26: 
+CanvasRenderer-flow.js:1122:20-34: 
+CanvasRenderer-flow.js:1123:27-31: string
+CanvasRenderer-flow.js:1124:13-18: 
+CanvasRenderer-flow.js:1124:13-36: 
+CanvasRenderer-flow.js:1124:13,1125:19: 
+CanvasRenderer-flow.js:1124:13,1125:35: 
+CanvasRenderer-flow.js:1124:20-26: 
+CanvasRenderer-flow.js:1124:20-35: 
+CanvasRenderer-flow.js:1125:27-34: string
+CanvasRenderer-flow.js:1126:13-18: 
+CanvasRenderer-flow.js:1126:13-32: 
+CanvasRenderer-flow.js:1126:13,1127:19: 
+CanvasRenderer-flow.js:1126:13,1127:41: 
+CanvasRenderer-flow.js:1126:20-26: 
+CanvasRenderer-flow.js:1126:20-31: 
+CanvasRenderer-flow.js:1127:27-40: string
+CanvasRenderer-flow.js:1130:9-10: 
+CanvasRenderer-flow.js:1130:9,1136:10: 
+CanvasRenderer-flow.js:1130:12-54: string
+CanvasRenderer-flow.js:1130:57,1136:9: () => void
+CanvasRenderer-flow.js:1132:17-23: 
+CanvasRenderer-flow.js:1132:27-31: 
+CanvasRenderer-flow.js:1132:27-55: 
+CanvasRenderer-flow.js:1132:50-54: string
+CanvasRenderer-flow.js:1134:13-18: 
+CanvasRenderer-flow.js:1134:13-27: 
+CanvasRenderer-flow.js:1134:13,1135:19: 
+CanvasRenderer-flow.js:1134:13,1135:22: 
+CanvasRenderer-flow.js:1134:13,1135:38: 
+CanvasRenderer-flow.js:1134:20-26: 
+CanvasRenderer-flow.js:1135:27-37: string
+CanvasRenderer-flow.js:1139:5-12: 
+CanvasRenderer-flow.js:1139:5,1154:6: 
+CanvasRenderer-flow.js:1139:14-32: string
+CanvasRenderer-flow.js:1139:35,1154:5: () => void
+CanvasRenderer-flow.js:1141:9-10: 
+CanvasRenderer-flow.js:1141:9,1145:10: 
+CanvasRenderer-flow.js:1141:12-25: string
+CanvasRenderer-flow.js:1141:28,1145:9: () => void
+CanvasRenderer-flow.js:1143:13-18: 
+CanvasRenderer-flow.js:1143:13-43: 
+CanvasRenderer-flow.js:1143:13,1144:19: 
+CanvasRenderer-flow.js:1143:13,1144:22: 
+CanvasRenderer-flow.js:1143:13,1144:36: 
+CanvasRenderer-flow.js:1143:20-24: 
+CanvasRenderer-flow.js:1143:20-42: 
+CanvasRenderer-flow.js:1144:26-35: string
+CanvasRenderer-flow.js:1147:9-10: 
+CanvasRenderer-flow.js:1147:9,1153:10: 
+CanvasRenderer-flow.js:1147:12-58: string
+CanvasRenderer-flow.js:1147:61,1153:9: () => void
+CanvasRenderer-flow.js:1149:17-25: 
+CanvasRenderer-flow.js:1149:29-33: 
+CanvasRenderer-flow.js:1149:29-77: 
+CanvasRenderer-flow.js:1149:53-76: string
+CanvasRenderer-flow.js:1151:13-18: 
+CanvasRenderer-flow.js:1151:13-29: 
+CanvasRenderer-flow.js:1151:13,1152:19: 
+CanvasRenderer-flow.js:1151:13,1152:32: 
+CanvasRenderer-flow.js:1151:20-28: 
+CanvasRenderer-flow.js:1152:27-31: string
+CanvasRenderer-flow.js:1156:5-12: 
+CanvasRenderer-flow.js:1156:5,1195:6: 
+CanvasRenderer-flow.js:1156:14-25: string
+CanvasRenderer-flow.js:1156:28,1195:5: () => void
+CanvasRenderer-flow.js:1158:9-10: 
+CanvasRenderer-flow.js:1158:9,1162:10: 
+CanvasRenderer-flow.js:1158:12-25: string
+CanvasRenderer-flow.js:1158:28,1162:9: () => void
+CanvasRenderer-flow.js:1160:13-18: 
+CanvasRenderer-flow.js:1160:13-36: 
+CanvasRenderer-flow.js:1160:13,1161:19: 
+CanvasRenderer-flow.js:1160:13,1161:22: 
+CanvasRenderer-flow.js:1160:13,1161:36: 
+CanvasRenderer-flow.js:1160:20-24: 
+CanvasRenderer-flow.js:1160:20-35: 
+CanvasRenderer-flow.js:1161:26-35: string
+CanvasRenderer-flow.js:1164:9-10: 
+CanvasRenderer-flow.js:1164:9,1174:10: 
+CanvasRenderer-flow.js:1164:12-81: string
+CanvasRenderer-flow.js:1164:84,1174:9: () => void
+CanvasRenderer-flow.js:1166:17-23: 
+CanvasRenderer-flow.js:1166:27-31: 
+CanvasRenderer-flow.js:1166:27-80: 
+CanvasRenderer-flow.js:1166:44-79: string
+CanvasRenderer-flow.js:1168:13-18: 
+CanvasRenderer-flow.js:1168:13-27: 
+CanvasRenderer-flow.js:1168:13,1169:19: 
+CanvasRenderer-flow.js:1168:13,1169:22: 
+CanvasRenderer-flow.js:1168:13,1169:35: 
+CanvasRenderer-flow.js:1168:20-26: 
+CanvasRenderer-flow.js:1169:27-34: string
+CanvasRenderer-flow.js:1170:13-18: 
+CanvasRenderer-flow.js:1170:13-33: 
+CanvasRenderer-flow.js:1170:13,1171:19: 
+CanvasRenderer-flow.js:1170:13,1171:29: 
+CanvasRenderer-flow.js:1170:20-26: 
+CanvasRenderer-flow.js:1170:20-32: 
+CanvasRenderer-flow.js:1171:27-28: number
+CanvasRenderer-flow.js:1172:13-18: 
+CanvasRenderer-flow.js:1172:13-34: 
+CanvasRenderer-flow.js:1172:13,1173:19: 
+CanvasRenderer-flow.js:1172:13,1173:29: 
+CanvasRenderer-flow.js:1172:20-26: 
+CanvasRenderer-flow.js:1172:20-33: 
+CanvasRenderer-flow.js:1173:27-28: number
+CanvasRenderer-flow.js:1176:9-10: 
+CanvasRenderer-flow.js:1176:9,1186:10: 
+CanvasRenderer-flow.js:1176:12-39: string
+CanvasRenderer-flow.js:1176:42,1186:9: () => void
+CanvasRenderer-flow.js:1178:17-23: 
+CanvasRenderer-flow.js:1178:27-31: 
+CanvasRenderer-flow.js:1178:27-84: 
+CanvasRenderer-flow.js:1178:44-83: string
+CanvasRenderer-flow.js:1180:13-18: 
+CanvasRenderer-flow.js:1180:13-27: 
+CanvasRenderer-flow.js:1180:13,1181:19: 
+CanvasRenderer-flow.js:1180:13,1181:22: 
+CanvasRenderer-flow.js:1180:13,1181:35: 
+CanvasRenderer-flow.js:1180:20-26: 
+CanvasRenderer-flow.js:1181:27-34: string
+CanvasRenderer-flow.js:1182:13-18: 
+CanvasRenderer-flow.js:1182:13-33: 
+CanvasRenderer-flow.js:1182:13,1183:19: 
+CanvasRenderer-flow.js:1182:13,1183:29: 
+CanvasRenderer-flow.js:1182:20-26: 
+CanvasRenderer-flow.js:1182:20-32: 
+CanvasRenderer-flow.js:1183:27-28: number
+CanvasRenderer-flow.js:1184:13-18: 
+CanvasRenderer-flow.js:1184:13-34: 
+CanvasRenderer-flow.js:1184:13,1185:19: 
+CanvasRenderer-flow.js:1184:13,1185:29: 
+CanvasRenderer-flow.js:1184:20-26: 
+CanvasRenderer-flow.js:1184:20-33: 
+CanvasRenderer-flow.js:1185:27-28: number
+CanvasRenderer-flow.js:1188:9-10: 
+CanvasRenderer-flow.js:1188:9,1194:10: 
+CanvasRenderer-flow.js:1188:12-78: string
+CanvasRenderer-flow.js:1188:81,1194:9: () => void
+CanvasRenderer-flow.js:1190:17-23: 
+CanvasRenderer-flow.js:1190:27-31: 
+CanvasRenderer-flow.js:1190:27-68: 
+CanvasRenderer-flow.js:1190:44-67: string
+CanvasRenderer-flow.js:1192:13-18: 
+CanvasRenderer-flow.js:1192:13-47: 
+CanvasRenderer-flow.js:1192:13,1193:19: 
+CanvasRenderer-flow.js:1192:13,1193:28: 
+CanvasRenderer-flow.js:1192:20-25: [class: Object]
+CanvasRenderer-flow.js:1192:20-39: Array<>
+CanvasRenderer-flow.js:1192:20-46: number
+CanvasRenderer-flow.js:1192:32-38: 
+CanvasRenderer-flow.js:1193:27: number
+CanvasRenderer-flow.js:1197:5-12: 
+CanvasRenderer-flow.js:1197:5,1204:6: 
+CanvasRenderer-flow.js:1197:14-23: string
+CanvasRenderer-flow.js:1197:26,1204:5: () => void
+CanvasRenderer-flow.js:1199:9-10: 
+CanvasRenderer-flow.js:1199:9,1203:10: 
+CanvasRenderer-flow.js:1199:12-25: string
+CanvasRenderer-flow.js:1199:28,1203:9: () => void
+CanvasRenderer-flow.js:1201:13-18: 
+CanvasRenderer-flow.js:1201:13-34: 
+CanvasRenderer-flow.js:1201:13,1202:19: 
+CanvasRenderer-flow.js:1201:13,1202:22: 
+CanvasRenderer-flow.js:1201:13,1202:36: 
+CanvasRenderer-flow.js:1201:20-24: 
+CanvasRenderer-flow.js:1201:20-33: 
+CanvasRenderer-flow.js:1202:26-35: string
+CanvasRenderer-flow.js:1206:5-12: 
+CanvasRenderer-flow.js:1206:5,1213:6: 
+CanvasRenderer-flow.js:1206:14-31: string
+CanvasRenderer-flow.js:1206:34,1213:5: () => void
+CanvasRenderer-flow.js:1208:9-10: 
+CanvasRenderer-flow.js:1208:9,1212:10: 
+CanvasRenderer-flow.js:1208:12-25: string
+CanvasRenderer-flow.js:1208:28,1212:9: () => void
+CanvasRenderer-flow.js:1210:13-18: 
+CanvasRenderer-flow.js:1210:13-42: 
+CanvasRenderer-flow.js:1210:13,1211:19: 
+CanvasRenderer-flow.js:1210:13,1211:22: 
+CanvasRenderer-flow.js:1210:13,1211:36: 
+CanvasRenderer-flow.js:1210:20-24: 
+CanvasRenderer-flow.js:1210:20-41: 
+CanvasRenderer-flow.js:1211:26-35: string
+CanvasRenderer-flow.js:1215:5-12: 
+CanvasRenderer-flow.js:1215:5,1240:6: 
+CanvasRenderer-flow.js:1215:14-19: string
+CanvasRenderer-flow.js:1215:22,1240:5: () => void
+CanvasRenderer-flow.js:1217:9-10: 
+CanvasRenderer-flow.js:1217:9,1221:10: 
+CanvasRenderer-flow.js:1217:12-34: string
+CanvasRenderer-flow.js:1217:37,1221:9: () => void
+CanvasRenderer-flow.js:1219:13-18: 
+CanvasRenderer-flow.js:1219:13-33: 
+CanvasRenderer-flow.js:1219:13,1220:19: 
+CanvasRenderer-flow.js:1219:13,1220:22: 
+CanvasRenderer-flow.js:1219:13,1220:31: 
+CanvasRenderer-flow.js:1219:20-24: 
+CanvasRenderer-flow.js:1219:20-32: 
+CanvasRenderer-flow.js:1219:31: number
+CanvasRenderer-flow.js:1220:30: number
+CanvasRenderer-flow.js:1223:9-10: 
+CanvasRenderer-flow.js:1223:9,1230:10: 
+CanvasRenderer-flow.js:1223:12-50: string
+CanvasRenderer-flow.js:1223:53,1230:9: () => void
+CanvasRenderer-flow.js:1225:22: number
+CanvasRenderer-flow.js:1225:26: number
+CanvasRenderer-flow.js:1225:29: number
+CanvasRenderer-flow.js:1225:29-34: boolean
+CanvasRenderer-flow.js:1225:33-34: number
+CanvasRenderer-flow.js:1225:37-42: number
+CanvasRenderer-flow.js:1225:42: number
+CanvasRenderer-flow.js:1227:17-22: 
+CanvasRenderer-flow.js:1227:17-50: 
+CanvasRenderer-flow.js:1227:17,1228:23: 
+CanvasRenderer-flow.js:1227:17,1228:26: 
+CanvasRenderer-flow.js:1227:17,1228:36: 
+CanvasRenderer-flow.js:1227:24-28: 
+CanvasRenderer-flow.js:1227:24-49: 
+CanvasRenderer-flow.js:1227:35-48: number
+CanvasRenderer-flow.js:1227:36-39: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+CanvasRenderer-flow.js:1227:36-48: number
+CanvasRenderer-flow.js:1228:34-35: number
+CanvasRenderer-flow.js:1228:35: number
+CanvasRenderer-flow.js:1232:9-10: 
+CanvasRenderer-flow.js:1232:9,1239:10: 
+CanvasRenderer-flow.js:1232:12-49: string
+CanvasRenderer-flow.js:1232:52,1239:9: () => void
+CanvasRenderer-flow.js:1234:22: number
+CanvasRenderer-flow.js:1234:26: number
+CanvasRenderer-flow.js:1234:29: number
+CanvasRenderer-flow.js:1234:29-34: boolean
+CanvasRenderer-flow.js:1234:33-34: number
+CanvasRenderer-flow.js:1234:37-42: number
+CanvasRenderer-flow.js:1234:42: number
+CanvasRenderer-flow.js:1236:17-22: 
+CanvasRenderer-flow.js:1236:17-60: 
+CanvasRenderer-flow.js:1236:17,1237:23: 
+CanvasRenderer-flow.js:1236:17,1237:26: 
+CanvasRenderer-flow.js:1236:17,1237:35: 
+CanvasRenderer-flow.js:1236:24-28: 
+CanvasRenderer-flow.js:1236:24-59: 
+CanvasRenderer-flow.js:1236:35-38: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+CanvasRenderer-flow.js:1236:35-47: number
+CanvasRenderer-flow.js:1236:35-58: number
+CanvasRenderer-flow.js:1236:51-58: number
+CanvasRenderer-flow.js:1237:34: number
+CanvasRenderer-flow.js:1242:5-12: 
+CanvasRenderer-flow.js:1242:5,1278:6: 
+CanvasRenderer-flow.js:1242:14-27: string
+CanvasRenderer-flow.js:1242:30,1278:5: () => void
+CanvasRenderer-flow.js:1244:13-15: [number, number, number, number, number, number, number, number, number, number]
+CanvasRenderer-flow.js:1246:9-18: 
+CanvasRenderer-flow.js:1246:9,1249:10: 
+CanvasRenderer-flow.js:1246:20,1249:9: () => void
+CanvasRenderer-flow.js:1248:13-49: [number, number, number, number, number, number, number, number, number, number]
+CanvasRenderer-flow.js:1248:19-49: [number, number, number, number, number, number, number, number, number, number]
+CanvasRenderer-flow.js:1248:20: number
+CanvasRenderer-flow.js:1248:23: number
+CanvasRenderer-flow.js:1248:26: number
+CanvasRenderer-flow.js:1248:29: number
+CanvasRenderer-flow.js:1248:32: number
+CanvasRenderer-flow.js:1248:35: number
+CanvasRenderer-flow.js:1248:38: number
+CanvasRenderer-flow.js:1248:41: number
+CanvasRenderer-flow.js:1248:44: number
+CanvasRenderer-flow.js:1248:47-48: number
+CanvasRenderer-flow.js:1251:9-10: 
+CanvasRenderer-flow.js:1251:9,1255:10: 
+CanvasRenderer-flow.js:1251:12-97: string
+CanvasRenderer-flow.js:1251:100,1255:9: () => void
+CanvasRenderer-flow.js:1253:13-17: 
+CanvasRenderer-flow.js:1253:13-53: 
+CanvasRenderer-flow.js:1253:31-33: [number, number, number, number, number, number, number, number, number, number]
+CanvasRenderer-flow.js:1253:36-38: [number, number, number, number, number, number, number, number, number, number]
+CanvasRenderer-flow.js:1253:36-45: number
+CanvasRenderer-flow.js:1253:36-49: number
+CanvasRenderer-flow.js:1253:49: number
+CanvasRenderer-flow.js:1253:52: number
+CanvasRenderer-flow.js:1254:13-18: 
+CanvasRenderer-flow.js:1254:13-30: 
+CanvasRenderer-flow.js:1254:13-33: 
+CanvasRenderer-flow.js:1254:13-36: 
+CanvasRenderer-flow.js:1254:13-46: 
+CanvasRenderer-flow.js:1254:20-22: [number, number, number, number, number, number, number, number, number, number]
+CanvasRenderer-flow.js:1254:20-29: number
+CanvasRenderer-flow.js:1254:44-45: number
+CanvasRenderer-flow.js:1257:9-10: 
+CanvasRenderer-flow.js:1257:9,1261:10: 
+CanvasRenderer-flow.js:1257:12-51: string
+CanvasRenderer-flow.js:1257:54,1261:9: () => void
+CanvasRenderer-flow.js:1259:13-17: 
+CanvasRenderer-flow.js:1259:13-40: 
+CanvasRenderer-flow.js:1259:31-33: [number, number, number, number, number, number, number, number, number, number]
+CanvasRenderer-flow.js:1259:36: number
+CanvasRenderer-flow.js:1259:39: number
+CanvasRenderer-flow.js:1260:13-18: 
+CanvasRenderer-flow.js:1260:13-30: 
+CanvasRenderer-flow.js:1260:13-33: 
+CanvasRenderer-flow.js:1260:13-36: 
+CanvasRenderer-flow.js:1260:13-46: 
+CanvasRenderer-flow.js:1260:20-22: [number, number, number, number, number, number, number, number, number, number]
+CanvasRenderer-flow.js:1260:20-29: number
+CanvasRenderer-flow.js:1260:44-45: number
+CanvasRenderer-flow.js:1263:9-10: 
+CanvasRenderer-flow.js:1263:9,1269:10: 
+CanvasRenderer-flow.js:1263:12-105: string
+CanvasRenderer-flow.js:1263:108,1269:9: () => void
+CanvasRenderer-flow.js:1265:17-19: [number, number, number, number, number, number]
+CanvasRenderer-flow.js:1265:23-41: [number, number, number, number, number, number]
+CanvasRenderer-flow.js:1265:24: number
+CanvasRenderer-flow.js:1265:27: number
+CanvasRenderer-flow.js:1265:30: number
+CanvasRenderer-flow.js:1265:33: number
+CanvasRenderer-flow.js:1265:36: number
+CanvasRenderer-flow.js:1265:39-40: number
+CanvasRenderer-flow.js:1267:13-17: 
+CanvasRenderer-flow.js:1267:13-40: 
+CanvasRenderer-flow.js:1267:31-33: [number, number, number, number, number, number, number, number, number, number]
+CanvasRenderer-flow.js:1267:36: number
+CanvasRenderer-flow.js:1267:39: number
+CanvasRenderer-flow.js:1268:13-18: 
+CanvasRenderer-flow.js:1268:13-23: 
+CanvasRenderer-flow.js:1268:13-26: 
+CanvasRenderer-flow.js:1268:13-29: 
+CanvasRenderer-flow.js:1268:13-34: 
+CanvasRenderer-flow.js:1268:13-45: 
+CanvasRenderer-flow.js:1268:20-22: [number, number, number, number, number, number, number, number, number, number]
+CanvasRenderer-flow.js:1268:42-44: [number, number, number, number, number, number]
+CanvasRenderer-flow.js:1271:9-10: 
+CanvasRenderer-flow.js:1271:9,1277:10: 
+CanvasRenderer-flow.js:1271:12-108: string
+CanvasRenderer-flow.js:1271:111,1277:9: () => void
+CanvasRenderer-flow.js:1273:17-19: [number, number, number, number, number, number, number]
+CanvasRenderer-flow.js:1273:23-43: [number, number, number, number, number, number, number]
+CanvasRenderer-flow.js:1273:24: number
+CanvasRenderer-flow.js:1273:27: number
+CanvasRenderer-flow.js:1273:30: number
+CanvasRenderer-flow.js:1273:33: number
+CanvasRenderer-flow.js:1273:36: number
+CanvasRenderer-flow.js:1273:39: number
+CanvasRenderer-flow.js:1273:42: number
+CanvasRenderer-flow.js:1275:13-17: 
+CanvasRenderer-flow.js:1275:13-41: 
+CanvasRenderer-flow.js:1275:31-33: [number, number, number, number, number, number, number, number, number, number]
+CanvasRenderer-flow.js:1275:36: number
+CanvasRenderer-flow.js:1275:39-40: number
+CanvasRenderer-flow.js:1276:13-18: 
+CanvasRenderer-flow.js:1276:13-23: 
+CanvasRenderer-flow.js:1276:13-26: 
+CanvasRenderer-flow.js:1276:13-29: 
+CanvasRenderer-flow.js:1276:13-34: 
+CanvasRenderer-flow.js:1276:13-45: 
+CanvasRenderer-flow.js:1276:20-22: [number, number, number, number, number, number, number, number, number, number]
+CanvasRenderer-flow.js:1276:42-44: [number, number, number, number, number, number, number]
+CanvasRenderer-flow.js:1286:1-8: 
+CanvasRenderer-flow.js:1286:1,1340:2: 
+CanvasRenderer-flow.js:1286:10-18: string
+CanvasRenderer-flow.js:1286:21,1340:1: () => void
+CanvasRenderer-flow.js:1288:5-6: 
+CanvasRenderer-flow.js:1288:5,1315:6: 
+CanvasRenderer-flow.js:1288:8-66: string
+CanvasRenderer-flow.js:1288:69,1315:5: () => void
+CanvasRenderer-flow.js:1290:13-18: 
+CanvasRenderer-flow.js:1290:22-36: 
+CanvasRenderer-flow.js:1290:26-34: 
+CanvasRenderer-flow.js:1292:13-21: 
+CanvasRenderer-flow.js:1292:25-39: 
+CanvasRenderer-flow.js:1292:29-37: 
+CanvasRenderer-flow.js:1294:9-14: 
+CanvasRenderer-flow.js:1294:9-34: 
+CanvasRenderer-flow.js:1294:25-33: 
+CanvasRenderer-flow.js:1296:13-17: 
+CanvasRenderer-flow.js:1296:21-39: 
+CanvasRenderer-flow.js:1296:25-29: 
+CanvasRenderer-flow.js:1296:31-33: number
+CanvasRenderer-flow.js:1296:36-38: number
+CanvasRenderer-flow.js:1298:13-22: 
+CanvasRenderer-flow.js:1300:9-45: 
+CanvasRenderer-flow.js:1300:22-30: 
+CanvasRenderer-flow.js:1300:22-45: 
+CanvasRenderer-flow.js:1300:40-44: 
+CanvasRenderer-flow.js:1302:9-14: 
+CanvasRenderer-flow.js:1302:9-28: 
+CanvasRenderer-flow.js:1302:9-31: 
+CanvasRenderer-flow.js:1302:9-42: 
+CanvasRenderer-flow.js:1302:16-25: 
+CanvasRenderer-flow.js:1302:16-27: 
+CanvasRenderer-flow.js:1302:39-41: number
+CanvasRenderer-flow.js:1303:9-14: 
+CanvasRenderer-flow.js:1303:9-28: 
+CanvasRenderer-flow.js:1303:9-31: 
+CanvasRenderer-flow.js:1303:9-42: 
+CanvasRenderer-flow.js:1303:16-25: 
+CanvasRenderer-flow.js:1303:16-27: 
+CanvasRenderer-flow.js:1303:39-41: number
+CanvasRenderer-flow.js:1305:9-17: 
+CanvasRenderer-flow.js:1305:9-26: 
+CanvasRenderer-flow.js:1305:9-33: number
+CanvasRenderer-flow.js:1305:32-33: number
+CanvasRenderer-flow.js:1306:9-17: 
+CanvasRenderer-flow.js:1306:9-26: 
+CanvasRenderer-flow.js:1306:9-33: number
+CanvasRenderer-flow.js:1306:32-33: number
+CanvasRenderer-flow.js:1308:9-17: 
+CanvasRenderer-flow.js:1308:9-23: 
+CanvasRenderer-flow.js:1308:9-29: number
+CanvasRenderer-flow.js:1308:29: number
+CanvasRenderer-flow.js:1309:9-17: 
+CanvasRenderer-flow.js:1309:9-23: 
+CanvasRenderer-flow.js:1309:9-29: number
+CanvasRenderer-flow.js:1309:29: number
+CanvasRenderer-flow.js:1311:9-45: 
+CanvasRenderer-flow.js:1311:22-30: 
+CanvasRenderer-flow.js:1311:22-45: 
+CanvasRenderer-flow.js:1311:40-44: 
+CanvasRenderer-flow.js:1313:9-14: 
+CanvasRenderer-flow.js:1313:9-28: 
+CanvasRenderer-flow.js:1313:9-31: 
+CanvasRenderer-flow.js:1313:9-41: 
+CanvasRenderer-flow.js:1313:16-25: 
+CanvasRenderer-flow.js:1313:16-27: 
+CanvasRenderer-flow.js:1313:39-40: number
+CanvasRenderer-flow.js:1314:9-14: 
+CanvasRenderer-flow.js:1314:9-28: 
+CanvasRenderer-flow.js:1314:9-31: 
+CanvasRenderer-flow.js:1314:9-41: 
+CanvasRenderer-flow.js:1314:16-25: 
+CanvasRenderer-flow.js:1314:16-27: 
+CanvasRenderer-flow.js:1314:39-40: number
+CanvasRenderer-flow.js:1317:5-6: 
+CanvasRenderer-flow.js:1317:5,1339:6: 
+CanvasRenderer-flow.js:1317:8-78: string
+CanvasRenderer-flow.js:1317:81,1339:5: () => void
+CanvasRenderer-flow.js:1319:13-18: 
+CanvasRenderer-flow.js:1319:22-36: 
+CanvasRenderer-flow.js:1319:26-34: 
+CanvasRenderer-flow.js:1321:13-21: 
+CanvasRenderer-flow.js:1321:25-39: 
+CanvasRenderer-flow.js:1321:29-37: 
+CanvasRenderer-flow.js:1322:13-22: 
+CanvasRenderer-flow.js:1322:26-40: 
+CanvasRenderer-flow.js:1322:30-38: 
+CanvasRenderer-flow.js:1324:9-14: 
+CanvasRenderer-flow.js:1324:9-34: 
+CanvasRenderer-flow.js:1324:25-33: 
+CanvasRenderer-flow.js:1325:9-14: 
+CanvasRenderer-flow.js:1325:9-35: 
+CanvasRenderer-flow.js:1325:25-34: 
+CanvasRenderer-flow.js:1327:9-18: 
+CanvasRenderer-flow.js:1327:9-27: 
+CanvasRenderer-flow.js:1327:9-35: number
+CanvasRenderer-flow.js:1327:33-35: number
+CanvasRenderer-flow.js:1328:9-18: 
+CanvasRenderer-flow.js:1328:9-27: 
+CanvasRenderer-flow.js:1328:9-35: number
+CanvasRenderer-flow.js:1328:33-35: number
+CanvasRenderer-flow.js:1330:13-17: 
+CanvasRenderer-flow.js:1330:21-39: 
+CanvasRenderer-flow.js:1330:25-29: 
+CanvasRenderer-flow.js:1330:31-33: number
+CanvasRenderer-flow.js:1330:36-38: number
+CanvasRenderer-flow.js:1332:9-17: 
+CanvasRenderer-flow.js:1332:9-23: 
+CanvasRenderer-flow.js:1332:9-29: number
+CanvasRenderer-flow.js:1332:29: number
+CanvasRenderer-flow.js:1333:9-17: 
+CanvasRenderer-flow.js:1333:9-23: 
+CanvasRenderer-flow.js:1333:9-29: number
+CanvasRenderer-flow.js:1333:29: number
+CanvasRenderer-flow.js:1335:13-22: 
+CanvasRenderer-flow.js:1335:26-34: 
+CanvasRenderer-flow.js:1335:26-61: 
+CanvasRenderer-flow.js:1335:44-48: 
+CanvasRenderer-flow.js:1335:51-60: 
+CanvasRenderer-flow.js:1337:9-14: 
+CanvasRenderer-flow.js:1337:9-28: 
+CanvasRenderer-flow.js:1337:9-31: 
+CanvasRenderer-flow.js:1337:9-42: 
+CanvasRenderer-flow.js:1337:16-25: 
+CanvasRenderer-flow.js:1337:16-27: 
+CanvasRenderer-flow.js:1337:39-41: number
+CanvasRenderer-flow.js:1338:9-14: 
+CanvasRenderer-flow.js:1338:9-28: 
+CanvasRenderer-flow.js:1338:9-31: 
+CanvasRenderer-flow.js:1338:9-42: 
+CanvasRenderer-flow.js:1338:16-25: 
+CanvasRenderer-flow.js:1338:16-27: 
+CanvasRenderer-flow.js:1338:39-41: number
+CanvasRenderer-flow.js:1347:1-8: 
+CanvasRenderer-flow.js:1347:1,1377:2: 
+CanvasRenderer-flow.js:1347:10-19: string
+CanvasRenderer-flow.js:1347:22,1377:1: () => void
+CanvasRenderer-flow.js:1349:5-6: 
+CanvasRenderer-flow.js:1349:5,1376:6: 
+CanvasRenderer-flow.js:1349:8-87: string
+CanvasRenderer-flow.js:1349:90,1376:5: () => void
+CanvasRenderer-flow.js:1351:13-18: 
+CanvasRenderer-flow.js:1351:22-36: 
+CanvasRenderer-flow.js:1351:26-34: 
+CanvasRenderer-flow.js:1353:13-21: 
+CanvasRenderer-flow.js:1353:25-39: 
+CanvasRenderer-flow.js:1353:29-37: 
+CanvasRenderer-flow.js:1355:9-14: 
+CanvasRenderer-flow.js:1355:9-34: 
+CanvasRenderer-flow.js:1355:25-33: 
+CanvasRenderer-flow.js:1357:13-17: 
+CanvasRenderer-flow.js:1357:21-39: 
+CanvasRenderer-flow.js:1357:25-29: 
+CanvasRenderer-flow.js:1357:31-33: number
+CanvasRenderer-flow.js:1357:36-38: number
+CanvasRenderer-flow.js:1359:13-23: 
+CanvasRenderer-flow.js:1361:9-47: 
+CanvasRenderer-flow.js:1361:23-31: 
+CanvasRenderer-flow.js:1361:23-47: 
+CanvasRenderer-flow.js:1361:42-46: 
+CanvasRenderer-flow.js:1363:9-14: 
+CanvasRenderer-flow.js:1363:9-29: 
+CanvasRenderer-flow.js:1363:9-32: 
+CanvasRenderer-flow.js:1363:9-43: 
+CanvasRenderer-flow.js:1363:16-26: 
+CanvasRenderer-flow.js:1363:16-28: 
+CanvasRenderer-flow.js:1363:40-42: number
+CanvasRenderer-flow.js:1364:9-14: 
+CanvasRenderer-flow.js:1364:9-29: 
+CanvasRenderer-flow.js:1364:9-32: 
+CanvasRenderer-flow.js:1364:9-43: 
+CanvasRenderer-flow.js:1364:16-26: 
+CanvasRenderer-flow.js:1364:16-28: 
+CanvasRenderer-flow.js:1364:40-42: number
+CanvasRenderer-flow.js:1366:9-17: 
+CanvasRenderer-flow.js:1366:9-26: 
+CanvasRenderer-flow.js:1366:9-33: number
+CanvasRenderer-flow.js:1366:32-33: number
+CanvasRenderer-flow.js:1367:9-17: 
+CanvasRenderer-flow.js:1367:9-26: 
+CanvasRenderer-flow.js:1367:9-33: number
+CanvasRenderer-flow.js:1367:32-33: number
+CanvasRenderer-flow.js:1369:9-17: 
+CanvasRenderer-flow.js:1369:9-23: 
+CanvasRenderer-flow.js:1369:9-29: number
+CanvasRenderer-flow.js:1369:29: number
+CanvasRenderer-flow.js:1370:9-17: 
+CanvasRenderer-flow.js:1370:9-23: 
+CanvasRenderer-flow.js:1370:9-29: number
+CanvasRenderer-flow.js:1370:29: number
+CanvasRenderer-flow.js:1372:9-47: 
+CanvasRenderer-flow.js:1372:23-31: 
+CanvasRenderer-flow.js:1372:23-47: 
+CanvasRenderer-flow.js:1372:42-46: 
+CanvasRenderer-flow.js:1374:9-14: 
+CanvasRenderer-flow.js:1374:9-29: 
+CanvasRenderer-flow.js:1374:9-32: 
+CanvasRenderer-flow.js:1374:9-43: 
+CanvasRenderer-flow.js:1374:16-26: 
+CanvasRenderer-flow.js:1374:16-28: 
+CanvasRenderer-flow.js:1374:40-42: number
+CanvasRenderer-flow.js:1375:9-14: 
+CanvasRenderer-flow.js:1375:9-29: 
+CanvasRenderer-flow.js:1375:9-32: 
+CanvasRenderer-flow.js:1375:9-43: 
+CanvasRenderer-flow.js:1375:16-26: 
+CanvasRenderer-flow.js:1375:16-28: 
+CanvasRenderer-flow.js:1375:40-42: number
+CanvasRenderer-flow.js:1384:1-8: 
+CanvasRenderer-flow.js:1384:1,1462:2: 
+CanvasRenderer-flow.js:1384:10-15: string
+CanvasRenderer-flow.js:1384:18,1462:1: () => void
+CanvasRenderer-flow.js:1386:5-12: 
+CanvasRenderer-flow.js:1386:5,1461:6: 
+CanvasRenderer-flow.js:1386:14-22: string
+CanvasRenderer-flow.js:1386:25,1461:5: () => void
+CanvasRenderer-flow.js:1388:9-10: 
+CanvasRenderer-flow.js:1388:9,1395:10: 
+CanvasRenderer-flow.js:1388:12-50: string
+CanvasRenderer-flow.js:1388:53,1395:9: () => void
+CanvasRenderer-flow.js:1390:17-20: Text
+CanvasRenderer-flow.js:1390:24-38: Text
+CanvasRenderer-flow.js:1390:28-31: [class: Text]
+CanvasRenderer-flow.js:1390:33-37: string
+CanvasRenderer-flow.js:1392:13-18: 
+CanvasRenderer-flow.js:1392:13-31: 
+CanvasRenderer-flow.js:1392:13-34: 
+CanvasRenderer-flow.js:1392:13-38: 
+CanvasRenderer-flow.js:1392:13-50: 
+CanvasRenderer-flow.js:1392:20-23: Text
+CanvasRenderer-flow.js:1392:20-30: 
+CanvasRenderer-flow.js:1392:46-49: null
+CanvasRenderer-flow.js:1393:13-16: Text
+CanvasRenderer-flow.js:1393:13-26: 
+CanvasRenderer-flow.js:1394:13-18: 
+CanvasRenderer-flow.js:1394:13-31: 
+CanvasRenderer-flow.js:1394:13-34: 
+CanvasRenderer-flow.js:1394:13-46: 
+CanvasRenderer-flow.js:1394:20-23: Text
+CanvasRenderer-flow.js:1394:20-30: 
+CanvasRenderer-flow.js:1394:42-45: null
+CanvasRenderer-flow.js:1397:9-10: 
+CanvasRenderer-flow.js:1397:9,1404:10: 
+CanvasRenderer-flow.js:1397:12-39: string
+CanvasRenderer-flow.js:1397:42,1404:9: () => void
+CanvasRenderer-flow.js:1399:17-20: Text
+CanvasRenderer-flow.js:1399:24-38: Text
+CanvasRenderer-flow.js:1399:28-31: [class: Text]
+CanvasRenderer-flow.js:1399:33-37: string
+CanvasRenderer-flow.js:1401:13-18: 
+CanvasRenderer-flow.js:1401:13-30: 
+CanvasRenderer-flow.js:1401:13-33: 
+CanvasRenderer-flow.js:1401:13-37: 
+CanvasRenderer-flow.js:1401:13-49: 
+CanvasRenderer-flow.js:1401:20-23: Text
+CanvasRenderer-flow.js:1401:20-29: 
+CanvasRenderer-flow.js:1401:45-48: null
+CanvasRenderer-flow.js:1402:13-16: Text
+CanvasRenderer-flow.js:1402:13-26: 
+CanvasRenderer-flow.js:1403:13-18: 
+CanvasRenderer-flow.js:1403:13-30: 
+CanvasRenderer-flow.js:1403:13-33: 
+CanvasRenderer-flow.js:1403:13-45: 
+CanvasRenderer-flow.js:1403:20-23: Text
+CanvasRenderer-flow.js:1403:20-29: 
+CanvasRenderer-flow.js:1403:41-44: null
+CanvasRenderer-flow.js:1406:9-10: 
+CanvasRenderer-flow.js:1406:9,1415:10: 
+CanvasRenderer-flow.js:1406:12-60: string
+CanvasRenderer-flow.js:1406:63,1415:9: () => void
+CanvasRenderer-flow.js:1408:17-20: Text
+CanvasRenderer-flow.js:1408:24-38: Text
+CanvasRenderer-flow.js:1408:28-31: [class: Text]
+CanvasRenderer-flow.js:1408:33-37: string
+CanvasRenderer-flow.js:1409:17-21: 
+CanvasRenderer-flow.js:1409:25-43: 
+CanvasRenderer-flow.js:1409:29-41: 
+CanvasRenderer-flow.js:1411:13-16: Text
+CanvasRenderer-flow.js:1411:13-32: 
+CanvasRenderer-flow.js:1411:27-31: 
+CanvasRenderer-flow.js:1412:13-16: Text
+CanvasRenderer-flow.js:1412:13-44: 
+CanvasRenderer-flow.js:1412:26-43: {children: boolean}
+CanvasRenderer-flow.js:1412:38-41: boolean
+CanvasRenderer-flow.js:1413:13-18: 
+CanvasRenderer-flow.js:1413:13-34: 
+CanvasRenderer-flow.js:1413:13-37: 
+CanvasRenderer-flow.js:1413:13-49: 
+CanvasRenderer-flow.js:1413:20-23: Text
+CanvasRenderer-flow.js:1413:20-33: 
+CanvasRenderer-flow.js:1413:45-48: null
+CanvasRenderer-flow.js:1414:13-18: 
+CanvasRenderer-flow.js:1414:13-35: 
+CanvasRenderer-flow.js:1414:13-38: 
+CanvasRenderer-flow.js:1414:13-50: 
+CanvasRenderer-flow.js:1414:20-24: 
+CanvasRenderer-flow.js:1414:20-34: 
+CanvasRenderer-flow.js:1414:46-49: null
+CanvasRenderer-flow.js:1417:9-10: 
+CanvasRenderer-flow.js:1417:9,1426:10: 
+CanvasRenderer-flow.js:1417:12-44: string
+CanvasRenderer-flow.js:1417:47,1426:9: () => void
+CanvasRenderer-flow.js:1419:17-20: Text
+CanvasRenderer-flow.js:1419:24-38: Text
+CanvasRenderer-flow.js:1419:28-31: [class: Text]
+CanvasRenderer-flow.js:1419:33-37: string
+CanvasRenderer-flow.js:1420:17-21: 
+CanvasRenderer-flow.js:1420:25-43: 
+CanvasRenderer-flow.js:1420:29-41: 
+CanvasRenderer-flow.js:1422:13-16: Text
+CanvasRenderer-flow.js:1422:13-32: 
+CanvasRenderer-flow.js:1422:27-31: 
+CanvasRenderer-flow.js:1423:13-16: Text
+CanvasRenderer-flow.js:1423:13-30: 
+CanvasRenderer-flow.js:1423:26-29: boolean
+CanvasRenderer-flow.js:1424:13-18: 
+CanvasRenderer-flow.js:1424:13-34: 
+CanvasRenderer-flow.js:1424:13-37: 
+CanvasRenderer-flow.js:1424:13-49: 
+CanvasRenderer-flow.js:1424:20-23: Text
+CanvasRenderer-flow.js:1424:20-33: 
+CanvasRenderer-flow.js:1424:45-48: null
+CanvasRenderer-flow.js:1425:13-18: 
+CanvasRenderer-flow.js:1425:13-35: 
+CanvasRenderer-flow.js:1425:13-38: 
+CanvasRenderer-flow.js:1425:13-50: 
+CanvasRenderer-flow.js:1425:20-24: 
+CanvasRenderer-flow.js:1425:20-34: 
+CanvasRenderer-flow.js:1425:46-49: null
+CanvasRenderer-flow.js:1428:9-10: 
+CanvasRenderer-flow.js:1428:9,1442:10: 
+CanvasRenderer-flow.js:1428:12-68: string
+CanvasRenderer-flow.js:1428:71,1442:9: () => void
+CanvasRenderer-flow.js:1430:17-20: Text
+CanvasRenderer-flow.js:1430:24-38: Text
+CanvasRenderer-flow.js:1430:28-31: [class: Text]
+CanvasRenderer-flow.js:1430:33-37: string
+CanvasRenderer-flow.js:1431:17-21: 
+CanvasRenderer-flow.js:1431:25-43: 
+CanvasRenderer-flow.js:1431:29-41: 
+CanvasRenderer-flow.js:1432:17-32: 
+CanvasRenderer-flow.js:1434:13-17: 
+CanvasRenderer-flow.js:1434:13,1437:13: (opts: ) => void
+CanvasRenderer-flow.js:1434:29,1437:13: (opts: ) => void
+CanvasRenderer-flow.js:1434:39-42: 
+CanvasRenderer-flow.js:1436:17-39: 
+CanvasRenderer-flow.js:1436:36-39: 
+CanvasRenderer-flow.js:1439:13-16: Text
+CanvasRenderer-flow.js:1439:13-32: 
+CanvasRenderer-flow.js:1439:27-31: 
+CanvasRenderer-flow.js:1440:13-16: Text
+CanvasRenderer-flow.js:1440:13-59: 
+CanvasRenderer-flow.js:1440:26-58: {children: boolean, texture: boolean}
+CanvasRenderer-flow.js:1440:38-41: boolean
+CanvasRenderer-flow.js:1440:53-56: boolean
+CanvasRenderer-flow.js:1441:13-18: 
+CanvasRenderer-flow.js:1441:13-36: 
+CanvasRenderer-flow.js:1441:13-39: 
+CanvasRenderer-flow.js:1441:13-44: 
+CanvasRenderer-flow.js:1441:13-104: 
+CanvasRenderer-flow.js:1441:20-35: void
+CanvasRenderer-flow.js:1441:52-103: {baseTexture: boolean, children: boolean, texture: boolean}
+CanvasRenderer-flow.js:1441:64-67: boolean
+CanvasRenderer-flow.js:1441:79-82: boolean
+CanvasRenderer-flow.js:1441:98-101: boolean
+CanvasRenderer-flow.js:1444:9-10: 
+CanvasRenderer-flow.js:1444:9,1451:10: 
+CanvasRenderer-flow.js:1444:12-71: string
+CanvasRenderer-flow.js:1444:74,1451:9: () => void
+CanvasRenderer-flow.js:1446:17-20: Text
+CanvasRenderer-flow.js:1446:24-38: Text
+CanvasRenderer-flow.js:1446:28-31: [class: Text]
+CanvasRenderer-flow.js:1446:33-37: string
+CanvasRenderer-flow.js:1448:13-16: Text
+CanvasRenderer-flow.js:1448:13-29: number
+CanvasRenderer-flow.js:1448:27-29: number
+CanvasRenderer-flow.js:1450:13-18: 
+CanvasRenderer-flow.js:1450:13-31: 
+CanvasRenderer-flow.js:1450:13-34: 
+CanvasRenderer-flow.js:1450:13-45: 
+CanvasRenderer-flow.js:1450:20-30: number
+CanvasRenderer-flow.js:1450:42-44: number
+CanvasRenderer-flow.js:1453:9-10: 
+CanvasRenderer-flow.js:1453:9,1460:10: 
+CanvasRenderer-flow.js:1453:12-69: string
+CanvasRenderer-flow.js:1453:72,1460:9: () => void
+CanvasRenderer-flow.js:1455:17-20: Text
+CanvasRenderer-flow.js:1455:24-38: Text
+CanvasRenderer-flow.js:1455:28-31: [class: Text]
+CanvasRenderer-flow.js:1455:33-37: string
+CanvasRenderer-flow.js:1457:13-16: Text
+CanvasRenderer-flow.js:1457:13-28: number
+CanvasRenderer-flow.js:1457:26-28: number
+CanvasRenderer-flow.js:1459:13-18: 
+CanvasRenderer-flow.js:1459:13-30: 
+CanvasRenderer-flow.js:1459:13-33: 
+CanvasRenderer-flow.js:1459:13-44: 
+CanvasRenderer-flow.js:1459:20-29: number
+CanvasRenderer-flow.js:1459:41-43: number
+CanvasRenderer-flow.js:1469:1-8: 
+CanvasRenderer-flow.js:1469:1,1530:2: 
+CanvasRenderer-flow.js:1469:10-17: string
+CanvasRenderer-flow.js:1469:20,1530:1: () => void
+CanvasRenderer-flow.js:1471:5-12: 
+CanvasRenderer-flow.js:1471:5,1499:6: 
+CanvasRenderer-flow.js:1471:14-20: string
+CanvasRenderer-flow.js:1471:23,1499:5: () => void
+CanvasRenderer-flow.js:1473:9-10: 
+CanvasRenderer-flow.js:1473:9,1481:10: 
+CanvasRenderer-flow.js:1473:12-56: string
+CanvasRenderer-flow.js:1473:59,1481:9: () => void
+CanvasRenderer-flow.js:1475:17-22: 
+CanvasRenderer-flow.js:1475:26-37: 
+CanvasRenderer-flow.js:1475:30-35: 
+CanvasRenderer-flow.js:1477:13-18: 
+CanvasRenderer-flow.js:1477:13-30: number
+CanvasRenderer-flow.js:1477:28-30: number
+CanvasRenderer-flow.js:1478:13-18: 
+CanvasRenderer-flow.js:1478:13-32: 
+CanvasRenderer-flow.js:1478:13-35: 
+CanvasRenderer-flow.js:1478:13-38: 
+CanvasRenderer-flow.js:1478:13-41: 
+CanvasRenderer-flow.js:1478:13-50: 
+CanvasRenderer-flow.js:1478:20-31: number
+CanvasRenderer-flow.js:1478:49: number
+CanvasRenderer-flow.js:1479:13-18: 
+CanvasRenderer-flow.js:1479:13-24: 
+CanvasRenderer-flow.js:1479:13-31: number
+CanvasRenderer-flow.js:1479:30-31: number
+CanvasRenderer-flow.js:1479:31: number
+CanvasRenderer-flow.js:1480:13-18: 
+CanvasRenderer-flow.js:1480:13-32: 
+CanvasRenderer-flow.js:1480:13-35: 
+CanvasRenderer-flow.js:1480:13-38: 
+CanvasRenderer-flow.js:1480:13-41: 
+CanvasRenderer-flow.js:1480:13-50: 
+CanvasRenderer-flow.js:1480:20-25: 
+CanvasRenderer-flow.js:1480:20-31: 
+CanvasRenderer-flow.js:1480:49: number
+CanvasRenderer-flow.js:1483:9-10: 
+CanvasRenderer-flow.js:1483:9,1498:10: 
+CanvasRenderer-flow.js:1483:12-46: string
+CanvasRenderer-flow.js:1483:49,1498:9: () => void
+CanvasRenderer-flow.js:1485:17-23: 
+CanvasRenderer-flow.js:1485:27-56: 
+CanvasRenderer-flow.js:1485:31-37: 
+CanvasRenderer-flow.js:1485:39-55: 
+CanvasRenderer-flow.js:1485:43-53: 
+CanvasRenderer-flow.js:1486:17-22: 
+CanvasRenderer-flow.js:1486:26-37: 
+CanvasRenderer-flow.js:1486:30-35: 
+CanvasRenderer-flow.js:1488:13-19: 
+CanvasRenderer-flow.js:1488:13-24: 
+CanvasRenderer-flow.js:1488:13-36: number
+CanvasRenderer-flow.js:1488:34-36: number
+CanvasRenderer-flow.js:1489:13-18: 
+CanvasRenderer-flow.js:1489:13-24: 
+CanvasRenderer-flow.js:1489:13-30: number
+CanvasRenderer-flow.js:1489:30: number
+CanvasRenderer-flow.js:1490:13-18: 
+CanvasRenderer-flow.js:1490:13-29: number
+CanvasRenderer-flow.js:1490:28-29: number
+CanvasRenderer-flow.js:1492:13-18: 
+CanvasRenderer-flow.js:1492:13-34: 
+CanvasRenderer-flow.js:1492:13-37: 
+CanvasRenderer-flow.js:1492:13-40: 
+CanvasRenderer-flow.js:1492:13-49: 
+CanvasRenderer-flow.js:1492:20-33: number
+CanvasRenderer-flow.js:1492:48: number
+CanvasRenderer-flow.js:1494:13-18: 
+CanvasRenderer-flow.js:1494:13-24: 
+CanvasRenderer-flow.js:1494:13-31: number
+CanvasRenderer-flow.js:1494:30-31: number
+CanvasRenderer-flow.js:1494:31: number
+CanvasRenderer-flow.js:1495:13-18: 
+CanvasRenderer-flow.js:1495:13-29: number
+CanvasRenderer-flow.js:1495:28-29: number
+CanvasRenderer-flow.js:1497:13-18: 
+CanvasRenderer-flow.js:1497:13-34: 
+CanvasRenderer-flow.js:1497:13-37: 
+CanvasRenderer-flow.js:1497:13-40: 
+CanvasRenderer-flow.js:1497:13-49: 
+CanvasRenderer-flow.js:1497:20-33: number
+CanvasRenderer-flow.js:1497:48: number
+CanvasRenderer-flow.js:1501:5-12: 
+CanvasRenderer-flow.js:1501:5,1529:6: 
+CanvasRenderer-flow.js:1501:14-21: string
+CanvasRenderer-flow.js:1501:24,1529:5: () => void
+CanvasRenderer-flow.js:1503:9-10: 
+CanvasRenderer-flow.js:1503:9,1511:10: 
+CanvasRenderer-flow.js:1503:12-56: string
+CanvasRenderer-flow.js:1503:59,1511:9: () => void
+CanvasRenderer-flow.js:1505:17-22: 
+CanvasRenderer-flow.js:1505:26-37: 
+CanvasRenderer-flow.js:1505:30-35: 
+CanvasRenderer-flow.js:1507:13-18: 
+CanvasRenderer-flow.js:1507:13-31: number
+CanvasRenderer-flow.js:1507:29-31: number
+CanvasRenderer-flow.js:1508:13-18: 
+CanvasRenderer-flow.js:1508:13-33: 
+CanvasRenderer-flow.js:1508:13-36: 
+CanvasRenderer-flow.js:1508:13-39: 
+CanvasRenderer-flow.js:1508:13-42: 
+CanvasRenderer-flow.js:1508:13-51: 
+CanvasRenderer-flow.js:1508:20-32: number
+CanvasRenderer-flow.js:1508:50: number
+CanvasRenderer-flow.js:1509:13-18: 
+CanvasRenderer-flow.js:1509:13-24: 
+CanvasRenderer-flow.js:1509:13-31: number
+CanvasRenderer-flow.js:1509:30-31: number
+CanvasRenderer-flow.js:1509:31: number
+CanvasRenderer-flow.js:1510:13-18: 
+CanvasRenderer-flow.js:1510:13-33: 
+CanvasRenderer-flow.js:1510:13-36: 
+CanvasRenderer-flow.js:1510:13-39: 
+CanvasRenderer-flow.js:1510:13-42: 
+CanvasRenderer-flow.js:1510:13-51: 
+CanvasRenderer-flow.js:1510:20-25: 
+CanvasRenderer-flow.js:1510:20-32: 
+CanvasRenderer-flow.js:1510:50: number
+CanvasRenderer-flow.js:1513:9-10: 
+CanvasRenderer-flow.js:1513:9,1528:10: 
+CanvasRenderer-flow.js:1513:12-46: string
+CanvasRenderer-flow.js:1513:49,1528:9: () => void
+CanvasRenderer-flow.js:1515:17-23: 
+CanvasRenderer-flow.js:1515:27-56: 
+CanvasRenderer-flow.js:1515:31-37: 
+CanvasRenderer-flow.js:1515:39-55: 
+CanvasRenderer-flow.js:1515:43-53: 
+CanvasRenderer-flow.js:1516:17-22: 
+CanvasRenderer-flow.js:1516:26-37: 
+CanvasRenderer-flow.js:1516:30-35: 
+CanvasRenderer-flow.js:1518:13-19: 
+CanvasRenderer-flow.js:1518:13-24: 
+CanvasRenderer-flow.js:1518:13-37: number
+CanvasRenderer-flow.js:1518:35-37: number
+CanvasRenderer-flow.js:1519:13-18: 
+CanvasRenderer-flow.js:1519:13-24: 
+CanvasRenderer-flow.js:1519:13-30: number
+CanvasRenderer-flow.js:1519:30: number
+CanvasRenderer-flow.js:1520:13-18: 
+CanvasRenderer-flow.js:1520:13-30: number
+CanvasRenderer-flow.js:1520:29-30: number
+CanvasRenderer-flow.js:1522:13-18: 
+CanvasRenderer-flow.js:1522:13-34: 
+CanvasRenderer-flow.js:1522:13-37: 
+CanvasRenderer-flow.js:1522:13-40: 
+CanvasRenderer-flow.js:1522:13-49: 
+CanvasRenderer-flow.js:1522:20-33: number
+CanvasRenderer-flow.js:1522:48: number
+CanvasRenderer-flow.js:1524:13-18: 
+CanvasRenderer-flow.js:1524:13-24: 
+CanvasRenderer-flow.js:1524:13-31: number
+CanvasRenderer-flow.js:1524:30-31: number
+CanvasRenderer-flow.js:1524:31: number
+CanvasRenderer-flow.js:1525:13-18: 
+CanvasRenderer-flow.js:1525:13-30: number
+CanvasRenderer-flow.js:1525:29-30: number
+CanvasRenderer-flow.js:1527:13-18: 
+CanvasRenderer-flow.js:1527:13-34: 
+CanvasRenderer-flow.js:1527:13-37: 
+CanvasRenderer-flow.js:1527:13-40: 
+CanvasRenderer-flow.js:1527:13-49: 
+CanvasRenderer-flow.js:1527:20-33: number
+CanvasRenderer-flow.js:1527:48: number
+CanvasRenderer-flow.js:1537:1-8: 
+CanvasRenderer-flow.js:1537:1,1675:2: 
+CanvasRenderer-flow.js:1537:10-25: string
+CanvasRenderer-flow.js:1537:28,1675:1: () => void
+CanvasRenderer-flow.js:1539:5-6: 
+CanvasRenderer-flow.js:1539:5,1569:6: 
+CanvasRenderer-flow.js:1539:8-66: string
+CanvasRenderer-flow.js:1539:69,1569:5: () => void
+CanvasRenderer-flow.js:1541:13-18: 
+CanvasRenderer-flow.js:1541:22-36: 
+CanvasRenderer-flow.js:1541:26-34: 
+CanvasRenderer-flow.js:1542:13-19: 
+CanvasRenderer-flow.js:1542:23-35: 
+CanvasRenderer-flow.js:1542:23-50: 
+CanvasRenderer-flow.js:1542:44-45: number
+CanvasRenderer-flow.js:1542:48-49: number
+CanvasRenderer-flow.js:1544:13-18: 
+CanvasRenderer-flow.js:1544:22-40: 
+CanvasRenderer-flow.js:1544:26-31: 
+CanvasRenderer-flow.js:1544:33-39: 
+CanvasRenderer-flow.js:1546:9-14: 
+CanvasRenderer-flow.js:1546:9-31: 
+CanvasRenderer-flow.js:1546:25-30: 
+CanvasRenderer-flow.js:1548:13-18: 
+CanvasRenderer-flow.js:1550:9-40: 
+CanvasRenderer-flow.js:1550:18-23: 
+CanvasRenderer-flow.js:1550:18-40: 
+CanvasRenderer-flow.js:1552:9-14: 
+CanvasRenderer-flow.js:1552:9-24: 
+CanvasRenderer-flow.js:1552:9-27: 
+CanvasRenderer-flow.js:1552:9-36: 
+CanvasRenderer-flow.js:1552:16-21: 
+CanvasRenderer-flow.js:1552:16-23: 
+CanvasRenderer-flow.js:1552:35: number
+CanvasRenderer-flow.js:1553:9-14: 
+CanvasRenderer-flow.js:1553:9-24: 
+CanvasRenderer-flow.js:1553:9-27: 
+CanvasRenderer-flow.js:1553:9-36: 
+CanvasRenderer-flow.js:1553:16-21: 
+CanvasRenderer-flow.js:1553:16-23: 
+CanvasRenderer-flow.js:1553:35: number
+CanvasRenderer-flow.js:1554:9-14: 
+CanvasRenderer-flow.js:1554:9-28: 
+CanvasRenderer-flow.js:1554:9-31: 
+CanvasRenderer-flow.js:1554:9-41: 
+CanvasRenderer-flow.js:1554:16-21: 
+CanvasRenderer-flow.js:1554:16-27: 
+CanvasRenderer-flow.js:1554:39-40: number
+CanvasRenderer-flow.js:1555:9-14: 
+CanvasRenderer-flow.js:1555:9-29: 
+CanvasRenderer-flow.js:1555:9-32: 
+CanvasRenderer-flow.js:1555:9-42: 
+CanvasRenderer-flow.js:1555:16-21: 
+CanvasRenderer-flow.js:1555:16-28: 
+CanvasRenderer-flow.js:1555:40-41: number
+CanvasRenderer-flow.js:1557:9-14: 
+CanvasRenderer-flow.js:1557:9-23: 
+CanvasRenderer-flow.js:1557:9-30: number
+CanvasRenderer-flow.js:1557:29-30: number
+CanvasRenderer-flow.js:1558:9-14: 
+CanvasRenderer-flow.js:1558:9-23: 
+CanvasRenderer-flow.js:1558:9-30: number
+CanvasRenderer-flow.js:1558:29-30: number
+CanvasRenderer-flow.js:1560:9-14: 
+CanvasRenderer-flow.js:1560:9-20: 
+CanvasRenderer-flow.js:1560:9-26: number
+CanvasRenderer-flow.js:1560:26: number
+CanvasRenderer-flow.js:1561:9-14: 
+CanvasRenderer-flow.js:1561:9-20: 
+CanvasRenderer-flow.js:1561:9-26: number
+CanvasRenderer-flow.js:1561:26: number
+CanvasRenderer-flow.js:1563:9-40: 
+CanvasRenderer-flow.js:1563:18-23: 
+CanvasRenderer-flow.js:1563:18-40: 
+CanvasRenderer-flow.js:1565:9-14: 
+CanvasRenderer-flow.js:1565:9-24: 
+CanvasRenderer-flow.js:1565:9-27: 
+CanvasRenderer-flow.js:1565:9-36: 
+CanvasRenderer-flow.js:1565:16-21: 
+CanvasRenderer-flow.js:1565:16-23: 
+CanvasRenderer-flow.js:1565:35: number
+CanvasRenderer-flow.js:1566:9-14: 
+CanvasRenderer-flow.js:1566:9-24: 
+CanvasRenderer-flow.js:1566:9-27: 
+CanvasRenderer-flow.js:1566:9-36: 
+CanvasRenderer-flow.js:1566:16-21: 
+CanvasRenderer-flow.js:1566:16-23: 
+CanvasRenderer-flow.js:1566:35: number
+CanvasRenderer-flow.js:1567:9-14: 
+CanvasRenderer-flow.js:1567:9-28: 
+CanvasRenderer-flow.js:1567:9-31: 
+CanvasRenderer-flow.js:1567:9-41: 
+CanvasRenderer-flow.js:1567:16-21: 
+CanvasRenderer-flow.js:1567:16-27: 
+CanvasRenderer-flow.js:1567:39-40: number
+CanvasRenderer-flow.js:1568:9-14: 
+CanvasRenderer-flow.js:1568:9-29: 
+CanvasRenderer-flow.js:1568:9-32: 
+CanvasRenderer-flow.js:1568:9-42: 
+CanvasRenderer-flow.js:1568:16-21: 
+CanvasRenderer-flow.js:1568:16-28: 
+CanvasRenderer-flow.js:1568:40-41: number
+CanvasRenderer-flow.js:1571:5-6: 
+CanvasRenderer-flow.js:1571:5,1589:6: 
+CanvasRenderer-flow.js:1571:8-59: string
+CanvasRenderer-flow.js:1571:62,1589:5: () => void
+CanvasRenderer-flow.js:1573:13-18: 
+CanvasRenderer-flow.js:1573:22-36: 
+CanvasRenderer-flow.js:1573:26-34: 
+CanvasRenderer-flow.js:1575:13-20: 
+CanvasRenderer-flow.js:1575:24-37: 
+CanvasRenderer-flow.js:1575:28-35: 
+CanvasRenderer-flow.js:1577:9-16: 
+CanvasRenderer-flow.js:1577:9-36: 
+CanvasRenderer-flow.js:1577:9-57: 
+CanvasRenderer-flow.js:1577:28-35: number
+CanvasRenderer-flow.js:1577:49: number
+CanvasRenderer-flow.js:1577:52: number
+CanvasRenderer-flow.js:1577:55-56: number
+CanvasRenderer-flow.js:1579:9-16: 
+CanvasRenderer-flow.js:1579:9-22: 
+CanvasRenderer-flow.js:1579:9-29: 
+CanvasRenderer-flow.js:1579:28: number
+CanvasRenderer-flow.js:1581:9-14: 
+CanvasRenderer-flow.js:1581:9-33: 
+CanvasRenderer-flow.js:1581:25-32: 
+CanvasRenderer-flow.js:1583:13-18: 
+CanvasRenderer-flow.js:1583:22-29: 
+CanvasRenderer-flow.js:1583:22-46: 
+CanvasRenderer-flow.js:1585:9-14: 
+CanvasRenderer-flow.js:1585:9-24: 
+CanvasRenderer-flow.js:1585:9-27: 
+CanvasRenderer-flow.js:1585:9-38: 
+CanvasRenderer-flow.js:1585:16-21: 
+CanvasRenderer-flow.js:1585:16-23: 
+CanvasRenderer-flow.js:1585:35-37: number
+CanvasRenderer-flow.js:1585:36-37: number
+CanvasRenderer-flow.js:1586:9-14: 
+CanvasRenderer-flow.js:1586:9-24: 
+CanvasRenderer-flow.js:1586:9-27: 
+CanvasRenderer-flow.js:1586:9-38: 
+CanvasRenderer-flow.js:1586:16-21: 
+CanvasRenderer-flow.js:1586:16-23: 
+CanvasRenderer-flow.js:1586:35-37: number
+CanvasRenderer-flow.js:1586:36-37: number
+CanvasRenderer-flow.js:1587:9-14: 
+CanvasRenderer-flow.js:1587:9-28: 
+CanvasRenderer-flow.js:1587:9-31: 
+CanvasRenderer-flow.js:1587:9-41: 
+CanvasRenderer-flow.js:1587:16-21: 
+CanvasRenderer-flow.js:1587:16-27: 
+CanvasRenderer-flow.js:1587:39-40: number
+CanvasRenderer-flow.js:1588:9-14: 
+CanvasRenderer-flow.js:1588:9-29: 
+CanvasRenderer-flow.js:1588:9-32: 
+CanvasRenderer-flow.js:1588:9-42: 
+CanvasRenderer-flow.js:1588:16-21: 
+CanvasRenderer-flow.js:1588:16-28: 
+CanvasRenderer-flow.js:1588:40-41: number
+CanvasRenderer-flow.js:1591:5-6: 
+CanvasRenderer-flow.js:1591:5,1605:6: 
+CanvasRenderer-flow.js:1591:8-69: string
+CanvasRenderer-flow.js:1591:72,1605:5: () => void
+CanvasRenderer-flow.js:1593:13-18: 
+CanvasRenderer-flow.js:1593:22-36: 
+CanvasRenderer-flow.js:1593:26-34: 
+CanvasRenderer-flow.js:1595:13-21: 
+CanvasRenderer-flow.js:1595:25-39: 
+CanvasRenderer-flow.js:1595:29-37: 
+CanvasRenderer-flow.js:1597:9-14: 
+CanvasRenderer-flow.js:1597:9-34: 
+CanvasRenderer-flow.js:1597:25-33: 
+CanvasRenderer-flow.js:1599:13-18: 
+CanvasRenderer-flow.js:1599:22-30: 
+CanvasRenderer-flow.js:1599:22-47: 
+CanvasRenderer-flow.js:1601:9-14: 
+CanvasRenderer-flow.js:1601:9-24: 
+CanvasRenderer-flow.js:1601:9-27: 
+CanvasRenderer-flow.js:1601:9-36: 
+CanvasRenderer-flow.js:1601:16-21: 
+CanvasRenderer-flow.js:1601:16-23: 
+CanvasRenderer-flow.js:1601:35: number
+CanvasRenderer-flow.js:1602:9-14: 
+CanvasRenderer-flow.js:1602:9-24: 
+CanvasRenderer-flow.js:1602:9-27: 
+CanvasRenderer-flow.js:1602:9-36: 
+CanvasRenderer-flow.js:1602:16-21: 
+CanvasRenderer-flow.js:1602:16-23: 
+CanvasRenderer-flow.js:1602:35: number
+CanvasRenderer-flow.js:1603:9-14: 
+CanvasRenderer-flow.js:1603:9-28: 
+CanvasRenderer-flow.js:1603:9-31: 
+CanvasRenderer-flow.js:1603:9-40: 
+CanvasRenderer-flow.js:1603:16-21: 
+CanvasRenderer-flow.js:1603:16-27: 
+CanvasRenderer-flow.js:1603:39: number
+CanvasRenderer-flow.js:1604:9-14: 
+CanvasRenderer-flow.js:1604:9-29: 
+CanvasRenderer-flow.js:1604:9-32: 
+CanvasRenderer-flow.js:1604:9-41: 
+CanvasRenderer-flow.js:1604:16-21: 
+CanvasRenderer-flow.js:1604:16-28: 
+CanvasRenderer-flow.js:1604:40: number
+CanvasRenderer-flow.js:1607:5-6: 
+CanvasRenderer-flow.js:1607:5,1627:6: 
+CanvasRenderer-flow.js:1607:8-112: string
+CanvasRenderer-flow.js:1607:115,1627:5: () => void
+CanvasRenderer-flow.js:1609:13-18: 
+CanvasRenderer-flow.js:1609:22-36: 
+CanvasRenderer-flow.js:1609:26-34: 
+CanvasRenderer-flow.js:1611:13-21: 
+CanvasRenderer-flow.js:1611:25-39: 
+CanvasRenderer-flow.js:1611:29-37: 
+CanvasRenderer-flow.js:1613:13-20: 
+CanvasRenderer-flow.js:1613:24-37: 
+CanvasRenderer-flow.js:1613:24-57: 
+CanvasRenderer-flow.js:1613:24-80: 
+CanvasRenderer-flow.js:1613:28-35: 
+CanvasRenderer-flow.js:1613:49-56: number
+CanvasRenderer-flow.js:1613:68: number
+CanvasRenderer-flow.js:1613:71: number
+CanvasRenderer-flow.js:1613:74-75: number
+CanvasRenderer-flow.js:1613:78-79: number
+CanvasRenderer-flow.js:1615:9-14: 
+CanvasRenderer-flow.js:1615:9-34: 
+CanvasRenderer-flow.js:1615:25-33: 
+CanvasRenderer-flow.js:1616:9-17: 
+CanvasRenderer-flow.js:1616:9-36: 
+CanvasRenderer-flow.js:1616:28-35: 
+CanvasRenderer-flow.js:1618:9-17: 
+CanvasRenderer-flow.js:1618:9-26: 
+CanvasRenderer-flow.js:1618:9-34: number
+CanvasRenderer-flow.js:1618:32-34: number
+CanvasRenderer-flow.js:1619:9-17: 
+CanvasRenderer-flow.js:1619:9-26: 
+CanvasRenderer-flow.js:1619:9-34: number
+CanvasRenderer-flow.js:1619:32-34: number
+CanvasRenderer-flow.js:1621:13-18: 
+CanvasRenderer-flow.js:1621:22-30: 
+CanvasRenderer-flow.js:1621:22-47: 
+CanvasRenderer-flow.js:1623:9-14: 
+CanvasRenderer-flow.js:1623:9-24: 
+CanvasRenderer-flow.js:1623:9-27: 
+CanvasRenderer-flow.js:1623:9-36: 
+CanvasRenderer-flow.js:1623:16-21: 
+CanvasRenderer-flow.js:1623:16-23: 
+CanvasRenderer-flow.js:1623:35: number
+CanvasRenderer-flow.js:1624:9-14: 
+CanvasRenderer-flow.js:1624:9-24: 
+CanvasRenderer-flow.js:1624:9-27: 
+CanvasRenderer-flow.js:1624:9-36: 
+CanvasRenderer-flow.js:1624:16-21: 
+CanvasRenderer-flow.js:1624:16-23: 
+CanvasRenderer-flow.js:1624:35: number
+CanvasRenderer-flow.js:1625:9-14: 
+CanvasRenderer-flow.js:1625:9-28: 
+CanvasRenderer-flow.js:1625:9-31: 
+CanvasRenderer-flow.js:1625:9-41: 
+CanvasRenderer-flow.js:1625:16-21: 
+CanvasRenderer-flow.js:1625:16-27: 
+CanvasRenderer-flow.js:1625:39-40: number
+CanvasRenderer-flow.js:1626:9-14: 
+CanvasRenderer-flow.js:1626:9-29: 
+CanvasRenderer-flow.js:1626:9-32: 
+CanvasRenderer-flow.js:1626:9-42: 
+CanvasRenderer-flow.js:1626:16-21: 
+CanvasRenderer-flow.js:1626:16-28: 
+CanvasRenderer-flow.js:1626:40-41: number
+CanvasRenderer-flow.js:1629:5-6: 
+CanvasRenderer-flow.js:1629:5,1648:6: 
+CanvasRenderer-flow.js:1629:8-57: string
+CanvasRenderer-flow.js:1629:60,1648:5: () => void
+CanvasRenderer-flow.js:1631:13-18: 
+CanvasRenderer-flow.js:1631:22-36: 
+CanvasRenderer-flow.js:1631:26-34: 
+CanvasRenderer-flow.js:1633:13-19: 
+CanvasRenderer-flow.js:1633:23-35: 
+CanvasRenderer-flow.js:1633:23-50: 
+CanvasRenderer-flow.js:1633:44-45: number
+CanvasRenderer-flow.js:1633:48-49: number
+CanvasRenderer-flow.js:1635:13-17: 
+CanvasRenderer-flow.js:1635:21-43: 
+CanvasRenderer-flow.js:1635:25-28: 
+CanvasRenderer-flow.js:1635:25-34: 
+CanvasRenderer-flow.js:1635:36-42: 
+CanvasRenderer-flow.js:1637:9-14: 
+CanvasRenderer-flow.js:1637:9-30: 
+CanvasRenderer-flow.js:1637:25-29: 
+CanvasRenderer-flow.js:1639:9-13: 
+CanvasRenderer-flow.js:1639:9-22: 
+CanvasRenderer-flow.js:1639:9-29: number
+CanvasRenderer-flow.js:1639:28-29: number
+CanvasRenderer-flow.js:1640:9-13: 
+CanvasRenderer-flow.js:1640:9-22: 
+CanvasRenderer-flow.js:1640:9-29: number
+CanvasRenderer-flow.js:1640:28-29: number
+CanvasRenderer-flow.js:1642:13-18: 
+CanvasRenderer-flow.js:1642:22-26: 
+CanvasRenderer-flow.js:1642:22-43: 
+CanvasRenderer-flow.js:1644:9-14: 
+CanvasRenderer-flow.js:1644:9-24: 
+CanvasRenderer-flow.js:1644:9-27: 
+CanvasRenderer-flow.js:1644:9-36: 
+CanvasRenderer-flow.js:1644:16-21: 
+CanvasRenderer-flow.js:1644:16-23: 
+CanvasRenderer-flow.js:1644:35: number
+CanvasRenderer-flow.js:1645:9-14: 
+CanvasRenderer-flow.js:1645:9-24: 
+CanvasRenderer-flow.js:1645:9-27: 
+CanvasRenderer-flow.js:1645:9-36: 
+CanvasRenderer-flow.js:1645:16-21: 
+CanvasRenderer-flow.js:1645:16-23: 
+CanvasRenderer-flow.js:1645:35: number
+CanvasRenderer-flow.js:1646:9-14: 
+CanvasRenderer-flow.js:1646:9-28: 
+CanvasRenderer-flow.js:1646:9-31: 
+CanvasRenderer-flow.js:1646:9-41: 
+CanvasRenderer-flow.js:1646:16-21: 
+CanvasRenderer-flow.js:1646:16-27: 
+CanvasRenderer-flow.js:1646:39-40: number
+CanvasRenderer-flow.js:1647:9-14: 
+CanvasRenderer-flow.js:1647:9-29: 
+CanvasRenderer-flow.js:1647:9-32: 
+CanvasRenderer-flow.js:1647:9-42: 
+CanvasRenderer-flow.js:1647:16-21: 
+CanvasRenderer-flow.js:1647:16-28: 
+CanvasRenderer-flow.js:1647:40-41: number
+CanvasRenderer-flow.js:1650:5-6: 
+CanvasRenderer-flow.js:1650:5,1674:6: 
+CanvasRenderer-flow.js:1650:8-92: string
+CanvasRenderer-flow.js:1650:95,1674:5: () => void
+CanvasRenderer-flow.js:1652:13-18: 
+CanvasRenderer-flow.js:1652:22-36: 
+CanvasRenderer-flow.js:1652:26-34: 
+CanvasRenderer-flow.js:1654:13-19: 
+CanvasRenderer-flow.js:1654:23-36: 
+CanvasRenderer-flow.js:1654:27-34: 
+CanvasRenderer-flow.js:1656:9-15: 
+CanvasRenderer-flow.js:1656:9-35: 
+CanvasRenderer-flow.js:1656:27-34: number
+CanvasRenderer-flow.js:1657:9-15: 
+CanvasRenderer-flow.js:1657:9-40: 
+CanvasRenderer-flow.js:1657:26: number
+CanvasRenderer-flow.js:1657:29: number
+CanvasRenderer-flow.js:1657:32-34: number
+CanvasRenderer-flow.js:1657:37-39: number
+CanvasRenderer-flow.js:1658:9-15: 
+CanvasRenderer-flow.js:1658:9-25: 
+CanvasRenderer-flow.js:1659:9-15: 
+CanvasRenderer-flow.js:1659:9-36: boolean
+CanvasRenderer-flow.js:1659:33-36: boolean
+CanvasRenderer-flow.js:1661:9-14: 
+CanvasRenderer-flow.js:1661:9-32: 
+CanvasRenderer-flow.js:1661:25-31: 
+CanvasRenderer-flow.js:1663:13-20: CanvasRenderer
+CanvasRenderer-flow.js:1663:24-51: CanvasRenderer
+CanvasRenderer-flow.js:1663:28-41: [class: CanvasRenderer]
+CanvasRenderer-flow.js:1663:43-45: number
+CanvasRenderer-flow.js:1663:48-50: number
+CanvasRenderer-flow.js:1665:9-16: CanvasRenderer
+CanvasRenderer-flow.js:1665:9-55: () => void
+CanvasRenderer-flow.js:1665:29-55: () => void
+CanvasRenderer-flow.js:1666:9-16: CanvasRenderer
+CanvasRenderer-flow.js:1666:9-31: void
+CanvasRenderer-flow.js:1666:25-30: 
+CanvasRenderer-flow.js:1668:13-18: 
+CanvasRenderer-flow.js:1668:22-27: 
+CanvasRenderer-flow.js:1668:22-44: 
+CanvasRenderer-flow.js:1670:9-14: 
+CanvasRenderer-flow.js:1670:9-24: 
+CanvasRenderer-flow.js:1670:9-27: 
+CanvasRenderer-flow.js:1670:9-36: 
+CanvasRenderer-flow.js:1670:16-21: 
+CanvasRenderer-flow.js:1670:16-23: 
+CanvasRenderer-flow.js:1670:35: number
+CanvasRenderer-flow.js:1671:9-14: 
+CanvasRenderer-flow.js:1671:9-24: 
+CanvasRenderer-flow.js:1671:9-27: 
+CanvasRenderer-flow.js:1671:9-36: 
+CanvasRenderer-flow.js:1671:16-21: 
+CanvasRenderer-flow.js:1671:16-23: 
+CanvasRenderer-flow.js:1671:35: number
+CanvasRenderer-flow.js:1672:9-14: 
+CanvasRenderer-flow.js:1672:9-28: 
+CanvasRenderer-flow.js:1672:9-31: 
+CanvasRenderer-flow.js:1672:9-42: 
+CanvasRenderer-flow.js:1672:16-21: 
+CanvasRenderer-flow.js:1672:16-27: 
+CanvasRenderer-flow.js:1672:39-41: number
+CanvasRenderer-flow.js:1673:9-14: 
+CanvasRenderer-flow.js:1673:9-29: 
+CanvasRenderer-flow.js:1673:9-32: 
+CanvasRenderer-flow.js:1673:9-43: 
+CanvasRenderer-flow.js:1673:16-21: 
+CanvasRenderer-flow.js:1673:16-28: 
+CanvasRenderer-flow.js:1673:40-42: number
+CanvasRenderer-flow.js:1682:1-8: 
+CanvasRenderer-flow.js:1682:1,1694:2: 
+CanvasRenderer-flow.js:1682:10-24: string
+CanvasRenderer-flow.js:1682:27,1694:1: () => void
+CanvasRenderer-flow.js:1684:5-6: 
+CanvasRenderer-flow.js:1684:5,1693:6: 
+CanvasRenderer-flow.js:1684:8-52: string
+CanvasRenderer-flow.js:1684:55,1693:5: () => void
+CanvasRenderer-flow.js:1686:13-17: 
+CanvasRenderer-flow.js:1686:21-39: 
+CanvasRenderer-flow.js:1686:25-37: 
+CanvasRenderer-flow.js:1687:13-21: 
+CanvasRenderer-flow.js:1687:25-39: 
+CanvasRenderer-flow.js:1687:29-37: 
+CanvasRenderer-flow.js:1689:9-14: 
+CanvasRenderer-flow.js:1689:9-41: 
+CanvasRenderer-flow.js:1689:9-44: 
+CanvasRenderer-flow.js:1689:9-53: 
+CanvasRenderer-flow.js:1689:16-24: 
+CanvasRenderer-flow.js:1689:16-33: 
+CanvasRenderer-flow.js:1689:16-40: 
+CanvasRenderer-flow.js:1689:52: number
+CanvasRenderer-flow.js:1690:9-13: 
+CanvasRenderer-flow.js:1690:9-34: 
+CanvasRenderer-flow.js:1690:25-33: 
+CanvasRenderer-flow.js:1691:9-14: 
+CanvasRenderer-flow.js:1691:9-41: 
+CanvasRenderer-flow.js:1691:9-44: 
+CanvasRenderer-flow.js:1691:9-53: 
+CanvasRenderer-flow.js:1691:16-24: 
+CanvasRenderer-flow.js:1691:16-33: 
+CanvasRenderer-flow.js:1691:16-40: 
+CanvasRenderer-flow.js:1691:52: number
+CanvasRenderer-flow.js:1692:9-14: 
+CanvasRenderer-flow.js:1692:9-28: 
+CanvasRenderer-flow.js:1692:9-31: 
+CanvasRenderer-flow.js:1692:9-48: 
+CanvasRenderer-flow.js:1692:16-20: 
+CanvasRenderer-flow.js:1692:16-27: 
+CanvasRenderer-flow.js:1692:39-47: 
+CanvasRenderer-flow.js:1701:1-8: 
+CanvasRenderer-flow.js:1701:1,1748:2: 
+CanvasRenderer-flow.js:1701:10-20: string
+CanvasRenderer-flow.js:1701:23,1748:1: () => void
+CanvasRenderer-flow.js:1703:5-12: 
+CanvasRenderer-flow.js:1703:5,1715:6: 
+CanvasRenderer-flow.js:1703:14-21: string
+CanvasRenderer-flow.js:1703:24,1715:5: () => void
+CanvasRenderer-flow.js:1705:9-10: 
+CanvasRenderer-flow.js:1705:9,1714:10: 
+CanvasRenderer-flow.js:1705:12-64: string
+CanvasRenderer-flow.js:1705:67,1714:9: () => void
+CanvasRenderer-flow.js:1707:17-25: 
+CanvasRenderer-flow.js:1707:29-43: 
+CanvasRenderer-flow.js:1707:33-41: 
+CanvasRenderer-flow.js:1708:17-21: 
+CanvasRenderer-flow.js:1708:25-43: 
+CanvasRenderer-flow.js:1708:29-41: 
+CanvasRenderer-flow.js:1710:13-18: 
+CanvasRenderer-flow.js:1710:13-45: 
+CanvasRenderer-flow.js:1710:13-48: 
+CanvasRenderer-flow.js:1710:13-51: 
+CanvasRenderer-flow.js:1710:13-61: 
+CanvasRenderer-flow.js:1710:20-28: 
+CanvasRenderer-flow.js:1710:20-37: 
+CanvasRenderer-flow.js:1710:20-44: 
+CanvasRenderer-flow.js:1710:60: number
+CanvasRenderer-flow.js:1711:13-21: 
+CanvasRenderer-flow.js:1711:13-37: 
+CanvasRenderer-flow.js:1711:32-36: 
+CanvasRenderer-flow.js:1712:13-18: 
+CanvasRenderer-flow.js:1712:13-45: 
+CanvasRenderer-flow.js:1712:13-48: 
+CanvasRenderer-flow.js:1712:13-51: 
+CanvasRenderer-flow.js:1712:13-61: 
+CanvasRenderer-flow.js:1712:20-28: 
+CanvasRenderer-flow.js:1712:20-37: 
+CanvasRenderer-flow.js:1712:20-44: 
+CanvasRenderer-flow.js:1712:60: number
+CanvasRenderer-flow.js:1713:13-18: 
+CanvasRenderer-flow.js:1713:13-32: 
+CanvasRenderer-flow.js:1713:13-35: 
+CanvasRenderer-flow.js:1713:13-38: 
+CanvasRenderer-flow.js:1713:13-56: 
+CanvasRenderer-flow.js:1713:20-24: 
+CanvasRenderer-flow.js:1713:20-31: 
+CanvasRenderer-flow.js:1713:47-55: 
+CanvasRenderer-flow.js:1717:5-12: 
+CanvasRenderer-flow.js:1717:5,1747:6: 
+CanvasRenderer-flow.js:1717:14-21: string
+CanvasRenderer-flow.js:1717:24,1747:5: () => void
+CanvasRenderer-flow.js:1719:9-10: 
+CanvasRenderer-flow.js:1719:9,1746:10: 
+CanvasRenderer-flow.js:1719:12-74: string
+CanvasRenderer-flow.js:1719:77,1746:9: () => void
+CanvasRenderer-flow.js:1721:17-25: 
+CanvasRenderer-flow.js:1721:29-43: 
+CanvasRenderer-flow.js:1721:33-41: 
+CanvasRenderer-flow.js:1722:17-21: 
+CanvasRenderer-flow.js:1722:25-43: 
+CanvasRenderer-flow.js:1722:29-41: 
+CanvasRenderer-flow.js:1723:17-30: boolean
+CanvasRenderer-flow.js:1723:34-38: boolean
+CanvasRenderer-flow.js:1724:17-32: boolean
+CanvasRenderer-flow.js:1724:36-40: boolean
+CanvasRenderer-flow.js:1726:13-17: 
+CanvasRenderer-flow.js:1726:13,1731:14: 
+CanvasRenderer-flow.js:1726:22-28: string
+CanvasRenderer-flow.js:1726:31,1731:13: (to: ) => void
+CanvasRenderer-flow.js:1726:41-42: 
+CanvasRenderer-flow.js:1728:17-37: boolean
+CanvasRenderer-flow.js:1728:34-37: boolean
+CanvasRenderer-flow.js:1729:17-22: 
+CanvasRenderer-flow.js:1729:17-49: 
+CanvasRenderer-flow.js:1729:17-52: 
+CanvasRenderer-flow.js:1729:17-55: 
+CanvasRenderer-flow.js:1729:17-65: 
+CanvasRenderer-flow.js:1729:24-32: 
+CanvasRenderer-flow.js:1729:24-41: 
+CanvasRenderer-flow.js:1729:24-48: 
+CanvasRenderer-flow.js:1729:64: number
+CanvasRenderer-flow.js:1730:17-22: 
+CanvasRenderer-flow.js:1730:17-36: 
+CanvasRenderer-flow.js:1730:17-39: 
+CanvasRenderer-flow.js:1730:17-42: 
+CanvasRenderer-flow.js:1730:17-53: 
+CanvasRenderer-flow.js:1730:24-28: 
+CanvasRenderer-flow.js:1730:24-35: 
+CanvasRenderer-flow.js:1730:51-52: 
+CanvasRenderer-flow.js:1732:13-17: 
+CanvasRenderer-flow.js:1732:13,1738:14: 
+CanvasRenderer-flow.js:1732:22-30: string
+CanvasRenderer-flow.js:1732:33,1738:13: (from: ) => void
+CanvasRenderer-flow.js:1732:43-46: 
+CanvasRenderer-flow.js:1734:17-39: boolean
+CanvasRenderer-flow.js:1734:36-39: boolean
+CanvasRenderer-flow.js:1735:17-22: 
+CanvasRenderer-flow.js:1735:17-49: 
+CanvasRenderer-flow.js:1735:17-52: 
+CanvasRenderer-flow.js:1735:17-55: 
+CanvasRenderer-flow.js:1735:17-65: 
+CanvasRenderer-flow.js:1735:24-32: 
+CanvasRenderer-flow.js:1735:24-41: 
+CanvasRenderer-flow.js:1735:24-48: 
+CanvasRenderer-flow.js:1735:64: number
+CanvasRenderer-flow.js:1736:17-22: 
+CanvasRenderer-flow.js:1736:17-36: 
+CanvasRenderer-flow.js:1736:17-39: 
+CanvasRenderer-flow.js:1736:17-42: 
+CanvasRenderer-flow.js:1736:17-47: 
+CanvasRenderer-flow.js:1736:24-28: 
+CanvasRenderer-flow.js:1736:24-35: 
+CanvasRenderer-flow.js:1737:17-22: 
+CanvasRenderer-flow.js:1737:17-33: 
+CanvasRenderer-flow.js:1737:17-36: 
+CanvasRenderer-flow.js:1737:17-39: 
+CanvasRenderer-flow.js:1737:17-52: 
+CanvasRenderer-flow.js:1737:24-32: 
+CanvasRenderer-flow.js:1737:48-51: 
+CanvasRenderer-flow.js:1740:13-21: 
+CanvasRenderer-flow.js:1740:13-37: 
+CanvasRenderer-flow.js:1740:32-36: 
+CanvasRenderer-flow.js:1741:13-18: 
+CanvasRenderer-flow.js:1741:13-34: 
+CanvasRenderer-flow.js:1741:13-37: 
+CanvasRenderer-flow.js:1741:13-40: 
+CanvasRenderer-flow.js:1741:13-45: 
+CanvasRenderer-flow.js:1741:20-33: boolean
+CanvasRenderer-flow.js:1742:13-18: 
+CanvasRenderer-flow.js:1742:13-36: 
+CanvasRenderer-flow.js:1742:13-39: 
+CanvasRenderer-flow.js:1742:13-42: 
+CanvasRenderer-flow.js:1742:13-48: 
+CanvasRenderer-flow.js:1742:20-35: boolean
+CanvasRenderer-flow.js:1744:13-21: 
+CanvasRenderer-flow.js:1744:13-40: 
+CanvasRenderer-flow.js:1744:35-39: 
+CanvasRenderer-flow.js:1745:13-18: 
+CanvasRenderer-flow.js:1745:13-36: 
+CanvasRenderer-flow.js:1745:13-39: 
+CanvasRenderer-flow.js:1745:13-42: 
+CanvasRenderer-flow.js:1745:13-47: 
+CanvasRenderer-flow.js:1745:20-35: boolean
+CanvasRenderer-flow.js:1755:1-8: 
+CanvasRenderer-flow.js:1755:1,2208:2: 
+CanvasRenderer-flow.js:1755:10-20: string
+CanvasRenderer-flow.js:1755:23,2208:1: () => void
+CanvasRenderer-flow.js:1757:5-6: 
+CanvasRenderer-flow.js:1757:5,1794:6: 
+CanvasRenderer-flow.js:1757:8-66: string
+CanvasRenderer-flow.js:1757:69,1794:5: () => void
+CanvasRenderer-flow.js:1759:13-18: 
+CanvasRenderer-flow.js:1759:22-36: 
+CanvasRenderer-flow.js:1759:26-34: 
+CanvasRenderer-flow.js:1760:13-19: 
+CanvasRenderer-flow.js:1760:23-35: 
+CanvasRenderer-flow.js:1760:23-50: 
+CanvasRenderer-flow.js:1760:44-45: number
+CanvasRenderer-flow.js:1760:48-49: number
+CanvasRenderer-flow.js:1762:13-18: 
+CanvasRenderer-flow.js:1762:22-40: 
+CanvasRenderer-flow.js:1762:26-31: 
+CanvasRenderer-flow.js:1762:33-39: 
+CanvasRenderer-flow.js:1764:9-14: 
+CanvasRenderer-flow.js:1764:9-31: 
+CanvasRenderer-flow.js:1764:25-30: 
+CanvasRenderer-flow.js:1766:13-18: 
+CanvasRenderer-flow.js:1768:9-35: 
+CanvasRenderer-flow.js:1768:18-23: 
+CanvasRenderer-flow.js:1768:18-35: 
+CanvasRenderer-flow.js:1770:9-14: 
+CanvasRenderer-flow.js:1770:9-24: 
+CanvasRenderer-flow.js:1770:9-27: 
+CanvasRenderer-flow.js:1770:9-36: 
+CanvasRenderer-flow.js:1770:16-21: 
+CanvasRenderer-flow.js:1770:16-23: 
+CanvasRenderer-flow.js:1770:35: number
+CanvasRenderer-flow.js:1771:9-14: 
+CanvasRenderer-flow.js:1771:9-24: 
+CanvasRenderer-flow.js:1771:9-27: 
+CanvasRenderer-flow.js:1771:9-36: 
+CanvasRenderer-flow.js:1771:16-21: 
+CanvasRenderer-flow.js:1771:16-23: 
+CanvasRenderer-flow.js:1771:35: number
+CanvasRenderer-flow.js:1772:9-14: 
+CanvasRenderer-flow.js:1772:9-28: 
+CanvasRenderer-flow.js:1772:9-31: 
+CanvasRenderer-flow.js:1772:9-41: 
+CanvasRenderer-flow.js:1772:16-21: 
+CanvasRenderer-flow.js:1772:16-27: 
+CanvasRenderer-flow.js:1772:39-40: number
+CanvasRenderer-flow.js:1773:9-14: 
+CanvasRenderer-flow.js:1773:9-29: 
+CanvasRenderer-flow.js:1773:9-32: 
+CanvasRenderer-flow.js:1773:9-42: 
+CanvasRenderer-flow.js:1773:16-21: 
+CanvasRenderer-flow.js:1773:16-28: 
+CanvasRenderer-flow.js:1773:40-41: number
+CanvasRenderer-flow.js:1775:9-14: 
+CanvasRenderer-flow.js:1775:9-23: 
+CanvasRenderer-flow.js:1775:9-30: number
+CanvasRenderer-flow.js:1775:29-30: number
+CanvasRenderer-flow.js:1776:9-14: 
+CanvasRenderer-flow.js:1776:9-23: 
+CanvasRenderer-flow.js:1776:9-30: number
+CanvasRenderer-flow.js:1776:29-30: number
+CanvasRenderer-flow.js:1778:9-14: 
+CanvasRenderer-flow.js:1778:9-20: 
+CanvasRenderer-flow.js:1778:9-26: number
+CanvasRenderer-flow.js:1778:26: number
+CanvasRenderer-flow.js:1779:9-14: 
+CanvasRenderer-flow.js:1779:9-20: 
+CanvasRenderer-flow.js:1779:9-26: number
+CanvasRenderer-flow.js:1779:26: number
+CanvasRenderer-flow.js:1781:9-35: 
+CanvasRenderer-flow.js:1781:18-23: 
+CanvasRenderer-flow.js:1781:18-35: 
+CanvasRenderer-flow.js:1783:9-14: 
+CanvasRenderer-flow.js:1783:9-24: 
+CanvasRenderer-flow.js:1783:9-27: 
+CanvasRenderer-flow.js:1783:9-37: 
+CanvasRenderer-flow.js:1783:16-21: 
+CanvasRenderer-flow.js:1783:16-23: 
+CanvasRenderer-flow.js:1783:35-36: number
+CanvasRenderer-flow.js:1784:9-14: 
+CanvasRenderer-flow.js:1784:9-24: 
+CanvasRenderer-flow.js:1784:9-27: 
+CanvasRenderer-flow.js:1784:9-37: 
+CanvasRenderer-flow.js:1784:16-21: 
+CanvasRenderer-flow.js:1784:16-23: 
+CanvasRenderer-flow.js:1784:35-36: number
+CanvasRenderer-flow.js:1785:9-14: 
+CanvasRenderer-flow.js:1785:9-28: 
+CanvasRenderer-flow.js:1785:9-31: 
+CanvasRenderer-flow.js:1785:9-41: 
+CanvasRenderer-flow.js:1785:16-21: 
+CanvasRenderer-flow.js:1785:16-27: 
+CanvasRenderer-flow.js:1785:39-40: number
+CanvasRenderer-flow.js:1786:9-14: 
+CanvasRenderer-flow.js:1786:9-29: 
+CanvasRenderer-flow.js:1786:9-32: 
+CanvasRenderer-flow.js:1786:9-42: 
+CanvasRenderer-flow.js:1786:16-21: 
+CanvasRenderer-flow.js:1786:16-28: 
+CanvasRenderer-flow.js:1786:40-41: number
+CanvasRenderer-flow.js:1788:9-39: 
+CanvasRenderer-flow.js:1788:18-23: 
+CanvasRenderer-flow.js:1788:18-39: 
+CanvasRenderer-flow.js:1788:35-38: boolean
+CanvasRenderer-flow.js:1790:9-14: 
+CanvasRenderer-flow.js:1790:9-24: 
+CanvasRenderer-flow.js:1790:9-27: 
+CanvasRenderer-flow.js:1790:9-37: 
+CanvasRenderer-flow.js:1790:16-21: 
+CanvasRenderer-flow.js:1790:16-23: 
+CanvasRenderer-flow.js:1790:35-36: number
+CanvasRenderer-flow.js:1791:9-14: 
+CanvasRenderer-flow.js:1791:9-24: 
+CanvasRenderer-flow.js:1791:9-27: 
+CanvasRenderer-flow.js:1791:9-37: 
+CanvasRenderer-flow.js:1791:16-21: 
+CanvasRenderer-flow.js:1791:16-23: 
+CanvasRenderer-flow.js:1791:35-36: number
+CanvasRenderer-flow.js:1792:9-14: 
+CanvasRenderer-flow.js:1792:9-28: 
+CanvasRenderer-flow.js:1792:9-31: 
+CanvasRenderer-flow.js:1792:9-41: 
+CanvasRenderer-flow.js:1792:16-21: 
+CanvasRenderer-flow.js:1792:16-27: 
+CanvasRenderer-flow.js:1792:39-40: number
+CanvasRenderer-flow.js:1793:9-14: 
+CanvasRenderer-flow.js:1793:9-29: 
+CanvasRenderer-flow.js:1793:9-32: 
+CanvasRenderer-flow.js:1793:9-42: 
+CanvasRenderer-flow.js:1793:16-21: 
+CanvasRenderer-flow.js:1793:16-28: 
+CanvasRenderer-flow.js:1793:40-41: number
+CanvasRenderer-flow.js:1796:5-6: 
+CanvasRenderer-flow.js:1796:5,1841:6: 
+CanvasRenderer-flow.js:1796:8-59: string
+CanvasRenderer-flow.js:1796:62,1841:5: () => void
+CanvasRenderer-flow.js:1798:13-18: 
+CanvasRenderer-flow.js:1798:22-36: 
+CanvasRenderer-flow.js:1798:26-34: 
+CanvasRenderer-flow.js:1800:13-20: 
+CanvasRenderer-flow.js:1800:24-37: 
+CanvasRenderer-flow.js:1800:28-35: 
+CanvasRenderer-flow.js:1802:13-18: 
+CanvasRenderer-flow.js:1804:9-37: 
+CanvasRenderer-flow.js:1804:18-25: 
+CanvasRenderer-flow.js:1804:18-37: 
+CanvasRenderer-flow.js:1806:9-14: 
+CanvasRenderer-flow.js:1806:9-24: 
+CanvasRenderer-flow.js:1806:9-27: 
+CanvasRenderer-flow.js:1806:9-36: 
+CanvasRenderer-flow.js:1806:16-21: 
+CanvasRenderer-flow.js:1806:16-23: 
+CanvasRenderer-flow.js:1806:35: number
+CanvasRenderer-flow.js:1807:9-14: 
+CanvasRenderer-flow.js:1807:9-24: 
+CanvasRenderer-flow.js:1807:9-27: 
+CanvasRenderer-flow.js:1807:9-36: 
+CanvasRenderer-flow.js:1807:16-21: 
+CanvasRenderer-flow.js:1807:16-23: 
+CanvasRenderer-flow.js:1807:35: number
+CanvasRenderer-flow.js:1808:9-14: 
+CanvasRenderer-flow.js:1808:9-28: 
+CanvasRenderer-flow.js:1808:9-31: 
+CanvasRenderer-flow.js:1808:9-40: 
+CanvasRenderer-flow.js:1808:16-21: 
+CanvasRenderer-flow.js:1808:16-27: 
+CanvasRenderer-flow.js:1808:39: number
+CanvasRenderer-flow.js:1809:9-14: 
+CanvasRenderer-flow.js:1809:9-29: 
+CanvasRenderer-flow.js:1809:9-32: 
+CanvasRenderer-flow.js:1809:9-41: 
+CanvasRenderer-flow.js:1809:16-21: 
+CanvasRenderer-flow.js:1809:16-28: 
+CanvasRenderer-flow.js:1809:40: number
+CanvasRenderer-flow.js:1811:9-16: 
+CanvasRenderer-flow.js:1811:9-36: 
+CanvasRenderer-flow.js:1811:9-61: 
+CanvasRenderer-flow.js:1811:28-35: number
+CanvasRenderer-flow.js:1811:49: number
+CanvasRenderer-flow.js:1811:52: number
+CanvasRenderer-flow.js:1811:55-56: number
+CanvasRenderer-flow.js:1811:59-60: number
+CanvasRenderer-flow.js:1813:9-14: 
+CanvasRenderer-flow.js:1813:9-33: 
+CanvasRenderer-flow.js:1813:25-32: 
+CanvasRenderer-flow.js:1815:9-37: 
+CanvasRenderer-flow.js:1815:18-25: 
+CanvasRenderer-flow.js:1815:18-37: 
+CanvasRenderer-flow.js:1817:9-14: 
+CanvasRenderer-flow.js:1817:9-24: 
+CanvasRenderer-flow.js:1817:9-27: 
+CanvasRenderer-flow.js:1817:9-38: 
+CanvasRenderer-flow.js:1817:16-21: 
+CanvasRenderer-flow.js:1817:16-23: 
+CanvasRenderer-flow.js:1817:35-37: number
+CanvasRenderer-flow.js:1817:36-37: number
+CanvasRenderer-flow.js:1818:9-14: 
+CanvasRenderer-flow.js:1818:9-24: 
+CanvasRenderer-flow.js:1818:9-27: 
+CanvasRenderer-flow.js:1818:9-38: 
+CanvasRenderer-flow.js:1818:16-21: 
+CanvasRenderer-flow.js:1818:16-23: 
+CanvasRenderer-flow.js:1818:35-37: number
+CanvasRenderer-flow.js:1818:36-37: number
+CanvasRenderer-flow.js:1819:9-14: 
+CanvasRenderer-flow.js:1819:9-28: 
+CanvasRenderer-flow.js:1819:9-31: 
+CanvasRenderer-flow.js:1819:9-41: 
+CanvasRenderer-flow.js:1819:16-21: 
+CanvasRenderer-flow.js:1819:16-27: 
+CanvasRenderer-flow.js:1819:39-40: number
+CanvasRenderer-flow.js:1820:9-14: 
+CanvasRenderer-flow.js:1820:9-29: 
+CanvasRenderer-flow.js:1820:9-32: 
+CanvasRenderer-flow.js:1820:9-42: 
+CanvasRenderer-flow.js:1820:16-21: 
+CanvasRenderer-flow.js:1820:16-28: 
+CanvasRenderer-flow.js:1820:40-41: number
+CanvasRenderer-flow.js:1822:9-16: 
+CanvasRenderer-flow.js:1822:9-25: 
+CanvasRenderer-flow.js:1822:9-32: number
+CanvasRenderer-flow.js:1822:31-32: number
+CanvasRenderer-flow.js:1823:9-16: 
+CanvasRenderer-flow.js:1823:9-25: 
+CanvasRenderer-flow.js:1823:9-32: number
+CanvasRenderer-flow.js:1823:31-32: number
+CanvasRenderer-flow.js:1825:9-16: 
+CanvasRenderer-flow.js:1825:9-22: 
+CanvasRenderer-flow.js:1825:9-28: number
+CanvasRenderer-flow.js:1825:28: number
+CanvasRenderer-flow.js:1826:9-16: 
+CanvasRenderer-flow.js:1826:9-22: 
+CanvasRenderer-flow.js:1826:9-28: number
+CanvasRenderer-flow.js:1826:28: number
+CanvasRenderer-flow.js:1828:9-37: 
+CanvasRenderer-flow.js:1828:18-25: 
+CanvasRenderer-flow.js:1828:18-37: 
+CanvasRenderer-flow.js:1830:9-14: 
+CanvasRenderer-flow.js:1830:9-24: 
+CanvasRenderer-flow.js:1830:9-27: 
+CanvasRenderer-flow.js:1830:9-36: 
+CanvasRenderer-flow.js:1830:16-21: 
+CanvasRenderer-flow.js:1830:16-23: 
+CanvasRenderer-flow.js:1830:35: number
+CanvasRenderer-flow.js:1831:9-14: 
+CanvasRenderer-flow.js:1831:9-24: 
+CanvasRenderer-flow.js:1831:9-27: 
+CanvasRenderer-flow.js:1831:9-36: 
+CanvasRenderer-flow.js:1831:16-21: 
+CanvasRenderer-flow.js:1831:16-23: 
+CanvasRenderer-flow.js:1831:35: number
+CanvasRenderer-flow.js:1832:9-14: 
+CanvasRenderer-flow.js:1832:9-28: 
+CanvasRenderer-flow.js:1832:9-31: 
+CanvasRenderer-flow.js:1832:9-41: 
+CanvasRenderer-flow.js:1832:16-21: 
+CanvasRenderer-flow.js:1832:16-27: 
+CanvasRenderer-flow.js:1832:39-40: number
+CanvasRenderer-flow.js:1833:9-14: 
+CanvasRenderer-flow.js:1833:9-29: 
+CanvasRenderer-flow.js:1833:9-32: 
+CanvasRenderer-flow.js:1833:9-42: 
+CanvasRenderer-flow.js:1833:16-21: 
+CanvasRenderer-flow.js:1833:16-28: 
+CanvasRenderer-flow.js:1833:40-41: number
+CanvasRenderer-flow.js:1835:9-41: 
+CanvasRenderer-flow.js:1835:18-25: 
+CanvasRenderer-flow.js:1835:18-41: 
+CanvasRenderer-flow.js:1835:37-40: boolean
+CanvasRenderer-flow.js:1837:9-14: 
+CanvasRenderer-flow.js:1837:9-24: 
+CanvasRenderer-flow.js:1837:9-27: 
+CanvasRenderer-flow.js:1837:9-36: 
+CanvasRenderer-flow.js:1837:16-21: 
+CanvasRenderer-flow.js:1837:16-23: 
+CanvasRenderer-flow.js:1837:35: number
+CanvasRenderer-flow.js:1838:9-14: 
+CanvasRenderer-flow.js:1838:9-24: 
+CanvasRenderer-flow.js:1838:9-27: 
+CanvasRenderer-flow.js:1838:9-36: 
+CanvasRenderer-flow.js:1838:16-21: 
+CanvasRenderer-flow.js:1838:16-23: 
+CanvasRenderer-flow.js:1838:35: number
+CanvasRenderer-flow.js:1839:9-14: 
+CanvasRenderer-flow.js:1839:9-28: 
+CanvasRenderer-flow.js:1839:9-31: 
+CanvasRenderer-flow.js:1839:9-41: 
+CanvasRenderer-flow.js:1839:16-21: 
+CanvasRenderer-flow.js:1839:16-27: 
+CanvasRenderer-flow.js:1839:39-40: number
+CanvasRenderer-flow.js:1840:9-14: 
+CanvasRenderer-flow.js:1840:9-29: 
+CanvasRenderer-flow.js:1840:9-32: 
+CanvasRenderer-flow.js:1840:9-42: 
+CanvasRenderer-flow.js:1840:16-21: 
+CanvasRenderer-flow.js:1840:16-28: 
+CanvasRenderer-flow.js:1840:40-41: number
+CanvasRenderer-flow.js:1843:5-6: 
+CanvasRenderer-flow.js:1843:5,1872:6: 
+CanvasRenderer-flow.js:1843:8-69: string
+CanvasRenderer-flow.js:1843:72,1872:5: () => void
+CanvasRenderer-flow.js:1845:13-18: 
+CanvasRenderer-flow.js:1845:22-36: 
+CanvasRenderer-flow.js:1845:26-34: 
+CanvasRenderer-flow.js:1847:13-21: 
+CanvasRenderer-flow.js:1847:25-39: 
+CanvasRenderer-flow.js:1847:29-37: 
+CanvasRenderer-flow.js:1849:9-14: 
+CanvasRenderer-flow.js:1849:9-34: 
+CanvasRenderer-flow.js:1849:25-33: 
+CanvasRenderer-flow.js:1851:13-18: 
+CanvasRenderer-flow.js:1853:9-38: 
+CanvasRenderer-flow.js:1853:18-26: 
+CanvasRenderer-flow.js:1853:18-38: 
+CanvasRenderer-flow.js:1855:9-14: 
+CanvasRenderer-flow.js:1855:9-24: 
+CanvasRenderer-flow.js:1855:9-27: 
+CanvasRenderer-flow.js:1855:9-36: 
+CanvasRenderer-flow.js:1855:16-21: 
+CanvasRenderer-flow.js:1855:16-23: 
+CanvasRenderer-flow.js:1855:35: number
+CanvasRenderer-flow.js:1856:9-14: 
+CanvasRenderer-flow.js:1856:9-24: 
+CanvasRenderer-flow.js:1856:9-27: 
+CanvasRenderer-flow.js:1856:9-36: 
+CanvasRenderer-flow.js:1856:16-21: 
+CanvasRenderer-flow.js:1856:16-23: 
+CanvasRenderer-flow.js:1856:35: number
+CanvasRenderer-flow.js:1857:9-14: 
+CanvasRenderer-flow.js:1857:9-28: 
+CanvasRenderer-flow.js:1857:9-31: 
+CanvasRenderer-flow.js:1857:9-40: 
+CanvasRenderer-flow.js:1857:16-21: 
+CanvasRenderer-flow.js:1857:16-27: 
+CanvasRenderer-flow.js:1857:39: number
+CanvasRenderer-flow.js:1858:9-14: 
+CanvasRenderer-flow.js:1858:9-29: 
+CanvasRenderer-flow.js:1858:9-32: 
+CanvasRenderer-flow.js:1858:9-41: 
+CanvasRenderer-flow.js:1858:16-21: 
+CanvasRenderer-flow.js:1858:16-28: 
+CanvasRenderer-flow.js:1858:40: number
+CanvasRenderer-flow.js:1860:9-17: 
+CanvasRenderer-flow.js:1860:9-26: 
+CanvasRenderer-flow.js:1860:9-33: number
+CanvasRenderer-flow.js:1860:32-33: number
+CanvasRenderer-flow.js:1861:9-17: 
+CanvasRenderer-flow.js:1861:9-26: 
+CanvasRenderer-flow.js:1861:9-33: number
+CanvasRenderer-flow.js:1861:32-33: number
+CanvasRenderer-flow.js:1863:9-17: 
+CanvasRenderer-flow.js:1863:9-23: 
+CanvasRenderer-flow.js:1863:9-29: number
+CanvasRenderer-flow.js:1863:29: number
+CanvasRenderer-flow.js:1864:9-17: 
+CanvasRenderer-flow.js:1864:9-23: 
+CanvasRenderer-flow.js:1864:9-29: number
+CanvasRenderer-flow.js:1864:29: number
+CanvasRenderer-flow.js:1866:9-38: 
+CanvasRenderer-flow.js:1866:18-26: 
+CanvasRenderer-flow.js:1866:18-38: 
+CanvasRenderer-flow.js:1868:9-14: 
+CanvasRenderer-flow.js:1868:9-24: 
+CanvasRenderer-flow.js:1868:9-27: 
+CanvasRenderer-flow.js:1868:9-36: 
+CanvasRenderer-flow.js:1868:16-21: 
+CanvasRenderer-flow.js:1868:16-23: 
+CanvasRenderer-flow.js:1868:35: number
+CanvasRenderer-flow.js:1869:9-14: 
+CanvasRenderer-flow.js:1869:9-24: 
+CanvasRenderer-flow.js:1869:9-27: 
+CanvasRenderer-flow.js:1869:9-36: 
+CanvasRenderer-flow.js:1869:16-21: 
+CanvasRenderer-flow.js:1869:16-23: 
+CanvasRenderer-flow.js:1869:35: number
+CanvasRenderer-flow.js:1870:9-14: 
+CanvasRenderer-flow.js:1870:9-28: 
+CanvasRenderer-flow.js:1870:9-31: 
+CanvasRenderer-flow.js:1870:9-40: 
+CanvasRenderer-flow.js:1870:16-21: 
+CanvasRenderer-flow.js:1870:16-27: 
+CanvasRenderer-flow.js:1870:39: number
+CanvasRenderer-flow.js:1871:9-14: 
+CanvasRenderer-flow.js:1871:9-29: 
+CanvasRenderer-flow.js:1871:9-32: 
+CanvasRenderer-flow.js:1871:9-41: 
+CanvasRenderer-flow.js:1871:16-21: 
+CanvasRenderer-flow.js:1871:16-28: 
+CanvasRenderer-flow.js:1871:40: number
+CanvasRenderer-flow.js:1874:5-6: 
+CanvasRenderer-flow.js:1874:5,1919:6: 
+CanvasRenderer-flow.js:1874:8-62: string
+CanvasRenderer-flow.js:1874:65,1919:5: () => void
+CanvasRenderer-flow.js:1876:13-18: 
+CanvasRenderer-flow.js:1876:22-36: 
+CanvasRenderer-flow.js:1876:26-34: 
+CanvasRenderer-flow.js:1878:13-21: 
+CanvasRenderer-flow.js:1878:25-39: 
+CanvasRenderer-flow.js:1878:29-37: 
+CanvasRenderer-flow.js:1880:13-20: 
+CanvasRenderer-flow.js:1880:24-37: 
+CanvasRenderer-flow.js:1880:24-57: 
+CanvasRenderer-flow.js:1880:24-82: 
+CanvasRenderer-flow.js:1880:28-35: 
+CanvasRenderer-flow.js:1880:49-56: number
+CanvasRenderer-flow.js:1880:70: number
+CanvasRenderer-flow.js:1880:73: number
+CanvasRenderer-flow.js:1880:76-77: number
+CanvasRenderer-flow.js:1880:80-81: number
+CanvasRenderer-flow.js:1882:13-19: 
+CanvasRenderer-flow.js:1882:23-35: 
+CanvasRenderer-flow.js:1882:23-50: 
+CanvasRenderer-flow.js:1882:44-45: number
+CanvasRenderer-flow.js:1882:48-49: number
+CanvasRenderer-flow.js:1883:13-18: 
+CanvasRenderer-flow.js:1883:22-40: 
+CanvasRenderer-flow.js:1883:26-31: 
+CanvasRenderer-flow.js:1883:33-39: 
+CanvasRenderer-flow.js:1885:9-17: 
+CanvasRenderer-flow.js:1885:9-34: 
+CanvasRenderer-flow.js:1885:28-33: 
+CanvasRenderer-flow.js:1886:9-17: 
+CanvasRenderer-flow.js:1886:9-36: 
+CanvasRenderer-flow.js:1886:28-35: 
+CanvasRenderer-flow.js:1888:9-14: 
+CanvasRenderer-flow.js:1888:9-34: 
+CanvasRenderer-flow.js:1888:25-33: 
+CanvasRenderer-flow.js:1890:9-14: 
+CanvasRenderer-flow.js:1890:9-23: 
+CanvasRenderer-flow.js:1890:9-30: number
+CanvasRenderer-flow.js:1890:29-30: number
+CanvasRenderer-flow.js:1891:9-14: 
+CanvasRenderer-flow.js:1891:9-23: 
+CanvasRenderer-flow.js:1891:9-30: number
+CanvasRenderer-flow.js:1891:29-30: number
+CanvasRenderer-flow.js:1892:9-16: 
+CanvasRenderer-flow.js:1892:9-25: 
+CanvasRenderer-flow.js:1892:9-33: number
+CanvasRenderer-flow.js:1892:31-33: number
+CanvasRenderer-flow.js:1893:9-16: 
+CanvasRenderer-flow.js:1893:9-25: 
+CanvasRenderer-flow.js:1893:9-33: number
+CanvasRenderer-flow.js:1893:31-33: number
+CanvasRenderer-flow.js:1895:13-18: 
+CanvasRenderer-flow.js:1897:9-38: 
+CanvasRenderer-flow.js:1897:18-26: 
+CanvasRenderer-flow.js:1897:18-38: 
+CanvasRenderer-flow.js:1899:9-14: 
+CanvasRenderer-flow.js:1899:9-24: 
+CanvasRenderer-flow.js:1899:9-27: 
+CanvasRenderer-flow.js:1899:9-37: 
+CanvasRenderer-flow.js:1899:16-21: 
+CanvasRenderer-flow.js:1899:16-23: 
+CanvasRenderer-flow.js:1899:35-36: number
+CanvasRenderer-flow.js:1900:9-14: 
+CanvasRenderer-flow.js:1900:9-24: 
+CanvasRenderer-flow.js:1900:9-27: 
+CanvasRenderer-flow.js:1900:9-37: 
+CanvasRenderer-flow.js:1900:16-21: 
+CanvasRenderer-flow.js:1900:16-23: 
+CanvasRenderer-flow.js:1900:35-36: number
+CanvasRenderer-flow.js:1901:9-14: 
+CanvasRenderer-flow.js:1901:9-28: 
+CanvasRenderer-flow.js:1901:9-31: 
+CanvasRenderer-flow.js:1901:9-41: 
+CanvasRenderer-flow.js:1901:16-21: 
+CanvasRenderer-flow.js:1901:16-27: 
+CanvasRenderer-flow.js:1901:39-40: number
+CanvasRenderer-flow.js:1902:9-14: 
+CanvasRenderer-flow.js:1902:9-29: 
+CanvasRenderer-flow.js:1902:9-32: 
+CanvasRenderer-flow.js:1902:9-42: 
+CanvasRenderer-flow.js:1902:16-21: 
+CanvasRenderer-flow.js:1902:16-28: 
+CanvasRenderer-flow.js:1902:40-41: number
+CanvasRenderer-flow.js:1904:9-17: 
+CanvasRenderer-flow.js:1904:9-32: number
+CanvasRenderer-flow.js:1904:30-32: number
+CanvasRenderer-flow.js:1906:9-38: 
+CanvasRenderer-flow.js:1906:18-26: 
+CanvasRenderer-flow.js:1906:18-38: 
+CanvasRenderer-flow.js:1908:9-14: 
+CanvasRenderer-flow.js:1908:9-28: 
+CanvasRenderer-flow.js:1908:9-31: 
+CanvasRenderer-flow.js:1908:9-41: 
+CanvasRenderer-flow.js:1908:16-21: 
+CanvasRenderer-flow.js:1908:16-23: 
+CanvasRenderer-flow.js:1908:16-27: number
+CanvasRenderer-flow.js:1908:27: number
+CanvasRenderer-flow.js:1908:39-40: number
+CanvasRenderer-flow.js:1909:9-14: 
+CanvasRenderer-flow.js:1909:9-28: 
+CanvasRenderer-flow.js:1909:9-31: 
+CanvasRenderer-flow.js:1909:9-41: 
+CanvasRenderer-flow.js:1909:16-21: 
+CanvasRenderer-flow.js:1909:16-23: 
+CanvasRenderer-flow.js:1909:16-27: number
+CanvasRenderer-flow.js:1909:27: number
+CanvasRenderer-flow.js:1909:39-40: number
+CanvasRenderer-flow.js:1910:9-14: 
+CanvasRenderer-flow.js:1910:9-32: 
+CanvasRenderer-flow.js:1910:9-35: 
+CanvasRenderer-flow.js:1910:9-45: 
+CanvasRenderer-flow.js:1910:16-21: 
+CanvasRenderer-flow.js:1910:16-27: 
+CanvasRenderer-flow.js:1910:16-31: number
+CanvasRenderer-flow.js:1910:31: number
+CanvasRenderer-flow.js:1910:43-44: number
+CanvasRenderer-flow.js:1911:9-14: 
+CanvasRenderer-flow.js:1911:9-33: 
+CanvasRenderer-flow.js:1911:9-36: 
+CanvasRenderer-flow.js:1911:9-46: 
+CanvasRenderer-flow.js:1911:16-21: 
+CanvasRenderer-flow.js:1911:16-28: 
+CanvasRenderer-flow.js:1911:16-32: number
+CanvasRenderer-flow.js:1911:32: number
+CanvasRenderer-flow.js:1911:44-45: number
+CanvasRenderer-flow.js:1913:9-42: 
+CanvasRenderer-flow.js:1913:18-26: 
+CanvasRenderer-flow.js:1913:18-42: 
+CanvasRenderer-flow.js:1913:38-41: boolean
+CanvasRenderer-flow.js:1915:9-14: 
+CanvasRenderer-flow.js:1915:9-28: 
+CanvasRenderer-flow.js:1915:9-31: 
+CanvasRenderer-flow.js:1915:9-41: 
+CanvasRenderer-flow.js:1915:16-21: 
+CanvasRenderer-flow.js:1915:16-23: 
+CanvasRenderer-flow.js:1915:16-27: number
+CanvasRenderer-flow.js:1915:27: number
+CanvasRenderer-flow.js:1915:39-40: number
+CanvasRenderer-flow.js:1916:9-14: 
+CanvasRenderer-flow.js:1916:9-28: 
+CanvasRenderer-flow.js:1916:9-31: 
+CanvasRenderer-flow.js:1916:9-41: 
+CanvasRenderer-flow.js:1916:16-21: 
+CanvasRenderer-flow.js:1916:16-23: 
+CanvasRenderer-flow.js:1916:16-27: number
+CanvasRenderer-flow.js:1916:27: number
+CanvasRenderer-flow.js:1916:39-40: number
+CanvasRenderer-flow.js:1917:9-14: 
+CanvasRenderer-flow.js:1917:9-32: 
+CanvasRenderer-flow.js:1917:9-35: 
+CanvasRenderer-flow.js:1917:9-45: 
+CanvasRenderer-flow.js:1917:16-21: 
+CanvasRenderer-flow.js:1917:16-27: 
+CanvasRenderer-flow.js:1917:16-31: number
+CanvasRenderer-flow.js:1917:31: number
+CanvasRenderer-flow.js:1917:43-44: number
+CanvasRenderer-flow.js:1918:9-14: 
+CanvasRenderer-flow.js:1918:9-33: 
+CanvasRenderer-flow.js:1918:9-36: 
+CanvasRenderer-flow.js:1918:9-46: 
+CanvasRenderer-flow.js:1918:16-21: 
+CanvasRenderer-flow.js:1918:16-28: 
+CanvasRenderer-flow.js:1918:16-32: number
+CanvasRenderer-flow.js:1918:32: number
+CanvasRenderer-flow.js:1918:44-45: number
+CanvasRenderer-flow.js:1921:5-6: 
+CanvasRenderer-flow.js:1921:5,1950:6: 
+CanvasRenderer-flow.js:1921:8-112: string
+CanvasRenderer-flow.js:1921:115,1950:5: () => void
+CanvasRenderer-flow.js:1923:13-18: 
+CanvasRenderer-flow.js:1923:22-36: 
+CanvasRenderer-flow.js:1923:26-34: 
+CanvasRenderer-flow.js:1925:13-21: 
+CanvasRenderer-flow.js:1925:25-39: 
+CanvasRenderer-flow.js:1925:29-37: 
+CanvasRenderer-flow.js:1927:13-20: 
+CanvasRenderer-flow.js:1927:24-37: 
+CanvasRenderer-flow.js:1927:24-57: 
+CanvasRenderer-flow.js:1927:24-80: 
+CanvasRenderer-flow.js:1927:28-35: 
+CanvasRenderer-flow.js:1927:49-56: number
+CanvasRenderer-flow.js:1927:68: number
+CanvasRenderer-flow.js:1927:71: number
+CanvasRenderer-flow.js:1927:74-75: number
+CanvasRenderer-flow.js:1927:78-79: number
+CanvasRenderer-flow.js:1929:9-14: 
+CanvasRenderer-flow.js:1929:9-34: 
+CanvasRenderer-flow.js:1929:25-33: 
+CanvasRenderer-flow.js:1930:9-17: 
+CanvasRenderer-flow.js:1930:9-36: 
+CanvasRenderer-flow.js:1930:28-35: 
+CanvasRenderer-flow.js:1932:9-17: 
+CanvasRenderer-flow.js:1932:9-26: 
+CanvasRenderer-flow.js:1932:9-34: number
+CanvasRenderer-flow.js:1932:32-34: number
+CanvasRenderer-flow.js:1933:9-17: 
+CanvasRenderer-flow.js:1933:9-26: 
+CanvasRenderer-flow.js:1933:9-34: number
+CanvasRenderer-flow.js:1933:32-34: number
+CanvasRenderer-flow.js:1935:13-18: 
+CanvasRenderer-flow.js:1937:9-38: 
+CanvasRenderer-flow.js:1937:18-26: 
+CanvasRenderer-flow.js:1937:18-38: 
+CanvasRenderer-flow.js:1939:9-14: 
+CanvasRenderer-flow.js:1939:9-24: 
+CanvasRenderer-flow.js:1939:9-27: 
+CanvasRenderer-flow.js:1939:9-38: 
+CanvasRenderer-flow.js:1939:16-21: 
+CanvasRenderer-flow.js:1939:16-23: 
+CanvasRenderer-flow.js:1939:35-37: number
+CanvasRenderer-flow.js:1940:9-14: 
+CanvasRenderer-flow.js:1940:9-24: 
+CanvasRenderer-flow.js:1940:9-27: 
+CanvasRenderer-flow.js:1940:9-38: 
+CanvasRenderer-flow.js:1940:16-21: 
+CanvasRenderer-flow.js:1940:16-23: 
+CanvasRenderer-flow.js:1940:35-37: number
+CanvasRenderer-flow.js:1941:9-14: 
+CanvasRenderer-flow.js:1941:9-28: 
+CanvasRenderer-flow.js:1941:9-31: 
+CanvasRenderer-flow.js:1941:9-41: 
+CanvasRenderer-flow.js:1941:16-21: 
+CanvasRenderer-flow.js:1941:16-27: 
+CanvasRenderer-flow.js:1941:39-40: number
+CanvasRenderer-flow.js:1942:9-14: 
+CanvasRenderer-flow.js:1942:9-29: 
+CanvasRenderer-flow.js:1942:9-32: 
+CanvasRenderer-flow.js:1942:9-42: 
+CanvasRenderer-flow.js:1942:16-21: 
+CanvasRenderer-flow.js:1942:16-28: 
+CanvasRenderer-flow.js:1942:40-41: number
+CanvasRenderer-flow.js:1944:9-41: 
+CanvasRenderer-flow.js:1944:18-25: 
+CanvasRenderer-flow.js:1944:18-41: 
+CanvasRenderer-flow.js:1944:37-40: boolean
+CanvasRenderer-flow.js:1946:9-14: 
+CanvasRenderer-flow.js:1946:9-24: 
+CanvasRenderer-flow.js:1946:9-27: 
+CanvasRenderer-flow.js:1946:9-38: 
+CanvasRenderer-flow.js:1946:16-21: 
+CanvasRenderer-flow.js:1946:16-23: 
+CanvasRenderer-flow.js:1946:35-37: number
+CanvasRenderer-flow.js:1947:9-14: 
+CanvasRenderer-flow.js:1947:9-24: 
+CanvasRenderer-flow.js:1947:9-27: 
+CanvasRenderer-flow.js:1947:9-38: 
+CanvasRenderer-flow.js:1947:16-21: 
+CanvasRenderer-flow.js:1947:16-23: 
+CanvasRenderer-flow.js:1947:35-37: number
+CanvasRenderer-flow.js:1948:9-14: 
+CanvasRenderer-flow.js:1948:9-28: 
+CanvasRenderer-flow.js:1948:9-31: 
+CanvasRenderer-flow.js:1948:9-41: 
+CanvasRenderer-flow.js:1948:16-21: 
+CanvasRenderer-flow.js:1948:16-27: 
+CanvasRenderer-flow.js:1948:39-40: number
+CanvasRenderer-flow.js:1949:9-14: 
+CanvasRenderer-flow.js:1949:9-29: 
+CanvasRenderer-flow.js:1949:9-32: 
+CanvasRenderer-flow.js:1949:9-42: 
+CanvasRenderer-flow.js:1949:16-21: 
+CanvasRenderer-flow.js:1949:16-28: 
+CanvasRenderer-flow.js:1949:40-41: number
+CanvasRenderer-flow.js:1952:5-6: 
+CanvasRenderer-flow.js:1952:5,1983:6: 
+CanvasRenderer-flow.js:1952:8-57: string
+CanvasRenderer-flow.js:1952:60,1983:5: () => void
+CanvasRenderer-flow.js:1954:13-18: 
+CanvasRenderer-flow.js:1954:22-36: 
+CanvasRenderer-flow.js:1954:26-34: 
+CanvasRenderer-flow.js:1956:13-19: 
+CanvasRenderer-flow.js:1956:23-35: 
+CanvasRenderer-flow.js:1956:23-50: 
+CanvasRenderer-flow.js:1956:44-45: number
+CanvasRenderer-flow.js:1956:48-49: number
+CanvasRenderer-flow.js:1958:13-17: 
+CanvasRenderer-flow.js:1958:21-43: 
+CanvasRenderer-flow.js:1958:25-28: 
+CanvasRenderer-flow.js:1958:25-34: 
+CanvasRenderer-flow.js:1958:36-42: 
+CanvasRenderer-flow.js:1960:9-14: 
+CanvasRenderer-flow.js:1960:9-30: 
+CanvasRenderer-flow.js:1960:25-29: 
+CanvasRenderer-flow.js:1962:9-13: 
+CanvasRenderer-flow.js:1962:9-22: 
+CanvasRenderer-flow.js:1962:9-29: number
+CanvasRenderer-flow.js:1962:28-29: number
+CanvasRenderer-flow.js:1963:9-13: 
+CanvasRenderer-flow.js:1963:9-22: 
+CanvasRenderer-flow.js:1963:9-29: number
+CanvasRenderer-flow.js:1963:28-29: number
+CanvasRenderer-flow.js:1965:13-18: 
+CanvasRenderer-flow.js:1967:9-34: 
+CanvasRenderer-flow.js:1967:18-22: 
+CanvasRenderer-flow.js:1967:18-34: 
+CanvasRenderer-flow.js:1969:9-14: 
+CanvasRenderer-flow.js:1969:9-24: 
+CanvasRenderer-flow.js:1969:9-27: 
+CanvasRenderer-flow.js:1969:9-37: 
+CanvasRenderer-flow.js:1969:16-21: 
+CanvasRenderer-flow.js:1969:16-23: 
+CanvasRenderer-flow.js:1969:35-36: number
+CanvasRenderer-flow.js:1970:9-14: 
+CanvasRenderer-flow.js:1970:9-24: 
+CanvasRenderer-flow.js:1970:9-27: 
+CanvasRenderer-flow.js:1970:9-37: 
+CanvasRenderer-flow.js:1970:16-21: 
+CanvasRenderer-flow.js:1970:16-23: 
+CanvasRenderer-flow.js:1970:35-36: number
+CanvasRenderer-flow.js:1971:9-14: 
+CanvasRenderer-flow.js:1971:9-28: 
+CanvasRenderer-flow.js:1971:9-31: 
+CanvasRenderer-flow.js:1971:9-41: 
+CanvasRenderer-flow.js:1971:16-21: 
+CanvasRenderer-flow.js:1971:16-27: 
+CanvasRenderer-flow.js:1971:39-40: number
+CanvasRenderer-flow.js:1972:9-14: 
+CanvasRenderer-flow.js:1972:9-29: 
+CanvasRenderer-flow.js:1972:9-32: 
+CanvasRenderer-flow.js:1972:9-42: 
+CanvasRenderer-flow.js:1972:16-21: 
+CanvasRenderer-flow.js:1972:16-28: 
+CanvasRenderer-flow.js:1972:40-41: number
+CanvasRenderer-flow.js:1974:9-13: 
+CanvasRenderer-flow.js:1974:9-19: 
+CanvasRenderer-flow.js:1974:9-25: number
+CanvasRenderer-flow.js:1974:25: number
+CanvasRenderer-flow.js:1975:9-13: 
+CanvasRenderer-flow.js:1975:9-19: 
+CanvasRenderer-flow.js:1975:9-25: number
+CanvasRenderer-flow.js:1975:25: number
+CanvasRenderer-flow.js:1977:9-34: 
+CanvasRenderer-flow.js:1977:18-22: 
+CanvasRenderer-flow.js:1977:18-34: 
+CanvasRenderer-flow.js:1979:9-14: 
+CanvasRenderer-flow.js:1979:9-24: 
+CanvasRenderer-flow.js:1979:9-27: 
+CanvasRenderer-flow.js:1979:9-37: 
+CanvasRenderer-flow.js:1979:16-21: 
+CanvasRenderer-flow.js:1979:16-23: 
+CanvasRenderer-flow.js:1979:35-36: number
+CanvasRenderer-flow.js:1980:9-14: 
+CanvasRenderer-flow.js:1980:9-24: 
+CanvasRenderer-flow.js:1980:9-27: 
+CanvasRenderer-flow.js:1980:9-37: 
+CanvasRenderer-flow.js:1980:16-21: 
+CanvasRenderer-flow.js:1980:16-23: 
+CanvasRenderer-flow.js:1980:35-36: number
+CanvasRenderer-flow.js:1981:9-14: 
+CanvasRenderer-flow.js:1981:9-28: 
+CanvasRenderer-flow.js:1981:9-31: 
+CanvasRenderer-flow.js:1981:9-41: 
+CanvasRenderer-flow.js:1981:16-21: 
+CanvasRenderer-flow.js:1981:16-27: 
+CanvasRenderer-flow.js:1981:39-40: number
+CanvasRenderer-flow.js:1982:9-14: 
+CanvasRenderer-flow.js:1982:9-29: 
+CanvasRenderer-flow.js:1982:9-32: 
+CanvasRenderer-flow.js:1982:9-42: 
+CanvasRenderer-flow.js:1982:16-21: 
+CanvasRenderer-flow.js:1982:16-28: 
+CanvasRenderer-flow.js:1982:40-41: number
+CanvasRenderer-flow.js:1985:5-6: 
+CanvasRenderer-flow.js:1985:5,2032:6: 
+CanvasRenderer-flow.js:1985:8-86: string
+CanvasRenderer-flow.js:1985:89,2032:5: () => void
+CanvasRenderer-flow.js:1987:13-18: 
+CanvasRenderer-flow.js:1987:22-36: 
+CanvasRenderer-flow.js:1987:26-34: 
+CanvasRenderer-flow.js:1989:13-21: 
+CanvasRenderer-flow.js:1989:25-39: 
+CanvasRenderer-flow.js:1989:29-37: 
+CanvasRenderer-flow.js:1991:13-20: 
+CanvasRenderer-flow.js:1991:24-37: 
+CanvasRenderer-flow.js:1991:24-57: 
+CanvasRenderer-flow.js:1991:24-82: 
+CanvasRenderer-flow.js:1991:28-35: 
+CanvasRenderer-flow.js:1991:49-56: number
+CanvasRenderer-flow.js:1991:70: number
+CanvasRenderer-flow.js:1991:73: number
+CanvasRenderer-flow.js:1991:76-77: number
+CanvasRenderer-flow.js:1991:80-81: number
+CanvasRenderer-flow.js:1993:13-19: 
+CanvasRenderer-flow.js:1993:23-35: 
+CanvasRenderer-flow.js:1993:23-50: 
+CanvasRenderer-flow.js:1993:44-45: number
+CanvasRenderer-flow.js:1993:48-49: number
+CanvasRenderer-flow.js:1994:13-18: 
+CanvasRenderer-flow.js:1994:22-40: 
+CanvasRenderer-flow.js:1994:26-31: 
+CanvasRenderer-flow.js:1994:33-39: 
+CanvasRenderer-flow.js:1996:9-17: 
+CanvasRenderer-flow.js:1996:9-34: 
+CanvasRenderer-flow.js:1996:28-33: 
+CanvasRenderer-flow.js:1997:9-17: 
+CanvasRenderer-flow.js:1997:9-36: 
+CanvasRenderer-flow.js:1997:28-35: 
+CanvasRenderer-flow.js:1999:9-14: 
+CanvasRenderer-flow.js:1999:9-34: 
+CanvasRenderer-flow.js:1999:25-33: 
+CanvasRenderer-flow.js:2001:9-14: 
+CanvasRenderer-flow.js:2001:9-23: 
+CanvasRenderer-flow.js:2001:9-30: number
+CanvasRenderer-flow.js:2001:29-30: number
+CanvasRenderer-flow.js:2002:9-14: 
+CanvasRenderer-flow.js:2002:9-23: 
+CanvasRenderer-flow.js:2002:9-30: number
+CanvasRenderer-flow.js:2002:29-30: number
+CanvasRenderer-flow.js:2003:9-16: 
+CanvasRenderer-flow.js:2003:9-25: 
+CanvasRenderer-flow.js:2003:9-33: number
+CanvasRenderer-flow.js:2003:31-33: number
+CanvasRenderer-flow.js:2004:9-16: 
+CanvasRenderer-flow.js:2004:9-25: 
+CanvasRenderer-flow.js:2004:9-33: number
+CanvasRenderer-flow.js:2004:31-33: number
+CanvasRenderer-flow.js:2006:9-16: 
+CanvasRenderer-flow.js:2006:9-32: boolean
+CanvasRenderer-flow.js:2006:28-32: boolean
+CanvasRenderer-flow.js:2008:13-18: 
+CanvasRenderer-flow.js:2010:9-38: 
+CanvasRenderer-flow.js:2010:18-26: 
+CanvasRenderer-flow.js:2010:18-38: 
+CanvasRenderer-flow.js:2012:9-14: 
+CanvasRenderer-flow.js:2012:9-24: 
+CanvasRenderer-flow.js:2012:9-27: 
+CanvasRenderer-flow.js:2012:9-37: 
+CanvasRenderer-flow.js:2012:16-21: 
+CanvasRenderer-flow.js:2012:16-23: 
+CanvasRenderer-flow.js:2012:35-36: number
+CanvasRenderer-flow.js:2013:9-14: 
+CanvasRenderer-flow.js:2013:9-24: 
+CanvasRenderer-flow.js:2013:9-27: 
+CanvasRenderer-flow.js:2013:9-37: 
+CanvasRenderer-flow.js:2013:16-21: 
+CanvasRenderer-flow.js:2013:16-23: 
+CanvasRenderer-flow.js:2013:35-36: number
+CanvasRenderer-flow.js:2014:9-14: 
+CanvasRenderer-flow.js:2014:9-28: 
+CanvasRenderer-flow.js:2014:9-31: 
+CanvasRenderer-flow.js:2014:9-41: 
+CanvasRenderer-flow.js:2014:16-21: 
+CanvasRenderer-flow.js:2014:16-27: 
+CanvasRenderer-flow.js:2014:39-40: number
+CanvasRenderer-flow.js:2015:9-14: 
+CanvasRenderer-flow.js:2015:9-29: 
+CanvasRenderer-flow.js:2015:9-32: 
+CanvasRenderer-flow.js:2015:9-42: 
+CanvasRenderer-flow.js:2015:16-21: 
+CanvasRenderer-flow.js:2015:16-28: 
+CanvasRenderer-flow.js:2015:40-41: number
+CanvasRenderer-flow.js:2017:9-14: 
+CanvasRenderer-flow.js:2017:9-33: boolean
+CanvasRenderer-flow.js:2017:29-33: boolean
+CanvasRenderer-flow.js:2019:9-38: 
+CanvasRenderer-flow.js:2019:18-26: 
+CanvasRenderer-flow.js:2019:18-38: 
+CanvasRenderer-flow.js:2021:9-14: 
+CanvasRenderer-flow.js:2021:9-24: 
+CanvasRenderer-flow.js:2021:9-27: 
+CanvasRenderer-flow.js:2021:9-36: 
+CanvasRenderer-flow.js:2021:16-21: 
+CanvasRenderer-flow.js:2021:16-23: 
+CanvasRenderer-flow.js:2021:35: number
+CanvasRenderer-flow.js:2022:9-14: 
+CanvasRenderer-flow.js:2022:9-24: 
+CanvasRenderer-flow.js:2022:9-27: 
+CanvasRenderer-flow.js:2022:9-36: 
+CanvasRenderer-flow.js:2022:16-21: 
+CanvasRenderer-flow.js:2022:16-23: 
+CanvasRenderer-flow.js:2022:35: number
+CanvasRenderer-flow.js:2023:9-14: 
+CanvasRenderer-flow.js:2023:9-28: 
+CanvasRenderer-flow.js:2023:9-31: 
+CanvasRenderer-flow.js:2023:9-40: 
+CanvasRenderer-flow.js:2023:16-21: 
+CanvasRenderer-flow.js:2023:16-27: 
+CanvasRenderer-flow.js:2023:39: number
+CanvasRenderer-flow.js:2024:9-14: 
+CanvasRenderer-flow.js:2024:9-29: 
+CanvasRenderer-flow.js:2024:9-32: 
+CanvasRenderer-flow.js:2024:9-41: 
+CanvasRenderer-flow.js:2024:16-21: 
+CanvasRenderer-flow.js:2024:16-28: 
+CanvasRenderer-flow.js:2024:40: number
+CanvasRenderer-flow.js:2026:9-35: 
+CanvasRenderer-flow.js:2026:18-23: 
+CanvasRenderer-flow.js:2026:18-35: 
+CanvasRenderer-flow.js:2028:9-14: 
+CanvasRenderer-flow.js:2028:9-24: 
+CanvasRenderer-flow.js:2028:9-27: 
+CanvasRenderer-flow.js:2028:9-37: 
+CanvasRenderer-flow.js:2028:16-21: 
+CanvasRenderer-flow.js:2028:16-23: 
+CanvasRenderer-flow.js:2028:35-36: number
+CanvasRenderer-flow.js:2029:9-14: 
+CanvasRenderer-flow.js:2029:9-24: 
+CanvasRenderer-flow.js:2029:9-27: 
+CanvasRenderer-flow.js:2029:9-37: 
+CanvasRenderer-flow.js:2029:16-21: 
+CanvasRenderer-flow.js:2029:16-23: 
+CanvasRenderer-flow.js:2029:35-36: number
+CanvasRenderer-flow.js:2030:9-14: 
+CanvasRenderer-flow.js:2030:9-28: 
+CanvasRenderer-flow.js:2030:9-31: 
+CanvasRenderer-flow.js:2030:9-41: 
+CanvasRenderer-flow.js:2030:16-21: 
+CanvasRenderer-flow.js:2030:16-27: 
+CanvasRenderer-flow.js:2030:39-40: number
+CanvasRenderer-flow.js:2031:9-14: 
+CanvasRenderer-flow.js:2031:9-29: 
+CanvasRenderer-flow.js:2031:9-32: 
+CanvasRenderer-flow.js:2031:9-42: 
+CanvasRenderer-flow.js:2031:16-21: 
+CanvasRenderer-flow.js:2031:16-28: 
+CanvasRenderer-flow.js:2031:40-41: number
+CanvasRenderer-flow.js:2034:5-6: 
+CanvasRenderer-flow.js:2034:5,2058:6: 
+CanvasRenderer-flow.js:2034:8-62: string
+CanvasRenderer-flow.js:2034:65,2058:5: () => void
+CanvasRenderer-flow.js:2036:13-18: 
+CanvasRenderer-flow.js:2036:22-36: 
+CanvasRenderer-flow.js:2036:26-34: 
+CanvasRenderer-flow.js:2038:13-21: 
+CanvasRenderer-flow.js:2038:25-39: 
+CanvasRenderer-flow.js:2038:29-37: 
+CanvasRenderer-flow.js:2040:13-19: 
+CanvasRenderer-flow.js:2040:23-35: 
+CanvasRenderer-flow.js:2040:23-50: 
+CanvasRenderer-flow.js:2040:44-45: number
+CanvasRenderer-flow.js:2040:48-49: number
+CanvasRenderer-flow.js:2041:13-18: 
+CanvasRenderer-flow.js:2041:22-40: 
+CanvasRenderer-flow.js:2041:26-31: 
+CanvasRenderer-flow.js:2041:33-39: 
+CanvasRenderer-flow.js:2043:9-17: 
+CanvasRenderer-flow.js:2043:9-34: 
+CanvasRenderer-flow.js:2043:28-33: 
+CanvasRenderer-flow.js:2044:9-14: 
+CanvasRenderer-flow.js:2044:9-34: 
+CanvasRenderer-flow.js:2044:25-33: 
+CanvasRenderer-flow.js:2046:9-14: 
+CanvasRenderer-flow.js:2046:9-23: 
+CanvasRenderer-flow.js:2046:9-35: 
+CanvasRenderer-flow.js:2046:29-30: number
+CanvasRenderer-flow.js:2046:33-34: number
+CanvasRenderer-flow.js:2047:9-17: 
+CanvasRenderer-flow.js:2047:9-33: boolean
+CanvasRenderer-flow.js:2047:29-33: boolean
+CanvasRenderer-flow.js:2048:9-17: 
+CanvasRenderer-flow.js:2048:9-26: 
+CanvasRenderer-flow.js:2048:9-40: 
+CanvasRenderer-flow.js:2048:32-34: number
+CanvasRenderer-flow.js:2048:37-39: number
+CanvasRenderer-flow.js:2050:13-18: 
+CanvasRenderer-flow.js:2052:9-38: 
+CanvasRenderer-flow.js:2052:18-26: 
+CanvasRenderer-flow.js:2052:18-38: 
+CanvasRenderer-flow.js:2054:9-14: 
+CanvasRenderer-flow.js:2054:9-24: 
+CanvasRenderer-flow.js:2054:9-27: 
+CanvasRenderer-flow.js:2054:9-38: 
+CanvasRenderer-flow.js:2054:16-21: 
+CanvasRenderer-flow.js:2054:16-23: 
+CanvasRenderer-flow.js:2054:35-37: number
+CanvasRenderer-flow.js:2055:9-14: 
+CanvasRenderer-flow.js:2055:9-24: 
+CanvasRenderer-flow.js:2055:9-27: 
+CanvasRenderer-flow.js:2055:9-38: 
+CanvasRenderer-flow.js:2055:16-21: 
+CanvasRenderer-flow.js:2055:16-23: 
+CanvasRenderer-flow.js:2055:35-37: number
+CanvasRenderer-flow.js:2056:9-14: 
+CanvasRenderer-flow.js:2056:9-28: 
+CanvasRenderer-flow.js:2056:9-31: 
+CanvasRenderer-flow.js:2056:9-41: 
+CanvasRenderer-flow.js:2056:16-21: 
+CanvasRenderer-flow.js:2056:16-27: 
+CanvasRenderer-flow.js:2056:39-40: number
+CanvasRenderer-flow.js:2057:9-14: 
+CanvasRenderer-flow.js:2057:9-29: 
+CanvasRenderer-flow.js:2057:9-32: 
+CanvasRenderer-flow.js:2057:9-42: 
+CanvasRenderer-flow.js:2057:16-21: 
+CanvasRenderer-flow.js:2057:16-28: 
+CanvasRenderer-flow.js:2057:40-41: number
+CanvasRenderer-flow.js:2060:5-6: 
+CanvasRenderer-flow.js:2060:5,2097:6: 
+CanvasRenderer-flow.js:2060:8-73: string
+CanvasRenderer-flow.js:2060:76,2097:5: () => void
+CanvasRenderer-flow.js:2062:13-18: 
+CanvasRenderer-flow.js:2062:22-36: 
+CanvasRenderer-flow.js:2062:26-34: 
+CanvasRenderer-flow.js:2064:13-21: 
+CanvasRenderer-flow.js:2064:25-39: 
+CanvasRenderer-flow.js:2064:29-37: 
+CanvasRenderer-flow.js:2066:13-20: 
+CanvasRenderer-flow.js:2066:24-37: 
+CanvasRenderer-flow.js:2066:24-57: 
+CanvasRenderer-flow.js:2066:24-80: 
+CanvasRenderer-flow.js:2066:28-35: 
+CanvasRenderer-flow.js:2066:49-56: number
+CanvasRenderer-flow.js:2066:68: number
+CanvasRenderer-flow.js:2066:71: number
+CanvasRenderer-flow.js:2066:74-75: number
+CanvasRenderer-flow.js:2066:78-79: number
+CanvasRenderer-flow.js:2068:13-19: 
+CanvasRenderer-flow.js:2068:23-35: 
+CanvasRenderer-flow.js:2068:23-50: 
+CanvasRenderer-flow.js:2068:44-45: number
+CanvasRenderer-flow.js:2068:48-49: number
+CanvasRenderer-flow.js:2069:13-18: 
+CanvasRenderer-flow.js:2069:22-40: 
+CanvasRenderer-flow.js:2069:26-31: 
+CanvasRenderer-flow.js:2069:33-39: 
+CanvasRenderer-flow.js:2071:9-17: 
+CanvasRenderer-flow.js:2071:9-34: 
+CanvasRenderer-flow.js:2071:28-33: 
+CanvasRenderer-flow.js:2072:9-17: 
+CanvasRenderer-flow.js:2072:9-36: 
+CanvasRenderer-flow.js:2072:28-35: 
+CanvasRenderer-flow.js:2073:9-14: 
+CanvasRenderer-flow.js:2073:9-30: 
+CanvasRenderer-flow.js:2073:23-30: 
+CanvasRenderer-flow.js:2075:9-14: 
+CanvasRenderer-flow.js:2075:9-34: 
+CanvasRenderer-flow.js:2075:25-33: 
+CanvasRenderer-flow.js:2077:9-14: 
+CanvasRenderer-flow.js:2077:9-23: 
+CanvasRenderer-flow.js:2077:9-30: number
+CanvasRenderer-flow.js:2077:29-30: number
+CanvasRenderer-flow.js:2078:9-14: 
+CanvasRenderer-flow.js:2078:9-23: 
+CanvasRenderer-flow.js:2078:9-30: number
+CanvasRenderer-flow.js:2078:29-30: number
+CanvasRenderer-flow.js:2079:9-16: 
+CanvasRenderer-flow.js:2079:9-25: 
+CanvasRenderer-flow.js:2079:9-32: number
+CanvasRenderer-flow.js:2079:31-32: number
+CanvasRenderer-flow.js:2080:9-16: 
+CanvasRenderer-flow.js:2080:9-25: 
+CanvasRenderer-flow.js:2080:9-32: number
+CanvasRenderer-flow.js:2080:31-32: number
+CanvasRenderer-flow.js:2082:13-18: 
+CanvasRenderer-flow.js:2084:9-37: 
+CanvasRenderer-flow.js:2084:18-25: 
+CanvasRenderer-flow.js:2084:18-37: 
+CanvasRenderer-flow.js:2086:9-14: 
+CanvasRenderer-flow.js:2086:9-24: 
+CanvasRenderer-flow.js:2086:9-27: 
+CanvasRenderer-flow.js:2086:9-37: 
+CanvasRenderer-flow.js:2086:16-21: 
+CanvasRenderer-flow.js:2086:16-23: 
+CanvasRenderer-flow.js:2086:35-36: number
+CanvasRenderer-flow.js:2087:9-14: 
+CanvasRenderer-flow.js:2087:9-24: 
+CanvasRenderer-flow.js:2087:9-27: 
+CanvasRenderer-flow.js:2087:9-37: 
+CanvasRenderer-flow.js:2087:16-21: 
+CanvasRenderer-flow.js:2087:16-23: 
+CanvasRenderer-flow.js:2087:35-36: number
+CanvasRenderer-flow.js:2088:9-14: 
+CanvasRenderer-flow.js:2088:9-28: 
+CanvasRenderer-flow.js:2088:9-31: 
+CanvasRenderer-flow.js:2088:9-41: 
+CanvasRenderer-flow.js:2088:16-21: 
+CanvasRenderer-flow.js:2088:16-27: 
+CanvasRenderer-flow.js:2088:39-40: number
+CanvasRenderer-flow.js:2089:9-14: 
+CanvasRenderer-flow.js:2089:9-29: 
+CanvasRenderer-flow.js:2089:9-32: 
+CanvasRenderer-flow.js:2089:9-42: 
+CanvasRenderer-flow.js:2089:16-21: 
+CanvasRenderer-flow.js:2089:16-28: 
+CanvasRenderer-flow.js:2089:40-41: number
+CanvasRenderer-flow.js:2091:9-38: 
+CanvasRenderer-flow.js:2091:18-26: 
+CanvasRenderer-flow.js:2091:18-38: 
+CanvasRenderer-flow.js:2093:9-14: 
+CanvasRenderer-flow.js:2093:9-24: 
+CanvasRenderer-flow.js:2093:9-27: 
+CanvasRenderer-flow.js:2093:9-37: 
+CanvasRenderer-flow.js:2093:16-21: 
+CanvasRenderer-flow.js:2093:16-23: 
+CanvasRenderer-flow.js:2093:35-36: number
+CanvasRenderer-flow.js:2094:9-14: 
+CanvasRenderer-flow.js:2094:9-24: 
+CanvasRenderer-flow.js:2094:9-27: 
+CanvasRenderer-flow.js:2094:9-37: 
+CanvasRenderer-flow.js:2094:16-21: 
+CanvasRenderer-flow.js:2094:16-23: 
+CanvasRenderer-flow.js:2094:35-36: number
+CanvasRenderer-flow.js:2095:9-14: 
+CanvasRenderer-flow.js:2095:9-28: 
+CanvasRenderer-flow.js:2095:9-31: 
+CanvasRenderer-flow.js:2095:9-40: 
+CanvasRenderer-flow.js:2095:16-21: 
+CanvasRenderer-flow.js:2095:16-27: 
+CanvasRenderer-flow.js:2095:39: number
+CanvasRenderer-flow.js:2096:9-14: 
+CanvasRenderer-flow.js:2096:9-29: 
+CanvasRenderer-flow.js:2096:9-32: 
+CanvasRenderer-flow.js:2096:9-41: 
+CanvasRenderer-flow.js:2096:16-21: 
+CanvasRenderer-flow.js:2096:16-28: 
+CanvasRenderer-flow.js:2096:40: number
+CanvasRenderer-flow.js:2099:5-6: 
+CanvasRenderer-flow.js:2099:5,2122:6: 
+CanvasRenderer-flow.js:2099:8-86: string
+CanvasRenderer-flow.js:2099:89,2122:5: () => void
+CanvasRenderer-flow.js:2101:13-18: 
+CanvasRenderer-flow.js:2101:22-36: 
+CanvasRenderer-flow.js:2101:26-34: 
+CanvasRenderer-flow.js:2103:13-21: 
+CanvasRenderer-flow.js:2103:25-39: 
+CanvasRenderer-flow.js:2103:29-37: 
+CanvasRenderer-flow.js:2105:13-20: 
+CanvasRenderer-flow.js:2105:24-37: 
+CanvasRenderer-flow.js:2105:24-57: 
+CanvasRenderer-flow.js:2105:24-78: 
+CanvasRenderer-flow.js:2105:28-35: 
+CanvasRenderer-flow.js:2105:49-56: number
+CanvasRenderer-flow.js:2105:70: number
+CanvasRenderer-flow.js:2105:73: number
+CanvasRenderer-flow.js:2105:76-77: number
+CanvasRenderer-flow.js:2107:9-17: 
+CanvasRenderer-flow.js:2107:9-36: 
+CanvasRenderer-flow.js:2107:28-35: 
+CanvasRenderer-flow.js:2109:9-14: 
+CanvasRenderer-flow.js:2109:9-34: 
+CanvasRenderer-flow.js:2109:25-33: 
+CanvasRenderer-flow.js:2113:9-17: 
+CanvasRenderer-flow.js:2113:9-26: 
+CanvasRenderer-flow.js:2113:9-28: 
+CanvasRenderer-flow.js:2113:9-35: 
+CanvasRenderer-flow.js:2113:33-35: number
+CanvasRenderer-flow.js:2114:9-17: 
+CanvasRenderer-flow.js:2114:9-26: 
+CanvasRenderer-flow.js:2114:9-28: 
+CanvasRenderer-flow.js:2114:9-35: 
+CanvasRenderer-flow.js:2114:33-35: number
+CanvasRenderer-flow.js:2116:13-18: 
+CanvasRenderer-flow.js:2116:22-29: 
+CanvasRenderer-flow.js:2116:22-41: 
+CanvasRenderer-flow.js:2118:9-14: 
+CanvasRenderer-flow.js:2118:9-24: 
+CanvasRenderer-flow.js:2118:9-27: 
+CanvasRenderer-flow.js:2118:9-39: 
+CanvasRenderer-flow.js:2118:16-21: 
+CanvasRenderer-flow.js:2118:16-23: 
+CanvasRenderer-flow.js:2118:35-38: number
+CanvasRenderer-flow.js:2118:36-38: number
+CanvasRenderer-flow.js:2119:9-14: 
+CanvasRenderer-flow.js:2119:9-24: 
+CanvasRenderer-flow.js:2119:9-27: 
+CanvasRenderer-flow.js:2119:9-39: 
+CanvasRenderer-flow.js:2119:16-21: 
+CanvasRenderer-flow.js:2119:16-23: 
+CanvasRenderer-flow.js:2119:35-38: number
+CanvasRenderer-flow.js:2119:36-38: number
+CanvasRenderer-flow.js:2120:9-14: 
+CanvasRenderer-flow.js:2120:9-28: 
+CanvasRenderer-flow.js:2120:9-31: 
+CanvasRenderer-flow.js:2120:9-41: 
+CanvasRenderer-flow.js:2120:16-21: 
+CanvasRenderer-flow.js:2120:16-27: 
+CanvasRenderer-flow.js:2120:39-40: number
+CanvasRenderer-flow.js:2121:9-14: 
+CanvasRenderer-flow.js:2121:9-29: 
+CanvasRenderer-flow.js:2121:9-32: 
+CanvasRenderer-flow.js:2121:9-42: 
+CanvasRenderer-flow.js:2121:16-21: 
+CanvasRenderer-flow.js:2121:16-28: 
+CanvasRenderer-flow.js:2121:40-41: number
+CanvasRenderer-flow.js:2124:5-6: 
+CanvasRenderer-flow.js:2124:5,2152:6: 
+CanvasRenderer-flow.js:2124:8-67: string
+CanvasRenderer-flow.js:2124:70,2152:5: () => void
+CanvasRenderer-flow.js:2126:13-18: 
+CanvasRenderer-flow.js:2126:22-36: 
+CanvasRenderer-flow.js:2126:26-34: 
+CanvasRenderer-flow.js:2128:13-21: 
+CanvasRenderer-flow.js:2128:25-39: 
+CanvasRenderer-flow.js:2128:29-37: 
+CanvasRenderer-flow.js:2130:13-16: Text
+CanvasRenderer-flow.js:2130:20-45: Text
+CanvasRenderer-flow.js:2130:24-27: [class: Text]
+CanvasRenderer-flow.js:2130:29-44: string
+CanvasRenderer-flow.js:2132:9-17: 
+CanvasRenderer-flow.js:2132:9-32: 
+CanvasRenderer-flow.js:2132:28-31: Text
+CanvasRenderer-flow.js:2134:9-14: 
+CanvasRenderer-flow.js:2134:9-34: 
+CanvasRenderer-flow.js:2134:25-33: 
+CanvasRenderer-flow.js:2136:13-18: 
+CanvasRenderer-flow.js:2138:9-33: 
+CanvasRenderer-flow.js:2138:18-21: Text
+CanvasRenderer-flow.js:2138:18-33: 
+CanvasRenderer-flow.js:2139:13-14: 
+CanvasRenderer-flow.js:2139:18-23: 
+CanvasRenderer-flow.js:2139:18-29: 
+CanvasRenderer-flow.js:2141:9-14: 
+CanvasRenderer-flow.js:2141:9-24: 
+CanvasRenderer-flow.js:2141:9-27: 
+CanvasRenderer-flow.js:2141:9-36: 
+CanvasRenderer-flow.js:2141:16-21: 
+CanvasRenderer-flow.js:2141:16-23: 
+CanvasRenderer-flow.js:2141:35: number
+CanvasRenderer-flow.js:2142:9-14: 
+CanvasRenderer-flow.js:2142:9-24: 
+CanvasRenderer-flow.js:2142:9-27: 
+CanvasRenderer-flow.js:2142:9-36: 
+CanvasRenderer-flow.js:2142:16-21: 
+CanvasRenderer-flow.js:2142:16-23: 
+CanvasRenderer-flow.js:2142:35: number
+CanvasRenderer-flow.js:2143:9-14: 
+CanvasRenderer-flow.js:2143:9-28: 
+CanvasRenderer-flow.js:2143:9-31: 
+CanvasRenderer-flow.js:2143:9-34: 
+CanvasRenderer-flow.js:2143:9-49: 
+CanvasRenderer-flow.js:2143:16-21: 
+CanvasRenderer-flow.js:2143:16-27: 
+CanvasRenderer-flow.js:2143:48: number
+CanvasRenderer-flow.js:2144:9-14: 
+CanvasRenderer-flow.js:2144:9-29: 
+CanvasRenderer-flow.js:2144:9-32: 
+CanvasRenderer-flow.js:2144:9-47: 
+CanvasRenderer-flow.js:2144:16-21: 
+CanvasRenderer-flow.js:2144:16-28: 
+CanvasRenderer-flow.js:2144:46: number
+CanvasRenderer-flow.js:2146:9-12: Text
+CanvasRenderer-flow.js:2146:9-28: string
+CanvasRenderer-flow.js:2146:21-28: string
+CanvasRenderer-flow.js:2148:9-33: 
+CanvasRenderer-flow.js:2148:18-21: Text
+CanvasRenderer-flow.js:2148:18-33: 
+CanvasRenderer-flow.js:2151:9-14: 
+CanvasRenderer-flow.js:2151:9-28: 
+CanvasRenderer-flow.js:2151:9-31: 
+CanvasRenderer-flow.js:2151:9-35: 
+CanvasRenderer-flow.js:2151:9-45: 
+CanvasRenderer-flow.js:2151:16-21: 
+CanvasRenderer-flow.js:2151:16-27: 
+CanvasRenderer-flow.js:2151:43-44: 
+CanvasRenderer-flow.js:2154:5-6: 
+CanvasRenderer-flow.js:2154:5,2181:6: 
+CanvasRenderer-flow.js:2154:8-89: string
+CanvasRenderer-flow.js:2154:92,2181:5: () => void
+CanvasRenderer-flow.js:2156:13-18: 
+CanvasRenderer-flow.js:2156:22-36: 
+CanvasRenderer-flow.js:2156:26-34: 
+CanvasRenderer-flow.js:2157:13-19: 
+CanvasRenderer-flow.js:2157:23-35: 
+CanvasRenderer-flow.js:2157:23-50: 
+CanvasRenderer-flow.js:2157:44-45: number
+CanvasRenderer-flow.js:2157:48-49: number
+CanvasRenderer-flow.js:2158:13-18: 
+CanvasRenderer-flow.js:2158:22-40: 
+CanvasRenderer-flow.js:2158:26-31: 
+CanvasRenderer-flow.js:2158:33-39: 
+CanvasRenderer-flow.js:2160:9-14: 
+CanvasRenderer-flow.js:2160:9-23: 
+CanvasRenderer-flow.js:2160:9-30: number
+CanvasRenderer-flow.js:2160:29-30: number
+CanvasRenderer-flow.js:2161:9-14: 
+CanvasRenderer-flow.js:2161:9-23: 
+CanvasRenderer-flow.js:2161:9-30: number
+CanvasRenderer-flow.js:2161:29-30: number
+CanvasRenderer-flow.js:2163:9-14: 
+CanvasRenderer-flow.js:2163:9-20: 
+CanvasRenderer-flow.js:2163:9-26: number
+CanvasRenderer-flow.js:2163:26: number
+CanvasRenderer-flow.js:2164:9-14: 
+CanvasRenderer-flow.js:2164:9-20: 
+CanvasRenderer-flow.js:2164:9-26: number
+CanvasRenderer-flow.js:2164:26: number
+CanvasRenderer-flow.js:2166:9-14: 
+CanvasRenderer-flow.js:2166:9-31: 
+CanvasRenderer-flow.js:2166:25-30: 
+CanvasRenderer-flow.js:2168:13-18: 
+CanvasRenderer-flow.js:2168:22-27: 
+CanvasRenderer-flow.js:2168:22-39: 
+CanvasRenderer-flow.js:2170:9-14: 
+CanvasRenderer-flow.js:2170:9-24: 
+CanvasRenderer-flow.js:2170:9-27: 
+CanvasRenderer-flow.js:2170:9-37: 
+CanvasRenderer-flow.js:2170:16-21: 
+CanvasRenderer-flow.js:2170:16-23: 
+CanvasRenderer-flow.js:2170:35-36: number
+CanvasRenderer-flow.js:2171:9-14: 
+CanvasRenderer-flow.js:2171:9-24: 
+CanvasRenderer-flow.js:2171:9-27: 
+CanvasRenderer-flow.js:2171:9-37: 
+CanvasRenderer-flow.js:2171:16-21: 
+CanvasRenderer-flow.js:2171:16-23: 
+CanvasRenderer-flow.js:2171:35-36: number
+CanvasRenderer-flow.js:2172:9-14: 
+CanvasRenderer-flow.js:2172:9-28: 
+CanvasRenderer-flow.js:2172:9-31: 
+CanvasRenderer-flow.js:2172:9-41: 
+CanvasRenderer-flow.js:2172:16-21: 
+CanvasRenderer-flow.js:2172:16-27: 
+CanvasRenderer-flow.js:2172:39-40: number
+CanvasRenderer-flow.js:2173:9-14: 
+CanvasRenderer-flow.js:2173:9-29: 
+CanvasRenderer-flow.js:2173:9-32: 
+CanvasRenderer-flow.js:2173:9-42: 
+CanvasRenderer-flow.js:2173:16-21: 
+CanvasRenderer-flow.js:2173:16-28: 
+CanvasRenderer-flow.js:2173:40-41: number
+CanvasRenderer-flow.js:2175:13-23: 
+CanvasRenderer-flow.js:2175:27-32: 
+CanvasRenderer-flow.js:2175:27-49: 
+CanvasRenderer-flow.js:2177:9-14: 
+CanvasRenderer-flow.js:2177:9-29: 
+CanvasRenderer-flow.js:2177:9-32: 
+CanvasRenderer-flow.js:2177:9-41: 
+CanvasRenderer-flow.js:2177:16-26: 
+CanvasRenderer-flow.js:2177:16-28: 
+CanvasRenderer-flow.js:2177:40: number
+CanvasRenderer-flow.js:2178:9-14: 
+CanvasRenderer-flow.js:2178:9-29: 
+CanvasRenderer-flow.js:2178:9-32: 
+CanvasRenderer-flow.js:2178:9-41: 
+CanvasRenderer-flow.js:2178:16-26: 
+CanvasRenderer-flow.js:2178:16-28: 
+CanvasRenderer-flow.js:2178:40: number
+CanvasRenderer-flow.js:2179:9-14: 
+CanvasRenderer-flow.js:2179:9-33: 
+CanvasRenderer-flow.js:2179:9-36: 
+CanvasRenderer-flow.js:2179:9-46: 
+CanvasRenderer-flow.js:2179:16-26: 
+CanvasRenderer-flow.js:2179:16-32: 
+CanvasRenderer-flow.js:2179:44-45: number
+CanvasRenderer-flow.js:2180:9-14: 
+CanvasRenderer-flow.js:2180:9-34: 
+CanvasRenderer-flow.js:2180:9-37: 
+CanvasRenderer-flow.js:2180:9-47: 
+CanvasRenderer-flow.js:2180:16-26: 
+CanvasRenderer-flow.js:2180:16-33: 
+CanvasRenderer-flow.js:2180:45-46: number
+CanvasRenderer-flow.js:2183:5-6: 
+CanvasRenderer-flow.js:2183:5,2207:6: 
+CanvasRenderer-flow.js:2183:8-60: string
+CanvasRenderer-flow.js:2183:63,2207:5: () => void
+CanvasRenderer-flow.js:2185:13-18: 
+CanvasRenderer-flow.js:2185:22-36: 
+CanvasRenderer-flow.js:2185:26-34: 
+CanvasRenderer-flow.js:2186:13-23: 
+CanvasRenderer-flow.js:2186:27-57: 
+CanvasRenderer-flow.js:2186:31-47: 
+CanvasRenderer-flow.js:2186:49-51: number
+CanvasRenderer-flow.js:2186:54-56: number
+CanvasRenderer-flow.js:2188:13-16: 
+CanvasRenderer-flow.js:2188:20-47: 
+CanvasRenderer-flow.js:2188:24-32: 
+CanvasRenderer-flow.js:2188:34: number
+CanvasRenderer-flow.js:2188:37: number
+CanvasRenderer-flow.js:2188:40-42: number
+CanvasRenderer-flow.js:2188:45-46: number
+CanvasRenderer-flow.js:2189:13-17: 
+CanvasRenderer-flow.js:2189:21-47: 
+CanvasRenderer-flow.js:2189:25-33: 
+CanvasRenderer-flow.js:2189:35: number
+CanvasRenderer-flow.js:2189:38: number
+CanvasRenderer-flow.js:2189:41-42: number
+CanvasRenderer-flow.js:2189:45-46: number
+CanvasRenderer-flow.js:2190:13-16: 
+CanvasRenderer-flow.js:2190:20-47: 
+CanvasRenderer-flow.js:2190:24-32: 
+CanvasRenderer-flow.js:2190:34-35: number
+CanvasRenderer-flow.js:2190:38: number
+CanvasRenderer-flow.js:2190:41-42: number
+CanvasRenderer-flow.js:2190:45-46: number
+CanvasRenderer-flow.js:2192:13-26: 
+CanvasRenderer-flow.js:2192:30-72: 
+CanvasRenderer-flow.js:2192:34-40: 
+CanvasRenderer-flow.js:2192:42-52: 
+CanvasRenderer-flow.js:2192:55-59: 
+CanvasRenderer-flow.js:2192:62-65: 
+CanvasRenderer-flow.js:2192:68-71: 
+CanvasRenderer-flow.js:2194:13-18: 
+CanvasRenderer-flow.js:2194:22-47: 
+CanvasRenderer-flow.js:2194:26-31: 
+CanvasRenderer-flow.js:2194:33-46: 
+CanvasRenderer-flow.js:2196:9-14: 
+CanvasRenderer-flow.js:2196:9-23: 
+CanvasRenderer-flow.js:2196:9-30: number
+CanvasRenderer-flow.js:2196:29-30: number
+CanvasRenderer-flow.js:2197:9-14: 
+CanvasRenderer-flow.js:2197:9-23: 
+CanvasRenderer-flow.js:2197:9-30: number
+CanvasRenderer-flow.js:2197:29-30: number
+CanvasRenderer-flow.js:2199:9-14: 
+CanvasRenderer-flow.js:2199:9-31: 
+CanvasRenderer-flow.js:2199:25-30: 
+CanvasRenderer-flow.js:2201:13-18: 
+CanvasRenderer-flow.js:2201:22-27: 
+CanvasRenderer-flow.js:2201:22-39: 
+CanvasRenderer-flow.js:2203:9-14: 
+CanvasRenderer-flow.js:2203:9-24: 
+CanvasRenderer-flow.js:2203:9-27: 
+CanvasRenderer-flow.js:2203:9-37: 
+CanvasRenderer-flow.js:2203:16-21: 
+CanvasRenderer-flow.js:2203:16-23: 
+CanvasRenderer-flow.js:2203:35-36: number
+CanvasRenderer-flow.js:2204:9-14: 
+CanvasRenderer-flow.js:2204:9-24: 
+CanvasRenderer-flow.js:2204:9-27: 
+CanvasRenderer-flow.js:2204:9-37: 
+CanvasRenderer-flow.js:2204:16-21: 
+CanvasRenderer-flow.js:2204:16-23: 
+CanvasRenderer-flow.js:2204:35-36: number
+CanvasRenderer-flow.js:2205:9-14: 
+CanvasRenderer-flow.js:2205:9-28: 
+CanvasRenderer-flow.js:2205:9-31: 
+CanvasRenderer-flow.js:2205:9-42: 
+CanvasRenderer-flow.js:2205:16-21: 
+CanvasRenderer-flow.js:2205:16-27: 
+CanvasRenderer-flow.js:2205:39-41: number
+CanvasRenderer-flow.js:2206:9-14: 
+CanvasRenderer-flow.js:2206:9-29: 
+CanvasRenderer-flow.js:2206:9-32: 
+CanvasRenderer-flow.js:2206:9-42: 
+CanvasRenderer-flow.js:2206:16-21: 
+CanvasRenderer-flow.js:2206:16-28: 
+CanvasRenderer-flow.js:2206:40-41: number
