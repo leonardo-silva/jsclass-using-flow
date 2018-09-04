@@ -6,3 +6,7 @@
 6- We import the definitions of every import command, even when the imported files do not cointain classes. Ex: const.js
 
 OBS: During the analysis of a class A, if it imports class B and class B imports another class C, its not necessary to copy the definition of class C inside the file that implements A, unless there is an inheritance relationship between B and C. 
+
+Example of command used to generate the .dump files using Flow: "flow dump-types --strip-root CanvasRenderer-flow.js > CanvasRenderer-flow.dump"
+
+Some class files do not import other classes, eg. CanvasMaskManager. In this case, I am not creating the dump file.
