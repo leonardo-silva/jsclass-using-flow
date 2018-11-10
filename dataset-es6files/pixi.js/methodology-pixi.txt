@@ -7,6 +7,20 @@
 
 OBS: During the analysis of a class A, if it imports class B and class B imports another class C, its not necessary to copy the definition of class C inside the file that implements A, unless there is an inheritance relationship between B and C. 
 
-Example of command used to generate the .dump files using Flow: "flow dump-types --strip-root CanvasRenderer-flow.js > CanvasRenderer-flow.dump"
+* Example of command used to generate the .dump files using Flow: "flow dump-types --strip-root CanvasRenderer-flow.js > CanvasRenderer-flow.dump"
 
-Some class files do not import other classes, eg. CanvasMaskManager. In this case, I am not creating the dump file.
+* Some class files do not import other classes, eg. CanvasMaskManager. In this case, I am not creating the dump file.
+
+* Example of association in class Graphics:
+        const data = new GraphicsData(
+            this.lineWidth,
+            this.lineColor,
+            this.lineAlpha,
+            this.fillColor,
+            this.fillAlpha,
+            this.filling,
+            shape
+        );
+
+        this.graphicsData.push(data);
+The field graphicsData is an array of type GraphicsData, and this is considered one association.		
