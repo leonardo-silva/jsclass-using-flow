@@ -24,3 +24,6 @@ OBS: During the analysis of a class A, if it imports class B and class B imports
 
         this.graphicsData.push(data);
 The field graphicsData is an array of type GraphicsData, and this is considered one association.		
+
+* Exemple of dependency with more than one class in one same reference (multiple type).
+Graphics-flow.js:5324:13-17: Circle | Ellipse | Polygon | Rectangle | RoundedRectangle
