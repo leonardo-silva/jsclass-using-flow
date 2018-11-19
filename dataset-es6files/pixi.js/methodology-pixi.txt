@@ -27,3 +27,14 @@ The field graphicsData is an array of type GraphicsData, and this is considered 
 
 * Exemple of dependency with more than one class in one same reference (multiple type).
 Graphics-flow.js:5324:13-17: Circle | Ellipse | Polygon | Rectangle | RoundedRectangle
+
+* Inside AccessibilityManager.js, we have an import of multiple files using '*':
+import * as core from '../core';
+In this case, to know which classes from '../core' are been used, we have to 
+1) look for the prefix 'core', like in:
+core.WebGLRenderer.registerPlugin('accessibility', AccessibilityManager);
+core.CanvasRenderer.registerPlugin('accessibility', AccessibilityManager);
+2) Import the classes 
+3) Eliminate the prefix, like in:
+WebGLRenderer.registerPlugin('accessibility', AccessibilityManager);
+CanvasRenderer.registerPlugin('accessibility', AccessibilityManager);
