@@ -38,3 +38,8 @@ core.CanvasRenderer.registerPlugin('accessibility', AccessibilityManager);
 3) Eliminate the prefix, like in:
 WebGLRenderer.registerPlugin('accessibility', AccessibilityManager);
 CanvasRenderer.registerPlugin('accessibility', AccessibilityManager);
+
+* The following case, inside BitmapText.js, represents an association:
+                c = new Sprite(chars[i].texture);
+                this._glyphs.push(c);
+
