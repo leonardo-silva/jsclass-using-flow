@@ -43,3 +43,4 @@ CanvasRenderer.registerPlugin('accessibility', AccessibilityManager);
                 c = new Sprite(chars[i].texture);
                 this._glyphs.push(c);
 
+* We have a problem with extra features (i.e. features added at runtime) because we do not evaluate its dependencies. Ex: class DisplayObject is "extended" in file cacheAsBitmap.js (CacheData-flow.js).
