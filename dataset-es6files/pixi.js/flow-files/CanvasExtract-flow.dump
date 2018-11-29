@@ -1,0 +1,4027 @@
+CanvasExtract-flow.js:10:1,248:1: [class: Rectangle]
+CanvasExtract-flow.js:18:21: number
+CanvasExtract-flow.js:18:28: number
+CanvasExtract-flow.js:18:39: number
+CanvasExtract-flow.js:18:51: number
+CanvasExtract-flow.js:24:9-12: Rectangle
+CanvasExtract-flow.js:24:9-18: number
+CanvasExtract-flow.js:24:18: number
+CanvasExtract-flow.js:30:9-12: Rectangle
+CanvasExtract-flow.js:30:9-18: number
+CanvasExtract-flow.js:30:18: number
+CanvasExtract-flow.js:36:9-12: Rectangle
+CanvasExtract-flow.js:36:9-26: number
+CanvasExtract-flow.js:36:22-26: number
+CanvasExtract-flow.js:42:9-12: Rectangle
+CanvasExtract-flow.js:42:9-28: number
+CanvasExtract-flow.js:42:23-28: number
+CanvasExtract-flow.js:52:9-12: Rectangle
+CanvasExtract-flow.js:52:9-31: 
+CanvasExtract-flow.js:52:21-26: 
+CanvasExtract-flow.js:52:21-31: 
+CanvasExtract-flow.js:63:16-19: Rectangle
+CanvasExtract-flow.js:63:16-21: 
+CanvasExtract-flow.js:74:16-19: Rectangle
+CanvasExtract-flow.js:74:16-21: 
+CanvasExtract-flow.js:74:16-34: 
+CanvasExtract-flow.js:74:25-28: Rectangle
+CanvasExtract-flow.js:74:25-34: 
+CanvasExtract-flow.js:85:16-19: Rectangle
+CanvasExtract-flow.js:85:16-21: 
+CanvasExtract-flow.js:96:16-19: Rectangle
+CanvasExtract-flow.js:96:16-21: 
+CanvasExtract-flow.js:96:16-35: 
+CanvasExtract-flow.js:96:25-28: Rectangle
+CanvasExtract-flow.js:96:25-35: 
+CanvasExtract-flow.js:107:16-40: Rectangle
+CanvasExtract-flow.js:107:20-28: [class: Rectangle]
+CanvasExtract-flow.js:107:30: number
+CanvasExtract-flow.js:107:33: number
+CanvasExtract-flow.js:107:36: number
+CanvasExtract-flow.js:107:39: number
+CanvasExtract-flow.js:117:16-69: Rectangle
+CanvasExtract-flow.js:117:20-28: [class: Rectangle]
+CanvasExtract-flow.js:117:30-33: Rectangle
+CanvasExtract-flow.js:117:30-35: 
+CanvasExtract-flow.js:117:38-41: Rectangle
+CanvasExtract-flow.js:117:38-43: 
+CanvasExtract-flow.js:117:46-49: Rectangle
+CanvasExtract-flow.js:117:46-55: 
+CanvasExtract-flow.js:117:58-61: Rectangle
+CanvasExtract-flow.js:117:58-68: 
+CanvasExtract-flow.js:126:10-18: 
+CanvasExtract-flow.js:128:9-12: Rectangle
+CanvasExtract-flow.js:128:9-28: 
+CanvasExtract-flow.js:128:18-26: 
+CanvasExtract-flow.js:128:18-28: 
+CanvasExtract-flow.js:129:9-12: Rectangle
+CanvasExtract-flow.js:129:9-28: 
+CanvasExtract-flow.js:129:18-26: 
+CanvasExtract-flow.js:129:18-28: 
+CanvasExtract-flow.js:130:9-12: Rectangle
+CanvasExtract-flow.js:130:9-36: 
+CanvasExtract-flow.js:130:22-30: 
+CanvasExtract-flow.js:130:22-36: 
+CanvasExtract-flow.js:131:9-12: Rectangle
+CanvasExtract-flow.js:131:9-38: 
+CanvasExtract-flow.js:131:23-31: 
+CanvasExtract-flow.js:131:23-38: 
+CanvasExtract-flow.js:133:16-19: Rectangle
+CanvasExtract-flow.js:143:14: 
+CanvasExtract-flow.js:143:17: 
+CanvasExtract-flow.js:145:13-16: Rectangle
+CanvasExtract-flow.js:145:13-22: 
+CanvasExtract-flow.js:145:13-27: boolean
+CanvasExtract-flow.js:145:27: number
+CanvasExtract-flow.js:145:32-35: Rectangle
+CanvasExtract-flow.js:145:32-42: 
+CanvasExtract-flow.js:145:32-47: boolean
+CanvasExtract-flow.js:145:47: number
+CanvasExtract-flow.js:147:20-24: boolean
+CanvasExtract-flow.js:150:13: 
+CanvasExtract-flow.js:150:13-23: boolean
+CanvasExtract-flow.js:150:18-21: Rectangle
+CanvasExtract-flow.js:150:18-23: 
+CanvasExtract-flow.js:150:28: 
+CanvasExtract-flow.js:150:28-50: boolean
+CanvasExtract-flow.js:150:32-35: Rectangle
+CanvasExtract-flow.js:150:32-37: 
+CanvasExtract-flow.js:150:32-50: 
+CanvasExtract-flow.js:150:41-44: Rectangle
+CanvasExtract-flow.js:150:41-50: 
+CanvasExtract-flow.js:152:17: 
+CanvasExtract-flow.js:152:17-27: boolean
+CanvasExtract-flow.js:152:22-25: Rectangle
+CanvasExtract-flow.js:152:22-27: 
+CanvasExtract-flow.js:152:32: 
+CanvasExtract-flow.js:152:32-55: boolean
+CanvasExtract-flow.js:152:36-39: Rectangle
+CanvasExtract-flow.js:152:36-41: 
+CanvasExtract-flow.js:152:36-55: 
+CanvasExtract-flow.js:152:45-48: Rectangle
+CanvasExtract-flow.js:152:45-55: 
+CanvasExtract-flow.js:154:24-27: boolean
+CanvasExtract-flow.js:158:16-20: boolean
+CanvasExtract-flow.js:167:9-16: 
+CanvasExtract-flow.js:167:19-26: 
+CanvasExtract-flow.js:169:9-32: 
+CanvasExtract-flow.js:169:20-27: 
+CanvasExtract-flow.js:169:20-32: 
+CanvasExtract-flow.js:169:32: number
+CanvasExtract-flow.js:170:9-64: 
+CanvasExtract-flow.js:170:20-27: 
+CanvasExtract-flow.js:170:20-64: 
+CanvasExtract-flow.js:170:33-63: number
+CanvasExtract-flow.js:170:34-41: 
+CanvasExtract-flow.js:170:47: number
+CanvasExtract-flow.js:170:52-59: 
+CanvasExtract-flow.js:170:63: number
+CanvasExtract-flow.js:172:9-12: Rectangle
+CanvasExtract-flow.js:172:9-14: 
+CanvasExtract-flow.js:172:9-26: 
+CanvasExtract-flow.js:172:19-26: 
+CanvasExtract-flow.js:173:9-12: Rectangle
+CanvasExtract-flow.js:173:9-14: 
+CanvasExtract-flow.js:173:9-26: 
+CanvasExtract-flow.js:173:19-26: 
+CanvasExtract-flow.js:175:9-12: Rectangle
+CanvasExtract-flow.js:175:9-18: 
+CanvasExtract-flow.js:175:9-34: 
+CanvasExtract-flow.js:175:23-30: 
+CanvasExtract-flow.js:175:23-34: number
+CanvasExtract-flow.js:175:34: number
+CanvasExtract-flow.js:176:9-12: Rectangle
+CanvasExtract-flow.js:176:9-19: 
+CanvasExtract-flow.js:176:9-35: 
+CanvasExtract-flow.js:176:24-31: 
+CanvasExtract-flow.js:176:24-35: number
+CanvasExtract-flow.js:176:35: number
+CanvasExtract-flow.js:184:9-17: 
+CanvasExtract-flow.js:186:13-16: Rectangle
+CanvasExtract-flow.js:186:13-18: 
+CanvasExtract-flow.js:186:13-32: boolean
+CanvasExtract-flow.js:186:22-30: 
+CanvasExtract-flow.js:186:22-32: 
+CanvasExtract-flow.js:188:13-16: Rectangle
+CanvasExtract-flow.js:188:13-22: 
+CanvasExtract-flow.js:188:13-32: 
+CanvasExtract-flow.js:188:27-30: Rectangle
+CanvasExtract-flow.js:188:27-32: 
+CanvasExtract-flow.js:189:17-20: Rectangle
+CanvasExtract-flow.js:189:17-26: 
+CanvasExtract-flow.js:189:17-30: boolean
+CanvasExtract-flow.js:189:30: number
+CanvasExtract-flow.js:191:17-20: Rectangle
+CanvasExtract-flow.js:191:17-30: number
+CanvasExtract-flow.js:191:30: number
+CanvasExtract-flow.js:194:13-16: Rectangle
+CanvasExtract-flow.js:194:13-32: 
+CanvasExtract-flow.js:194:22-30: 
+CanvasExtract-flow.js:194:22-32: 
+CanvasExtract-flow.js:197:13-16: Rectangle
+CanvasExtract-flow.js:197:13-18: 
+CanvasExtract-flow.js:197:13-32: boolean
+CanvasExtract-flow.js:197:22-30: 
+CanvasExtract-flow.js:197:22-32: 
+CanvasExtract-flow.js:199:13-16: Rectangle
+CanvasExtract-flow.js:199:13-23: 
+CanvasExtract-flow.js:199:13-33: 
+CanvasExtract-flow.js:199:28-31: Rectangle
+CanvasExtract-flow.js:199:28-33: 
+CanvasExtract-flow.js:200:17-20: Rectangle
+CanvasExtract-flow.js:200:17-27: 
+CanvasExtract-flow.js:200:17-31: boolean
+CanvasExtract-flow.js:200:31: number
+CanvasExtract-flow.js:202:17-20: Rectangle
+CanvasExtract-flow.js:202:17-31: number
+CanvasExtract-flow.js:202:31: number
+CanvasExtract-flow.js:204:13-16: Rectangle
+CanvasExtract-flow.js:204:13-32: 
+CanvasExtract-flow.js:204:22-30: 
+CanvasExtract-flow.js:204:22-32: 
+CanvasExtract-flow.js:207:13-16: Rectangle
+CanvasExtract-flow.js:207:13-18: 
+CanvasExtract-flow.js:207:13-31: 
+CanvasExtract-flow.js:207:13-63: boolean
+CanvasExtract-flow.js:207:22-25: Rectangle
+CanvasExtract-flow.js:207:22-31: 
+CanvasExtract-flow.js:207:35-43: 
+CanvasExtract-flow.js:207:35-45: 
+CanvasExtract-flow.js:207:35-63: 
+CanvasExtract-flow.js:207:49-57: 
+CanvasExtract-flow.js:207:49-63: 
+CanvasExtract-flow.js:209:13-16: Rectangle
+CanvasExtract-flow.js:209:13-49: number
+CanvasExtract-flow.js:209:26-34: 
+CanvasExtract-flow.js:209:26-40: 
+CanvasExtract-flow.js:209:26-49: number
+CanvasExtract-flow.js:209:44-47: Rectangle
+CanvasExtract-flow.js:209:44-49: 
+CanvasExtract-flow.js:210:17-26: number
+CanvasExtract-flow.js:210:17-30: boolean
+CanvasExtract-flow.js:210:30: number
+CanvasExtract-flow.js:212:17-20: Rectangle
+CanvasExtract-flow.js:212:17-30: number
+CanvasExtract-flow.js:212:30: number
+CanvasExtract-flow.js:216:13-16: Rectangle
+CanvasExtract-flow.js:216:13-18: 
+CanvasExtract-flow.js:216:13-32: 
+CanvasExtract-flow.js:216:13-65: boolean
+CanvasExtract-flow.js:216:22-25: Rectangle
+CanvasExtract-flow.js:216:22-32: 
+CanvasExtract-flow.js:216:36-44: 
+CanvasExtract-flow.js:216:36-46: 
+CanvasExtract-flow.js:216:36-65: 
+CanvasExtract-flow.js:216:50-58: 
+CanvasExtract-flow.js:216:50-65: 
+CanvasExtract-flow.js:218:13-16: Rectangle
+CanvasExtract-flow.js:218:13-51: number
+CanvasExtract-flow.js:218:27-35: 
+CanvasExtract-flow.js:218:27-42: 
+CanvasExtract-flow.js:218:27-51: number
+CanvasExtract-flow.js:218:46-49: Rectangle
+CanvasExtract-flow.js:218:46-51: 
+CanvasExtract-flow.js:219:17-27: number
+CanvasExtract-flow.js:219:17-31: boolean
+CanvasExtract-flow.js:219:31: number
+CanvasExtract-flow.js:221:17-20: Rectangle
+CanvasExtract-flow.js:221:17-31: number
+CanvasExtract-flow.js:221:31: number
+CanvasExtract-flow.js:231:13-16: 
+CanvasExtract-flow.js:233:13-16: 
+CanvasExtract-flow.js:233:22-30: [class: Rectangle]
+CanvasExtract-flow.js:238:15-16: number
+CanvasExtract-flow.js:238:20-23: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+CanvasExtract-flow.js:238:20-43: number
+CanvasExtract-flow.js:238:29-32: Rectangle
+CanvasExtract-flow.js:238:29-34: 
+CanvasExtract-flow.js:238:37-40: 
+CanvasExtract-flow.js:238:37-42: 
+CanvasExtract-flow.js:239:15-16: number
+CanvasExtract-flow.js:239:20-23: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+CanvasExtract-flow.js:239:20-69: number
+CanvasExtract-flow.js:239:29-32: Rectangle
+CanvasExtract-flow.js:239:29-34: 
+CanvasExtract-flow.js:239:29-47: 
+CanvasExtract-flow.js:239:38-41: Rectangle
+CanvasExtract-flow.js:239:38-47: 
+CanvasExtract-flow.js:239:50-53: 
+CanvasExtract-flow.js:239:50-55: 
+CanvasExtract-flow.js:239:50-68: 
+CanvasExtract-flow.js:239:59-62: 
+CanvasExtract-flow.js:239:59-68: 
+CanvasExtract-flow.js:240:15-16: number
+CanvasExtract-flow.js:240:20-23: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+CanvasExtract-flow.js:240:20-43: number
+CanvasExtract-flow.js:240:29-32: Rectangle
+CanvasExtract-flow.js:240:29-34: 
+CanvasExtract-flow.js:240:37-40: 
+CanvasExtract-flow.js:240:37-42: 
+CanvasExtract-flow.js:241:15-16: number
+CanvasExtract-flow.js:241:20-23: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+CanvasExtract-flow.js:241:20-71: number
+CanvasExtract-flow.js:241:29-32: Rectangle
+CanvasExtract-flow.js:241:29-34: 
+CanvasExtract-flow.js:241:29-48: 
+CanvasExtract-flow.js:241:38-41: Rectangle
+CanvasExtract-flow.js:241:38-48: 
+CanvasExtract-flow.js:241:51-54: 
+CanvasExtract-flow.js:241:51-56: 
+CanvasExtract-flow.js:241:51-70: 
+CanvasExtract-flow.js:241:60-63: 
+CanvasExtract-flow.js:241:60-70: 
+CanvasExtract-flow.js:243:9-12: Rectangle
+CanvasExtract-flow.js:243:9-19: number
+CanvasExtract-flow.js:243:18-19: number
+CanvasExtract-flow.js:244:9-12: Rectangle
+CanvasExtract-flow.js:244:9-28: number
+CanvasExtract-flow.js:244:22-23: number
+CanvasExtract-flow.js:244:22-28: number
+CanvasExtract-flow.js:244:27-28: number
+CanvasExtract-flow.js:245:9-12: Rectangle
+CanvasExtract-flow.js:245:9-19: number
+CanvasExtract-flow.js:245:18-19: number
+CanvasExtract-flow.js:246:9-12: Rectangle
+CanvasExtract-flow.js:246:9-29: number
+CanvasExtract-flow.js:246:23-24: number
+CanvasExtract-flow.js:246:23-29: number
+CanvasExtract-flow.js:246:28-29: number
+CanvasExtract-flow.js:257:1,343:1: [class: RenderTexture]
+CanvasExtract-flow.js:257:29-35: 
+CanvasExtract-flow.js:263:17-33: 
+CanvasExtract-flow.js:263:36-40: null | void
+CanvasExtract-flow.js:266:13-27: null
+CanvasExtract-flow.js:266:31-34: null
+CanvasExtract-flow.js:268:15-31: 
+CanvasExtract-flow.js:268:44-60: 
+CanvasExtract-flow.js:271:19-23: 
+CanvasExtract-flow.js:271:27-35: any
+CanvasExtract-flow.js:271:27-38: 
+CanvasExtract-flow.js:271:37: number
+CanvasExtract-flow.js:272:19-24: 
+CanvasExtract-flow.js:272:28-36: any
+CanvasExtract-flow.js:272:28-39: 
+CanvasExtract-flow.js:272:38: number
+CanvasExtract-flow.js:273:19-27: 
+CanvasExtract-flow.js:273:31-39: any
+CanvasExtract-flow.js:273:31-42: 
+CanvasExtract-flow.js:273:31-47: 
+CanvasExtract-flow.js:273:41: number
+CanvasExtract-flow.js:273:47: number
+CanvasExtract-flow.js:274:19-28: 
+CanvasExtract-flow.js:274:32-40: any
+CanvasExtract-flow.js:274:32-43: 
+CanvasExtract-flow.js:274:32-48: 
+CanvasExtract-flow.js:274:42: number
+CanvasExtract-flow.js:274:48: number
+CanvasExtract-flow.js:277:13-19: {_exception: (...data: Array<any>) => void, assert: (condition: boolean, ...data: Array<any>) => void, clear: () => void, count: (label: string) => void, debug: (...data: Array<any>) => void, dir: (...data: Array<any>) => void, dirxml: (...data: Array<any>) => void, error: (...data: Array<any>) => void, group: (...data: Array<any>) => void, groupCollapsed: (...data: Array<any>) => void, groupEnd: () => void, info: (...data: Array<any>) => void, log: (...data: Array<any>) => void, profile: (name: string) => void, profileEnd: () => void, table: (tabularData: {[key: string]: any,} | Array<Array<any>>) => void, time: (label: string) => void, timeEnd: (label: string) => void, timeStamp: (label?: string) => void, trace: (...data: Array<any>) => void, warn: (...data: Array<any>) => void}
+CanvasExtract-flow.js:277:13-110: void
+CanvasExtract-flow.js:277:26-109: 
+CanvasExtract-flow.js:277:61-65: 
+CanvasExtract-flow.js:277:71-76: 
+CanvasExtract-flow.js:278:13-42: 
+CanvasExtract-flow.js:278:31-39: any
+CanvasExtract-flow.js:278:31-42: 
+CanvasExtract-flow.js:278:41: number
+CanvasExtract-flow.js:281:13-24: null
+CanvasExtract-flow.js:281:21-24: null
+CanvasExtract-flow.js:282:13-91: 
+CanvasExtract-flow.js:282:33-91: 
+CanvasExtract-flow.js:282:37-53: 
+CanvasExtract-flow.js:282:55-59: 
+CanvasExtract-flow.js:282:62-67: 
+CanvasExtract-flow.js:282:70-78: 
+CanvasExtract-flow.js:282:81-90: 
+CanvasExtract-flow.js:290:9,293:9: 
+CanvasExtract-flow.js:291:13-29: 
+CanvasExtract-flow.js:292:13-17: null | void
+CanvasExtract-flow.js:295:9-12: RenderTexture
+CanvasExtract-flow.js:295:9-45: null
+CanvasExtract-flow.js:295:31-45: null
+CanvasExtract-flow.js:302:9-12: RenderTexture
+CanvasExtract-flow.js:302:9-25: boolean
+CanvasExtract-flow.js:302:22-25: boolean
+CanvasExtract-flow.js:304:9-12: RenderTexture
+CanvasExtract-flow.js:304:9-25: 
+CanvasExtract-flow.js:314:12-16: 
+CanvasExtract-flow.js:314:19-24: 
+CanvasExtract-flow.js:314:27-48: 
+CanvasExtract-flow.js:317:9-12: RenderTexture
+CanvasExtract-flow.js:317:9-45: boolean
+CanvasExtract-flow.js:317:23-27: 
+CanvasExtract-flow.js:317:23-31: boolean
+CanvasExtract-flow.js:317:23-45: boolean
+CanvasExtract-flow.js:317:31: number
+CanvasExtract-flow.js:317:36-41: 
+CanvasExtract-flow.js:317:36-45: boolean
+CanvasExtract-flow.js:317:45: number
+CanvasExtract-flow.js:319:9-12: RenderTexture
+CanvasExtract-flow.js:319:9-19: 
+CanvasExtract-flow.js:319:9-51: 
+CanvasExtract-flow.js:319:29-32: RenderTexture
+CanvasExtract-flow.js:319:29-37: 
+CanvasExtract-flow.js:319:29-51: 
+CanvasExtract-flow.js:319:47-51: 
+CanvasExtract-flow.js:320:9-12: RenderTexture
+CanvasExtract-flow.js:320:9-19: 
+CanvasExtract-flow.js:320:9-54: 
+CanvasExtract-flow.js:320:30-33: RenderTexture
+CanvasExtract-flow.js:320:30-38: 
+CanvasExtract-flow.js:320:30-54: 
+CanvasExtract-flow.js:320:49-54: 
+CanvasExtract-flow.js:322:14-35: 
+CanvasExtract-flow.js:324:13-16: RenderTexture
+CanvasExtract-flow.js:324:13-28: 
+CanvasExtract-flow.js:324:13-50: 
+CanvasExtract-flow.js:324:37-41: 
+CanvasExtract-flow.js:324:44-49: 
+CanvasExtract-flow.js:327:9-12: RenderTexture
+CanvasExtract-flow.js:327:9-25: 
+CanvasExtract-flow.js:339:19-23: number
+CanvasExtract-flow.js:339:26-31: number
+CanvasExtract-flow.js:339:34-42: void
+CanvasExtract-flow.js:339:45-54: void
+CanvasExtract-flow.js:341:16-93: RenderTexture
+CanvasExtract-flow.js:341:20-32: [class: RenderTexture]
+CanvasExtract-flow.js:341:34-92: 
+CanvasExtract-flow.js:341:38-54: 
+CanvasExtract-flow.js:341:56-60: number
+CanvasExtract-flow.js:341:63-68: number
+CanvasExtract-flow.js:341:71-79: void
+CanvasExtract-flow.js:341:82-91: void
+CanvasExtract-flow.js:351:1,453:1: [class: CanvasRenderTarget]
+CanvasExtract-flow.js:358:17-21: number
+CanvasExtract-flow.js:358:24-29: number
+CanvasExtract-flow.js:358:32-41: void
+CanvasExtract-flow.js:365:9-12: CanvasRenderTarget
+CanvasExtract-flow.js:365:9-54: HTMLCanvasElement
+CanvasExtract-flow.js:365:23-30: Document
+CanvasExtract-flow.js:365:23-54: HTMLCanvasElement
+CanvasExtract-flow.js:365:46-53: string
+CanvasExtract-flow.js:372:9-12: CanvasRenderTarget
+CanvasExtract-flow.js:372:9-51: ?CanvasRenderingContext2D
+CanvasExtract-flow.js:372:24-34: HTMLCanvasElement
+CanvasExtract-flow.js:372:24-51: ?CanvasRenderingContext2D
+CanvasExtract-flow.js:372:47-50: string
+CanvasExtract-flow.js:374:9-12: CanvasRenderTarget
+CanvasExtract-flow.js:374:9-50: 
+CanvasExtract-flow.js:374:27-36: void
+CanvasExtract-flow.js:374:27-50: 
+CanvasExtract-flow.js:374:41-50: 
+CanvasExtract-flow.js:376:9-12: CanvasRenderTarget
+CanvasExtract-flow.js:376:9-34: void
+CanvasExtract-flow.js:376:21-25: number
+CanvasExtract-flow.js:376:28-33: number
+CanvasExtract-flow.js:386:9-12: CanvasRenderTarget
+CanvasExtract-flow.js:386:9-20: 
+CanvasExtract-flow.js:386:9-51: 
+CanvasExtract-flow.js:386:35: number
+CanvasExtract-flow.js:386:38: number
+CanvasExtract-flow.js:386:41: number
+CanvasExtract-flow.js:386:44: number
+CanvasExtract-flow.js:386:47: number
+CanvasExtract-flow.js:386:50: number
+CanvasExtract-flow.js:387:9-12: CanvasRenderTarget
+CanvasExtract-flow.js:387:9-20: 
+CanvasExtract-flow.js:387:9-75: 
+CanvasExtract-flow.js:387:32: number
+CanvasExtract-flow.js:387:35: number
+CanvasExtract-flow.js:387:38-41: CanvasRenderTarget
+CanvasExtract-flow.js:387:38-48: 
+CanvasExtract-flow.js:387:38-54: 
+CanvasExtract-flow.js:387:57-60: CanvasRenderTarget
+CanvasExtract-flow.js:387:57-67: 
+CanvasExtract-flow.js:387:57-74: 
+CanvasExtract-flow.js:396:12-16: number
+CanvasExtract-flow.js:396:19-24: number
+CanvasExtract-flow.js:398:9-12: CanvasRenderTarget
+CanvasExtract-flow.js:398:9-19: 
+CanvasExtract-flow.js:398:9-51: number
+CanvasExtract-flow.js:398:29-33: number
+CanvasExtract-flow.js:398:29-51: number
+CanvasExtract-flow.js:398:37-40: CanvasRenderTarget
+CanvasExtract-flow.js:398:37-51: 
+CanvasExtract-flow.js:399:9-12: CanvasRenderTarget
+CanvasExtract-flow.js:399:9-19: 
+CanvasExtract-flow.js:399:9-53: number
+CanvasExtract-flow.js:399:30-35: number
+CanvasExtract-flow.js:399:30-53: number
+CanvasExtract-flow.js:399:39-42: CanvasRenderTarget
+CanvasExtract-flow.js:399:39-53: 
+CanvasExtract-flow.js:408:9-12: CanvasRenderTarget
+CanvasExtract-flow.js:408:9-27: null
+CanvasExtract-flow.js:408:24-27: null
+CanvasExtract-flow.js:409:9-12: CanvasRenderTarget
+CanvasExtract-flow.js:409:9-26: null
+CanvasExtract-flow.js:409:23-26: null
+CanvasExtract-flow.js:420:16-19: CanvasRenderTarget
+CanvasExtract-flow.js:420:16-26: 
+CanvasExtract-flow.js:420:16-32: 
+CanvasExtract-flow.js:428:15-17: 
+CanvasExtract-flow.js:430:9-12: CanvasRenderTarget
+CanvasExtract-flow.js:430:9-19: 
+CanvasExtract-flow.js:430:9-31: 
+CanvasExtract-flow.js:430:29-31: 
+CanvasExtract-flow.js:441:16-19: CanvasRenderTarget
+CanvasExtract-flow.js:441:16-26: 
+CanvasExtract-flow.js:441:16-33: 
+CanvasExtract-flow.js:449:16-18: 
+CanvasExtract-flow.js:451:9-12: CanvasRenderTarget
+CanvasExtract-flow.js:451:9-19: 
+CanvasExtract-flow.js:451:9-32: 
+CanvasExtract-flow.js:451:30-32: 
+CanvasExtract-flow.js:464:1,715:1: [class: CanvasRenderer]
+CanvasExtract-flow.js:464:30-43: 
+CanvasExtract-flow.js:483:17-21: number
+CanvasExtract-flow.js:483:24-29: number
+CanvasExtract-flow.js:483:42-43: {}
+CanvasExtract-flow.js:485:9-47: 
+CanvasExtract-flow.js:485:15-22: string
+CanvasExtract-flow.js:485:25-29: number
+CanvasExtract-flow.js:485:32-37: number
+CanvasExtract-flow.js:485:40-46: {}
+CanvasExtract-flow.js:487:9-12: CanvasRenderer
+CanvasExtract-flow.js:487:9-40: 
+CanvasExtract-flow.js:487:21-33: 
+CanvasExtract-flow.js:487:21-40: 
+CanvasExtract-flow.js:494:9-12: CanvasRenderer
+CanvasExtract-flow.js:494:9-82: 
+CanvasExtract-flow.js:494:28-31: CanvasRenderer
+CanvasExtract-flow.js:494:28-36: 
+CanvasExtract-flow.js:494:28-82: 
+CanvasExtract-flow.js:494:49-52: string
+CanvasExtract-flow.js:494:55-81: {alpha: }
+CanvasExtract-flow.js:494:64-67: CanvasRenderer
+CanvasExtract-flow.js:494:64-79: 
+CanvasExtract-flow.js:501:9-12: CanvasRenderer
+CanvasExtract-flow.js:501:9-27: boolean
+CanvasExtract-flow.js:501:24-27: boolean
+CanvasExtract-flow.js:508:9-12: CanvasRenderer
+CanvasExtract-flow.js:508:9-54: 
+CanvasExtract-flow.js:508:28-54: 
+CanvasExtract-flow.js:508:32-48: 
+CanvasExtract-flow.js:508:50-53: CanvasRenderer
+CanvasExtract-flow.js:515:9-12: CanvasRenderer
+CanvasExtract-flow.js:515:9-53: string
+CanvasExtract-flow.js:515:31-53: string
+CanvasExtract-flow.js:517:14-29: 
+CanvasExtract-flow.js:519:17-32: 
+CanvasExtract-flow.js:521:17-20: CanvasRenderer
+CanvasExtract-flow.js:521:17-67: string
+CanvasExtract-flow.js:521:39-67: string
+CanvasExtract-flow.js:523:22-37: 
+CanvasExtract-flow.js:525:17-20: CanvasRenderer
+CanvasExtract-flow.js:525:17-64: string
+CanvasExtract-flow.js:525:39-64: string
+CanvasExtract-flow.js:527:22-37: 
+CanvasExtract-flow.js:529:17-20: CanvasRenderer
+CanvasExtract-flow.js:529:17-62: string
+CanvasExtract-flow.js:529:39-62: string
+CanvasExtract-flow.js:531:22-37: 
+CanvasExtract-flow.js:533:17-20: CanvasRenderer
+CanvasExtract-flow.js:533:17-63: string
+CanvasExtract-flow.js:533:39-63: string
+CanvasExtract-flow.js:537:9-12: CanvasRenderer
+CanvasExtract-flow.js:537:9-26: 
+CanvasExtract-flow.js:539:9-12: CanvasRenderer
+CanvasExtract-flow.js:539:9-53: 
+CanvasExtract-flow.js:539:27-51: 
+CanvasExtract-flow.js:539:27-53: 
+CanvasExtract-flow.js:540:9-12: CanvasRenderer
+CanvasExtract-flow.js:540:9-36: null
+CanvasExtract-flow.js:540:33-36: null
+CanvasExtract-flow.js:542:9-12: CanvasRenderer
+CanvasExtract-flow.js:542:9-27: null
+CanvasExtract-flow.js:542:24-27: null
+CanvasExtract-flow.js:543:9-12: CanvasRenderer
+CanvasExtract-flow.js:543:9-38: boolean
+CanvasExtract-flow.js:543:34-38: boolean
+CanvasExtract-flow.js:545:9-12: CanvasRenderer
+CanvasExtract-flow.js:545:9-34: void
+CanvasExtract-flow.js:545:21-25: number
+CanvasExtract-flow.js:545:28-33: number
+CanvasExtract-flow.js:558:12-24: 
+CanvasExtract-flow.js:558:27-39: void
+CanvasExtract-flow.js:558:42-46: void
+CanvasExtract-flow.js:558:49-57: void
+CanvasExtract-flow.js:558:60-78: void
+CanvasExtract-flow.js:560:14-17: CanvasRenderer
+CanvasExtract-flow.js:566:9-12: CanvasRenderer
+CanvasExtract-flow.js:566:9-47: boolean
+CanvasExtract-flow.js:566:34-47: boolean
+CanvasExtract-flow.js:566:35-47: void
+CanvasExtract-flow.js:568:9-12: CanvasRenderer
+CanvasExtract-flow.js:568:9-30: 
+CanvasExtract-flow.js:568:19-29: string
+CanvasExtract-flow.js:570:13-25: void
+CanvasExtract-flow.js:572:13-70: 
+CanvasExtract-flow.js:572:29-41: 
+CanvasExtract-flow.js:572:29-70: 
+CanvasExtract-flow.js:572:58-70: 
+CanvasExtract-flow.js:574:18-30: 
+CanvasExtract-flow.js:576:17-29: 
+CanvasExtract-flow.js:576:17,580:17: CanvasRenderTarget
+CanvasExtract-flow.js:576:53,580:17: CanvasRenderTarget
+CanvasExtract-flow.js:576:57-74: [class: CanvasRenderTarget]
+CanvasExtract-flow.js:577:21-33: 
+CanvasExtract-flow.js:577:21-39: 
+CanvasExtract-flow.js:578:21-33: 
+CanvasExtract-flow.js:578:21-40: 
+CanvasExtract-flow.js:579:21-33: 
+CanvasExtract-flow.js:579:21-44: 
+CanvasExtract-flow.js:581:17-29: 
+CanvasExtract-flow.js:581:17-79: 
+CanvasExtract-flow.js:581:40-72: CanvasRenderTarget
+CanvasExtract-flow.js:581:40-79: 
+CanvasExtract-flow.js:582:17-29: 
+CanvasExtract-flow.js:582:17-42: boolean
+CanvasExtract-flow.js:582:39-42: boolean
+CanvasExtract-flow.js:585:13-16: CanvasRenderer
+CanvasExtract-flow.js:585:13-68: 
+CanvasExtract-flow.js:585:28-60: CanvasRenderTarget
+CanvasExtract-flow.js:585:28-68: 
+CanvasExtract-flow.js:586:13-16: CanvasRenderer
+CanvasExtract-flow.js:586:13-74: 
+CanvasExtract-flow.js:586:31-63: CanvasRenderTarget
+CanvasExtract-flow.js:586:31-74: 
+CanvasExtract-flow.js:590:13-16: CanvasRenderer
+CanvasExtract-flow.js:590:13-43: 
+CanvasExtract-flow.js:590:28-31: CanvasRenderer
+CanvasExtract-flow.js:590:28-43: 
+CanvasExtract-flow.js:593:15-21: 
+CanvasExtract-flow.js:593:25-36: 
+CanvasExtract-flow.js:595:14-26: void
+CanvasExtract-flow.js:597:13-16: CanvasRenderer
+CanvasExtract-flow.js:597:13-52: 
+CanvasExtract-flow.js:597:40-52: 
+CanvasExtract-flow.js:600:14-32: void
+CanvasExtract-flow.js:603:19-29: 
+CanvasExtract-flow.js:603:33-45: 
+CanvasExtract-flow.js:603:33-52: 
+CanvasExtract-flow.js:604:19-24: 
+CanvasExtract-flow.js:604:28-31: CanvasRenderer
+CanvasExtract-flow.js:604:28-56: 
+CanvasExtract-flow.js:604:28-66: 
+CanvasExtract-flow.js:604:28-81: 
+CanvasExtract-flow.js:606:17-25: void
+CanvasExtract-flow.js:608:17-25: 
+CanvasExtract-flow.js:608:17-38: 
+CanvasExtract-flow.js:608:32-37: 
+CanvasExtract-flow.js:612:17-22: 
+CanvasExtract-flow.js:612:17-33: 
+CanvasExtract-flow.js:615:13-25: 
+CanvasExtract-flow.js:615:13-64: 
+CanvasExtract-flow.js:615:36-39: CanvasRenderer
+CanvasExtract-flow.js:615:36-64: 
+CanvasExtract-flow.js:616:13-25: 
+CanvasExtract-flow.js:616:13-43: 
+CanvasExtract-flow.js:617:13-25: 
+CanvasExtract-flow.js:617:13-46: 
+CanvasExtract-flow.js:617:36-46: 
+CanvasExtract-flow.js:621:9-15: 
+CanvasExtract-flow.js:621:9-46: 
+CanvasExtract-flow.js:621:30: number
+CanvasExtract-flow.js:621:33: number
+CanvasExtract-flow.js:621:36: number
+CanvasExtract-flow.js:621:39: number
+CanvasExtract-flow.js:621:42: number
+CanvasExtract-flow.js:621:45: number
+CanvasExtract-flow.js:622:9-15: 
+CanvasExtract-flow.js:622:9-31: number
+CanvasExtract-flow.js:622:31: number
+CanvasExtract-flow.js:623:9-15: 
+CanvasExtract-flow.js:623:9-78: 
+CanvasExtract-flow.js:623:44-47: CanvasRenderer
+CanvasExtract-flow.js:623:44-58: 
+CanvasExtract-flow.js:623:44-78: 
+CanvasExtract-flow.js:623:60-70: 
+CanvasExtract-flow.js:623:60-77: 
+CanvasExtract-flow.js:625:13-21: Navigator
+CanvasExtract-flow.js:625:37-40: CanvasRenderer
+CanvasExtract-flow.js:625:37-45: 
+CanvasExtract-flow.js:627:13-19: 
+CanvasExtract-flow.js:627:13-39: string
+CanvasExtract-flow.js:627:33-39: string
+CanvasExtract-flow.js:628:13-19: 
+CanvasExtract-flow.js:628:13-27: 
+CanvasExtract-flow.js:631:13-17: void
+CanvasExtract-flow.js:631:13-64: 
+CanvasExtract-flow.js:631:23-31: void
+CanvasExtract-flow.js:631:35-39: 
+CanvasExtract-flow.js:631:43-46: CanvasRenderer
+CanvasExtract-flow.js:631:43-64: 
+CanvasExtract-flow.js:633:17-20: CanvasRenderer
+CanvasExtract-flow.js:635:21-24: CanvasRenderer
+CanvasExtract-flow.js:637:21-27: 
+CanvasExtract-flow.js:637:21-68: 
+CanvasExtract-flow.js:637:39: number
+CanvasExtract-flow.js:637:42: number
+CanvasExtract-flow.js:637:45-48: CanvasRenderer
+CanvasExtract-flow.js:637:45-54: 
+CanvasExtract-flow.js:637:57-60: CanvasRenderer
+CanvasExtract-flow.js:637:57-67: 
+CanvasExtract-flow.js:641:21-27: 
+CanvasExtract-flow.js:641:21-67: 
+CanvasExtract-flow.js:641:41-44: CanvasRenderer
+CanvasExtract-flow.js:641:41-67: 
+CanvasExtract-flow.js:642:21-27: 
+CanvasExtract-flow.js:642:21-67: 
+CanvasExtract-flow.js:642:38: number
+CanvasExtract-flow.js:642:41: number
+CanvasExtract-flow.js:642:44-47: CanvasRenderer
+CanvasExtract-flow.js:642:44-53: 
+CanvasExtract-flow.js:642:56-59: CanvasRenderer
+CanvasExtract-flow.js:642:56-66: 
+CanvasExtract-flow.js:650:15-25: 
+CanvasExtract-flow.js:650:29-32: CanvasRenderer
+CanvasExtract-flow.js:650:29-40: 
+CanvasExtract-flow.js:652:9-12: CanvasRenderer
+CanvasExtract-flow.js:652:9-30: 
+CanvasExtract-flow.js:652:24-30: 
+CanvasExtract-flow.js:653:9-21: 
+CanvasExtract-flow.js:653:9-40: 
+CanvasExtract-flow.js:653:36-39: CanvasRenderer
+CanvasExtract-flow.js:654:9-12: CanvasRenderer
+CanvasExtract-flow.js:654:9-34: 
+CanvasExtract-flow.js:654:24-34: 
+CanvasExtract-flow.js:656:9-12: CanvasRenderer
+CanvasExtract-flow.js:656:9-31: 
+CanvasExtract-flow.js:656:19-30: string
+CanvasExtract-flow.js:664:18-26: 
+CanvasExtract-flow.js:666:13-16: CanvasRenderer
+CanvasExtract-flow.js:666:39-47: 
+CanvasExtract-flow.js:671:9-12: 
+CanvasExtract-flow.js:671:9-20: 
+CanvasExtract-flow.js:671:9-74: 
+CanvasExtract-flow.js:671:49-52: 
+CanvasExtract-flow.js:671:49-63: 
+CanvasExtract-flow.js:671:49-74: 
+CanvasExtract-flow.js:671:65-73: 
+CanvasExtract-flow.js:679:13-22: 
+CanvasExtract-flow.js:681:9-12: CanvasRenderer
+CanvasExtract-flow.js:681:9-29: 
+CanvasExtract-flow.js:684:9-33: 
+CanvasExtract-flow.js:684:23-32: 
+CanvasExtract-flow.js:686:9-12: CanvasRenderer
+CanvasExtract-flow.js:686:9-27: null
+CanvasExtract-flow.js:686:24-27: null
+CanvasExtract-flow.js:688:9-12: CanvasRenderer
+CanvasExtract-flow.js:688:9-27: boolean
+CanvasExtract-flow.js:688:24-27: boolean
+CanvasExtract-flow.js:690:9-12: CanvasRenderer
+CanvasExtract-flow.js:690:9-24: 
+CanvasExtract-flow.js:690:9-34: 
+CanvasExtract-flow.js:691:9-12: CanvasRenderer
+CanvasExtract-flow.js:691:9-31: null
+CanvasExtract-flow.js:691:28-31: null
+CanvasExtract-flow.js:693:9-12: CanvasRenderer
+CanvasExtract-flow.js:693:9-34: null
+CanvasExtract-flow.js:693:31-34: null
+CanvasExtract-flow.js:704:12-16: number
+CanvasExtract-flow.js:704:19-24: number
+CanvasExtract-flow.js:706:9-35: 
+CanvasExtract-flow.js:706:22-26: number
+CanvasExtract-flow.js:706:29-34: number
+CanvasExtract-flow.js:710:13-16: CanvasRenderer
+CanvasExtract-flow.js:712:13-16: CanvasRenderer
+CanvasExtract-flow.js:712:13-28: 
+CanvasExtract-flow.js:712:13-95: boolean
+CanvasExtract-flow.js:712:30-48: 
+CanvasExtract-flow.js:712:54-64: 
+CanvasExtract-flow.js:712:54-72: 
+CanvasExtract-flow.js:712:54-95: boolean
+CanvasExtract-flow.js:712:78-88: 
+CanvasExtract-flow.js:712:78-95: 
+CanvasExtract-flow.js:718:7-15: Rectangle
+CanvasExtract-flow.js:718:19-33: Rectangle
+CanvasExtract-flow.js:718:23-31: [class: Rectangle]
+CanvasExtract-flow.js:726:1,875:1: [class: CanvasExtract]
+CanvasExtract-flow.js:731:17-24: 
+CanvasExtract-flow.js:733:9-12: CanvasExtract
+CanvasExtract-flow.js:733:9-32: 
+CanvasExtract-flow.js:733:25-32: 
+CanvasExtract-flow.js:734:9-16: 
+CanvasExtract-flow.js:734:9-31: CanvasExtract
+CanvasExtract-flow.js:734:28-31: CanvasExtract
+CanvasExtract-flow.js:744:11-16: 
+CanvasExtract-flow.js:746:15-19: Image
+CanvasExtract-flow.js:746:23-33: Image
+CanvasExtract-flow.js:746:27-31: [class: Image]
+CanvasExtract-flow.js:748:9-13: Image
+CanvasExtract-flow.js:748:9-39: 
+CanvasExtract-flow.js:748:21-24: CanvasExtract
+CanvasExtract-flow.js:748:21-39: 
+CanvasExtract-flow.js:748:33-38: 
+CanvasExtract-flow.js:750:16-20: Image
+CanvasExtract-flow.js:761:12-17: 
+CanvasExtract-flow.js:763:16-19: CanvasExtract
+CanvasExtract-flow.js:763:16-34: 
+CanvasExtract-flow.js:763:16-46: 
+CanvasExtract-flow.js:763:28-33: 
+CanvasExtract-flow.js:773:12-17: 
+CanvasExtract-flow.js:775:15-22: 
+CanvasExtract-flow.js:775:26-29: CanvasExtract
+CanvasExtract-flow.js:775:26-38: 
+CanvasExtract-flow.js:776:13-19: 
+CanvasExtract-flow.js:777:13-22: 
+CanvasExtract-flow.js:778:13-17: Rectangle
+CanvasExtract-flow.js:779:13-25: void
+CanvasExtract-flow.js:781:13-18: 
+CanvasExtract-flow.js:783:17-22: 
+CanvasExtract-flow.js:783:35-47: [class: RenderTexture]
+CanvasExtract-flow.js:785:17-38: 
+CanvasExtract-flow.js:785:33-38: 
+CanvasExtract-flow.js:789:17-64: 
+CanvasExtract-flow.js:789:33-40: 
+CanvasExtract-flow.js:789:33-64: 
+CanvasExtract-flow.js:789:58-63: 
+CanvasExtract-flow.js:793:13-25: void
+CanvasExtract-flow.js:795:13-75: 
+CanvasExtract-flow.js:795:23-35: 
+CanvasExtract-flow.js:795:23-47: 
+CanvasExtract-flow.js:795:23-67: 
+CanvasExtract-flow.js:795:23-75: 
+CanvasExtract-flow.js:796:13-81: 
+CanvasExtract-flow.js:796:26-38: 
+CanvasExtract-flow.js:796:26-50: 
+CanvasExtract-flow.js:796:26-70: 
+CanvasExtract-flow.js:796:26-81: 
+CanvasExtract-flow.js:797:13-39: 
+CanvasExtract-flow.js:797:21-33: 
+CanvasExtract-flow.js:797:21-39: 
+CanvasExtract-flow.js:801:13-42: 
+CanvasExtract-flow.js:801:23-30: 
+CanvasExtract-flow.js:801:23-42: 
+CanvasExtract-flow.js:803:13-29: Rectangle
+CanvasExtract-flow.js:803:21-29: Rectangle
+CanvasExtract-flow.js:804:13-17: Rectangle
+CanvasExtract-flow.js:804:13-45: 
+CanvasExtract-flow.js:804:27-30: CanvasExtract
+CanvasExtract-flow.js:804:27-39: 
+CanvasExtract-flow.js:804:27-45: 
+CanvasExtract-flow.js:805:13-17: Rectangle
+CanvasExtract-flow.js:805:13-47: 
+CanvasExtract-flow.js:805:28-31: CanvasExtract
+CanvasExtract-flow.js:805:28-40: 
+CanvasExtract-flow.js:805:28-47: 
+CanvasExtract-flow.js:808:15-19: number
+CanvasExtract-flow.js:808:23-27: Rectangle
+CanvasExtract-flow.js:808:23-33: 
+CanvasExtract-flow.js:808:23-46: number
+CanvasExtract-flow.js:808:37-46: void
+CanvasExtract-flow.js:809:15-20: number
+CanvasExtract-flow.js:809:24-28: Rectangle
+CanvasExtract-flow.js:809:24-35: 
+CanvasExtract-flow.js:809:24-48: number
+CanvasExtract-flow.js:809:39-48: void
+CanvasExtract-flow.js:811:15-26: CanvasRenderTarget
+CanvasExtract-flow.js:811:30-66: CanvasRenderTarget
+CanvasExtract-flow.js:811:34-51: [class: CanvasRenderTarget]
+CanvasExtract-flow.js:811:53-57: number
+CanvasExtract-flow.js:811:60-65: number
+CanvasExtract-flow.js:812:15-24: 
+CanvasExtract-flow.js:812:28-34: 
+CanvasExtract-flow.js:812:28-106: 
+CanvasExtract-flow.js:812:49-53: Rectangle
+CanvasExtract-flow.js:812:49-55: 
+CanvasExtract-flow.js:812:49-68: number
+CanvasExtract-flow.js:812:59-68: void
+CanvasExtract-flow.js:812:71-75: Rectangle
+CanvasExtract-flow.js:812:71-77: 
+CanvasExtract-flow.js:812:71-90: number
+CanvasExtract-flow.js:812:81-90: void
+CanvasExtract-flow.js:812:93-97: number
+CanvasExtract-flow.js:812:100-105: number
+CanvasExtract-flow.js:814:9-20: CanvasRenderTarget
+CanvasExtract-flow.js:814:9-28: 
+CanvasExtract-flow.js:814:9-59: 
+CanvasExtract-flow.js:814:43-52: 
+CanvasExtract-flow.js:814:55: number
+CanvasExtract-flow.js:814:58: number
+CanvasExtract-flow.js:817:16-27: CanvasRenderTarget
+CanvasExtract-flow.js:817:16-34: 
+CanvasExtract-flow.js:828:12-17: 
+CanvasExtract-flow.js:830:15-22: 
+CanvasExtract-flow.js:830:26-29: CanvasExtract
+CanvasExtract-flow.js:830:26-38: 
+CanvasExtract-flow.js:831:13-19: 
+CanvasExtract-flow.js:832:13-22: 
+CanvasExtract-flow.js:833:13-17: Rectangle
+CanvasExtract-flow.js:834:13-25: void
+CanvasExtract-flow.js:836:13-18: 
+CanvasExtract-flow.js:838:17-22: 
+CanvasExtract-flow.js:838:35-47: [class: RenderTexture]
+CanvasExtract-flow.js:840:17-38: 
+CanvasExtract-flow.js:840:33-38: 
+CanvasExtract-flow.js:844:17-64: 
+CanvasExtract-flow.js:844:33-40: 
+CanvasExtract-flow.js:844:33-64: 
+CanvasExtract-flow.js:844:58-63: 
+CanvasExtract-flow.js:848:13-25: void
+CanvasExtract-flow.js:850:13-75: 
+CanvasExtract-flow.js:850:23-35: 
+CanvasExtract-flow.js:850:23-47: 
+CanvasExtract-flow.js:850:23-67: 
+CanvasExtract-flow.js:850:23-75: 
+CanvasExtract-flow.js:851:13-81: 
+CanvasExtract-flow.js:851:26-38: 
+CanvasExtract-flow.js:851:26-50: 
+CanvasExtract-flow.js:851:26-70: 
+CanvasExtract-flow.js:851:26-81: 
+CanvasExtract-flow.js:852:13-39: 
+CanvasExtract-flow.js:852:21-33: 
+CanvasExtract-flow.js:852:21-39: 
+CanvasExtract-flow.js:856:13-42: 
+CanvasExtract-flow.js:856:23-30: 
+CanvasExtract-flow.js:856:23-42: 
+CanvasExtract-flow.js:858:13-29: Rectangle
+CanvasExtract-flow.js:858:21-29: Rectangle
+CanvasExtract-flow.js:859:13-17: Rectangle
+CanvasExtract-flow.js:859:13-40: 
+CanvasExtract-flow.js:859:27-34: 
+CanvasExtract-flow.js:859:27-40: 
+CanvasExtract-flow.js:860:13-17: Rectangle
+CanvasExtract-flow.js:860:13-42: 
+CanvasExtract-flow.js:860:28-35: 
+CanvasExtract-flow.js:860:28-42: 
+CanvasExtract-flow.js:863:16-22: 
+CanvasExtract-flow.js:863:16-94: 
+CanvasExtract-flow.js:863:16-99: 
+CanvasExtract-flow.js:863:37: number
+CanvasExtract-flow.js:863:40: number
+CanvasExtract-flow.js:863:43-47: Rectangle
+CanvasExtract-flow.js:863:43-53: 
+CanvasExtract-flow.js:863:43-66: number
+CanvasExtract-flow.js:863:57-66: void
+CanvasExtract-flow.js:863:69-73: Rectangle
+CanvasExtract-flow.js:863:69-80: 
+CanvasExtract-flow.js:863:69-93: number
+CanvasExtract-flow.js:863:84-93: void
+CanvasExtract-flow.js:872:9-12: CanvasExtract
+CanvasExtract-flow.js:872:9-21: 
+CanvasExtract-flow.js:872:9-36: null
+CanvasExtract-flow.js:872:33-36: null
+CanvasExtract-flow.js:873:9-12: CanvasExtract
+CanvasExtract-flow.js:873:9-28: null
+CanvasExtract-flow.js:873:25-28: null
+CanvasExtract-flow.js:877:1-14: [class: CanvasRenderer]
+CanvasExtract-flow.js:877:1-55: 
+CanvasExtract-flow.js:877:31-39: string
+CanvasExtract-flow.js:877:42-54: [class: CanvasExtract]
+CanvasExtract-flow.js:888:1-8: 
+CanvasExtract-flow.js:888:1,908:2: 
+CanvasExtract-flow.js:888:10-38: string
+CanvasExtract-flow.js:888:41,908:1: () => void
+CanvasExtract-flow.js:890:5-12: 
+CanvasExtract-flow.js:890:5,907:6: 
+CanvasExtract-flow.js:890:14-31: string
+CanvasExtract-flow.js:890:34,907:5: () => void
+CanvasExtract-flow.js:892:9-10: 
+CanvasExtract-flow.js:892:9,906:10: 
+CanvasExtract-flow.js:892:12-57: string
+CanvasExtract-flow.js:892:60,906:9: () => void
+CanvasExtract-flow.js:894:17-20: 
+CanvasExtract-flow.js:894:24-44: 
+CanvasExtract-flow.js:894:28-42: 
+CanvasExtract-flow.js:895:17-21: 
+CanvasExtract-flow.js:895:25-43: 
+CanvasExtract-flow.js:895:29-41: 
+CanvasExtract-flow.js:896:17-29: 
+CanvasExtract-flow.js:896:33-51: 
+CanvasExtract-flow.js:896:37-49: 
+CanvasExtract-flow.js:897:17-21: 
+CanvasExtract-flow.js:897:25-35: 
+CanvasExtract-flow.js:897:29-33: 
+CanvasExtract-flow.js:899:13-16: 
+CanvasExtract-flow.js:899:13-23: 
+CanvasExtract-flow.js:899:13-35: 
+CanvasExtract-flow.js:899:29-30: number
+CanvasExtract-flow.js:899:33-34: number
+CanvasExtract-flow.js:900:13-25: 
+CanvasExtract-flow.js:900:13-34: 
+CanvasExtract-flow.js:900:13-44: 
+CanvasExtract-flow.js:900:40: number
+CanvasExtract-flow.js:900:43: number
+CanvasExtract-flow.js:901:13-25: 
+CanvasExtract-flow.js:901:13-40: 
+CanvasExtract-flow.js:901:36-40: 
+CanvasExtract-flow.js:902:13-25: 
+CanvasExtract-flow.js:902:13-56: 
+CanvasExtract-flow.js:903:13-16: 
+CanvasExtract-flow.js:903:13-55: 
+CanvasExtract-flow.js:903:35-47: 
+CanvasExtract-flow.js:903:50-54: 
+CanvasExtract-flow.js:904:13-18: 
+CanvasExtract-flow.js:904:13-27: 
+CanvasExtract-flow.js:904:13-30: 
+CanvasExtract-flow.js:904:13-39: 
+CanvasExtract-flow.js:904:20-24: 
+CanvasExtract-flow.js:904:20-26: 
+CanvasExtract-flow.js:904:38: number
+CanvasExtract-flow.js:905:13-18: 
+CanvasExtract-flow.js:905:13-27: 
+CanvasExtract-flow.js:905:13-30: 
+CanvasExtract-flow.js:905:13-39: 
+CanvasExtract-flow.js:905:20-24: 
+CanvasExtract-flow.js:905:20-26: 
+CanvasExtract-flow.js:905:38: number
+CanvasExtract-flow.js:915:1-8: 
+CanvasExtract-flow.js:915:1,1149:2: 
+CanvasExtract-flow.js:915:10-16: string
+CanvasExtract-flow.js:915:19,1149:1: () => void
+CanvasExtract-flow.js:917:5-12: 
+CanvasExtract-flow.js:917:5,930:6: 
+CanvasExtract-flow.js:917:14-18: string
+CanvasExtract-flow.js:917:21,930:5: () => void
+CanvasExtract-flow.js:919:9-10: 
+CanvasExtract-flow.js:919:9,923:10: 
+CanvasExtract-flow.js:919:12-25: string
+CanvasExtract-flow.js:919:28,923:9: () => void
+CanvasExtract-flow.js:921:13-18: 
+CanvasExtract-flow.js:921:13-29: 
+CanvasExtract-flow.js:921:13,922:19: 
+CanvasExtract-flow.js:921:13,922:22: 
+CanvasExtract-flow.js:921:13,922:36: 
+CanvasExtract-flow.js:921:20-24: 
+CanvasExtract-flow.js:921:20-28: 
+CanvasExtract-flow.js:922:26-35: string
+CanvasExtract-flow.js:925:9-10: 
+CanvasExtract-flow.js:925:9,929:10: 
+CanvasExtract-flow.js:925:12-35: string
+CanvasExtract-flow.js:925:38,929:9: () => void
+CanvasExtract-flow.js:927:13-18: 
+CanvasExtract-flow.js:927:13-31: 
+CanvasExtract-flow.js:927:13,928:19: 
+CanvasExtract-flow.js:927:13,928:22: 
+CanvasExtract-flow.js:927:13,928:34: 
+CanvasExtract-flow.js:927:20-24: 
+CanvasExtract-flow.js:927:20-30: 
+CanvasExtract-flow.js:928:26-33: string
+CanvasExtract-flow.js:932:5-12: 
+CanvasExtract-flow.js:932:5,941:6: 
+CanvasExtract-flow.js:932:14-22: string
+CanvasExtract-flow.js:932:25,941:5: () => void
+CanvasExtract-flow.js:934:9-10: 
+CanvasExtract-flow.js:934:9,938:10: 
+CanvasExtract-flow.js:934:12-25: string
+CanvasExtract-flow.js:934:28,938:9: () => void
+CanvasExtract-flow.js:936:13-18: 
+CanvasExtract-flow.js:936:13-33: 
+CanvasExtract-flow.js:936:13,937:19: 
+CanvasExtract-flow.js:936:13,937:22: 
+CanvasExtract-flow.js:936:13,937:36: 
+CanvasExtract-flow.js:936:20-24: 
+CanvasExtract-flow.js:936:20-32: 
+CanvasExtract-flow.js:937:26-35: string
+CanvasExtract-flow.js:943:5-12: 
+CanvasExtract-flow.js:943:5,952:6: 
+CanvasExtract-flow.js:943:14-25: string
+CanvasExtract-flow.js:943:28,952:5: () => void
+CanvasExtract-flow.js:945:9-10: 
+CanvasExtract-flow.js:945:9,949:10: 
+CanvasExtract-flow.js:945:12-25: string
+CanvasExtract-flow.js:945:28,949:9: () => void
+CanvasExtract-flow.js:947:13-18: 
+CanvasExtract-flow.js:947:13-36: 
+CanvasExtract-flow.js:947:13,948:19: 
+CanvasExtract-flow.js:947:13,948:22: 
+CanvasExtract-flow.js:947:13,948:36: 
+CanvasExtract-flow.js:947:20-24: 
+CanvasExtract-flow.js:947:20-35: 
+CanvasExtract-flow.js:948:26-35: string
+CanvasExtract-flow.js:954:5-12: 
+CanvasExtract-flow.js:954:5,963:6: 
+CanvasExtract-flow.js:954:14-22: string
+CanvasExtract-flow.js:954:25,963:5: () => void
+CanvasExtract-flow.js:956:9-10: 
+CanvasExtract-flow.js:956:9,960:10: 
+CanvasExtract-flow.js:956:12-25: string
+CanvasExtract-flow.js:956:28,960:9: () => void
+CanvasExtract-flow.js:958:13-18: 
+CanvasExtract-flow.js:958:13-33: 
+CanvasExtract-flow.js:958:13,959:19: 
+CanvasExtract-flow.js:958:13,959:22: 
+CanvasExtract-flow.js:958:13,959:36: 
+CanvasExtract-flow.js:958:20-24: 
+CanvasExtract-flow.js:958:20-32: 
+CanvasExtract-flow.js:959:26-35: string
+CanvasExtract-flow.js:965:5-12: 
+CanvasExtract-flow.js:965:5,974:6: 
+CanvasExtract-flow.js:965:14-33: string
+CanvasExtract-flow.js:965:36,974:5: () => void
+CanvasExtract-flow.js:967:9-10: 
+CanvasExtract-flow.js:967:9,971:10: 
+CanvasExtract-flow.js:967:12-25: string
+CanvasExtract-flow.js:967:28,971:9: () => void
+CanvasExtract-flow.js:969:13-18: 
+CanvasExtract-flow.js:969:13-44: 
+CanvasExtract-flow.js:969:13,970:19: 
+CanvasExtract-flow.js:969:13,970:22: 
+CanvasExtract-flow.js:969:13,970:36: 
+CanvasExtract-flow.js:969:20-24: 
+CanvasExtract-flow.js:969:20-43: 
+CanvasExtract-flow.js:970:26-35: string
+CanvasExtract-flow.js:976:5-12: 
+CanvasExtract-flow.js:976:5,1007:6: 
+CanvasExtract-flow.js:976:14-31: string
+CanvasExtract-flow.js:976:34,1007:5: () => void
+CanvasExtract-flow.js:978:9-10: 
+CanvasExtract-flow.js:978:9,982:10: 
+CanvasExtract-flow.js:978:12-25: string
+CanvasExtract-flow.js:978:28,982:9: () => void
+CanvasExtract-flow.js:980:13-18: 
+CanvasExtract-flow.js:980:13-42: 
+CanvasExtract-flow.js:980:13,981:19: 
+CanvasExtract-flow.js:980:13,981:22: 
+CanvasExtract-flow.js:980:13,981:36: 
+CanvasExtract-flow.js:980:20-24: 
+CanvasExtract-flow.js:980:20-41: 
+CanvasExtract-flow.js:981:26-35: string
+CanvasExtract-flow.js:984:9-10: 
+CanvasExtract-flow.js:984:9,998:10: 
+CanvasExtract-flow.js:984:12-40: string
+CanvasExtract-flow.js:984:43,998:9: () => void
+CanvasExtract-flow.js:986:17-23: 
+CanvasExtract-flow.js:986:27-31: 
+CanvasExtract-flow.js:986:27-86: 
+CanvasExtract-flow.js:986:50-85: string
+CanvasExtract-flow.js:988:13-18: 
+CanvasExtract-flow.js:988:13-27: 
+CanvasExtract-flow.js:988:13,989:19: 
+CanvasExtract-flow.js:988:13,989:22: 
+CanvasExtract-flow.js:988:13,989:35: 
+CanvasExtract-flow.js:988:20-26: 
+CanvasExtract-flow.js:989:27-34: string
+CanvasExtract-flow.js:990:13-18: 
+CanvasExtract-flow.js:990:13-37: 
+CanvasExtract-flow.js:990:13,991:19: 
+CanvasExtract-flow.js:990:13,991:34: 
+CanvasExtract-flow.js:990:20-26: 
+CanvasExtract-flow.js:990:20-36: 
+CanvasExtract-flow.js:991:27-33: string
+CanvasExtract-flow.js:992:13-18: 
+CanvasExtract-flow.js:992:13-35: 
+CanvasExtract-flow.js:992:13,993:19: 
+CanvasExtract-flow.js:992:13,993:32: 
+CanvasExtract-flow.js:992:20-26: 
+CanvasExtract-flow.js:992:20-34: 
+CanvasExtract-flow.js:993:27-31: string
+CanvasExtract-flow.js:994:13-18: 
+CanvasExtract-flow.js:994:13-36: 
+CanvasExtract-flow.js:994:13,995:19: 
+CanvasExtract-flow.js:994:13,995:35: 
+CanvasExtract-flow.js:994:20-26: 
+CanvasExtract-flow.js:994:20-35: 
+CanvasExtract-flow.js:995:27-34: string
+CanvasExtract-flow.js:996:13-18: 
+CanvasExtract-flow.js:996:13-32: 
+CanvasExtract-flow.js:996:13,997:19: 
+CanvasExtract-flow.js:996:13,997:41: 
+CanvasExtract-flow.js:996:20-26: 
+CanvasExtract-flow.js:996:20-31: 
+CanvasExtract-flow.js:997:27-40: string
+CanvasExtract-flow.js:1000:9-10: 
+CanvasExtract-flow.js:1000:9,1006:10: 
+CanvasExtract-flow.js:1000:12-54: string
+CanvasExtract-flow.js:1000:57,1006:9: () => void
+CanvasExtract-flow.js:1002:17-23: 
+CanvasExtract-flow.js:1002:27-31: 
+CanvasExtract-flow.js:1002:27-55: 
+CanvasExtract-flow.js:1002:50-54: string
+CanvasExtract-flow.js:1004:13-18: 
+CanvasExtract-flow.js:1004:13-27: 
+CanvasExtract-flow.js:1004:13,1005:19: 
+CanvasExtract-flow.js:1004:13,1005:22: 
+CanvasExtract-flow.js:1004:13,1005:38: 
+CanvasExtract-flow.js:1004:20-26: 
+CanvasExtract-flow.js:1005:27-37: string
+CanvasExtract-flow.js:1009:5-12: 
+CanvasExtract-flow.js:1009:5,1024:6: 
+CanvasExtract-flow.js:1009:14-32: string
+CanvasExtract-flow.js:1009:35,1024:5: () => void
+CanvasExtract-flow.js:1011:9-10: 
+CanvasExtract-flow.js:1011:9,1015:10: 
+CanvasExtract-flow.js:1011:12-25: string
+CanvasExtract-flow.js:1011:28,1015:9: () => void
+CanvasExtract-flow.js:1013:13-18: 
+CanvasExtract-flow.js:1013:13-43: 
+CanvasExtract-flow.js:1013:13,1014:19: 
+CanvasExtract-flow.js:1013:13,1014:22: 
+CanvasExtract-flow.js:1013:13,1014:36: 
+CanvasExtract-flow.js:1013:20-24: 
+CanvasExtract-flow.js:1013:20-42: 
+CanvasExtract-flow.js:1014:26-35: string
+CanvasExtract-flow.js:1017:9-10: 
+CanvasExtract-flow.js:1017:9,1023:10: 
+CanvasExtract-flow.js:1017:12-58: string
+CanvasExtract-flow.js:1017:61,1023:9: () => void
+CanvasExtract-flow.js:1019:17-25: 
+CanvasExtract-flow.js:1019:29-33: 
+CanvasExtract-flow.js:1019:29-77: 
+CanvasExtract-flow.js:1019:53-76: string
+CanvasExtract-flow.js:1021:13-18: 
+CanvasExtract-flow.js:1021:13-29: 
+CanvasExtract-flow.js:1021:13,1022:19: 
+CanvasExtract-flow.js:1021:13,1022:32: 
+CanvasExtract-flow.js:1021:20-28: 
+CanvasExtract-flow.js:1022:27-31: string
+CanvasExtract-flow.js:1026:5-12: 
+CanvasExtract-flow.js:1026:5,1065:6: 
+CanvasExtract-flow.js:1026:14-25: string
+CanvasExtract-flow.js:1026:28,1065:5: () => void
+CanvasExtract-flow.js:1028:9-10: 
+CanvasExtract-flow.js:1028:9,1032:10: 
+CanvasExtract-flow.js:1028:12-25: string
+CanvasExtract-flow.js:1028:28,1032:9: () => void
+CanvasExtract-flow.js:1030:13-18: 
+CanvasExtract-flow.js:1030:13-36: 
+CanvasExtract-flow.js:1030:13,1031:19: 
+CanvasExtract-flow.js:1030:13,1031:22: 
+CanvasExtract-flow.js:1030:13,1031:36: 
+CanvasExtract-flow.js:1030:20-24: 
+CanvasExtract-flow.js:1030:20-35: 
+CanvasExtract-flow.js:1031:26-35: string
+CanvasExtract-flow.js:1034:9-10: 
+CanvasExtract-flow.js:1034:9,1044:10: 
+CanvasExtract-flow.js:1034:12-81: string
+CanvasExtract-flow.js:1034:84,1044:9: () => void
+CanvasExtract-flow.js:1036:17-23: 
+CanvasExtract-flow.js:1036:27-31: 
+CanvasExtract-flow.js:1036:27-80: 
+CanvasExtract-flow.js:1036:44-79: string
+CanvasExtract-flow.js:1038:13-18: 
+CanvasExtract-flow.js:1038:13-27: 
+CanvasExtract-flow.js:1038:13,1039:19: 
+CanvasExtract-flow.js:1038:13,1039:22: 
+CanvasExtract-flow.js:1038:13,1039:35: 
+CanvasExtract-flow.js:1038:20-26: 
+CanvasExtract-flow.js:1039:27-34: string
+CanvasExtract-flow.js:1040:13-18: 
+CanvasExtract-flow.js:1040:13-33: 
+CanvasExtract-flow.js:1040:13,1041:19: 
+CanvasExtract-flow.js:1040:13,1041:29: 
+CanvasExtract-flow.js:1040:20-26: 
+CanvasExtract-flow.js:1040:20-32: 
+CanvasExtract-flow.js:1041:27-28: number
+CanvasExtract-flow.js:1042:13-18: 
+CanvasExtract-flow.js:1042:13-34: 
+CanvasExtract-flow.js:1042:13,1043:19: 
+CanvasExtract-flow.js:1042:13,1043:29: 
+CanvasExtract-flow.js:1042:20-26: 
+CanvasExtract-flow.js:1042:20-33: 
+CanvasExtract-flow.js:1043:27-28: number
+CanvasExtract-flow.js:1046:9-10: 
+CanvasExtract-flow.js:1046:9,1056:10: 
+CanvasExtract-flow.js:1046:12-39: string
+CanvasExtract-flow.js:1046:42,1056:9: () => void
+CanvasExtract-flow.js:1048:17-23: 
+CanvasExtract-flow.js:1048:27-31: 
+CanvasExtract-flow.js:1048:27-84: 
+CanvasExtract-flow.js:1048:44-83: string
+CanvasExtract-flow.js:1050:13-18: 
+CanvasExtract-flow.js:1050:13-27: 
+CanvasExtract-flow.js:1050:13,1051:19: 
+CanvasExtract-flow.js:1050:13,1051:22: 
+CanvasExtract-flow.js:1050:13,1051:35: 
+CanvasExtract-flow.js:1050:20-26: 
+CanvasExtract-flow.js:1051:27-34: string
+CanvasExtract-flow.js:1052:13-18: 
+CanvasExtract-flow.js:1052:13-33: 
+CanvasExtract-flow.js:1052:13,1053:19: 
+CanvasExtract-flow.js:1052:13,1053:29: 
+CanvasExtract-flow.js:1052:20-26: 
+CanvasExtract-flow.js:1052:20-32: 
+CanvasExtract-flow.js:1053:27-28: number
+CanvasExtract-flow.js:1054:13-18: 
+CanvasExtract-flow.js:1054:13-34: 
+CanvasExtract-flow.js:1054:13,1055:19: 
+CanvasExtract-flow.js:1054:13,1055:29: 
+CanvasExtract-flow.js:1054:20-26: 
+CanvasExtract-flow.js:1054:20-33: 
+CanvasExtract-flow.js:1055:27-28: number
+CanvasExtract-flow.js:1058:9-10: 
+CanvasExtract-flow.js:1058:9,1064:10: 
+CanvasExtract-flow.js:1058:12-78: string
+CanvasExtract-flow.js:1058:81,1064:9: () => void
+CanvasExtract-flow.js:1060:17-23: 
+CanvasExtract-flow.js:1060:27-31: 
+CanvasExtract-flow.js:1060:27-68: 
+CanvasExtract-flow.js:1060:44-67: string
+CanvasExtract-flow.js:1062:13-18: 
+CanvasExtract-flow.js:1062:13-47: 
+CanvasExtract-flow.js:1062:13,1063:19: 
+CanvasExtract-flow.js:1062:13,1063:28: 
+CanvasExtract-flow.js:1062:20-25: [class: Object]
+CanvasExtract-flow.js:1062:20-39: Array<>
+CanvasExtract-flow.js:1062:20-46: number
+CanvasExtract-flow.js:1062:32-38: 
+CanvasExtract-flow.js:1063:27: number
+CanvasExtract-flow.js:1067:5-12: 
+CanvasExtract-flow.js:1067:5,1074:6: 
+CanvasExtract-flow.js:1067:14-23: string
+CanvasExtract-flow.js:1067:26,1074:5: () => void
+CanvasExtract-flow.js:1069:9-10: 
+CanvasExtract-flow.js:1069:9,1073:10: 
+CanvasExtract-flow.js:1069:12-25: string
+CanvasExtract-flow.js:1069:28,1073:9: () => void
+CanvasExtract-flow.js:1071:13-18: 
+CanvasExtract-flow.js:1071:13-34: 
+CanvasExtract-flow.js:1071:13,1072:19: 
+CanvasExtract-flow.js:1071:13,1072:22: 
+CanvasExtract-flow.js:1071:13,1072:36: 
+CanvasExtract-flow.js:1071:20-24: 
+CanvasExtract-flow.js:1071:20-33: 
+CanvasExtract-flow.js:1072:26-35: string
+CanvasExtract-flow.js:1076:5-12: 
+CanvasExtract-flow.js:1076:5,1083:6: 
+CanvasExtract-flow.js:1076:14-31: string
+CanvasExtract-flow.js:1076:34,1083:5: () => void
+CanvasExtract-flow.js:1078:9-10: 
+CanvasExtract-flow.js:1078:9,1082:10: 
+CanvasExtract-flow.js:1078:12-25: string
+CanvasExtract-flow.js:1078:28,1082:9: () => void
+CanvasExtract-flow.js:1080:13-18: 
+CanvasExtract-flow.js:1080:13-42: 
+CanvasExtract-flow.js:1080:13,1081:19: 
+CanvasExtract-flow.js:1080:13,1081:22: 
+CanvasExtract-flow.js:1080:13,1081:36: 
+CanvasExtract-flow.js:1080:20-24: 
+CanvasExtract-flow.js:1080:20-41: 
+CanvasExtract-flow.js:1081:26-35: string
+CanvasExtract-flow.js:1085:5-12: 
+CanvasExtract-flow.js:1085:5,1110:6: 
+CanvasExtract-flow.js:1085:14-19: string
+CanvasExtract-flow.js:1085:22,1110:5: () => void
+CanvasExtract-flow.js:1087:9-10: 
+CanvasExtract-flow.js:1087:9,1091:10: 
+CanvasExtract-flow.js:1087:12-34: string
+CanvasExtract-flow.js:1087:37,1091:9: () => void
+CanvasExtract-flow.js:1089:13-18: 
+CanvasExtract-flow.js:1089:13-33: 
+CanvasExtract-flow.js:1089:13,1090:19: 
+CanvasExtract-flow.js:1089:13,1090:22: 
+CanvasExtract-flow.js:1089:13,1090:31: 
+CanvasExtract-flow.js:1089:20-24: 
+CanvasExtract-flow.js:1089:20-32: 
+CanvasExtract-flow.js:1089:31: number
+CanvasExtract-flow.js:1090:30: number
+CanvasExtract-flow.js:1093:9-10: 
+CanvasExtract-flow.js:1093:9,1100:10: 
+CanvasExtract-flow.js:1093:12-50: string
+CanvasExtract-flow.js:1093:53,1100:9: () => void
+CanvasExtract-flow.js:1095:22: number
+CanvasExtract-flow.js:1095:26: number
+CanvasExtract-flow.js:1095:29: number
+CanvasExtract-flow.js:1095:29-34: boolean
+CanvasExtract-flow.js:1095:33-34: number
+CanvasExtract-flow.js:1095:37-42: number
+CanvasExtract-flow.js:1095:42: number
+CanvasExtract-flow.js:1097:17-22: 
+CanvasExtract-flow.js:1097:17-50: 
+CanvasExtract-flow.js:1097:17,1098:23: 
+CanvasExtract-flow.js:1097:17,1098:26: 
+CanvasExtract-flow.js:1097:17,1098:36: 
+CanvasExtract-flow.js:1097:24-28: 
+CanvasExtract-flow.js:1097:24-49: 
+CanvasExtract-flow.js:1097:35-48: number
+CanvasExtract-flow.js:1097:36-39: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+CanvasExtract-flow.js:1097:36-48: number
+CanvasExtract-flow.js:1098:34-35: number
+CanvasExtract-flow.js:1098:35: number
+CanvasExtract-flow.js:1102:9-10: 
+CanvasExtract-flow.js:1102:9,1109:10: 
+CanvasExtract-flow.js:1102:12-49: string
+CanvasExtract-flow.js:1102:52,1109:9: () => void
+CanvasExtract-flow.js:1104:22: number
+CanvasExtract-flow.js:1104:26: number
+CanvasExtract-flow.js:1104:29: number
+CanvasExtract-flow.js:1104:29-34: boolean
+CanvasExtract-flow.js:1104:33-34: number
+CanvasExtract-flow.js:1104:37-42: number
+CanvasExtract-flow.js:1104:42: number
+CanvasExtract-flow.js:1106:17-22: 
+CanvasExtract-flow.js:1106:17-60: 
+CanvasExtract-flow.js:1106:17,1107:23: 
+CanvasExtract-flow.js:1106:17,1107:26: 
+CanvasExtract-flow.js:1106:17,1107:35: 
+CanvasExtract-flow.js:1106:24-28: 
+CanvasExtract-flow.js:1106:24-59: 
+CanvasExtract-flow.js:1106:35-38: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+CanvasExtract-flow.js:1106:35-47: number
+CanvasExtract-flow.js:1106:35-58: number
+CanvasExtract-flow.js:1106:51-58: number
+CanvasExtract-flow.js:1107:34: number
+CanvasExtract-flow.js:1112:5-12: 
+CanvasExtract-flow.js:1112:5,1148:6: 
+CanvasExtract-flow.js:1112:14-27: string
+CanvasExtract-flow.js:1112:30,1148:5: () => void
+CanvasExtract-flow.js:1114:13-15: [number, number, number, number, number, number, number, number, number, number]
+CanvasExtract-flow.js:1116:9-18: 
+CanvasExtract-flow.js:1116:9,1119:10: 
+CanvasExtract-flow.js:1116:20,1119:9: () => void
+CanvasExtract-flow.js:1118:13-49: [number, number, number, number, number, number, number, number, number, number]
+CanvasExtract-flow.js:1118:19-49: [number, number, number, number, number, number, number, number, number, number]
+CanvasExtract-flow.js:1118:20: number
+CanvasExtract-flow.js:1118:23: number
+CanvasExtract-flow.js:1118:26: number
+CanvasExtract-flow.js:1118:29: number
+CanvasExtract-flow.js:1118:32: number
+CanvasExtract-flow.js:1118:35: number
+CanvasExtract-flow.js:1118:38: number
+CanvasExtract-flow.js:1118:41: number
+CanvasExtract-flow.js:1118:44: number
+CanvasExtract-flow.js:1118:47-48: number
+CanvasExtract-flow.js:1121:9-10: 
+CanvasExtract-flow.js:1121:9,1125:10: 
+CanvasExtract-flow.js:1121:12-97: string
+CanvasExtract-flow.js:1121:100,1125:9: () => void
+CanvasExtract-flow.js:1123:13-17: 
+CanvasExtract-flow.js:1123:13-53: 
+CanvasExtract-flow.js:1123:31-33: [number, number, number, number, number, number, number, number, number, number]
+CanvasExtract-flow.js:1123:36-38: [number, number, number, number, number, number, number, number, number, number]
+CanvasExtract-flow.js:1123:36-45: number
+CanvasExtract-flow.js:1123:36-49: number
+CanvasExtract-flow.js:1123:49: number
+CanvasExtract-flow.js:1123:52: number
+CanvasExtract-flow.js:1124:13-18: 
+CanvasExtract-flow.js:1124:13-30: 
+CanvasExtract-flow.js:1124:13-33: 
+CanvasExtract-flow.js:1124:13-36: 
+CanvasExtract-flow.js:1124:13-46: 
+CanvasExtract-flow.js:1124:20-22: [number, number, number, number, number, number, number, number, number, number]
+CanvasExtract-flow.js:1124:20-29: number
+CanvasExtract-flow.js:1124:44-45: number
+CanvasExtract-flow.js:1127:9-10: 
+CanvasExtract-flow.js:1127:9,1131:10: 
+CanvasExtract-flow.js:1127:12-51: string
+CanvasExtract-flow.js:1127:54,1131:9: () => void
+CanvasExtract-flow.js:1129:13-17: 
+CanvasExtract-flow.js:1129:13-40: 
+CanvasExtract-flow.js:1129:31-33: [number, number, number, number, number, number, number, number, number, number]
+CanvasExtract-flow.js:1129:36: number
+CanvasExtract-flow.js:1129:39: number
+CanvasExtract-flow.js:1130:13-18: 
+CanvasExtract-flow.js:1130:13-30: 
+CanvasExtract-flow.js:1130:13-33: 
+CanvasExtract-flow.js:1130:13-36: 
+CanvasExtract-flow.js:1130:13-46: 
+CanvasExtract-flow.js:1130:20-22: [number, number, number, number, number, number, number, number, number, number]
+CanvasExtract-flow.js:1130:20-29: number
+CanvasExtract-flow.js:1130:44-45: number
+CanvasExtract-flow.js:1133:9-10: 
+CanvasExtract-flow.js:1133:9,1139:10: 
+CanvasExtract-flow.js:1133:12-105: string
+CanvasExtract-flow.js:1133:108,1139:9: () => void
+CanvasExtract-flow.js:1135:17-19: [number, number, number, number, number, number]
+CanvasExtract-flow.js:1135:23-41: [number, number, number, number, number, number]
+CanvasExtract-flow.js:1135:24: number
+CanvasExtract-flow.js:1135:27: number
+CanvasExtract-flow.js:1135:30: number
+CanvasExtract-flow.js:1135:33: number
+CanvasExtract-flow.js:1135:36: number
+CanvasExtract-flow.js:1135:39-40: number
+CanvasExtract-flow.js:1137:13-17: 
+CanvasExtract-flow.js:1137:13-40: 
+CanvasExtract-flow.js:1137:31-33: [number, number, number, number, number, number, number, number, number, number]
+CanvasExtract-flow.js:1137:36: number
+CanvasExtract-flow.js:1137:39: number
+CanvasExtract-flow.js:1138:13-18: 
+CanvasExtract-flow.js:1138:13-23: 
+CanvasExtract-flow.js:1138:13-26: 
+CanvasExtract-flow.js:1138:13-29: 
+CanvasExtract-flow.js:1138:13-34: 
+CanvasExtract-flow.js:1138:13-45: 
+CanvasExtract-flow.js:1138:20-22: [number, number, number, number, number, number, number, number, number, number]
+CanvasExtract-flow.js:1138:42-44: [number, number, number, number, number, number]
+CanvasExtract-flow.js:1141:9-10: 
+CanvasExtract-flow.js:1141:9,1147:10: 
+CanvasExtract-flow.js:1141:12-108: string
+CanvasExtract-flow.js:1141:111,1147:9: () => void
+CanvasExtract-flow.js:1143:17-19: [number, number, number, number, number, number, number]
+CanvasExtract-flow.js:1143:23-43: [number, number, number, number, number, number, number]
+CanvasExtract-flow.js:1143:24: number
+CanvasExtract-flow.js:1143:27: number
+CanvasExtract-flow.js:1143:30: number
+CanvasExtract-flow.js:1143:33: number
+CanvasExtract-flow.js:1143:36: number
+CanvasExtract-flow.js:1143:39: number
+CanvasExtract-flow.js:1143:42: number
+CanvasExtract-flow.js:1145:13-17: 
+CanvasExtract-flow.js:1145:13-41: 
+CanvasExtract-flow.js:1145:31-33: [number, number, number, number, number, number, number, number, number, number]
+CanvasExtract-flow.js:1145:36: number
+CanvasExtract-flow.js:1145:39-40: number
+CanvasExtract-flow.js:1146:13-18: 
+CanvasExtract-flow.js:1146:13-23: 
+CanvasExtract-flow.js:1146:13-26: 
+CanvasExtract-flow.js:1146:13-29: 
+CanvasExtract-flow.js:1146:13-34: 
+CanvasExtract-flow.js:1146:13-45: 
+CanvasExtract-flow.js:1146:20-22: [number, number, number, number, number, number, number, number, number, number]
+CanvasExtract-flow.js:1146:42-44: [number, number, number, number, number, number, number]
+CanvasExtract-flow.js:1156:1-8: 
+CanvasExtract-flow.js:1156:1,1210:2: 
+CanvasExtract-flow.js:1156:10-18: string
+CanvasExtract-flow.js:1156:21,1210:1: () => void
+CanvasExtract-flow.js:1158:5-6: 
+CanvasExtract-flow.js:1158:5,1185:6: 
+CanvasExtract-flow.js:1158:8-66: string
+CanvasExtract-flow.js:1158:69,1185:5: () => void
+CanvasExtract-flow.js:1160:13-18: 
+CanvasExtract-flow.js:1160:22-36: 
+CanvasExtract-flow.js:1160:26-34: 
+CanvasExtract-flow.js:1162:13-21: 
+CanvasExtract-flow.js:1162:25-39: 
+CanvasExtract-flow.js:1162:29-37: 
+CanvasExtract-flow.js:1164:9-14: 
+CanvasExtract-flow.js:1164:9-34: 
+CanvasExtract-flow.js:1164:25-33: 
+CanvasExtract-flow.js:1166:13-17: 
+CanvasExtract-flow.js:1166:21-39: 
+CanvasExtract-flow.js:1166:25-29: 
+CanvasExtract-flow.js:1166:31-33: number
+CanvasExtract-flow.js:1166:36-38: number
+CanvasExtract-flow.js:1168:13-22: 
+CanvasExtract-flow.js:1170:9-45: 
+CanvasExtract-flow.js:1170:22-30: 
+CanvasExtract-flow.js:1170:22-45: 
+CanvasExtract-flow.js:1170:40-44: 
+CanvasExtract-flow.js:1172:9-14: 
+CanvasExtract-flow.js:1172:9-28: 
+CanvasExtract-flow.js:1172:9-31: 
+CanvasExtract-flow.js:1172:9-42: 
+CanvasExtract-flow.js:1172:16-25: 
+CanvasExtract-flow.js:1172:16-27: 
+CanvasExtract-flow.js:1172:39-41: number
+CanvasExtract-flow.js:1173:9-14: 
+CanvasExtract-flow.js:1173:9-28: 
+CanvasExtract-flow.js:1173:9-31: 
+CanvasExtract-flow.js:1173:9-42: 
+CanvasExtract-flow.js:1173:16-25: 
+CanvasExtract-flow.js:1173:16-27: 
+CanvasExtract-flow.js:1173:39-41: number
+CanvasExtract-flow.js:1175:9-17: 
+CanvasExtract-flow.js:1175:9-26: 
+CanvasExtract-flow.js:1175:9-33: number
+CanvasExtract-flow.js:1175:32-33: number
+CanvasExtract-flow.js:1176:9-17: 
+CanvasExtract-flow.js:1176:9-26: 
+CanvasExtract-flow.js:1176:9-33: number
+CanvasExtract-flow.js:1176:32-33: number
+CanvasExtract-flow.js:1178:9-17: 
+CanvasExtract-flow.js:1178:9-23: 
+CanvasExtract-flow.js:1178:9-29: number
+CanvasExtract-flow.js:1178:29: number
+CanvasExtract-flow.js:1179:9-17: 
+CanvasExtract-flow.js:1179:9-23: 
+CanvasExtract-flow.js:1179:9-29: number
+CanvasExtract-flow.js:1179:29: number
+CanvasExtract-flow.js:1181:9-45: 
+CanvasExtract-flow.js:1181:22-30: 
+CanvasExtract-flow.js:1181:22-45: 
+CanvasExtract-flow.js:1181:40-44: 
+CanvasExtract-flow.js:1183:9-14: 
+CanvasExtract-flow.js:1183:9-28: 
+CanvasExtract-flow.js:1183:9-31: 
+CanvasExtract-flow.js:1183:9-41: 
+CanvasExtract-flow.js:1183:16-25: 
+CanvasExtract-flow.js:1183:16-27: 
+CanvasExtract-flow.js:1183:39-40: number
+CanvasExtract-flow.js:1184:9-14: 
+CanvasExtract-flow.js:1184:9-28: 
+CanvasExtract-flow.js:1184:9-31: 
+CanvasExtract-flow.js:1184:9-41: 
+CanvasExtract-flow.js:1184:16-25: 
+CanvasExtract-flow.js:1184:16-27: 
+CanvasExtract-flow.js:1184:39-40: number
+CanvasExtract-flow.js:1187:5-6: 
+CanvasExtract-flow.js:1187:5,1209:6: 
+CanvasExtract-flow.js:1187:8-78: string
+CanvasExtract-flow.js:1187:81,1209:5: () => void
+CanvasExtract-flow.js:1189:13-18: 
+CanvasExtract-flow.js:1189:22-36: 
+CanvasExtract-flow.js:1189:26-34: 
+CanvasExtract-flow.js:1191:13-21: 
+CanvasExtract-flow.js:1191:25-39: 
+CanvasExtract-flow.js:1191:29-37: 
+CanvasExtract-flow.js:1192:13-22: 
+CanvasExtract-flow.js:1192:26-40: 
+CanvasExtract-flow.js:1192:30-38: 
+CanvasExtract-flow.js:1194:9-14: 
+CanvasExtract-flow.js:1194:9-34: 
+CanvasExtract-flow.js:1194:25-33: 
+CanvasExtract-flow.js:1195:9-14: 
+CanvasExtract-flow.js:1195:9-35: 
+CanvasExtract-flow.js:1195:25-34: 
+CanvasExtract-flow.js:1197:9-18: 
+CanvasExtract-flow.js:1197:9-27: 
+CanvasExtract-flow.js:1197:9-35: number
+CanvasExtract-flow.js:1197:33-35: number
+CanvasExtract-flow.js:1198:9-18: 
+CanvasExtract-flow.js:1198:9-27: 
+CanvasExtract-flow.js:1198:9-35: number
+CanvasExtract-flow.js:1198:33-35: number
+CanvasExtract-flow.js:1200:13-17: 
+CanvasExtract-flow.js:1200:21-39: 
+CanvasExtract-flow.js:1200:25-29: 
+CanvasExtract-flow.js:1200:31-33: number
+CanvasExtract-flow.js:1200:36-38: number
+CanvasExtract-flow.js:1202:9-17: 
+CanvasExtract-flow.js:1202:9-23: 
+CanvasExtract-flow.js:1202:9-29: number
+CanvasExtract-flow.js:1202:29: number
+CanvasExtract-flow.js:1203:9-17: 
+CanvasExtract-flow.js:1203:9-23: 
+CanvasExtract-flow.js:1203:9-29: number
+CanvasExtract-flow.js:1203:29: number
+CanvasExtract-flow.js:1205:13-22: 
+CanvasExtract-flow.js:1205:26-34: 
+CanvasExtract-flow.js:1205:26-61: 
+CanvasExtract-flow.js:1205:44-48: 
+CanvasExtract-flow.js:1205:51-60: 
+CanvasExtract-flow.js:1207:9-14: 
+CanvasExtract-flow.js:1207:9-28: 
+CanvasExtract-flow.js:1207:9-31: 
+CanvasExtract-flow.js:1207:9-42: 
+CanvasExtract-flow.js:1207:16-25: 
+CanvasExtract-flow.js:1207:16-27: 
+CanvasExtract-flow.js:1207:39-41: number
+CanvasExtract-flow.js:1208:9-14: 
+CanvasExtract-flow.js:1208:9-28: 
+CanvasExtract-flow.js:1208:9-31: 
+CanvasExtract-flow.js:1208:9-42: 
+CanvasExtract-flow.js:1208:16-25: 
+CanvasExtract-flow.js:1208:16-27: 
+CanvasExtract-flow.js:1208:39-41: number
+CanvasExtract-flow.js:1217:1-8: 
+CanvasExtract-flow.js:1217:1,1247:2: 
+CanvasExtract-flow.js:1217:10-19: string
+CanvasExtract-flow.js:1217:22,1247:1: () => void
+CanvasExtract-flow.js:1219:5-6: 
+CanvasExtract-flow.js:1219:5,1246:6: 
+CanvasExtract-flow.js:1219:8-87: string
+CanvasExtract-flow.js:1219:90,1246:5: () => void
+CanvasExtract-flow.js:1221:13-18: 
+CanvasExtract-flow.js:1221:22-36: 
+CanvasExtract-flow.js:1221:26-34: 
+CanvasExtract-flow.js:1223:13-21: 
+CanvasExtract-flow.js:1223:25-39: 
+CanvasExtract-flow.js:1223:29-37: 
+CanvasExtract-flow.js:1225:9-14: 
+CanvasExtract-flow.js:1225:9-34: 
+CanvasExtract-flow.js:1225:25-33: 
+CanvasExtract-flow.js:1227:13-17: 
+CanvasExtract-flow.js:1227:21-39: 
+CanvasExtract-flow.js:1227:25-29: 
+CanvasExtract-flow.js:1227:31-33: number
+CanvasExtract-flow.js:1227:36-38: number
+CanvasExtract-flow.js:1229:13-23: 
+CanvasExtract-flow.js:1231:9-47: 
+CanvasExtract-flow.js:1231:23-31: 
+CanvasExtract-flow.js:1231:23-47: 
+CanvasExtract-flow.js:1231:42-46: 
+CanvasExtract-flow.js:1233:9-14: 
+CanvasExtract-flow.js:1233:9-29: 
+CanvasExtract-flow.js:1233:9-32: 
+CanvasExtract-flow.js:1233:9-43: 
+CanvasExtract-flow.js:1233:16-26: 
+CanvasExtract-flow.js:1233:16-28: 
+CanvasExtract-flow.js:1233:40-42: number
+CanvasExtract-flow.js:1234:9-14: 
+CanvasExtract-flow.js:1234:9-29: 
+CanvasExtract-flow.js:1234:9-32: 
+CanvasExtract-flow.js:1234:9-43: 
+CanvasExtract-flow.js:1234:16-26: 
+CanvasExtract-flow.js:1234:16-28: 
+CanvasExtract-flow.js:1234:40-42: number
+CanvasExtract-flow.js:1236:9-17: 
+CanvasExtract-flow.js:1236:9-26: 
+CanvasExtract-flow.js:1236:9-33: number
+CanvasExtract-flow.js:1236:32-33: number
+CanvasExtract-flow.js:1237:9-17: 
+CanvasExtract-flow.js:1237:9-26: 
+CanvasExtract-flow.js:1237:9-33: number
+CanvasExtract-flow.js:1237:32-33: number
+CanvasExtract-flow.js:1239:9-17: 
+CanvasExtract-flow.js:1239:9-23: 
+CanvasExtract-flow.js:1239:9-29: number
+CanvasExtract-flow.js:1239:29: number
+CanvasExtract-flow.js:1240:9-17: 
+CanvasExtract-flow.js:1240:9-23: 
+CanvasExtract-flow.js:1240:9-29: number
+CanvasExtract-flow.js:1240:29: number
+CanvasExtract-flow.js:1242:9-47: 
+CanvasExtract-flow.js:1242:23-31: 
+CanvasExtract-flow.js:1242:23-47: 
+CanvasExtract-flow.js:1242:42-46: 
+CanvasExtract-flow.js:1244:9-14: 
+CanvasExtract-flow.js:1244:9-29: 
+CanvasExtract-flow.js:1244:9-32: 
+CanvasExtract-flow.js:1244:9-43: 
+CanvasExtract-flow.js:1244:16-26: 
+CanvasExtract-flow.js:1244:16-28: 
+CanvasExtract-flow.js:1244:40-42: number
+CanvasExtract-flow.js:1245:9-14: 
+CanvasExtract-flow.js:1245:9-29: 
+CanvasExtract-flow.js:1245:9-32: 
+CanvasExtract-flow.js:1245:9-43: 
+CanvasExtract-flow.js:1245:16-26: 
+CanvasExtract-flow.js:1245:16-28: 
+CanvasExtract-flow.js:1245:40-42: number
+CanvasExtract-flow.js:1254:1-8: 
+CanvasExtract-flow.js:1254:1,1332:2: 
+CanvasExtract-flow.js:1254:10-15: string
+CanvasExtract-flow.js:1254:18,1332:1: () => void
+CanvasExtract-flow.js:1256:5-12: 
+CanvasExtract-flow.js:1256:5,1331:6: 
+CanvasExtract-flow.js:1256:14-22: string
+CanvasExtract-flow.js:1256:25,1331:5: () => void
+CanvasExtract-flow.js:1258:9-10: 
+CanvasExtract-flow.js:1258:9,1265:10: 
+CanvasExtract-flow.js:1258:12-50: string
+CanvasExtract-flow.js:1258:53,1265:9: () => void
+CanvasExtract-flow.js:1260:17-20: Text
+CanvasExtract-flow.js:1260:24-38: Text
+CanvasExtract-flow.js:1260:28-31: [class: Text]
+CanvasExtract-flow.js:1260:33-37: string
+CanvasExtract-flow.js:1262:13-18: 
+CanvasExtract-flow.js:1262:13-31: 
+CanvasExtract-flow.js:1262:13-34: 
+CanvasExtract-flow.js:1262:13-38: 
+CanvasExtract-flow.js:1262:13-50: 
+CanvasExtract-flow.js:1262:20-23: Text
+CanvasExtract-flow.js:1262:20-30: 
+CanvasExtract-flow.js:1262:46-49: null
+CanvasExtract-flow.js:1263:13-16: Text
+CanvasExtract-flow.js:1263:13-26: 
+CanvasExtract-flow.js:1264:13-18: 
+CanvasExtract-flow.js:1264:13-31: 
+CanvasExtract-flow.js:1264:13-34: 
+CanvasExtract-flow.js:1264:13-46: 
+CanvasExtract-flow.js:1264:20-23: Text
+CanvasExtract-flow.js:1264:20-30: 
+CanvasExtract-flow.js:1264:42-45: null
+CanvasExtract-flow.js:1267:9-10: 
+CanvasExtract-flow.js:1267:9,1274:10: 
+CanvasExtract-flow.js:1267:12-39: string
+CanvasExtract-flow.js:1267:42,1274:9: () => void
+CanvasExtract-flow.js:1269:17-20: Text
+CanvasExtract-flow.js:1269:24-38: Text
+CanvasExtract-flow.js:1269:28-31: [class: Text]
+CanvasExtract-flow.js:1269:33-37: string
+CanvasExtract-flow.js:1271:13-18: 
+CanvasExtract-flow.js:1271:13-30: 
+CanvasExtract-flow.js:1271:13-33: 
+CanvasExtract-flow.js:1271:13-37: 
+CanvasExtract-flow.js:1271:13-49: 
+CanvasExtract-flow.js:1271:20-23: Text
+CanvasExtract-flow.js:1271:20-29: 
+CanvasExtract-flow.js:1271:45-48: null
+CanvasExtract-flow.js:1272:13-16: Text
+CanvasExtract-flow.js:1272:13-26: 
+CanvasExtract-flow.js:1273:13-18: 
+CanvasExtract-flow.js:1273:13-30: 
+CanvasExtract-flow.js:1273:13-33: 
+CanvasExtract-flow.js:1273:13-45: 
+CanvasExtract-flow.js:1273:20-23: Text
+CanvasExtract-flow.js:1273:20-29: 
+CanvasExtract-flow.js:1273:41-44: null
+CanvasExtract-flow.js:1276:9-10: 
+CanvasExtract-flow.js:1276:9,1285:10: 
+CanvasExtract-flow.js:1276:12-60: string
+CanvasExtract-flow.js:1276:63,1285:9: () => void
+CanvasExtract-flow.js:1278:17-20: Text
+CanvasExtract-flow.js:1278:24-38: Text
+CanvasExtract-flow.js:1278:28-31: [class: Text]
+CanvasExtract-flow.js:1278:33-37: string
+CanvasExtract-flow.js:1279:17-21: 
+CanvasExtract-flow.js:1279:25-43: 
+CanvasExtract-flow.js:1279:29-41: 
+CanvasExtract-flow.js:1281:13-16: Text
+CanvasExtract-flow.js:1281:13-32: 
+CanvasExtract-flow.js:1281:27-31: 
+CanvasExtract-flow.js:1282:13-16: Text
+CanvasExtract-flow.js:1282:13-44: 
+CanvasExtract-flow.js:1282:26-43: {children: boolean}
+CanvasExtract-flow.js:1282:38-41: boolean
+CanvasExtract-flow.js:1283:13-18: 
+CanvasExtract-flow.js:1283:13-34: 
+CanvasExtract-flow.js:1283:13-37: 
+CanvasExtract-flow.js:1283:13-49: 
+CanvasExtract-flow.js:1283:20-23: Text
+CanvasExtract-flow.js:1283:20-33: 
+CanvasExtract-flow.js:1283:45-48: null
+CanvasExtract-flow.js:1284:13-18: 
+CanvasExtract-flow.js:1284:13-35: 
+CanvasExtract-flow.js:1284:13-38: 
+CanvasExtract-flow.js:1284:13-50: 
+CanvasExtract-flow.js:1284:20-24: 
+CanvasExtract-flow.js:1284:20-34: 
+CanvasExtract-flow.js:1284:46-49: null
+CanvasExtract-flow.js:1287:9-10: 
+CanvasExtract-flow.js:1287:9,1296:10: 
+CanvasExtract-flow.js:1287:12-44: string
+CanvasExtract-flow.js:1287:47,1296:9: () => void
+CanvasExtract-flow.js:1289:17-20: Text
+CanvasExtract-flow.js:1289:24-38: Text
+CanvasExtract-flow.js:1289:28-31: [class: Text]
+CanvasExtract-flow.js:1289:33-37: string
+CanvasExtract-flow.js:1290:17-21: 
+CanvasExtract-flow.js:1290:25-43: 
+CanvasExtract-flow.js:1290:29-41: 
+CanvasExtract-flow.js:1292:13-16: Text
+CanvasExtract-flow.js:1292:13-32: 
+CanvasExtract-flow.js:1292:27-31: 
+CanvasExtract-flow.js:1293:13-16: Text
+CanvasExtract-flow.js:1293:13-30: 
+CanvasExtract-flow.js:1293:26-29: boolean
+CanvasExtract-flow.js:1294:13-18: 
+CanvasExtract-flow.js:1294:13-34: 
+CanvasExtract-flow.js:1294:13-37: 
+CanvasExtract-flow.js:1294:13-49: 
+CanvasExtract-flow.js:1294:20-23: Text
+CanvasExtract-flow.js:1294:20-33: 
+CanvasExtract-flow.js:1294:45-48: null
+CanvasExtract-flow.js:1295:13-18: 
+CanvasExtract-flow.js:1295:13-35: 
+CanvasExtract-flow.js:1295:13-38: 
+CanvasExtract-flow.js:1295:13-50: 
+CanvasExtract-flow.js:1295:20-24: 
+CanvasExtract-flow.js:1295:20-34: 
+CanvasExtract-flow.js:1295:46-49: null
+CanvasExtract-flow.js:1298:9-10: 
+CanvasExtract-flow.js:1298:9,1312:10: 
+CanvasExtract-flow.js:1298:12-68: string
+CanvasExtract-flow.js:1298:71,1312:9: () => void
+CanvasExtract-flow.js:1300:17-20: Text
+CanvasExtract-flow.js:1300:24-38: Text
+CanvasExtract-flow.js:1300:28-31: [class: Text]
+CanvasExtract-flow.js:1300:33-37: string
+CanvasExtract-flow.js:1301:17-21: 
+CanvasExtract-flow.js:1301:25-43: 
+CanvasExtract-flow.js:1301:29-41: 
+CanvasExtract-flow.js:1302:17-32: 
+CanvasExtract-flow.js:1304:13-17: 
+CanvasExtract-flow.js:1304:13,1307:13: (opts: ) => void
+CanvasExtract-flow.js:1304:29,1307:13: (opts: ) => void
+CanvasExtract-flow.js:1304:39-42: 
+CanvasExtract-flow.js:1306:17-39: 
+CanvasExtract-flow.js:1306:36-39: 
+CanvasExtract-flow.js:1309:13-16: Text
+CanvasExtract-flow.js:1309:13-32: 
+CanvasExtract-flow.js:1309:27-31: 
+CanvasExtract-flow.js:1310:13-16: Text
+CanvasExtract-flow.js:1310:13-59: 
+CanvasExtract-flow.js:1310:26-58: {children: boolean, texture: boolean}
+CanvasExtract-flow.js:1310:38-41: boolean
+CanvasExtract-flow.js:1310:53-56: boolean
+CanvasExtract-flow.js:1311:13-18: 
+CanvasExtract-flow.js:1311:13-36: 
+CanvasExtract-flow.js:1311:13-39: 
+CanvasExtract-flow.js:1311:13-44: 
+CanvasExtract-flow.js:1311:13-104: 
+CanvasExtract-flow.js:1311:20-35: void
+CanvasExtract-flow.js:1311:52-103: {baseTexture: boolean, children: boolean, texture: boolean}
+CanvasExtract-flow.js:1311:64-67: boolean
+CanvasExtract-flow.js:1311:79-82: boolean
+CanvasExtract-flow.js:1311:98-101: boolean
+CanvasExtract-flow.js:1314:9-10: 
+CanvasExtract-flow.js:1314:9,1321:10: 
+CanvasExtract-flow.js:1314:12-71: string
+CanvasExtract-flow.js:1314:74,1321:9: () => void
+CanvasExtract-flow.js:1316:17-20: Text
+CanvasExtract-flow.js:1316:24-38: Text
+CanvasExtract-flow.js:1316:28-31: [class: Text]
+CanvasExtract-flow.js:1316:33-37: string
+CanvasExtract-flow.js:1318:13-16: Text
+CanvasExtract-flow.js:1318:13-29: number
+CanvasExtract-flow.js:1318:27-29: number
+CanvasExtract-flow.js:1320:13-18: 
+CanvasExtract-flow.js:1320:13-31: 
+CanvasExtract-flow.js:1320:13-34: 
+CanvasExtract-flow.js:1320:13-45: 
+CanvasExtract-flow.js:1320:20-30: number
+CanvasExtract-flow.js:1320:42-44: number
+CanvasExtract-flow.js:1323:9-10: 
+CanvasExtract-flow.js:1323:9,1330:10: 
+CanvasExtract-flow.js:1323:12-69: string
+CanvasExtract-flow.js:1323:72,1330:9: () => void
+CanvasExtract-flow.js:1325:17-20: Text
+CanvasExtract-flow.js:1325:24-38: Text
+CanvasExtract-flow.js:1325:28-31: [class: Text]
+CanvasExtract-flow.js:1325:33-37: string
+CanvasExtract-flow.js:1327:13-16: Text
+CanvasExtract-flow.js:1327:13-28: number
+CanvasExtract-flow.js:1327:26-28: number
+CanvasExtract-flow.js:1329:13-18: 
+CanvasExtract-flow.js:1329:13-30: 
+CanvasExtract-flow.js:1329:13-33: 
+CanvasExtract-flow.js:1329:13-44: 
+CanvasExtract-flow.js:1329:20-29: number
+CanvasExtract-flow.js:1329:41-43: number
+CanvasExtract-flow.js:1339:1-8: 
+CanvasExtract-flow.js:1339:1,1400:2: 
+CanvasExtract-flow.js:1339:10-17: string
+CanvasExtract-flow.js:1339:20,1400:1: () => void
+CanvasExtract-flow.js:1341:5-12: 
+CanvasExtract-flow.js:1341:5,1369:6: 
+CanvasExtract-flow.js:1341:14-20: string
+CanvasExtract-flow.js:1341:23,1369:5: () => void
+CanvasExtract-flow.js:1343:9-10: 
+CanvasExtract-flow.js:1343:9,1351:10: 
+CanvasExtract-flow.js:1343:12-56: string
+CanvasExtract-flow.js:1343:59,1351:9: () => void
+CanvasExtract-flow.js:1345:17-22: 
+CanvasExtract-flow.js:1345:26-37: 
+CanvasExtract-flow.js:1345:30-35: 
+CanvasExtract-flow.js:1347:13-18: 
+CanvasExtract-flow.js:1347:13-30: number
+CanvasExtract-flow.js:1347:28-30: number
+CanvasExtract-flow.js:1348:13-18: 
+CanvasExtract-flow.js:1348:13-32: 
+CanvasExtract-flow.js:1348:13-35: 
+CanvasExtract-flow.js:1348:13-38: 
+CanvasExtract-flow.js:1348:13-41: 
+CanvasExtract-flow.js:1348:13-50: 
+CanvasExtract-flow.js:1348:20-31: number
+CanvasExtract-flow.js:1348:49: number
+CanvasExtract-flow.js:1349:13-18: 
+CanvasExtract-flow.js:1349:13-24: 
+CanvasExtract-flow.js:1349:13-31: number
+CanvasExtract-flow.js:1349:30-31: number
+CanvasExtract-flow.js:1349:31: number
+CanvasExtract-flow.js:1350:13-18: 
+CanvasExtract-flow.js:1350:13-32: 
+CanvasExtract-flow.js:1350:13-35: 
+CanvasExtract-flow.js:1350:13-38: 
+CanvasExtract-flow.js:1350:13-41: 
+CanvasExtract-flow.js:1350:13-50: 
+CanvasExtract-flow.js:1350:20-25: 
+CanvasExtract-flow.js:1350:20-31: 
+CanvasExtract-flow.js:1350:49: number
+CanvasExtract-flow.js:1353:9-10: 
+CanvasExtract-flow.js:1353:9,1368:10: 
+CanvasExtract-flow.js:1353:12-46: string
+CanvasExtract-flow.js:1353:49,1368:9: () => void
+CanvasExtract-flow.js:1355:17-23: 
+CanvasExtract-flow.js:1355:27-56: 
+CanvasExtract-flow.js:1355:31-37: 
+CanvasExtract-flow.js:1355:39-55: 
+CanvasExtract-flow.js:1355:43-53: 
+CanvasExtract-flow.js:1356:17-22: 
+CanvasExtract-flow.js:1356:26-37: 
+CanvasExtract-flow.js:1356:30-35: 
+CanvasExtract-flow.js:1358:13-19: 
+CanvasExtract-flow.js:1358:13-24: 
+CanvasExtract-flow.js:1358:13-36: number
+CanvasExtract-flow.js:1358:34-36: number
+CanvasExtract-flow.js:1359:13-18: 
+CanvasExtract-flow.js:1359:13-24: 
+CanvasExtract-flow.js:1359:13-30: number
+CanvasExtract-flow.js:1359:30: number
+CanvasExtract-flow.js:1360:13-18: 
+CanvasExtract-flow.js:1360:13-29: number
+CanvasExtract-flow.js:1360:28-29: number
+CanvasExtract-flow.js:1362:13-18: 
+CanvasExtract-flow.js:1362:13-34: 
+CanvasExtract-flow.js:1362:13-37: 
+CanvasExtract-flow.js:1362:13-40: 
+CanvasExtract-flow.js:1362:13-49: 
+CanvasExtract-flow.js:1362:20-33: number
+CanvasExtract-flow.js:1362:48: number
+CanvasExtract-flow.js:1364:13-18: 
+CanvasExtract-flow.js:1364:13-24: 
+CanvasExtract-flow.js:1364:13-31: number
+CanvasExtract-flow.js:1364:30-31: number
+CanvasExtract-flow.js:1364:31: number
+CanvasExtract-flow.js:1365:13-18: 
+CanvasExtract-flow.js:1365:13-29: number
+CanvasExtract-flow.js:1365:28-29: number
+CanvasExtract-flow.js:1367:13-18: 
+CanvasExtract-flow.js:1367:13-34: 
+CanvasExtract-flow.js:1367:13-37: 
+CanvasExtract-flow.js:1367:13-40: 
+CanvasExtract-flow.js:1367:13-49: 
+CanvasExtract-flow.js:1367:20-33: number
+CanvasExtract-flow.js:1367:48: number
+CanvasExtract-flow.js:1371:5-12: 
+CanvasExtract-flow.js:1371:5,1399:6: 
+CanvasExtract-flow.js:1371:14-21: string
+CanvasExtract-flow.js:1371:24,1399:5: () => void
+CanvasExtract-flow.js:1373:9-10: 
+CanvasExtract-flow.js:1373:9,1381:10: 
+CanvasExtract-flow.js:1373:12-56: string
+CanvasExtract-flow.js:1373:59,1381:9: () => void
+CanvasExtract-flow.js:1375:17-22: 
+CanvasExtract-flow.js:1375:26-37: 
+CanvasExtract-flow.js:1375:30-35: 
+CanvasExtract-flow.js:1377:13-18: 
+CanvasExtract-flow.js:1377:13-31: number
+CanvasExtract-flow.js:1377:29-31: number
+CanvasExtract-flow.js:1378:13-18: 
+CanvasExtract-flow.js:1378:13-33: 
+CanvasExtract-flow.js:1378:13-36: 
+CanvasExtract-flow.js:1378:13-39: 
+CanvasExtract-flow.js:1378:13-42: 
+CanvasExtract-flow.js:1378:13-51: 
+CanvasExtract-flow.js:1378:20-32: number
+CanvasExtract-flow.js:1378:50: number
+CanvasExtract-flow.js:1379:13-18: 
+CanvasExtract-flow.js:1379:13-24: 
+CanvasExtract-flow.js:1379:13-31: number
+CanvasExtract-flow.js:1379:30-31: number
+CanvasExtract-flow.js:1379:31: number
+CanvasExtract-flow.js:1380:13-18: 
+CanvasExtract-flow.js:1380:13-33: 
+CanvasExtract-flow.js:1380:13-36: 
+CanvasExtract-flow.js:1380:13-39: 
+CanvasExtract-flow.js:1380:13-42: 
+CanvasExtract-flow.js:1380:13-51: 
+CanvasExtract-flow.js:1380:20-25: 
+CanvasExtract-flow.js:1380:20-32: 
+CanvasExtract-flow.js:1380:50: number
+CanvasExtract-flow.js:1383:9-10: 
+CanvasExtract-flow.js:1383:9,1398:10: 
+CanvasExtract-flow.js:1383:12-46: string
+CanvasExtract-flow.js:1383:49,1398:9: () => void
+CanvasExtract-flow.js:1385:17-23: 
+CanvasExtract-flow.js:1385:27-56: 
+CanvasExtract-flow.js:1385:31-37: 
+CanvasExtract-flow.js:1385:39-55: 
+CanvasExtract-flow.js:1385:43-53: 
+CanvasExtract-flow.js:1386:17-22: 
+CanvasExtract-flow.js:1386:26-37: 
+CanvasExtract-flow.js:1386:30-35: 
+CanvasExtract-flow.js:1388:13-19: 
+CanvasExtract-flow.js:1388:13-24: 
+CanvasExtract-flow.js:1388:13-37: number
+CanvasExtract-flow.js:1388:35-37: number
+CanvasExtract-flow.js:1389:13-18: 
+CanvasExtract-flow.js:1389:13-24: 
+CanvasExtract-flow.js:1389:13-30: number
+CanvasExtract-flow.js:1389:30: number
+CanvasExtract-flow.js:1390:13-18: 
+CanvasExtract-flow.js:1390:13-30: number
+CanvasExtract-flow.js:1390:29-30: number
+CanvasExtract-flow.js:1392:13-18: 
+CanvasExtract-flow.js:1392:13-34: 
+CanvasExtract-flow.js:1392:13-37: 
+CanvasExtract-flow.js:1392:13-40: 
+CanvasExtract-flow.js:1392:13-49: 
+CanvasExtract-flow.js:1392:20-33: number
+CanvasExtract-flow.js:1392:48: number
+CanvasExtract-flow.js:1394:13-18: 
+CanvasExtract-flow.js:1394:13-24: 
+CanvasExtract-flow.js:1394:13-31: number
+CanvasExtract-flow.js:1394:30-31: number
+CanvasExtract-flow.js:1394:31: number
+CanvasExtract-flow.js:1395:13-18: 
+CanvasExtract-flow.js:1395:13-30: number
+CanvasExtract-flow.js:1395:29-30: number
+CanvasExtract-flow.js:1397:13-18: 
+CanvasExtract-flow.js:1397:13-34: 
+CanvasExtract-flow.js:1397:13-37: 
+CanvasExtract-flow.js:1397:13-40: 
+CanvasExtract-flow.js:1397:13-49: 
+CanvasExtract-flow.js:1397:20-33: number
+CanvasExtract-flow.js:1397:48: number
+CanvasExtract-flow.js:1407:1-8: 
+CanvasExtract-flow.js:1407:1,1545:2: 
+CanvasExtract-flow.js:1407:10-25: string
+CanvasExtract-flow.js:1407:28,1545:1: () => void
+CanvasExtract-flow.js:1409:5-6: 
+CanvasExtract-flow.js:1409:5,1439:6: 
+CanvasExtract-flow.js:1409:8-66: string
+CanvasExtract-flow.js:1409:69,1439:5: () => void
+CanvasExtract-flow.js:1411:13-18: 
+CanvasExtract-flow.js:1411:22-36: 
+CanvasExtract-flow.js:1411:26-34: 
+CanvasExtract-flow.js:1412:13-19: RenderTexture
+CanvasExtract-flow.js:1412:23-35: [class: RenderTexture]
+CanvasExtract-flow.js:1412:23-50: RenderTexture
+CanvasExtract-flow.js:1412:44-45: number
+CanvasExtract-flow.js:1412:48-49: number
+CanvasExtract-flow.js:1414:13-18: 
+CanvasExtract-flow.js:1414:22-40: 
+CanvasExtract-flow.js:1414:26-31: 
+CanvasExtract-flow.js:1414:33-39: RenderTexture
+CanvasExtract-flow.js:1416:9-14: 
+CanvasExtract-flow.js:1416:9-31: 
+CanvasExtract-flow.js:1416:25-30: 
+CanvasExtract-flow.js:1418:13-18: 
+CanvasExtract-flow.js:1420:9-40: 
+CanvasExtract-flow.js:1420:18-23: 
+CanvasExtract-flow.js:1420:18-40: 
+CanvasExtract-flow.js:1422:9-14: 
+CanvasExtract-flow.js:1422:9-24: 
+CanvasExtract-flow.js:1422:9-27: 
+CanvasExtract-flow.js:1422:9-36: 
+CanvasExtract-flow.js:1422:16-21: 
+CanvasExtract-flow.js:1422:16-23: 
+CanvasExtract-flow.js:1422:35: number
+CanvasExtract-flow.js:1423:9-14: 
+CanvasExtract-flow.js:1423:9-24: 
+CanvasExtract-flow.js:1423:9-27: 
+CanvasExtract-flow.js:1423:9-36: 
+CanvasExtract-flow.js:1423:16-21: 
+CanvasExtract-flow.js:1423:16-23: 
+CanvasExtract-flow.js:1423:35: number
+CanvasExtract-flow.js:1424:9-14: 
+CanvasExtract-flow.js:1424:9-28: 
+CanvasExtract-flow.js:1424:9-31: 
+CanvasExtract-flow.js:1424:9-41: 
+CanvasExtract-flow.js:1424:16-21: 
+CanvasExtract-flow.js:1424:16-27: 
+CanvasExtract-flow.js:1424:39-40: number
+CanvasExtract-flow.js:1425:9-14: 
+CanvasExtract-flow.js:1425:9-29: 
+CanvasExtract-flow.js:1425:9-32: 
+CanvasExtract-flow.js:1425:9-42: 
+CanvasExtract-flow.js:1425:16-21: 
+CanvasExtract-flow.js:1425:16-28: 
+CanvasExtract-flow.js:1425:40-41: number
+CanvasExtract-flow.js:1427:9-14: 
+CanvasExtract-flow.js:1427:9-23: 
+CanvasExtract-flow.js:1427:9-30: number
+CanvasExtract-flow.js:1427:29-30: number
+CanvasExtract-flow.js:1428:9-14: 
+CanvasExtract-flow.js:1428:9-23: 
+CanvasExtract-flow.js:1428:9-30: number
+CanvasExtract-flow.js:1428:29-30: number
+CanvasExtract-flow.js:1430:9-14: 
+CanvasExtract-flow.js:1430:9-20: 
+CanvasExtract-flow.js:1430:9-26: number
+CanvasExtract-flow.js:1430:26: number
+CanvasExtract-flow.js:1431:9-14: 
+CanvasExtract-flow.js:1431:9-20: 
+CanvasExtract-flow.js:1431:9-26: number
+CanvasExtract-flow.js:1431:26: number
+CanvasExtract-flow.js:1433:9-40: 
+CanvasExtract-flow.js:1433:18-23: 
+CanvasExtract-flow.js:1433:18-40: 
+CanvasExtract-flow.js:1435:9-14: 
+CanvasExtract-flow.js:1435:9-24: 
+CanvasExtract-flow.js:1435:9-27: 
+CanvasExtract-flow.js:1435:9-36: 
+CanvasExtract-flow.js:1435:16-21: 
+CanvasExtract-flow.js:1435:16-23: 
+CanvasExtract-flow.js:1435:35: number
+CanvasExtract-flow.js:1436:9-14: 
+CanvasExtract-flow.js:1436:9-24: 
+CanvasExtract-flow.js:1436:9-27: 
+CanvasExtract-flow.js:1436:9-36: 
+CanvasExtract-flow.js:1436:16-21: 
+CanvasExtract-flow.js:1436:16-23: 
+CanvasExtract-flow.js:1436:35: number
+CanvasExtract-flow.js:1437:9-14: 
+CanvasExtract-flow.js:1437:9-28: 
+CanvasExtract-flow.js:1437:9-31: 
+CanvasExtract-flow.js:1437:9-41: 
+CanvasExtract-flow.js:1437:16-21: 
+CanvasExtract-flow.js:1437:16-27: 
+CanvasExtract-flow.js:1437:39-40: number
+CanvasExtract-flow.js:1438:9-14: 
+CanvasExtract-flow.js:1438:9-29: 
+CanvasExtract-flow.js:1438:9-32: 
+CanvasExtract-flow.js:1438:9-42: 
+CanvasExtract-flow.js:1438:16-21: 
+CanvasExtract-flow.js:1438:16-28: 
+CanvasExtract-flow.js:1438:40-41: number
+CanvasExtract-flow.js:1441:5-6: 
+CanvasExtract-flow.js:1441:5,1459:6: 
+CanvasExtract-flow.js:1441:8-59: string
+CanvasExtract-flow.js:1441:62,1459:5: () => void
+CanvasExtract-flow.js:1443:13-18: 
+CanvasExtract-flow.js:1443:22-36: 
+CanvasExtract-flow.js:1443:26-34: 
+CanvasExtract-flow.js:1445:13-20: 
+CanvasExtract-flow.js:1445:24-37: 
+CanvasExtract-flow.js:1445:28-35: 
+CanvasExtract-flow.js:1447:9-16: 
+CanvasExtract-flow.js:1447:9-36: 
+CanvasExtract-flow.js:1447:9-57: 
+CanvasExtract-flow.js:1447:28-35: number
+CanvasExtract-flow.js:1447:49: number
+CanvasExtract-flow.js:1447:52: number
+CanvasExtract-flow.js:1447:55-56: number
+CanvasExtract-flow.js:1449:9-16: 
+CanvasExtract-flow.js:1449:9-22: 
+CanvasExtract-flow.js:1449:9-29: 
+CanvasExtract-flow.js:1449:28: number
+CanvasExtract-flow.js:1451:9-14: 
+CanvasExtract-flow.js:1451:9-33: 
+CanvasExtract-flow.js:1451:25-32: 
+CanvasExtract-flow.js:1453:13-18: 
+CanvasExtract-flow.js:1453:22-29: 
+CanvasExtract-flow.js:1453:22-46: 
+CanvasExtract-flow.js:1455:9-14: 
+CanvasExtract-flow.js:1455:9-24: 
+CanvasExtract-flow.js:1455:9-27: 
+CanvasExtract-flow.js:1455:9-38: 
+CanvasExtract-flow.js:1455:16-21: 
+CanvasExtract-flow.js:1455:16-23: 
+CanvasExtract-flow.js:1455:35-37: number
+CanvasExtract-flow.js:1455:36-37: number
+CanvasExtract-flow.js:1456:9-14: 
+CanvasExtract-flow.js:1456:9-24: 
+CanvasExtract-flow.js:1456:9-27: 
+CanvasExtract-flow.js:1456:9-38: 
+CanvasExtract-flow.js:1456:16-21: 
+CanvasExtract-flow.js:1456:16-23: 
+CanvasExtract-flow.js:1456:35-37: number
+CanvasExtract-flow.js:1456:36-37: number
+CanvasExtract-flow.js:1457:9-14: 
+CanvasExtract-flow.js:1457:9-28: 
+CanvasExtract-flow.js:1457:9-31: 
+CanvasExtract-flow.js:1457:9-41: 
+CanvasExtract-flow.js:1457:16-21: 
+CanvasExtract-flow.js:1457:16-27: 
+CanvasExtract-flow.js:1457:39-40: number
+CanvasExtract-flow.js:1458:9-14: 
+CanvasExtract-flow.js:1458:9-29: 
+CanvasExtract-flow.js:1458:9-32: 
+CanvasExtract-flow.js:1458:9-42: 
+CanvasExtract-flow.js:1458:16-21: 
+CanvasExtract-flow.js:1458:16-28: 
+CanvasExtract-flow.js:1458:40-41: number
+CanvasExtract-flow.js:1461:5-6: 
+CanvasExtract-flow.js:1461:5,1475:6: 
+CanvasExtract-flow.js:1461:8-69: string
+CanvasExtract-flow.js:1461:72,1475:5: () => void
+CanvasExtract-flow.js:1463:13-18: 
+CanvasExtract-flow.js:1463:22-36: 
+CanvasExtract-flow.js:1463:26-34: 
+CanvasExtract-flow.js:1465:13-21: 
+CanvasExtract-flow.js:1465:25-39: 
+CanvasExtract-flow.js:1465:29-37: 
+CanvasExtract-flow.js:1467:9-14: 
+CanvasExtract-flow.js:1467:9-34: 
+CanvasExtract-flow.js:1467:25-33: 
+CanvasExtract-flow.js:1469:13-18: 
+CanvasExtract-flow.js:1469:22-30: 
+CanvasExtract-flow.js:1469:22-47: 
+CanvasExtract-flow.js:1471:9-14: 
+CanvasExtract-flow.js:1471:9-24: 
+CanvasExtract-flow.js:1471:9-27: 
+CanvasExtract-flow.js:1471:9-36: 
+CanvasExtract-flow.js:1471:16-21: 
+CanvasExtract-flow.js:1471:16-23: 
+CanvasExtract-flow.js:1471:35: number
+CanvasExtract-flow.js:1472:9-14: 
+CanvasExtract-flow.js:1472:9-24: 
+CanvasExtract-flow.js:1472:9-27: 
+CanvasExtract-flow.js:1472:9-36: 
+CanvasExtract-flow.js:1472:16-21: 
+CanvasExtract-flow.js:1472:16-23: 
+CanvasExtract-flow.js:1472:35: number
+CanvasExtract-flow.js:1473:9-14: 
+CanvasExtract-flow.js:1473:9-28: 
+CanvasExtract-flow.js:1473:9-31: 
+CanvasExtract-flow.js:1473:9-40: 
+CanvasExtract-flow.js:1473:16-21: 
+CanvasExtract-flow.js:1473:16-27: 
+CanvasExtract-flow.js:1473:39: number
+CanvasExtract-flow.js:1474:9-14: 
+CanvasExtract-flow.js:1474:9-29: 
+CanvasExtract-flow.js:1474:9-32: 
+CanvasExtract-flow.js:1474:9-41: 
+CanvasExtract-flow.js:1474:16-21: 
+CanvasExtract-flow.js:1474:16-28: 
+CanvasExtract-flow.js:1474:40: number
+CanvasExtract-flow.js:1477:5-6: 
+CanvasExtract-flow.js:1477:5,1497:6: 
+CanvasExtract-flow.js:1477:8-112: string
+CanvasExtract-flow.js:1477:115,1497:5: () => void
+CanvasExtract-flow.js:1479:13-18: 
+CanvasExtract-flow.js:1479:22-36: 
+CanvasExtract-flow.js:1479:26-34: 
+CanvasExtract-flow.js:1481:13-21: 
+CanvasExtract-flow.js:1481:25-39: 
+CanvasExtract-flow.js:1481:29-37: 
+CanvasExtract-flow.js:1483:13-20: 
+CanvasExtract-flow.js:1483:24-37: 
+CanvasExtract-flow.js:1483:24-57: 
+CanvasExtract-flow.js:1483:24-80: 
+CanvasExtract-flow.js:1483:28-35: 
+CanvasExtract-flow.js:1483:49-56: number
+CanvasExtract-flow.js:1483:68: number
+CanvasExtract-flow.js:1483:71: number
+CanvasExtract-flow.js:1483:74-75: number
+CanvasExtract-flow.js:1483:78-79: number
+CanvasExtract-flow.js:1485:9-14: 
+CanvasExtract-flow.js:1485:9-34: 
+CanvasExtract-flow.js:1485:25-33: 
+CanvasExtract-flow.js:1486:9-17: 
+CanvasExtract-flow.js:1486:9-36: 
+CanvasExtract-flow.js:1486:28-35: 
+CanvasExtract-flow.js:1488:9-17: 
+CanvasExtract-flow.js:1488:9-26: 
+CanvasExtract-flow.js:1488:9-34: number
+CanvasExtract-flow.js:1488:32-34: number
+CanvasExtract-flow.js:1489:9-17: 
+CanvasExtract-flow.js:1489:9-26: 
+CanvasExtract-flow.js:1489:9-34: number
+CanvasExtract-flow.js:1489:32-34: number
+CanvasExtract-flow.js:1491:13-18: 
+CanvasExtract-flow.js:1491:22-30: 
+CanvasExtract-flow.js:1491:22-47: 
+CanvasExtract-flow.js:1493:9-14: 
+CanvasExtract-flow.js:1493:9-24: 
+CanvasExtract-flow.js:1493:9-27: 
+CanvasExtract-flow.js:1493:9-36: 
+CanvasExtract-flow.js:1493:16-21: 
+CanvasExtract-flow.js:1493:16-23: 
+CanvasExtract-flow.js:1493:35: number
+CanvasExtract-flow.js:1494:9-14: 
+CanvasExtract-flow.js:1494:9-24: 
+CanvasExtract-flow.js:1494:9-27: 
+CanvasExtract-flow.js:1494:9-36: 
+CanvasExtract-flow.js:1494:16-21: 
+CanvasExtract-flow.js:1494:16-23: 
+CanvasExtract-flow.js:1494:35: number
+CanvasExtract-flow.js:1495:9-14: 
+CanvasExtract-flow.js:1495:9-28: 
+CanvasExtract-flow.js:1495:9-31: 
+CanvasExtract-flow.js:1495:9-41: 
+CanvasExtract-flow.js:1495:16-21: 
+CanvasExtract-flow.js:1495:16-27: 
+CanvasExtract-flow.js:1495:39-40: number
+CanvasExtract-flow.js:1496:9-14: 
+CanvasExtract-flow.js:1496:9-29: 
+CanvasExtract-flow.js:1496:9-32: 
+CanvasExtract-flow.js:1496:9-42: 
+CanvasExtract-flow.js:1496:16-21: 
+CanvasExtract-flow.js:1496:16-28: 
+CanvasExtract-flow.js:1496:40-41: number
+CanvasExtract-flow.js:1499:5-6: 
+CanvasExtract-flow.js:1499:5,1518:6: 
+CanvasExtract-flow.js:1499:8-57: string
+CanvasExtract-flow.js:1499:60,1518:5: () => void
+CanvasExtract-flow.js:1501:13-18: 
+CanvasExtract-flow.js:1501:22-36: 
+CanvasExtract-flow.js:1501:26-34: 
+CanvasExtract-flow.js:1503:13-19: RenderTexture
+CanvasExtract-flow.js:1503:23-35: [class: RenderTexture]
+CanvasExtract-flow.js:1503:23-50: RenderTexture
+CanvasExtract-flow.js:1503:44-45: number
+CanvasExtract-flow.js:1503:48-49: number
+CanvasExtract-flow.js:1505:13-17: 
+CanvasExtract-flow.js:1505:21-43: 
+CanvasExtract-flow.js:1505:25-28: 
+CanvasExtract-flow.js:1505:25-34: 
+CanvasExtract-flow.js:1505:36-42: RenderTexture
+CanvasExtract-flow.js:1507:9-14: 
+CanvasExtract-flow.js:1507:9-30: 
+CanvasExtract-flow.js:1507:25-29: 
+CanvasExtract-flow.js:1509:9-13: 
+CanvasExtract-flow.js:1509:9-22: 
+CanvasExtract-flow.js:1509:9-29: number
+CanvasExtract-flow.js:1509:28-29: number
+CanvasExtract-flow.js:1510:9-13: 
+CanvasExtract-flow.js:1510:9-22: 
+CanvasExtract-flow.js:1510:9-29: number
+CanvasExtract-flow.js:1510:28-29: number
+CanvasExtract-flow.js:1512:13-18: 
+CanvasExtract-flow.js:1512:22-26: 
+CanvasExtract-flow.js:1512:22-43: 
+CanvasExtract-flow.js:1514:9-14: 
+CanvasExtract-flow.js:1514:9-24: 
+CanvasExtract-flow.js:1514:9-27: 
+CanvasExtract-flow.js:1514:9-36: 
+CanvasExtract-flow.js:1514:16-21: 
+CanvasExtract-flow.js:1514:16-23: 
+CanvasExtract-flow.js:1514:35: number
+CanvasExtract-flow.js:1515:9-14: 
+CanvasExtract-flow.js:1515:9-24: 
+CanvasExtract-flow.js:1515:9-27: 
+CanvasExtract-flow.js:1515:9-36: 
+CanvasExtract-flow.js:1515:16-21: 
+CanvasExtract-flow.js:1515:16-23: 
+CanvasExtract-flow.js:1515:35: number
+CanvasExtract-flow.js:1516:9-14: 
+CanvasExtract-flow.js:1516:9-28: 
+CanvasExtract-flow.js:1516:9-31: 
+CanvasExtract-flow.js:1516:9-41: 
+CanvasExtract-flow.js:1516:16-21: 
+CanvasExtract-flow.js:1516:16-27: 
+CanvasExtract-flow.js:1516:39-40: number
+CanvasExtract-flow.js:1517:9-14: 
+CanvasExtract-flow.js:1517:9-29: 
+CanvasExtract-flow.js:1517:9-32: 
+CanvasExtract-flow.js:1517:9-42: 
+CanvasExtract-flow.js:1517:16-21: 
+CanvasExtract-flow.js:1517:16-28: 
+CanvasExtract-flow.js:1517:40-41: number
+CanvasExtract-flow.js:1520:5-6: 
+CanvasExtract-flow.js:1520:5,1544:6: 
+CanvasExtract-flow.js:1520:8-92: string
+CanvasExtract-flow.js:1520:95,1544:5: () => void
+CanvasExtract-flow.js:1522:13-18: 
+CanvasExtract-flow.js:1522:22-36: 
+CanvasExtract-flow.js:1522:26-34: 
+CanvasExtract-flow.js:1524:13-19: 
+CanvasExtract-flow.js:1524:23-36: 
+CanvasExtract-flow.js:1524:27-34: 
+CanvasExtract-flow.js:1526:9-15: 
+CanvasExtract-flow.js:1526:9-35: 
+CanvasExtract-flow.js:1526:27-34: number
+CanvasExtract-flow.js:1527:9-15: 
+CanvasExtract-flow.js:1527:9-40: 
+CanvasExtract-flow.js:1527:26: number
+CanvasExtract-flow.js:1527:29: number
+CanvasExtract-flow.js:1527:32-34: number
+CanvasExtract-flow.js:1527:37-39: number
+CanvasExtract-flow.js:1528:9-15: 
+CanvasExtract-flow.js:1528:9-25: 
+CanvasExtract-flow.js:1529:9-15: 
+CanvasExtract-flow.js:1529:9-36: boolean
+CanvasExtract-flow.js:1529:33-36: boolean
+CanvasExtract-flow.js:1531:9-14: 
+CanvasExtract-flow.js:1531:9-32: 
+CanvasExtract-flow.js:1531:25-31: 
+CanvasExtract-flow.js:1533:13-20: CanvasRenderer
+CanvasExtract-flow.js:1533:24-51: CanvasRenderer
+CanvasExtract-flow.js:1533:28-41: [class: CanvasRenderer]
+CanvasExtract-flow.js:1533:43-45: number
+CanvasExtract-flow.js:1533:48-50: number
+CanvasExtract-flow.js:1535:9-16: CanvasRenderer
+CanvasExtract-flow.js:1535:9-55: () => void
+CanvasExtract-flow.js:1535:29-55: () => void
+CanvasExtract-flow.js:1536:9-16: CanvasRenderer
+CanvasExtract-flow.js:1536:9-31: void
+CanvasExtract-flow.js:1536:25-30: 
+CanvasExtract-flow.js:1538:13-18: 
+CanvasExtract-flow.js:1538:22-27: 
+CanvasExtract-flow.js:1538:22-44: 
+CanvasExtract-flow.js:1540:9-14: 
+CanvasExtract-flow.js:1540:9-24: 
+CanvasExtract-flow.js:1540:9-27: 
+CanvasExtract-flow.js:1540:9-36: 
+CanvasExtract-flow.js:1540:16-21: 
+CanvasExtract-flow.js:1540:16-23: 
+CanvasExtract-flow.js:1540:35: number
+CanvasExtract-flow.js:1541:9-14: 
+CanvasExtract-flow.js:1541:9-24: 
+CanvasExtract-flow.js:1541:9-27: 
+CanvasExtract-flow.js:1541:9-36: 
+CanvasExtract-flow.js:1541:16-21: 
+CanvasExtract-flow.js:1541:16-23: 
+CanvasExtract-flow.js:1541:35: number
+CanvasExtract-flow.js:1542:9-14: 
+CanvasExtract-flow.js:1542:9-28: 
+CanvasExtract-flow.js:1542:9-31: 
+CanvasExtract-flow.js:1542:9-42: 
+CanvasExtract-flow.js:1542:16-21: 
+CanvasExtract-flow.js:1542:16-27: 
+CanvasExtract-flow.js:1542:39-41: number
+CanvasExtract-flow.js:1543:9-14: 
+CanvasExtract-flow.js:1543:9-29: 
+CanvasExtract-flow.js:1543:9-32: 
+CanvasExtract-flow.js:1543:9-43: 
+CanvasExtract-flow.js:1543:16-21: 
+CanvasExtract-flow.js:1543:16-28: 
+CanvasExtract-flow.js:1543:40-42: number
+CanvasExtract-flow.js:1552:1-8: 
+CanvasExtract-flow.js:1552:1,1564:2: 
+CanvasExtract-flow.js:1552:10-24: string
+CanvasExtract-flow.js:1552:27,1564:1: () => void
+CanvasExtract-flow.js:1554:5-6: 
+CanvasExtract-flow.js:1554:5,1563:6: 
+CanvasExtract-flow.js:1554:8-52: string
+CanvasExtract-flow.js:1554:55,1563:5: () => void
+CanvasExtract-flow.js:1556:13-17: 
+CanvasExtract-flow.js:1556:21-39: 
+CanvasExtract-flow.js:1556:25-37: 
+CanvasExtract-flow.js:1557:13-21: 
+CanvasExtract-flow.js:1557:25-39: 
+CanvasExtract-flow.js:1557:29-37: 
+CanvasExtract-flow.js:1559:9-14: 
+CanvasExtract-flow.js:1559:9-41: 
+CanvasExtract-flow.js:1559:9-44: 
+CanvasExtract-flow.js:1559:9-53: 
+CanvasExtract-flow.js:1559:16-24: 
+CanvasExtract-flow.js:1559:16-33: 
+CanvasExtract-flow.js:1559:16-40: 
+CanvasExtract-flow.js:1559:52: number
+CanvasExtract-flow.js:1560:9-13: 
+CanvasExtract-flow.js:1560:9-34: 
+CanvasExtract-flow.js:1560:25-33: 
+CanvasExtract-flow.js:1561:9-14: 
+CanvasExtract-flow.js:1561:9-41: 
+CanvasExtract-flow.js:1561:9-44: 
+CanvasExtract-flow.js:1561:9-53: 
+CanvasExtract-flow.js:1561:16-24: 
+CanvasExtract-flow.js:1561:16-33: 
+CanvasExtract-flow.js:1561:16-40: 
+CanvasExtract-flow.js:1561:52: number
+CanvasExtract-flow.js:1562:9-14: 
+CanvasExtract-flow.js:1562:9-28: 
+CanvasExtract-flow.js:1562:9-31: 
+CanvasExtract-flow.js:1562:9-48: 
+CanvasExtract-flow.js:1562:16-20: 
+CanvasExtract-flow.js:1562:16-27: 
+CanvasExtract-flow.js:1562:39-47: 
+CanvasExtract-flow.js:1571:1-8: 
+CanvasExtract-flow.js:1571:1,1618:2: 
+CanvasExtract-flow.js:1571:10-20: string
+CanvasExtract-flow.js:1571:23,1618:1: () => void
+CanvasExtract-flow.js:1573:5-12: 
+CanvasExtract-flow.js:1573:5,1585:6: 
+CanvasExtract-flow.js:1573:14-21: string
+CanvasExtract-flow.js:1573:24,1585:5: () => void
+CanvasExtract-flow.js:1575:9-10: 
+CanvasExtract-flow.js:1575:9,1584:10: 
+CanvasExtract-flow.js:1575:12-64: string
+CanvasExtract-flow.js:1575:67,1584:9: () => void
+CanvasExtract-flow.js:1577:17-25: 
+CanvasExtract-flow.js:1577:29-43: 
+CanvasExtract-flow.js:1577:33-41: 
+CanvasExtract-flow.js:1578:17-21: 
+CanvasExtract-flow.js:1578:25-43: 
+CanvasExtract-flow.js:1578:29-41: 
+CanvasExtract-flow.js:1580:13-18: 
+CanvasExtract-flow.js:1580:13-45: 
+CanvasExtract-flow.js:1580:13-48: 
+CanvasExtract-flow.js:1580:13-51: 
+CanvasExtract-flow.js:1580:13-61: 
+CanvasExtract-flow.js:1580:20-28: 
+CanvasExtract-flow.js:1580:20-37: 
+CanvasExtract-flow.js:1580:20-44: 
+CanvasExtract-flow.js:1580:60: number
+CanvasExtract-flow.js:1581:13-21: 
+CanvasExtract-flow.js:1581:13-37: 
+CanvasExtract-flow.js:1581:32-36: 
+CanvasExtract-flow.js:1582:13-18: 
+CanvasExtract-flow.js:1582:13-45: 
+CanvasExtract-flow.js:1582:13-48: 
+CanvasExtract-flow.js:1582:13-51: 
+CanvasExtract-flow.js:1582:13-61: 
+CanvasExtract-flow.js:1582:20-28: 
+CanvasExtract-flow.js:1582:20-37: 
+CanvasExtract-flow.js:1582:20-44: 
+CanvasExtract-flow.js:1582:60: number
+CanvasExtract-flow.js:1583:13-18: 
+CanvasExtract-flow.js:1583:13-32: 
+CanvasExtract-flow.js:1583:13-35: 
+CanvasExtract-flow.js:1583:13-38: 
+CanvasExtract-flow.js:1583:13-56: 
+CanvasExtract-flow.js:1583:20-24: 
+CanvasExtract-flow.js:1583:20-31: 
+CanvasExtract-flow.js:1583:47-55: 
+CanvasExtract-flow.js:1587:5-12: 
+CanvasExtract-flow.js:1587:5,1617:6: 
+CanvasExtract-flow.js:1587:14-21: string
+CanvasExtract-flow.js:1587:24,1617:5: () => void
+CanvasExtract-flow.js:1589:9-10: 
+CanvasExtract-flow.js:1589:9,1616:10: 
+CanvasExtract-flow.js:1589:12-74: string
+CanvasExtract-flow.js:1589:77,1616:9: () => void
+CanvasExtract-flow.js:1591:17-25: 
+CanvasExtract-flow.js:1591:29-43: 
+CanvasExtract-flow.js:1591:33-41: 
+CanvasExtract-flow.js:1592:17-21: 
+CanvasExtract-flow.js:1592:25-43: 
+CanvasExtract-flow.js:1592:29-41: 
+CanvasExtract-flow.js:1593:17-30: boolean
+CanvasExtract-flow.js:1593:34-38: boolean
+CanvasExtract-flow.js:1594:17-32: boolean
+CanvasExtract-flow.js:1594:36-40: boolean
+CanvasExtract-flow.js:1596:13-17: 
+CanvasExtract-flow.js:1596:13,1601:14: 
+CanvasExtract-flow.js:1596:22-28: string
+CanvasExtract-flow.js:1596:31,1601:13: (to: ) => void
+CanvasExtract-flow.js:1596:41-42: 
+CanvasExtract-flow.js:1598:17-37: boolean
+CanvasExtract-flow.js:1598:34-37: boolean
+CanvasExtract-flow.js:1599:17-22: 
+CanvasExtract-flow.js:1599:17-49: 
+CanvasExtract-flow.js:1599:17-52: 
+CanvasExtract-flow.js:1599:17-55: 
+CanvasExtract-flow.js:1599:17-65: 
+CanvasExtract-flow.js:1599:24-32: 
+CanvasExtract-flow.js:1599:24-41: 
+CanvasExtract-flow.js:1599:24-48: 
+CanvasExtract-flow.js:1599:64: number
+CanvasExtract-flow.js:1600:17-22: 
+CanvasExtract-flow.js:1600:17-36: 
+CanvasExtract-flow.js:1600:17-39: 
+CanvasExtract-flow.js:1600:17-42: 
+CanvasExtract-flow.js:1600:17-53: 
+CanvasExtract-flow.js:1600:24-28: 
+CanvasExtract-flow.js:1600:24-35: 
+CanvasExtract-flow.js:1600:51-52: 
+CanvasExtract-flow.js:1602:13-17: 
+CanvasExtract-flow.js:1602:13,1608:14: 
+CanvasExtract-flow.js:1602:22-30: string
+CanvasExtract-flow.js:1602:33,1608:13: (from: ) => void
+CanvasExtract-flow.js:1602:43-46: 
+CanvasExtract-flow.js:1604:17-39: boolean
+CanvasExtract-flow.js:1604:36-39: boolean
+CanvasExtract-flow.js:1605:17-22: 
+CanvasExtract-flow.js:1605:17-49: 
+CanvasExtract-flow.js:1605:17-52: 
+CanvasExtract-flow.js:1605:17-55: 
+CanvasExtract-flow.js:1605:17-65: 
+CanvasExtract-flow.js:1605:24-32: 
+CanvasExtract-flow.js:1605:24-41: 
+CanvasExtract-flow.js:1605:24-48: 
+CanvasExtract-flow.js:1605:64: number
+CanvasExtract-flow.js:1606:17-22: 
+CanvasExtract-flow.js:1606:17-36: 
+CanvasExtract-flow.js:1606:17-39: 
+CanvasExtract-flow.js:1606:17-42: 
+CanvasExtract-flow.js:1606:17-47: 
+CanvasExtract-flow.js:1606:24-28: 
+CanvasExtract-flow.js:1606:24-35: 
+CanvasExtract-flow.js:1607:17-22: 
+CanvasExtract-flow.js:1607:17-33: 
+CanvasExtract-flow.js:1607:17-36: 
+CanvasExtract-flow.js:1607:17-39: 
+CanvasExtract-flow.js:1607:17-52: 
+CanvasExtract-flow.js:1607:24-32: 
+CanvasExtract-flow.js:1607:48-51: 
+CanvasExtract-flow.js:1610:13-21: 
+CanvasExtract-flow.js:1610:13-37: 
+CanvasExtract-flow.js:1610:32-36: 
+CanvasExtract-flow.js:1611:13-18: 
+CanvasExtract-flow.js:1611:13-34: 
+CanvasExtract-flow.js:1611:13-37: 
+CanvasExtract-flow.js:1611:13-40: 
+CanvasExtract-flow.js:1611:13-45: 
+CanvasExtract-flow.js:1611:20-33: boolean
+CanvasExtract-flow.js:1612:13-18: 
+CanvasExtract-flow.js:1612:13-36: 
+CanvasExtract-flow.js:1612:13-39: 
+CanvasExtract-flow.js:1612:13-42: 
+CanvasExtract-flow.js:1612:13-48: 
+CanvasExtract-flow.js:1612:20-35: boolean
+CanvasExtract-flow.js:1614:13-21: 
+CanvasExtract-flow.js:1614:13-40: 
+CanvasExtract-flow.js:1614:35-39: 
+CanvasExtract-flow.js:1615:13-18: 
+CanvasExtract-flow.js:1615:13-36: 
+CanvasExtract-flow.js:1615:13-39: 
+CanvasExtract-flow.js:1615:13-42: 
+CanvasExtract-flow.js:1615:13-47: 
+CanvasExtract-flow.js:1615:20-35: boolean
+CanvasExtract-flow.js:1625:1-8: 
+CanvasExtract-flow.js:1625:1,2078:2: 
+CanvasExtract-flow.js:1625:10-20: string
+CanvasExtract-flow.js:1625:23,2078:1: () => void
+CanvasExtract-flow.js:1627:5-6: 
+CanvasExtract-flow.js:1627:5,1664:6: 
+CanvasExtract-flow.js:1627:8-66: string
+CanvasExtract-flow.js:1627:69,1664:5: () => void
+CanvasExtract-flow.js:1629:13-18: 
+CanvasExtract-flow.js:1629:22-36: 
+CanvasExtract-flow.js:1629:26-34: 
+CanvasExtract-flow.js:1630:13-19: RenderTexture
+CanvasExtract-flow.js:1630:23-35: [class: RenderTexture]
+CanvasExtract-flow.js:1630:23-50: RenderTexture
+CanvasExtract-flow.js:1630:44-45: number
+CanvasExtract-flow.js:1630:48-49: number
+CanvasExtract-flow.js:1632:13-18: 
+CanvasExtract-flow.js:1632:22-40: 
+CanvasExtract-flow.js:1632:26-31: 
+CanvasExtract-flow.js:1632:33-39: RenderTexture
+CanvasExtract-flow.js:1634:9-14: 
+CanvasExtract-flow.js:1634:9-31: 
+CanvasExtract-flow.js:1634:25-30: 
+CanvasExtract-flow.js:1636:13-18: 
+CanvasExtract-flow.js:1638:9-35: 
+CanvasExtract-flow.js:1638:18-23: 
+CanvasExtract-flow.js:1638:18-35: 
+CanvasExtract-flow.js:1640:9-14: 
+CanvasExtract-flow.js:1640:9-24: 
+CanvasExtract-flow.js:1640:9-27: 
+CanvasExtract-flow.js:1640:9-36: 
+CanvasExtract-flow.js:1640:16-21: 
+CanvasExtract-flow.js:1640:16-23: 
+CanvasExtract-flow.js:1640:35: number
+CanvasExtract-flow.js:1641:9-14: 
+CanvasExtract-flow.js:1641:9-24: 
+CanvasExtract-flow.js:1641:9-27: 
+CanvasExtract-flow.js:1641:9-36: 
+CanvasExtract-flow.js:1641:16-21: 
+CanvasExtract-flow.js:1641:16-23: 
+CanvasExtract-flow.js:1641:35: number
+CanvasExtract-flow.js:1642:9-14: 
+CanvasExtract-flow.js:1642:9-28: 
+CanvasExtract-flow.js:1642:9-31: 
+CanvasExtract-flow.js:1642:9-41: 
+CanvasExtract-flow.js:1642:16-21: 
+CanvasExtract-flow.js:1642:16-27: 
+CanvasExtract-flow.js:1642:39-40: number
+CanvasExtract-flow.js:1643:9-14: 
+CanvasExtract-flow.js:1643:9-29: 
+CanvasExtract-flow.js:1643:9-32: 
+CanvasExtract-flow.js:1643:9-42: 
+CanvasExtract-flow.js:1643:16-21: 
+CanvasExtract-flow.js:1643:16-28: 
+CanvasExtract-flow.js:1643:40-41: number
+CanvasExtract-flow.js:1645:9-14: 
+CanvasExtract-flow.js:1645:9-23: 
+CanvasExtract-flow.js:1645:9-30: number
+CanvasExtract-flow.js:1645:29-30: number
+CanvasExtract-flow.js:1646:9-14: 
+CanvasExtract-flow.js:1646:9-23: 
+CanvasExtract-flow.js:1646:9-30: number
+CanvasExtract-flow.js:1646:29-30: number
+CanvasExtract-flow.js:1648:9-14: 
+CanvasExtract-flow.js:1648:9-20: 
+CanvasExtract-flow.js:1648:9-26: number
+CanvasExtract-flow.js:1648:26: number
+CanvasExtract-flow.js:1649:9-14: 
+CanvasExtract-flow.js:1649:9-20: 
+CanvasExtract-flow.js:1649:9-26: number
+CanvasExtract-flow.js:1649:26: number
+CanvasExtract-flow.js:1651:9-35: 
+CanvasExtract-flow.js:1651:18-23: 
+CanvasExtract-flow.js:1651:18-35: 
+CanvasExtract-flow.js:1653:9-14: 
+CanvasExtract-flow.js:1653:9-24: 
+CanvasExtract-flow.js:1653:9-27: 
+CanvasExtract-flow.js:1653:9-37: 
+CanvasExtract-flow.js:1653:16-21: 
+CanvasExtract-flow.js:1653:16-23: 
+CanvasExtract-flow.js:1653:35-36: number
+CanvasExtract-flow.js:1654:9-14: 
+CanvasExtract-flow.js:1654:9-24: 
+CanvasExtract-flow.js:1654:9-27: 
+CanvasExtract-flow.js:1654:9-37: 
+CanvasExtract-flow.js:1654:16-21: 
+CanvasExtract-flow.js:1654:16-23: 
+CanvasExtract-flow.js:1654:35-36: number
+CanvasExtract-flow.js:1655:9-14: 
+CanvasExtract-flow.js:1655:9-28: 
+CanvasExtract-flow.js:1655:9-31: 
+CanvasExtract-flow.js:1655:9-41: 
+CanvasExtract-flow.js:1655:16-21: 
+CanvasExtract-flow.js:1655:16-27: 
+CanvasExtract-flow.js:1655:39-40: number
+CanvasExtract-flow.js:1656:9-14: 
+CanvasExtract-flow.js:1656:9-29: 
+CanvasExtract-flow.js:1656:9-32: 
+CanvasExtract-flow.js:1656:9-42: 
+CanvasExtract-flow.js:1656:16-21: 
+CanvasExtract-flow.js:1656:16-28: 
+CanvasExtract-flow.js:1656:40-41: number
+CanvasExtract-flow.js:1658:9-39: 
+CanvasExtract-flow.js:1658:18-23: 
+CanvasExtract-flow.js:1658:18-39: 
+CanvasExtract-flow.js:1658:35-38: boolean
+CanvasExtract-flow.js:1660:9-14: 
+CanvasExtract-flow.js:1660:9-24: 
+CanvasExtract-flow.js:1660:9-27: 
+CanvasExtract-flow.js:1660:9-37: 
+CanvasExtract-flow.js:1660:16-21: 
+CanvasExtract-flow.js:1660:16-23: 
+CanvasExtract-flow.js:1660:35-36: number
+CanvasExtract-flow.js:1661:9-14: 
+CanvasExtract-flow.js:1661:9-24: 
+CanvasExtract-flow.js:1661:9-27: 
+CanvasExtract-flow.js:1661:9-37: 
+CanvasExtract-flow.js:1661:16-21: 
+CanvasExtract-flow.js:1661:16-23: 
+CanvasExtract-flow.js:1661:35-36: number
+CanvasExtract-flow.js:1662:9-14: 
+CanvasExtract-flow.js:1662:9-28: 
+CanvasExtract-flow.js:1662:9-31: 
+CanvasExtract-flow.js:1662:9-41: 
+CanvasExtract-flow.js:1662:16-21: 
+CanvasExtract-flow.js:1662:16-27: 
+CanvasExtract-flow.js:1662:39-40: number
+CanvasExtract-flow.js:1663:9-14: 
+CanvasExtract-flow.js:1663:9-29: 
+CanvasExtract-flow.js:1663:9-32: 
+CanvasExtract-flow.js:1663:9-42: 
+CanvasExtract-flow.js:1663:16-21: 
+CanvasExtract-flow.js:1663:16-28: 
+CanvasExtract-flow.js:1663:40-41: number
+CanvasExtract-flow.js:1666:5-6: 
+CanvasExtract-flow.js:1666:5,1711:6: 
+CanvasExtract-flow.js:1666:8-59: string
+CanvasExtract-flow.js:1666:62,1711:5: () => void
+CanvasExtract-flow.js:1668:13-18: 
+CanvasExtract-flow.js:1668:22-36: 
+CanvasExtract-flow.js:1668:26-34: 
+CanvasExtract-flow.js:1670:13-20: 
+CanvasExtract-flow.js:1670:24-37: 
+CanvasExtract-flow.js:1670:28-35: 
+CanvasExtract-flow.js:1672:13-18: 
+CanvasExtract-flow.js:1674:9-37: 
+CanvasExtract-flow.js:1674:18-25: 
+CanvasExtract-flow.js:1674:18-37: 
+CanvasExtract-flow.js:1676:9-14: 
+CanvasExtract-flow.js:1676:9-24: 
+CanvasExtract-flow.js:1676:9-27: 
+CanvasExtract-flow.js:1676:9-36: 
+CanvasExtract-flow.js:1676:16-21: 
+CanvasExtract-flow.js:1676:16-23: 
+CanvasExtract-flow.js:1676:35: number
+CanvasExtract-flow.js:1677:9-14: 
+CanvasExtract-flow.js:1677:9-24: 
+CanvasExtract-flow.js:1677:9-27: 
+CanvasExtract-flow.js:1677:9-36: 
+CanvasExtract-flow.js:1677:16-21: 
+CanvasExtract-flow.js:1677:16-23: 
+CanvasExtract-flow.js:1677:35: number
+CanvasExtract-flow.js:1678:9-14: 
+CanvasExtract-flow.js:1678:9-28: 
+CanvasExtract-flow.js:1678:9-31: 
+CanvasExtract-flow.js:1678:9-40: 
+CanvasExtract-flow.js:1678:16-21: 
+CanvasExtract-flow.js:1678:16-27: 
+CanvasExtract-flow.js:1678:39: number
+CanvasExtract-flow.js:1679:9-14: 
+CanvasExtract-flow.js:1679:9-29: 
+CanvasExtract-flow.js:1679:9-32: 
+CanvasExtract-flow.js:1679:9-41: 
+CanvasExtract-flow.js:1679:16-21: 
+CanvasExtract-flow.js:1679:16-28: 
+CanvasExtract-flow.js:1679:40: number
+CanvasExtract-flow.js:1681:9-16: 
+CanvasExtract-flow.js:1681:9-36: 
+CanvasExtract-flow.js:1681:9-61: 
+CanvasExtract-flow.js:1681:28-35: number
+CanvasExtract-flow.js:1681:49: number
+CanvasExtract-flow.js:1681:52: number
+CanvasExtract-flow.js:1681:55-56: number
+CanvasExtract-flow.js:1681:59-60: number
+CanvasExtract-flow.js:1683:9-14: 
+CanvasExtract-flow.js:1683:9-33: 
+CanvasExtract-flow.js:1683:25-32: 
+CanvasExtract-flow.js:1685:9-37: 
+CanvasExtract-flow.js:1685:18-25: 
+CanvasExtract-flow.js:1685:18-37: 
+CanvasExtract-flow.js:1687:9-14: 
+CanvasExtract-flow.js:1687:9-24: 
+CanvasExtract-flow.js:1687:9-27: 
+CanvasExtract-flow.js:1687:9-38: 
+CanvasExtract-flow.js:1687:16-21: 
+CanvasExtract-flow.js:1687:16-23: 
+CanvasExtract-flow.js:1687:35-37: number
+CanvasExtract-flow.js:1687:36-37: number
+CanvasExtract-flow.js:1688:9-14: 
+CanvasExtract-flow.js:1688:9-24: 
+CanvasExtract-flow.js:1688:9-27: 
+CanvasExtract-flow.js:1688:9-38: 
+CanvasExtract-flow.js:1688:16-21: 
+CanvasExtract-flow.js:1688:16-23: 
+CanvasExtract-flow.js:1688:35-37: number
+CanvasExtract-flow.js:1688:36-37: number
+CanvasExtract-flow.js:1689:9-14: 
+CanvasExtract-flow.js:1689:9-28: 
+CanvasExtract-flow.js:1689:9-31: 
+CanvasExtract-flow.js:1689:9-41: 
+CanvasExtract-flow.js:1689:16-21: 
+CanvasExtract-flow.js:1689:16-27: 
+CanvasExtract-flow.js:1689:39-40: number
+CanvasExtract-flow.js:1690:9-14: 
+CanvasExtract-flow.js:1690:9-29: 
+CanvasExtract-flow.js:1690:9-32: 
+CanvasExtract-flow.js:1690:9-42: 
+CanvasExtract-flow.js:1690:16-21: 
+CanvasExtract-flow.js:1690:16-28: 
+CanvasExtract-flow.js:1690:40-41: number
+CanvasExtract-flow.js:1692:9-16: 
+CanvasExtract-flow.js:1692:9-25: 
+CanvasExtract-flow.js:1692:9-32: number
+CanvasExtract-flow.js:1692:31-32: number
+CanvasExtract-flow.js:1693:9-16: 
+CanvasExtract-flow.js:1693:9-25: 
+CanvasExtract-flow.js:1693:9-32: number
+CanvasExtract-flow.js:1693:31-32: number
+CanvasExtract-flow.js:1695:9-16: 
+CanvasExtract-flow.js:1695:9-22: 
+CanvasExtract-flow.js:1695:9-28: number
+CanvasExtract-flow.js:1695:28: number
+CanvasExtract-flow.js:1696:9-16: 
+CanvasExtract-flow.js:1696:9-22: 
+CanvasExtract-flow.js:1696:9-28: number
+CanvasExtract-flow.js:1696:28: number
+CanvasExtract-flow.js:1698:9-37: 
+CanvasExtract-flow.js:1698:18-25: 
+CanvasExtract-flow.js:1698:18-37: 
+CanvasExtract-flow.js:1700:9-14: 
+CanvasExtract-flow.js:1700:9-24: 
+CanvasExtract-flow.js:1700:9-27: 
+CanvasExtract-flow.js:1700:9-36: 
+CanvasExtract-flow.js:1700:16-21: 
+CanvasExtract-flow.js:1700:16-23: 
+CanvasExtract-flow.js:1700:35: number
+CanvasExtract-flow.js:1701:9-14: 
+CanvasExtract-flow.js:1701:9-24: 
+CanvasExtract-flow.js:1701:9-27: 
+CanvasExtract-flow.js:1701:9-36: 
+CanvasExtract-flow.js:1701:16-21: 
+CanvasExtract-flow.js:1701:16-23: 
+CanvasExtract-flow.js:1701:35: number
+CanvasExtract-flow.js:1702:9-14: 
+CanvasExtract-flow.js:1702:9-28: 
+CanvasExtract-flow.js:1702:9-31: 
+CanvasExtract-flow.js:1702:9-41: 
+CanvasExtract-flow.js:1702:16-21: 
+CanvasExtract-flow.js:1702:16-27: 
+CanvasExtract-flow.js:1702:39-40: number
+CanvasExtract-flow.js:1703:9-14: 
+CanvasExtract-flow.js:1703:9-29: 
+CanvasExtract-flow.js:1703:9-32: 
+CanvasExtract-flow.js:1703:9-42: 
+CanvasExtract-flow.js:1703:16-21: 
+CanvasExtract-flow.js:1703:16-28: 
+CanvasExtract-flow.js:1703:40-41: number
+CanvasExtract-flow.js:1705:9-41: 
+CanvasExtract-flow.js:1705:18-25: 
+CanvasExtract-flow.js:1705:18-41: 
+CanvasExtract-flow.js:1705:37-40: boolean
+CanvasExtract-flow.js:1707:9-14: 
+CanvasExtract-flow.js:1707:9-24: 
+CanvasExtract-flow.js:1707:9-27: 
+CanvasExtract-flow.js:1707:9-36: 
+CanvasExtract-flow.js:1707:16-21: 
+CanvasExtract-flow.js:1707:16-23: 
+CanvasExtract-flow.js:1707:35: number
+CanvasExtract-flow.js:1708:9-14: 
+CanvasExtract-flow.js:1708:9-24: 
+CanvasExtract-flow.js:1708:9-27: 
+CanvasExtract-flow.js:1708:9-36: 
+CanvasExtract-flow.js:1708:16-21: 
+CanvasExtract-flow.js:1708:16-23: 
+CanvasExtract-flow.js:1708:35: number
+CanvasExtract-flow.js:1709:9-14: 
+CanvasExtract-flow.js:1709:9-28: 
+CanvasExtract-flow.js:1709:9-31: 
+CanvasExtract-flow.js:1709:9-41: 
+CanvasExtract-flow.js:1709:16-21: 
+CanvasExtract-flow.js:1709:16-27: 
+CanvasExtract-flow.js:1709:39-40: number
+CanvasExtract-flow.js:1710:9-14: 
+CanvasExtract-flow.js:1710:9-29: 
+CanvasExtract-flow.js:1710:9-32: 
+CanvasExtract-flow.js:1710:9-42: 
+CanvasExtract-flow.js:1710:16-21: 
+CanvasExtract-flow.js:1710:16-28: 
+CanvasExtract-flow.js:1710:40-41: number
+CanvasExtract-flow.js:1713:5-6: 
+CanvasExtract-flow.js:1713:5,1742:6: 
+CanvasExtract-flow.js:1713:8-69: string
+CanvasExtract-flow.js:1713:72,1742:5: () => void
+CanvasExtract-flow.js:1715:13-18: 
+CanvasExtract-flow.js:1715:22-36: 
+CanvasExtract-flow.js:1715:26-34: 
+CanvasExtract-flow.js:1717:13-21: 
+CanvasExtract-flow.js:1717:25-39: 
+CanvasExtract-flow.js:1717:29-37: 
+CanvasExtract-flow.js:1719:9-14: 
+CanvasExtract-flow.js:1719:9-34: 
+CanvasExtract-flow.js:1719:25-33: 
+CanvasExtract-flow.js:1721:13-18: 
+CanvasExtract-flow.js:1723:9-38: 
+CanvasExtract-flow.js:1723:18-26: 
+CanvasExtract-flow.js:1723:18-38: 
+CanvasExtract-flow.js:1725:9-14: 
+CanvasExtract-flow.js:1725:9-24: 
+CanvasExtract-flow.js:1725:9-27: 
+CanvasExtract-flow.js:1725:9-36: 
+CanvasExtract-flow.js:1725:16-21: 
+CanvasExtract-flow.js:1725:16-23: 
+CanvasExtract-flow.js:1725:35: number
+CanvasExtract-flow.js:1726:9-14: 
+CanvasExtract-flow.js:1726:9-24: 
+CanvasExtract-flow.js:1726:9-27: 
+CanvasExtract-flow.js:1726:9-36: 
+CanvasExtract-flow.js:1726:16-21: 
+CanvasExtract-flow.js:1726:16-23: 
+CanvasExtract-flow.js:1726:35: number
+CanvasExtract-flow.js:1727:9-14: 
+CanvasExtract-flow.js:1727:9-28: 
+CanvasExtract-flow.js:1727:9-31: 
+CanvasExtract-flow.js:1727:9-40: 
+CanvasExtract-flow.js:1727:16-21: 
+CanvasExtract-flow.js:1727:16-27: 
+CanvasExtract-flow.js:1727:39: number
+CanvasExtract-flow.js:1728:9-14: 
+CanvasExtract-flow.js:1728:9-29: 
+CanvasExtract-flow.js:1728:9-32: 
+CanvasExtract-flow.js:1728:9-41: 
+CanvasExtract-flow.js:1728:16-21: 
+CanvasExtract-flow.js:1728:16-28: 
+CanvasExtract-flow.js:1728:40: number
+CanvasExtract-flow.js:1730:9-17: 
+CanvasExtract-flow.js:1730:9-26: 
+CanvasExtract-flow.js:1730:9-33: number
+CanvasExtract-flow.js:1730:32-33: number
+CanvasExtract-flow.js:1731:9-17: 
+CanvasExtract-flow.js:1731:9-26: 
+CanvasExtract-flow.js:1731:9-33: number
+CanvasExtract-flow.js:1731:32-33: number
+CanvasExtract-flow.js:1733:9-17: 
+CanvasExtract-flow.js:1733:9-23: 
+CanvasExtract-flow.js:1733:9-29: number
+CanvasExtract-flow.js:1733:29: number
+CanvasExtract-flow.js:1734:9-17: 
+CanvasExtract-flow.js:1734:9-23: 
+CanvasExtract-flow.js:1734:9-29: number
+CanvasExtract-flow.js:1734:29: number
+CanvasExtract-flow.js:1736:9-38: 
+CanvasExtract-flow.js:1736:18-26: 
+CanvasExtract-flow.js:1736:18-38: 
+CanvasExtract-flow.js:1738:9-14: 
+CanvasExtract-flow.js:1738:9-24: 
+CanvasExtract-flow.js:1738:9-27: 
+CanvasExtract-flow.js:1738:9-36: 
+CanvasExtract-flow.js:1738:16-21: 
+CanvasExtract-flow.js:1738:16-23: 
+CanvasExtract-flow.js:1738:35: number
+CanvasExtract-flow.js:1739:9-14: 
+CanvasExtract-flow.js:1739:9-24: 
+CanvasExtract-flow.js:1739:9-27: 
+CanvasExtract-flow.js:1739:9-36: 
+CanvasExtract-flow.js:1739:16-21: 
+CanvasExtract-flow.js:1739:16-23: 
+CanvasExtract-flow.js:1739:35: number
+CanvasExtract-flow.js:1740:9-14: 
+CanvasExtract-flow.js:1740:9-28: 
+CanvasExtract-flow.js:1740:9-31: 
+CanvasExtract-flow.js:1740:9-40: 
+CanvasExtract-flow.js:1740:16-21: 
+CanvasExtract-flow.js:1740:16-27: 
+CanvasExtract-flow.js:1740:39: number
+CanvasExtract-flow.js:1741:9-14: 
+CanvasExtract-flow.js:1741:9-29: 
+CanvasExtract-flow.js:1741:9-32: 
+CanvasExtract-flow.js:1741:9-41: 
+CanvasExtract-flow.js:1741:16-21: 
+CanvasExtract-flow.js:1741:16-28: 
+CanvasExtract-flow.js:1741:40: number
+CanvasExtract-flow.js:1744:5-6: 
+CanvasExtract-flow.js:1744:5,1789:6: 
+CanvasExtract-flow.js:1744:8-62: string
+CanvasExtract-flow.js:1744:65,1789:5: () => void
+CanvasExtract-flow.js:1746:13-18: 
+CanvasExtract-flow.js:1746:22-36: 
+CanvasExtract-flow.js:1746:26-34: 
+CanvasExtract-flow.js:1748:13-21: 
+CanvasExtract-flow.js:1748:25-39: 
+CanvasExtract-flow.js:1748:29-37: 
+CanvasExtract-flow.js:1750:13-20: 
+CanvasExtract-flow.js:1750:24-37: 
+CanvasExtract-flow.js:1750:24-57: 
+CanvasExtract-flow.js:1750:24-82: 
+CanvasExtract-flow.js:1750:28-35: 
+CanvasExtract-flow.js:1750:49-56: number
+CanvasExtract-flow.js:1750:70: number
+CanvasExtract-flow.js:1750:73: number
+CanvasExtract-flow.js:1750:76-77: number
+CanvasExtract-flow.js:1750:80-81: number
+CanvasExtract-flow.js:1752:13-19: RenderTexture
+CanvasExtract-flow.js:1752:23-35: [class: RenderTexture]
+CanvasExtract-flow.js:1752:23-50: RenderTexture
+CanvasExtract-flow.js:1752:44-45: number
+CanvasExtract-flow.js:1752:48-49: number
+CanvasExtract-flow.js:1753:13-18: 
+CanvasExtract-flow.js:1753:22-40: 
+CanvasExtract-flow.js:1753:26-31: 
+CanvasExtract-flow.js:1753:33-39: RenderTexture
+CanvasExtract-flow.js:1755:9-17: 
+CanvasExtract-flow.js:1755:9-34: 
+CanvasExtract-flow.js:1755:28-33: 
+CanvasExtract-flow.js:1756:9-17: 
+CanvasExtract-flow.js:1756:9-36: 
+CanvasExtract-flow.js:1756:28-35: 
+CanvasExtract-flow.js:1758:9-14: 
+CanvasExtract-flow.js:1758:9-34: 
+CanvasExtract-flow.js:1758:25-33: 
+CanvasExtract-flow.js:1760:9-14: 
+CanvasExtract-flow.js:1760:9-23: 
+CanvasExtract-flow.js:1760:9-30: number
+CanvasExtract-flow.js:1760:29-30: number
+CanvasExtract-flow.js:1761:9-14: 
+CanvasExtract-flow.js:1761:9-23: 
+CanvasExtract-flow.js:1761:9-30: number
+CanvasExtract-flow.js:1761:29-30: number
+CanvasExtract-flow.js:1762:9-16: 
+CanvasExtract-flow.js:1762:9-25: 
+CanvasExtract-flow.js:1762:9-33: number
+CanvasExtract-flow.js:1762:31-33: number
+CanvasExtract-flow.js:1763:9-16: 
+CanvasExtract-flow.js:1763:9-25: 
+CanvasExtract-flow.js:1763:9-33: number
+CanvasExtract-flow.js:1763:31-33: number
+CanvasExtract-flow.js:1765:13-18: 
+CanvasExtract-flow.js:1767:9-38: 
+CanvasExtract-flow.js:1767:18-26: 
+CanvasExtract-flow.js:1767:18-38: 
+CanvasExtract-flow.js:1769:9-14: 
+CanvasExtract-flow.js:1769:9-24: 
+CanvasExtract-flow.js:1769:9-27: 
+CanvasExtract-flow.js:1769:9-37: 
+CanvasExtract-flow.js:1769:16-21: 
+CanvasExtract-flow.js:1769:16-23: 
+CanvasExtract-flow.js:1769:35-36: number
+CanvasExtract-flow.js:1770:9-14: 
+CanvasExtract-flow.js:1770:9-24: 
+CanvasExtract-flow.js:1770:9-27: 
+CanvasExtract-flow.js:1770:9-37: 
+CanvasExtract-flow.js:1770:16-21: 
+CanvasExtract-flow.js:1770:16-23: 
+CanvasExtract-flow.js:1770:35-36: number
+CanvasExtract-flow.js:1771:9-14: 
+CanvasExtract-flow.js:1771:9-28: 
+CanvasExtract-flow.js:1771:9-31: 
+CanvasExtract-flow.js:1771:9-41: 
+CanvasExtract-flow.js:1771:16-21: 
+CanvasExtract-flow.js:1771:16-27: 
+CanvasExtract-flow.js:1771:39-40: number
+CanvasExtract-flow.js:1772:9-14: 
+CanvasExtract-flow.js:1772:9-29: 
+CanvasExtract-flow.js:1772:9-32: 
+CanvasExtract-flow.js:1772:9-42: 
+CanvasExtract-flow.js:1772:16-21: 
+CanvasExtract-flow.js:1772:16-28: 
+CanvasExtract-flow.js:1772:40-41: number
+CanvasExtract-flow.js:1774:9-17: 
+CanvasExtract-flow.js:1774:9-32: number
+CanvasExtract-flow.js:1774:30-32: number
+CanvasExtract-flow.js:1776:9-38: 
+CanvasExtract-flow.js:1776:18-26: 
+CanvasExtract-flow.js:1776:18-38: 
+CanvasExtract-flow.js:1778:9-14: 
+CanvasExtract-flow.js:1778:9-28: 
+CanvasExtract-flow.js:1778:9-31: 
+CanvasExtract-flow.js:1778:9-41: 
+CanvasExtract-flow.js:1778:16-21: 
+CanvasExtract-flow.js:1778:16-23: 
+CanvasExtract-flow.js:1778:16-27: number
+CanvasExtract-flow.js:1778:27: number
+CanvasExtract-flow.js:1778:39-40: number
+CanvasExtract-flow.js:1779:9-14: 
+CanvasExtract-flow.js:1779:9-28: 
+CanvasExtract-flow.js:1779:9-31: 
+CanvasExtract-flow.js:1779:9-41: 
+CanvasExtract-flow.js:1779:16-21: 
+CanvasExtract-flow.js:1779:16-23: 
+CanvasExtract-flow.js:1779:16-27: number
+CanvasExtract-flow.js:1779:27: number
+CanvasExtract-flow.js:1779:39-40: number
+CanvasExtract-flow.js:1780:9-14: 
+CanvasExtract-flow.js:1780:9-32: 
+CanvasExtract-flow.js:1780:9-35: 
+CanvasExtract-flow.js:1780:9-45: 
+CanvasExtract-flow.js:1780:16-21: 
+CanvasExtract-flow.js:1780:16-27: 
+CanvasExtract-flow.js:1780:16-31: number
+CanvasExtract-flow.js:1780:31: number
+CanvasExtract-flow.js:1780:43-44: number
+CanvasExtract-flow.js:1781:9-14: 
+CanvasExtract-flow.js:1781:9-33: 
+CanvasExtract-flow.js:1781:9-36: 
+CanvasExtract-flow.js:1781:9-46: 
+CanvasExtract-flow.js:1781:16-21: 
+CanvasExtract-flow.js:1781:16-28: 
+CanvasExtract-flow.js:1781:16-32: number
+CanvasExtract-flow.js:1781:32: number
+CanvasExtract-flow.js:1781:44-45: number
+CanvasExtract-flow.js:1783:9-42: 
+CanvasExtract-flow.js:1783:18-26: 
+CanvasExtract-flow.js:1783:18-42: 
+CanvasExtract-flow.js:1783:38-41: boolean
+CanvasExtract-flow.js:1785:9-14: 
+CanvasExtract-flow.js:1785:9-28: 
+CanvasExtract-flow.js:1785:9-31: 
+CanvasExtract-flow.js:1785:9-41: 
+CanvasExtract-flow.js:1785:16-21: 
+CanvasExtract-flow.js:1785:16-23: 
+CanvasExtract-flow.js:1785:16-27: number
+CanvasExtract-flow.js:1785:27: number
+CanvasExtract-flow.js:1785:39-40: number
+CanvasExtract-flow.js:1786:9-14: 
+CanvasExtract-flow.js:1786:9-28: 
+CanvasExtract-flow.js:1786:9-31: 
+CanvasExtract-flow.js:1786:9-41: 
+CanvasExtract-flow.js:1786:16-21: 
+CanvasExtract-flow.js:1786:16-23: 
+CanvasExtract-flow.js:1786:16-27: number
+CanvasExtract-flow.js:1786:27: number
+CanvasExtract-flow.js:1786:39-40: number
+CanvasExtract-flow.js:1787:9-14: 
+CanvasExtract-flow.js:1787:9-32: 
+CanvasExtract-flow.js:1787:9-35: 
+CanvasExtract-flow.js:1787:9-45: 
+CanvasExtract-flow.js:1787:16-21: 
+CanvasExtract-flow.js:1787:16-27: 
+CanvasExtract-flow.js:1787:16-31: number
+CanvasExtract-flow.js:1787:31: number
+CanvasExtract-flow.js:1787:43-44: number
+CanvasExtract-flow.js:1788:9-14: 
+CanvasExtract-flow.js:1788:9-33: 
+CanvasExtract-flow.js:1788:9-36: 
+CanvasExtract-flow.js:1788:9-46: 
+CanvasExtract-flow.js:1788:16-21: 
+CanvasExtract-flow.js:1788:16-28: 
+CanvasExtract-flow.js:1788:16-32: number
+CanvasExtract-flow.js:1788:32: number
+CanvasExtract-flow.js:1788:44-45: number
+CanvasExtract-flow.js:1791:5-6: 
+CanvasExtract-flow.js:1791:5,1820:6: 
+CanvasExtract-flow.js:1791:8-112: string
+CanvasExtract-flow.js:1791:115,1820:5: () => void
+CanvasExtract-flow.js:1793:13-18: 
+CanvasExtract-flow.js:1793:22-36: 
+CanvasExtract-flow.js:1793:26-34: 
+CanvasExtract-flow.js:1795:13-21: 
+CanvasExtract-flow.js:1795:25-39: 
+CanvasExtract-flow.js:1795:29-37: 
+CanvasExtract-flow.js:1797:13-20: 
+CanvasExtract-flow.js:1797:24-37: 
+CanvasExtract-flow.js:1797:24-57: 
+CanvasExtract-flow.js:1797:24-80: 
+CanvasExtract-flow.js:1797:28-35: 
+CanvasExtract-flow.js:1797:49-56: number
+CanvasExtract-flow.js:1797:68: number
+CanvasExtract-flow.js:1797:71: number
+CanvasExtract-flow.js:1797:74-75: number
+CanvasExtract-flow.js:1797:78-79: number
+CanvasExtract-flow.js:1799:9-14: 
+CanvasExtract-flow.js:1799:9-34: 
+CanvasExtract-flow.js:1799:25-33: 
+CanvasExtract-flow.js:1800:9-17: 
+CanvasExtract-flow.js:1800:9-36: 
+CanvasExtract-flow.js:1800:28-35: 
+CanvasExtract-flow.js:1802:9-17: 
+CanvasExtract-flow.js:1802:9-26: 
+CanvasExtract-flow.js:1802:9-34: number
+CanvasExtract-flow.js:1802:32-34: number
+CanvasExtract-flow.js:1803:9-17: 
+CanvasExtract-flow.js:1803:9-26: 
+CanvasExtract-flow.js:1803:9-34: number
+CanvasExtract-flow.js:1803:32-34: number
+CanvasExtract-flow.js:1805:13-18: 
+CanvasExtract-flow.js:1807:9-38: 
+CanvasExtract-flow.js:1807:18-26: 
+CanvasExtract-flow.js:1807:18-38: 
+CanvasExtract-flow.js:1809:9-14: 
+CanvasExtract-flow.js:1809:9-24: 
+CanvasExtract-flow.js:1809:9-27: 
+CanvasExtract-flow.js:1809:9-38: 
+CanvasExtract-flow.js:1809:16-21: 
+CanvasExtract-flow.js:1809:16-23: 
+CanvasExtract-flow.js:1809:35-37: number
+CanvasExtract-flow.js:1810:9-14: 
+CanvasExtract-flow.js:1810:9-24: 
+CanvasExtract-flow.js:1810:9-27: 
+CanvasExtract-flow.js:1810:9-38: 
+CanvasExtract-flow.js:1810:16-21: 
+CanvasExtract-flow.js:1810:16-23: 
+CanvasExtract-flow.js:1810:35-37: number
+CanvasExtract-flow.js:1811:9-14: 
+CanvasExtract-flow.js:1811:9-28: 
+CanvasExtract-flow.js:1811:9-31: 
+CanvasExtract-flow.js:1811:9-41: 
+CanvasExtract-flow.js:1811:16-21: 
+CanvasExtract-flow.js:1811:16-27: 
+CanvasExtract-flow.js:1811:39-40: number
+CanvasExtract-flow.js:1812:9-14: 
+CanvasExtract-flow.js:1812:9-29: 
+CanvasExtract-flow.js:1812:9-32: 
+CanvasExtract-flow.js:1812:9-42: 
+CanvasExtract-flow.js:1812:16-21: 
+CanvasExtract-flow.js:1812:16-28: 
+CanvasExtract-flow.js:1812:40-41: number
+CanvasExtract-flow.js:1814:9-41: 
+CanvasExtract-flow.js:1814:18-25: 
+CanvasExtract-flow.js:1814:18-41: 
+CanvasExtract-flow.js:1814:37-40: boolean
+CanvasExtract-flow.js:1816:9-14: 
+CanvasExtract-flow.js:1816:9-24: 
+CanvasExtract-flow.js:1816:9-27: 
+CanvasExtract-flow.js:1816:9-38: 
+CanvasExtract-flow.js:1816:16-21: 
+CanvasExtract-flow.js:1816:16-23: 
+CanvasExtract-flow.js:1816:35-37: number
+CanvasExtract-flow.js:1817:9-14: 
+CanvasExtract-flow.js:1817:9-24: 
+CanvasExtract-flow.js:1817:9-27: 
+CanvasExtract-flow.js:1817:9-38: 
+CanvasExtract-flow.js:1817:16-21: 
+CanvasExtract-flow.js:1817:16-23: 
+CanvasExtract-flow.js:1817:35-37: number
+CanvasExtract-flow.js:1818:9-14: 
+CanvasExtract-flow.js:1818:9-28: 
+CanvasExtract-flow.js:1818:9-31: 
+CanvasExtract-flow.js:1818:9-41: 
+CanvasExtract-flow.js:1818:16-21: 
+CanvasExtract-flow.js:1818:16-27: 
+CanvasExtract-flow.js:1818:39-40: number
+CanvasExtract-flow.js:1819:9-14: 
+CanvasExtract-flow.js:1819:9-29: 
+CanvasExtract-flow.js:1819:9-32: 
+CanvasExtract-flow.js:1819:9-42: 
+CanvasExtract-flow.js:1819:16-21: 
+CanvasExtract-flow.js:1819:16-28: 
+CanvasExtract-flow.js:1819:40-41: number
+CanvasExtract-flow.js:1822:5-6: 
+CanvasExtract-flow.js:1822:5,1853:6: 
+CanvasExtract-flow.js:1822:8-57: string
+CanvasExtract-flow.js:1822:60,1853:5: () => void
+CanvasExtract-flow.js:1824:13-18: 
+CanvasExtract-flow.js:1824:22-36: 
+CanvasExtract-flow.js:1824:26-34: 
+CanvasExtract-flow.js:1826:13-19: RenderTexture
+CanvasExtract-flow.js:1826:23-35: [class: RenderTexture]
+CanvasExtract-flow.js:1826:23-50: RenderTexture
+CanvasExtract-flow.js:1826:44-45: number
+CanvasExtract-flow.js:1826:48-49: number
+CanvasExtract-flow.js:1828:13-17: 
+CanvasExtract-flow.js:1828:21-43: 
+CanvasExtract-flow.js:1828:25-28: 
+CanvasExtract-flow.js:1828:25-34: 
+CanvasExtract-flow.js:1828:36-42: RenderTexture
+CanvasExtract-flow.js:1830:9-14: 
+CanvasExtract-flow.js:1830:9-30: 
+CanvasExtract-flow.js:1830:25-29: 
+CanvasExtract-flow.js:1832:9-13: 
+CanvasExtract-flow.js:1832:9-22: 
+CanvasExtract-flow.js:1832:9-29: number
+CanvasExtract-flow.js:1832:28-29: number
+CanvasExtract-flow.js:1833:9-13: 
+CanvasExtract-flow.js:1833:9-22: 
+CanvasExtract-flow.js:1833:9-29: number
+CanvasExtract-flow.js:1833:28-29: number
+CanvasExtract-flow.js:1835:13-18: 
+CanvasExtract-flow.js:1837:9-34: 
+CanvasExtract-flow.js:1837:18-22: 
+CanvasExtract-flow.js:1837:18-34: 
+CanvasExtract-flow.js:1839:9-14: 
+CanvasExtract-flow.js:1839:9-24: 
+CanvasExtract-flow.js:1839:9-27: 
+CanvasExtract-flow.js:1839:9-37: 
+CanvasExtract-flow.js:1839:16-21: 
+CanvasExtract-flow.js:1839:16-23: 
+CanvasExtract-flow.js:1839:35-36: number
+CanvasExtract-flow.js:1840:9-14: 
+CanvasExtract-flow.js:1840:9-24: 
+CanvasExtract-flow.js:1840:9-27: 
+CanvasExtract-flow.js:1840:9-37: 
+CanvasExtract-flow.js:1840:16-21: 
+CanvasExtract-flow.js:1840:16-23: 
+CanvasExtract-flow.js:1840:35-36: number
+CanvasExtract-flow.js:1841:9-14: 
+CanvasExtract-flow.js:1841:9-28: 
+CanvasExtract-flow.js:1841:9-31: 
+CanvasExtract-flow.js:1841:9-41: 
+CanvasExtract-flow.js:1841:16-21: 
+CanvasExtract-flow.js:1841:16-27: 
+CanvasExtract-flow.js:1841:39-40: number
+CanvasExtract-flow.js:1842:9-14: 
+CanvasExtract-flow.js:1842:9-29: 
+CanvasExtract-flow.js:1842:9-32: 
+CanvasExtract-flow.js:1842:9-42: 
+CanvasExtract-flow.js:1842:16-21: 
+CanvasExtract-flow.js:1842:16-28: 
+CanvasExtract-flow.js:1842:40-41: number
+CanvasExtract-flow.js:1844:9-13: 
+CanvasExtract-flow.js:1844:9-19: 
+CanvasExtract-flow.js:1844:9-25: number
+CanvasExtract-flow.js:1844:25: number
+CanvasExtract-flow.js:1845:9-13: 
+CanvasExtract-flow.js:1845:9-19: 
+CanvasExtract-flow.js:1845:9-25: number
+CanvasExtract-flow.js:1845:25: number
+CanvasExtract-flow.js:1847:9-34: 
+CanvasExtract-flow.js:1847:18-22: 
+CanvasExtract-flow.js:1847:18-34: 
+CanvasExtract-flow.js:1849:9-14: 
+CanvasExtract-flow.js:1849:9-24: 
+CanvasExtract-flow.js:1849:9-27: 
+CanvasExtract-flow.js:1849:9-37: 
+CanvasExtract-flow.js:1849:16-21: 
+CanvasExtract-flow.js:1849:16-23: 
+CanvasExtract-flow.js:1849:35-36: number
+CanvasExtract-flow.js:1850:9-14: 
+CanvasExtract-flow.js:1850:9-24: 
+CanvasExtract-flow.js:1850:9-27: 
+CanvasExtract-flow.js:1850:9-37: 
+CanvasExtract-flow.js:1850:16-21: 
+CanvasExtract-flow.js:1850:16-23: 
+CanvasExtract-flow.js:1850:35-36: number
+CanvasExtract-flow.js:1851:9-14: 
+CanvasExtract-flow.js:1851:9-28: 
+CanvasExtract-flow.js:1851:9-31: 
+CanvasExtract-flow.js:1851:9-41: 
+CanvasExtract-flow.js:1851:16-21: 
+CanvasExtract-flow.js:1851:16-27: 
+CanvasExtract-flow.js:1851:39-40: number
+CanvasExtract-flow.js:1852:9-14: 
+CanvasExtract-flow.js:1852:9-29: 
+CanvasExtract-flow.js:1852:9-32: 
+CanvasExtract-flow.js:1852:9-42: 
+CanvasExtract-flow.js:1852:16-21: 
+CanvasExtract-flow.js:1852:16-28: 
+CanvasExtract-flow.js:1852:40-41: number
+CanvasExtract-flow.js:1855:5-6: 
+CanvasExtract-flow.js:1855:5,1902:6: 
+CanvasExtract-flow.js:1855:8-86: string
+CanvasExtract-flow.js:1855:89,1902:5: () => void
+CanvasExtract-flow.js:1857:13-18: 
+CanvasExtract-flow.js:1857:22-36: 
+CanvasExtract-flow.js:1857:26-34: 
+CanvasExtract-flow.js:1859:13-21: 
+CanvasExtract-flow.js:1859:25-39: 
+CanvasExtract-flow.js:1859:29-37: 
+CanvasExtract-flow.js:1861:13-20: 
+CanvasExtract-flow.js:1861:24-37: 
+CanvasExtract-flow.js:1861:24-57: 
+CanvasExtract-flow.js:1861:24-82: 
+CanvasExtract-flow.js:1861:28-35: 
+CanvasExtract-flow.js:1861:49-56: number
+CanvasExtract-flow.js:1861:70: number
+CanvasExtract-flow.js:1861:73: number
+CanvasExtract-flow.js:1861:76-77: number
+CanvasExtract-flow.js:1861:80-81: number
+CanvasExtract-flow.js:1863:13-19: RenderTexture
+CanvasExtract-flow.js:1863:23-35: [class: RenderTexture]
+CanvasExtract-flow.js:1863:23-50: RenderTexture
+CanvasExtract-flow.js:1863:44-45: number
+CanvasExtract-flow.js:1863:48-49: number
+CanvasExtract-flow.js:1864:13-18: 
+CanvasExtract-flow.js:1864:22-40: 
+CanvasExtract-flow.js:1864:26-31: 
+CanvasExtract-flow.js:1864:33-39: RenderTexture
+CanvasExtract-flow.js:1866:9-17: 
+CanvasExtract-flow.js:1866:9-34: 
+CanvasExtract-flow.js:1866:28-33: 
+CanvasExtract-flow.js:1867:9-17: 
+CanvasExtract-flow.js:1867:9-36: 
+CanvasExtract-flow.js:1867:28-35: 
+CanvasExtract-flow.js:1869:9-14: 
+CanvasExtract-flow.js:1869:9-34: 
+CanvasExtract-flow.js:1869:25-33: 
+CanvasExtract-flow.js:1871:9-14: 
+CanvasExtract-flow.js:1871:9-23: 
+CanvasExtract-flow.js:1871:9-30: number
+CanvasExtract-flow.js:1871:29-30: number
+CanvasExtract-flow.js:1872:9-14: 
+CanvasExtract-flow.js:1872:9-23: 
+CanvasExtract-flow.js:1872:9-30: number
+CanvasExtract-flow.js:1872:29-30: number
+CanvasExtract-flow.js:1873:9-16: 
+CanvasExtract-flow.js:1873:9-25: 
+CanvasExtract-flow.js:1873:9-33: number
+CanvasExtract-flow.js:1873:31-33: number
+CanvasExtract-flow.js:1874:9-16: 
+CanvasExtract-flow.js:1874:9-25: 
+CanvasExtract-flow.js:1874:9-33: number
+CanvasExtract-flow.js:1874:31-33: number
+CanvasExtract-flow.js:1876:9-16: 
+CanvasExtract-flow.js:1876:9-32: boolean
+CanvasExtract-flow.js:1876:28-32: boolean
+CanvasExtract-flow.js:1878:13-18: 
+CanvasExtract-flow.js:1880:9-38: 
+CanvasExtract-flow.js:1880:18-26: 
+CanvasExtract-flow.js:1880:18-38: 
+CanvasExtract-flow.js:1882:9-14: 
+CanvasExtract-flow.js:1882:9-24: 
+CanvasExtract-flow.js:1882:9-27: 
+CanvasExtract-flow.js:1882:9-37: 
+CanvasExtract-flow.js:1882:16-21: 
+CanvasExtract-flow.js:1882:16-23: 
+CanvasExtract-flow.js:1882:35-36: number
+CanvasExtract-flow.js:1883:9-14: 
+CanvasExtract-flow.js:1883:9-24: 
+CanvasExtract-flow.js:1883:9-27: 
+CanvasExtract-flow.js:1883:9-37: 
+CanvasExtract-flow.js:1883:16-21: 
+CanvasExtract-flow.js:1883:16-23: 
+CanvasExtract-flow.js:1883:35-36: number
+CanvasExtract-flow.js:1884:9-14: 
+CanvasExtract-flow.js:1884:9-28: 
+CanvasExtract-flow.js:1884:9-31: 
+CanvasExtract-flow.js:1884:9-41: 
+CanvasExtract-flow.js:1884:16-21: 
+CanvasExtract-flow.js:1884:16-27: 
+CanvasExtract-flow.js:1884:39-40: number
+CanvasExtract-flow.js:1885:9-14: 
+CanvasExtract-flow.js:1885:9-29: 
+CanvasExtract-flow.js:1885:9-32: 
+CanvasExtract-flow.js:1885:9-42: 
+CanvasExtract-flow.js:1885:16-21: 
+CanvasExtract-flow.js:1885:16-28: 
+CanvasExtract-flow.js:1885:40-41: number
+CanvasExtract-flow.js:1887:9-14: 
+CanvasExtract-flow.js:1887:9-33: boolean
+CanvasExtract-flow.js:1887:29-33: boolean
+CanvasExtract-flow.js:1889:9-38: 
+CanvasExtract-flow.js:1889:18-26: 
+CanvasExtract-flow.js:1889:18-38: 
+CanvasExtract-flow.js:1891:9-14: 
+CanvasExtract-flow.js:1891:9-24: 
+CanvasExtract-flow.js:1891:9-27: 
+CanvasExtract-flow.js:1891:9-36: 
+CanvasExtract-flow.js:1891:16-21: 
+CanvasExtract-flow.js:1891:16-23: 
+CanvasExtract-flow.js:1891:35: number
+CanvasExtract-flow.js:1892:9-14: 
+CanvasExtract-flow.js:1892:9-24: 
+CanvasExtract-flow.js:1892:9-27: 
+CanvasExtract-flow.js:1892:9-36: 
+CanvasExtract-flow.js:1892:16-21: 
+CanvasExtract-flow.js:1892:16-23: 
+CanvasExtract-flow.js:1892:35: number
+CanvasExtract-flow.js:1893:9-14: 
+CanvasExtract-flow.js:1893:9-28: 
+CanvasExtract-flow.js:1893:9-31: 
+CanvasExtract-flow.js:1893:9-40: 
+CanvasExtract-flow.js:1893:16-21: 
+CanvasExtract-flow.js:1893:16-27: 
+CanvasExtract-flow.js:1893:39: number
+CanvasExtract-flow.js:1894:9-14: 
+CanvasExtract-flow.js:1894:9-29: 
+CanvasExtract-flow.js:1894:9-32: 
+CanvasExtract-flow.js:1894:9-41: 
+CanvasExtract-flow.js:1894:16-21: 
+CanvasExtract-flow.js:1894:16-28: 
+CanvasExtract-flow.js:1894:40: number
+CanvasExtract-flow.js:1896:9-35: 
+CanvasExtract-flow.js:1896:18-23: 
+CanvasExtract-flow.js:1896:18-35: 
+CanvasExtract-flow.js:1898:9-14: 
+CanvasExtract-flow.js:1898:9-24: 
+CanvasExtract-flow.js:1898:9-27: 
+CanvasExtract-flow.js:1898:9-37: 
+CanvasExtract-flow.js:1898:16-21: 
+CanvasExtract-flow.js:1898:16-23: 
+CanvasExtract-flow.js:1898:35-36: number
+CanvasExtract-flow.js:1899:9-14: 
+CanvasExtract-flow.js:1899:9-24: 
+CanvasExtract-flow.js:1899:9-27: 
+CanvasExtract-flow.js:1899:9-37: 
+CanvasExtract-flow.js:1899:16-21: 
+CanvasExtract-flow.js:1899:16-23: 
+CanvasExtract-flow.js:1899:35-36: number
+CanvasExtract-flow.js:1900:9-14: 
+CanvasExtract-flow.js:1900:9-28: 
+CanvasExtract-flow.js:1900:9-31: 
+CanvasExtract-flow.js:1900:9-41: 
+CanvasExtract-flow.js:1900:16-21: 
+CanvasExtract-flow.js:1900:16-27: 
+CanvasExtract-flow.js:1900:39-40: number
+CanvasExtract-flow.js:1901:9-14: 
+CanvasExtract-flow.js:1901:9-29: 
+CanvasExtract-flow.js:1901:9-32: 
+CanvasExtract-flow.js:1901:9-42: 
+CanvasExtract-flow.js:1901:16-21: 
+CanvasExtract-flow.js:1901:16-28: 
+CanvasExtract-flow.js:1901:40-41: number
+CanvasExtract-flow.js:1904:5-6: 
+CanvasExtract-flow.js:1904:5,1928:6: 
+CanvasExtract-flow.js:1904:8-62: string
+CanvasExtract-flow.js:1904:65,1928:5: () => void
+CanvasExtract-flow.js:1906:13-18: 
+CanvasExtract-flow.js:1906:22-36: 
+CanvasExtract-flow.js:1906:26-34: 
+CanvasExtract-flow.js:1908:13-21: 
+CanvasExtract-flow.js:1908:25-39: 
+CanvasExtract-flow.js:1908:29-37: 
+CanvasExtract-flow.js:1910:13-19: RenderTexture
+CanvasExtract-flow.js:1910:23-35: [class: RenderTexture]
+CanvasExtract-flow.js:1910:23-50: RenderTexture
+CanvasExtract-flow.js:1910:44-45: number
+CanvasExtract-flow.js:1910:48-49: number
+CanvasExtract-flow.js:1911:13-18: 
+CanvasExtract-flow.js:1911:22-40: 
+CanvasExtract-flow.js:1911:26-31: 
+CanvasExtract-flow.js:1911:33-39: RenderTexture
+CanvasExtract-flow.js:1913:9-17: 
+CanvasExtract-flow.js:1913:9-34: 
+CanvasExtract-flow.js:1913:28-33: 
+CanvasExtract-flow.js:1914:9-14: 
+CanvasExtract-flow.js:1914:9-34: 
+CanvasExtract-flow.js:1914:25-33: 
+CanvasExtract-flow.js:1916:9-14: 
+CanvasExtract-flow.js:1916:9-23: 
+CanvasExtract-flow.js:1916:9-35: 
+CanvasExtract-flow.js:1916:29-30: number
+CanvasExtract-flow.js:1916:33-34: number
+CanvasExtract-flow.js:1917:9-17: 
+CanvasExtract-flow.js:1917:9-33: boolean
+CanvasExtract-flow.js:1917:29-33: boolean
+CanvasExtract-flow.js:1918:9-17: 
+CanvasExtract-flow.js:1918:9-26: 
+CanvasExtract-flow.js:1918:9-40: 
+CanvasExtract-flow.js:1918:32-34: number
+CanvasExtract-flow.js:1918:37-39: number
+CanvasExtract-flow.js:1920:13-18: 
+CanvasExtract-flow.js:1922:9-38: 
+CanvasExtract-flow.js:1922:18-26: 
+CanvasExtract-flow.js:1922:18-38: 
+CanvasExtract-flow.js:1924:9-14: 
+CanvasExtract-flow.js:1924:9-24: 
+CanvasExtract-flow.js:1924:9-27: 
+CanvasExtract-flow.js:1924:9-38: 
+CanvasExtract-flow.js:1924:16-21: 
+CanvasExtract-flow.js:1924:16-23: 
+CanvasExtract-flow.js:1924:35-37: number
+CanvasExtract-flow.js:1925:9-14: 
+CanvasExtract-flow.js:1925:9-24: 
+CanvasExtract-flow.js:1925:9-27: 
+CanvasExtract-flow.js:1925:9-38: 
+CanvasExtract-flow.js:1925:16-21: 
+CanvasExtract-flow.js:1925:16-23: 
+CanvasExtract-flow.js:1925:35-37: number
+CanvasExtract-flow.js:1926:9-14: 
+CanvasExtract-flow.js:1926:9-28: 
+CanvasExtract-flow.js:1926:9-31: 
+CanvasExtract-flow.js:1926:9-41: 
+CanvasExtract-flow.js:1926:16-21: 
+CanvasExtract-flow.js:1926:16-27: 
+CanvasExtract-flow.js:1926:39-40: number
+CanvasExtract-flow.js:1927:9-14: 
+CanvasExtract-flow.js:1927:9-29: 
+CanvasExtract-flow.js:1927:9-32: 
+CanvasExtract-flow.js:1927:9-42: 
+CanvasExtract-flow.js:1927:16-21: 
+CanvasExtract-flow.js:1927:16-28: 
+CanvasExtract-flow.js:1927:40-41: number
+CanvasExtract-flow.js:1930:5-6: 
+CanvasExtract-flow.js:1930:5,1967:6: 
+CanvasExtract-flow.js:1930:8-73: string
+CanvasExtract-flow.js:1930:76,1967:5: () => void
+CanvasExtract-flow.js:1932:13-18: 
+CanvasExtract-flow.js:1932:22-36: 
+CanvasExtract-flow.js:1932:26-34: 
+CanvasExtract-flow.js:1934:13-21: 
+CanvasExtract-flow.js:1934:25-39: 
+CanvasExtract-flow.js:1934:29-37: 
+CanvasExtract-flow.js:1936:13-20: 
+CanvasExtract-flow.js:1936:24-37: 
+CanvasExtract-flow.js:1936:24-57: 
+CanvasExtract-flow.js:1936:24-80: 
+CanvasExtract-flow.js:1936:28-35: 
+CanvasExtract-flow.js:1936:49-56: number
+CanvasExtract-flow.js:1936:68: number
+CanvasExtract-flow.js:1936:71: number
+CanvasExtract-flow.js:1936:74-75: number
+CanvasExtract-flow.js:1936:78-79: number
+CanvasExtract-flow.js:1938:13-19: RenderTexture
+CanvasExtract-flow.js:1938:23-35: [class: RenderTexture]
+CanvasExtract-flow.js:1938:23-50: RenderTexture
+CanvasExtract-flow.js:1938:44-45: number
+CanvasExtract-flow.js:1938:48-49: number
+CanvasExtract-flow.js:1939:13-18: 
+CanvasExtract-flow.js:1939:22-40: 
+CanvasExtract-flow.js:1939:26-31: 
+CanvasExtract-flow.js:1939:33-39: RenderTexture
+CanvasExtract-flow.js:1941:9-17: 
+CanvasExtract-flow.js:1941:9-34: 
+CanvasExtract-flow.js:1941:28-33: 
+CanvasExtract-flow.js:1942:9-17: 
+CanvasExtract-flow.js:1942:9-36: 
+CanvasExtract-flow.js:1942:28-35: 
+CanvasExtract-flow.js:1943:9-14: 
+CanvasExtract-flow.js:1943:9-30: 
+CanvasExtract-flow.js:1943:23-30: 
+CanvasExtract-flow.js:1945:9-14: 
+CanvasExtract-flow.js:1945:9-34: 
+CanvasExtract-flow.js:1945:25-33: 
+CanvasExtract-flow.js:1947:9-14: 
+CanvasExtract-flow.js:1947:9-23: 
+CanvasExtract-flow.js:1947:9-30: number
+CanvasExtract-flow.js:1947:29-30: number
+CanvasExtract-flow.js:1948:9-14: 
+CanvasExtract-flow.js:1948:9-23: 
+CanvasExtract-flow.js:1948:9-30: number
+CanvasExtract-flow.js:1948:29-30: number
+CanvasExtract-flow.js:1949:9-16: 
+CanvasExtract-flow.js:1949:9-25: 
+CanvasExtract-flow.js:1949:9-32: number
+CanvasExtract-flow.js:1949:31-32: number
+CanvasExtract-flow.js:1950:9-16: 
+CanvasExtract-flow.js:1950:9-25: 
+CanvasExtract-flow.js:1950:9-32: number
+CanvasExtract-flow.js:1950:31-32: number
+CanvasExtract-flow.js:1952:13-18: 
+CanvasExtract-flow.js:1954:9-37: 
+CanvasExtract-flow.js:1954:18-25: 
+CanvasExtract-flow.js:1954:18-37: 
+CanvasExtract-flow.js:1956:9-14: 
+CanvasExtract-flow.js:1956:9-24: 
+CanvasExtract-flow.js:1956:9-27: 
+CanvasExtract-flow.js:1956:9-37: 
+CanvasExtract-flow.js:1956:16-21: 
+CanvasExtract-flow.js:1956:16-23: 
+CanvasExtract-flow.js:1956:35-36: number
+CanvasExtract-flow.js:1957:9-14: 
+CanvasExtract-flow.js:1957:9-24: 
+CanvasExtract-flow.js:1957:9-27: 
+CanvasExtract-flow.js:1957:9-37: 
+CanvasExtract-flow.js:1957:16-21: 
+CanvasExtract-flow.js:1957:16-23: 
+CanvasExtract-flow.js:1957:35-36: number
+CanvasExtract-flow.js:1958:9-14: 
+CanvasExtract-flow.js:1958:9-28: 
+CanvasExtract-flow.js:1958:9-31: 
+CanvasExtract-flow.js:1958:9-41: 
+CanvasExtract-flow.js:1958:16-21: 
+CanvasExtract-flow.js:1958:16-27: 
+CanvasExtract-flow.js:1958:39-40: number
+CanvasExtract-flow.js:1959:9-14: 
+CanvasExtract-flow.js:1959:9-29: 
+CanvasExtract-flow.js:1959:9-32: 
+CanvasExtract-flow.js:1959:9-42: 
+CanvasExtract-flow.js:1959:16-21: 
+CanvasExtract-flow.js:1959:16-28: 
+CanvasExtract-flow.js:1959:40-41: number
+CanvasExtract-flow.js:1961:9-38: 
+CanvasExtract-flow.js:1961:18-26: 
+CanvasExtract-flow.js:1961:18-38: 
+CanvasExtract-flow.js:1963:9-14: 
+CanvasExtract-flow.js:1963:9-24: 
+CanvasExtract-flow.js:1963:9-27: 
+CanvasExtract-flow.js:1963:9-37: 
+CanvasExtract-flow.js:1963:16-21: 
+CanvasExtract-flow.js:1963:16-23: 
+CanvasExtract-flow.js:1963:35-36: number
+CanvasExtract-flow.js:1964:9-14: 
+CanvasExtract-flow.js:1964:9-24: 
+CanvasExtract-flow.js:1964:9-27: 
+CanvasExtract-flow.js:1964:9-37: 
+CanvasExtract-flow.js:1964:16-21: 
+CanvasExtract-flow.js:1964:16-23: 
+CanvasExtract-flow.js:1964:35-36: number
+CanvasExtract-flow.js:1965:9-14: 
+CanvasExtract-flow.js:1965:9-28: 
+CanvasExtract-flow.js:1965:9-31: 
+CanvasExtract-flow.js:1965:9-40: 
+CanvasExtract-flow.js:1965:16-21: 
+CanvasExtract-flow.js:1965:16-27: 
+CanvasExtract-flow.js:1965:39: number
+CanvasExtract-flow.js:1966:9-14: 
+CanvasExtract-flow.js:1966:9-29: 
+CanvasExtract-flow.js:1966:9-32: 
+CanvasExtract-flow.js:1966:9-41: 
+CanvasExtract-flow.js:1966:16-21: 
+CanvasExtract-flow.js:1966:16-28: 
+CanvasExtract-flow.js:1966:40: number
+CanvasExtract-flow.js:1969:5-6: 
+CanvasExtract-flow.js:1969:5,1992:6: 
+CanvasExtract-flow.js:1969:8-86: string
+CanvasExtract-flow.js:1969:89,1992:5: () => void
+CanvasExtract-flow.js:1971:13-18: 
+CanvasExtract-flow.js:1971:22-36: 
+CanvasExtract-flow.js:1971:26-34: 
+CanvasExtract-flow.js:1973:13-21: 
+CanvasExtract-flow.js:1973:25-39: 
+CanvasExtract-flow.js:1973:29-37: 
+CanvasExtract-flow.js:1975:13-20: 
+CanvasExtract-flow.js:1975:24-37: 
+CanvasExtract-flow.js:1975:24-57: 
+CanvasExtract-flow.js:1975:24-78: 
+CanvasExtract-flow.js:1975:28-35: 
+CanvasExtract-flow.js:1975:49-56: number
+CanvasExtract-flow.js:1975:70: number
+CanvasExtract-flow.js:1975:73: number
+CanvasExtract-flow.js:1975:76-77: number
+CanvasExtract-flow.js:1977:9-17: 
+CanvasExtract-flow.js:1977:9-36: 
+CanvasExtract-flow.js:1977:28-35: 
+CanvasExtract-flow.js:1979:9-14: 
+CanvasExtract-flow.js:1979:9-34: 
+CanvasExtract-flow.js:1979:25-33: 
+CanvasExtract-flow.js:1983:9-17: 
+CanvasExtract-flow.js:1983:9-26: 
+CanvasExtract-flow.js:1983:9-28: 
+CanvasExtract-flow.js:1983:9-35: 
+CanvasExtract-flow.js:1983:33-35: number
+CanvasExtract-flow.js:1984:9-17: 
+CanvasExtract-flow.js:1984:9-26: 
+CanvasExtract-flow.js:1984:9-28: 
+CanvasExtract-flow.js:1984:9-35: 
+CanvasExtract-flow.js:1984:33-35: number
+CanvasExtract-flow.js:1986:13-18: 
+CanvasExtract-flow.js:1986:22-29: 
+CanvasExtract-flow.js:1986:22-41: 
+CanvasExtract-flow.js:1988:9-14: 
+CanvasExtract-flow.js:1988:9-24: 
+CanvasExtract-flow.js:1988:9-27: 
+CanvasExtract-flow.js:1988:9-39: 
+CanvasExtract-flow.js:1988:16-21: 
+CanvasExtract-flow.js:1988:16-23: 
+CanvasExtract-flow.js:1988:35-38: number
+CanvasExtract-flow.js:1988:36-38: number
+CanvasExtract-flow.js:1989:9-14: 
+CanvasExtract-flow.js:1989:9-24: 
+CanvasExtract-flow.js:1989:9-27: 
+CanvasExtract-flow.js:1989:9-39: 
+CanvasExtract-flow.js:1989:16-21: 
+CanvasExtract-flow.js:1989:16-23: 
+CanvasExtract-flow.js:1989:35-38: number
+CanvasExtract-flow.js:1989:36-38: number
+CanvasExtract-flow.js:1990:9-14: 
+CanvasExtract-flow.js:1990:9-28: 
+CanvasExtract-flow.js:1990:9-31: 
+CanvasExtract-flow.js:1990:9-41: 
+CanvasExtract-flow.js:1990:16-21: 
+CanvasExtract-flow.js:1990:16-27: 
+CanvasExtract-flow.js:1990:39-40: number
+CanvasExtract-flow.js:1991:9-14: 
+CanvasExtract-flow.js:1991:9-29: 
+CanvasExtract-flow.js:1991:9-32: 
+CanvasExtract-flow.js:1991:9-42: 
+CanvasExtract-flow.js:1991:16-21: 
+CanvasExtract-flow.js:1991:16-28: 
+CanvasExtract-flow.js:1991:40-41: number
+CanvasExtract-flow.js:1994:5-6: 
+CanvasExtract-flow.js:1994:5,2022:6: 
+CanvasExtract-flow.js:1994:8-67: string
+CanvasExtract-flow.js:1994:70,2022:5: () => void
+CanvasExtract-flow.js:1996:13-18: 
+CanvasExtract-flow.js:1996:22-36: 
+CanvasExtract-flow.js:1996:26-34: 
+CanvasExtract-flow.js:1998:13-21: 
+CanvasExtract-flow.js:1998:25-39: 
+CanvasExtract-flow.js:1998:29-37: 
+CanvasExtract-flow.js:2000:13-16: Text
+CanvasExtract-flow.js:2000:20-45: Text
+CanvasExtract-flow.js:2000:24-27: [class: Text]
+CanvasExtract-flow.js:2000:29-44: string
+CanvasExtract-flow.js:2002:9-17: 
+CanvasExtract-flow.js:2002:9-32: 
+CanvasExtract-flow.js:2002:28-31: Text
+CanvasExtract-flow.js:2004:9-14: 
+CanvasExtract-flow.js:2004:9-34: 
+CanvasExtract-flow.js:2004:25-33: 
+CanvasExtract-flow.js:2006:13-18: 
+CanvasExtract-flow.js:2008:9-33: 
+CanvasExtract-flow.js:2008:18-21: Text
+CanvasExtract-flow.js:2008:18-33: 
+CanvasExtract-flow.js:2009:13-14: 
+CanvasExtract-flow.js:2009:18-23: 
+CanvasExtract-flow.js:2009:18-29: 
+CanvasExtract-flow.js:2011:9-14: 
+CanvasExtract-flow.js:2011:9-24: 
+CanvasExtract-flow.js:2011:9-27: 
+CanvasExtract-flow.js:2011:9-36: 
+CanvasExtract-flow.js:2011:16-21: 
+CanvasExtract-flow.js:2011:16-23: 
+CanvasExtract-flow.js:2011:35: number
+CanvasExtract-flow.js:2012:9-14: 
+CanvasExtract-flow.js:2012:9-24: 
+CanvasExtract-flow.js:2012:9-27: 
+CanvasExtract-flow.js:2012:9-36: 
+CanvasExtract-flow.js:2012:16-21: 
+CanvasExtract-flow.js:2012:16-23: 
+CanvasExtract-flow.js:2012:35: number
+CanvasExtract-flow.js:2013:9-14: 
+CanvasExtract-flow.js:2013:9-28: 
+CanvasExtract-flow.js:2013:9-31: 
+CanvasExtract-flow.js:2013:9-34: 
+CanvasExtract-flow.js:2013:9-49: 
+CanvasExtract-flow.js:2013:16-21: 
+CanvasExtract-flow.js:2013:16-27: 
+CanvasExtract-flow.js:2013:48: number
+CanvasExtract-flow.js:2014:9-14: 
+CanvasExtract-flow.js:2014:9-29: 
+CanvasExtract-flow.js:2014:9-32: 
+CanvasExtract-flow.js:2014:9-47: 
+CanvasExtract-flow.js:2014:16-21: 
+CanvasExtract-flow.js:2014:16-28: 
+CanvasExtract-flow.js:2014:46: number
+CanvasExtract-flow.js:2016:9-12: Text
+CanvasExtract-flow.js:2016:9-28: string
+CanvasExtract-flow.js:2016:21-28: string
+CanvasExtract-flow.js:2018:9-33: 
+CanvasExtract-flow.js:2018:18-21: Text
+CanvasExtract-flow.js:2018:18-33: 
+CanvasExtract-flow.js:2021:9-14: 
+CanvasExtract-flow.js:2021:9-28: 
+CanvasExtract-flow.js:2021:9-31: 
+CanvasExtract-flow.js:2021:9-35: 
+CanvasExtract-flow.js:2021:9-45: 
+CanvasExtract-flow.js:2021:16-21: 
+CanvasExtract-flow.js:2021:16-27: 
+CanvasExtract-flow.js:2021:43-44: 
+CanvasExtract-flow.js:2024:5-6: 
+CanvasExtract-flow.js:2024:5,2051:6: 
+CanvasExtract-flow.js:2024:8-89: string
+CanvasExtract-flow.js:2024:92,2051:5: () => void
+CanvasExtract-flow.js:2026:13-18: 
+CanvasExtract-flow.js:2026:22-36: 
+CanvasExtract-flow.js:2026:26-34: 
+CanvasExtract-flow.js:2027:13-19: RenderTexture
+CanvasExtract-flow.js:2027:23-35: [class: RenderTexture]
+CanvasExtract-flow.js:2027:23-50: RenderTexture
+CanvasExtract-flow.js:2027:44-45: number
+CanvasExtract-flow.js:2027:48-49: number
+CanvasExtract-flow.js:2028:13-18: 
+CanvasExtract-flow.js:2028:22-40: 
+CanvasExtract-flow.js:2028:26-31: 
+CanvasExtract-flow.js:2028:33-39: RenderTexture
+CanvasExtract-flow.js:2030:9-14: 
+CanvasExtract-flow.js:2030:9-23: 
+CanvasExtract-flow.js:2030:9-30: number
+CanvasExtract-flow.js:2030:29-30: number
+CanvasExtract-flow.js:2031:9-14: 
+CanvasExtract-flow.js:2031:9-23: 
+CanvasExtract-flow.js:2031:9-30: number
+CanvasExtract-flow.js:2031:29-30: number
+CanvasExtract-flow.js:2033:9-14: 
+CanvasExtract-flow.js:2033:9-20: 
+CanvasExtract-flow.js:2033:9-26: number
+CanvasExtract-flow.js:2033:26: number
+CanvasExtract-flow.js:2034:9-14: 
+CanvasExtract-flow.js:2034:9-20: 
+CanvasExtract-flow.js:2034:9-26: number
+CanvasExtract-flow.js:2034:26: number
+CanvasExtract-flow.js:2036:9-14: 
+CanvasExtract-flow.js:2036:9-31: 
+CanvasExtract-flow.js:2036:25-30: 
+CanvasExtract-flow.js:2038:13-18: 
+CanvasExtract-flow.js:2038:22-27: 
+CanvasExtract-flow.js:2038:22-39: 
+CanvasExtract-flow.js:2040:9-14: 
+CanvasExtract-flow.js:2040:9-24: 
+CanvasExtract-flow.js:2040:9-27: 
+CanvasExtract-flow.js:2040:9-37: 
+CanvasExtract-flow.js:2040:16-21: 
+CanvasExtract-flow.js:2040:16-23: 
+CanvasExtract-flow.js:2040:35-36: number
+CanvasExtract-flow.js:2041:9-14: 
+CanvasExtract-flow.js:2041:9-24: 
+CanvasExtract-flow.js:2041:9-27: 
+CanvasExtract-flow.js:2041:9-37: 
+CanvasExtract-flow.js:2041:16-21: 
+CanvasExtract-flow.js:2041:16-23: 
+CanvasExtract-flow.js:2041:35-36: number
+CanvasExtract-flow.js:2042:9-14: 
+CanvasExtract-flow.js:2042:9-28: 
+CanvasExtract-flow.js:2042:9-31: 
+CanvasExtract-flow.js:2042:9-41: 
+CanvasExtract-flow.js:2042:16-21: 
+CanvasExtract-flow.js:2042:16-27: 
+CanvasExtract-flow.js:2042:39-40: number
+CanvasExtract-flow.js:2043:9-14: 
+CanvasExtract-flow.js:2043:9-29: 
+CanvasExtract-flow.js:2043:9-32: 
+CanvasExtract-flow.js:2043:9-42: 
+CanvasExtract-flow.js:2043:16-21: 
+CanvasExtract-flow.js:2043:16-28: 
+CanvasExtract-flow.js:2043:40-41: number
+CanvasExtract-flow.js:2045:13-23: 
+CanvasExtract-flow.js:2045:27-32: 
+CanvasExtract-flow.js:2045:27-49: 
+CanvasExtract-flow.js:2047:9-14: 
+CanvasExtract-flow.js:2047:9-29: 
+CanvasExtract-flow.js:2047:9-32: 
+CanvasExtract-flow.js:2047:9-41: 
+CanvasExtract-flow.js:2047:16-26: 
+CanvasExtract-flow.js:2047:16-28: 
+CanvasExtract-flow.js:2047:40: number
+CanvasExtract-flow.js:2048:9-14: 
+CanvasExtract-flow.js:2048:9-29: 
+CanvasExtract-flow.js:2048:9-32: 
+CanvasExtract-flow.js:2048:9-41: 
+CanvasExtract-flow.js:2048:16-26: 
+CanvasExtract-flow.js:2048:16-28: 
+CanvasExtract-flow.js:2048:40: number
+CanvasExtract-flow.js:2049:9-14: 
+CanvasExtract-flow.js:2049:9-33: 
+CanvasExtract-flow.js:2049:9-36: 
+CanvasExtract-flow.js:2049:9-46: 
+CanvasExtract-flow.js:2049:16-26: 
+CanvasExtract-flow.js:2049:16-32: 
+CanvasExtract-flow.js:2049:44-45: number
+CanvasExtract-flow.js:2050:9-14: 
+CanvasExtract-flow.js:2050:9-34: 
+CanvasExtract-flow.js:2050:9-37: 
+CanvasExtract-flow.js:2050:9-47: 
+CanvasExtract-flow.js:2050:16-26: 
+CanvasExtract-flow.js:2050:16-33: 
+CanvasExtract-flow.js:2050:45-46: number
+CanvasExtract-flow.js:2053:5-6: 
+CanvasExtract-flow.js:2053:5,2077:6: 
+CanvasExtract-flow.js:2053:8-60: string
+CanvasExtract-flow.js:2053:63,2077:5: () => void
+CanvasExtract-flow.js:2055:13-18: 
+CanvasExtract-flow.js:2055:22-36: 
+CanvasExtract-flow.js:2055:26-34: 
+CanvasExtract-flow.js:2056:13-23: 
+CanvasExtract-flow.js:2056:27-57: 
+CanvasExtract-flow.js:2056:31-47: 
+CanvasExtract-flow.js:2056:49-51: number
+CanvasExtract-flow.js:2056:54-56: number
+CanvasExtract-flow.js:2058:13-16: Rectangle
+CanvasExtract-flow.js:2058:20-47: Rectangle
+CanvasExtract-flow.js:2058:24-32: [class: Rectangle]
+CanvasExtract-flow.js:2058:34: number
+CanvasExtract-flow.js:2058:37: number
+CanvasExtract-flow.js:2058:40-42: number
+CanvasExtract-flow.js:2058:45-46: number
+CanvasExtract-flow.js:2059:13-17: Rectangle
+CanvasExtract-flow.js:2059:21-47: Rectangle
+CanvasExtract-flow.js:2059:25-33: [class: Rectangle]
+CanvasExtract-flow.js:2059:35: number
+CanvasExtract-flow.js:2059:38: number
+CanvasExtract-flow.js:2059:41-42: number
+CanvasExtract-flow.js:2059:45-46: number
+CanvasExtract-flow.js:2060:13-16: Rectangle
+CanvasExtract-flow.js:2060:20-47: Rectangle
+CanvasExtract-flow.js:2060:24-32: [class: Rectangle]
+CanvasExtract-flow.js:2060:34-35: number
+CanvasExtract-flow.js:2060:38: number
+CanvasExtract-flow.js:2060:41-42: number
+CanvasExtract-flow.js:2060:45-46: number
+CanvasExtract-flow.js:2062:13-26: 
+CanvasExtract-flow.js:2062:30-72: 
+CanvasExtract-flow.js:2062:34-40: 
+CanvasExtract-flow.js:2062:42-52: 
+CanvasExtract-flow.js:2062:55-59: Rectangle
+CanvasExtract-flow.js:2062:62-65: Rectangle
+CanvasExtract-flow.js:2062:68-71: Rectangle
+CanvasExtract-flow.js:2064:13-18: 
+CanvasExtract-flow.js:2064:22-47: 
+CanvasExtract-flow.js:2064:26-31: 
+CanvasExtract-flow.js:2064:33-46: 
+CanvasExtract-flow.js:2066:9-14: 
+CanvasExtract-flow.js:2066:9-23: 
+CanvasExtract-flow.js:2066:9-30: number
+CanvasExtract-flow.js:2066:29-30: number
+CanvasExtract-flow.js:2067:9-14: 
+CanvasExtract-flow.js:2067:9-23: 
+CanvasExtract-flow.js:2067:9-30: number
+CanvasExtract-flow.js:2067:29-30: number
+CanvasExtract-flow.js:2069:9-14: 
+CanvasExtract-flow.js:2069:9-31: 
+CanvasExtract-flow.js:2069:25-30: 
+CanvasExtract-flow.js:2071:13-18: 
+CanvasExtract-flow.js:2071:22-27: 
+CanvasExtract-flow.js:2071:22-39: 
+CanvasExtract-flow.js:2073:9-14: 
+CanvasExtract-flow.js:2073:9-24: 
+CanvasExtract-flow.js:2073:9-27: 
+CanvasExtract-flow.js:2073:9-37: 
+CanvasExtract-flow.js:2073:16-21: 
+CanvasExtract-flow.js:2073:16-23: 
+CanvasExtract-flow.js:2073:35-36: number
+CanvasExtract-flow.js:2074:9-14: 
+CanvasExtract-flow.js:2074:9-24: 
+CanvasExtract-flow.js:2074:9-27: 
+CanvasExtract-flow.js:2074:9-37: 
+CanvasExtract-flow.js:2074:16-21: 
+CanvasExtract-flow.js:2074:16-23: 
+CanvasExtract-flow.js:2074:35-36: number
+CanvasExtract-flow.js:2075:9-14: 
+CanvasExtract-flow.js:2075:9-28: 
+CanvasExtract-flow.js:2075:9-31: 
+CanvasExtract-flow.js:2075:9-42: 
+CanvasExtract-flow.js:2075:16-21: 
+CanvasExtract-flow.js:2075:16-27: 
+CanvasExtract-flow.js:2075:39-41: number
+CanvasExtract-flow.js:2076:9-14: 
+CanvasExtract-flow.js:2076:9-29: 
+CanvasExtract-flow.js:2076:9-32: 
+CanvasExtract-flow.js:2076:9-42: 
+CanvasExtract-flow.js:2076:16-21: 
+CanvasExtract-flow.js:2076:16-28: 
+CanvasExtract-flow.js:2076:40-41: number
