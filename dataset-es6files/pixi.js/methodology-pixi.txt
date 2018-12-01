@@ -44,3 +44,5 @@ CanvasRenderer.registerPlugin('accessibility', AccessibilityManager);
                 this._glyphs.push(c);
 
 * We have a problem with extra features (i.e. features added at runtime) because we do not evaluate its dependencies. Ex: class DisplayObject is "extended" in file cacheAsBitmap.js (CacheData-flow.js).
+
+* we have some "private" function, like 'function uploadBaseTextures(prepare, item)' in file CanvasPrepare.js, which are implemented outside the body of the class only not to be exported to other files, meaning that they are private. In this study, we are considering the source could of these functions when looking for dependencies, because they are part of the class implementation.
