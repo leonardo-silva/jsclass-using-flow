@@ -1,0 +1,4216 @@
+VideoBaseTexture-flow.js:12:1,690:1: [class: BaseTexture]
+VideoBaseTexture-flow.js:12:27-38: 
+VideoBaseTexture-flow.js:19:17-22: void | HTMLVideoElement | Image
+VideoBaseTexture-flow.js:19:25-33: void
+VideoBaseTexture-flow.js:19:36-45: void
+VideoBaseTexture-flow.js:21:9-15: 
+VideoBaseTexture-flow.js:23:9-12: BaseTexture
+VideoBaseTexture-flow.js:23:9-24: 
+VideoBaseTexture-flow.js:23:20-22: 
+VideoBaseTexture-flow.js:23:20-24: 
+VideoBaseTexture-flow.js:25:9-12: BaseTexture
+VideoBaseTexture-flow.js:25:9-24: number
+VideoBaseTexture-flow.js:25:24: number
+VideoBaseTexture-flow.js:33:9-12: BaseTexture
+VideoBaseTexture-flow.js:33:9-50: 
+VideoBaseTexture-flow.js:33:27-36: void
+VideoBaseTexture-flow.js:33:27-50: 
+VideoBaseTexture-flow.js:33:41-50: 
+VideoBaseTexture-flow.js:41:9-12: BaseTexture
+VideoBaseTexture-flow.js:41:9-24: number
+VideoBaseTexture-flow.js:41:22-24: number
+VideoBaseTexture-flow.js:49:9-12: BaseTexture
+VideoBaseTexture-flow.js:49:9-25: number
+VideoBaseTexture-flow.js:49:23-25: number
+VideoBaseTexture-flow.js:59:9-12: BaseTexture
+VideoBaseTexture-flow.js:59:9-28: number
+VideoBaseTexture-flow.js:59:26-28: number
+VideoBaseTexture-flow.js:66:9-12: BaseTexture
+VideoBaseTexture-flow.js:66:9-29: number
+VideoBaseTexture-flow.js:66:27-29: number
+VideoBaseTexture-flow.js:75:9-12: BaseTexture
+VideoBaseTexture-flow.js:75:9-57: 
+VideoBaseTexture-flow.js:75:26-34: void
+VideoBaseTexture-flow.js:75:26-57: 
+VideoBaseTexture-flow.js:75:39-49: 
+VideoBaseTexture-flow.js:75:39-57: 
+VideoBaseTexture-flow.js:85:9-12: BaseTexture
+VideoBaseTexture-flow.js:85:9-30: boolean
+VideoBaseTexture-flow.js:85:26-30: boolean
+VideoBaseTexture-flow.js:97:9-12: BaseTexture
+VideoBaseTexture-flow.js:97:9-30: boolean
+VideoBaseTexture-flow.js:97:26-30: boolean
+VideoBaseTexture-flow.js:107:9-12: BaseTexture
+VideoBaseTexture-flow.js:107:9-26: null
+VideoBaseTexture-flow.js:107:23-26: null
+VideoBaseTexture-flow.js:118:9-12: BaseTexture
+VideoBaseTexture-flow.js:118:9-30: null
+VideoBaseTexture-flow.js:118:27-30: null
+VideoBaseTexture-flow.js:126:9-12: BaseTexture
+VideoBaseTexture-flow.js:126:9-29: null
+VideoBaseTexture-flow.js:126:26-29: null
+VideoBaseTexture-flow.js:134:9-12: BaseTexture
+VideoBaseTexture-flow.js:134:9-30: number
+VideoBaseTexture-flow.js:134:28-30: number
+VideoBaseTexture-flow.js:143:9-12: BaseTexture
+VideoBaseTexture-flow.js:143:9-38: boolean
+VideoBaseTexture-flow.js:143:35-38: boolean
+VideoBaseTexture-flow.js:150:9-12: BaseTexture
+VideoBaseTexture-flow.js:150:9-28: null
+VideoBaseTexture-flow.js:150:25-28: null
+VideoBaseTexture-flow.js:159:9-12: BaseTexture
+VideoBaseTexture-flow.js:159:9-33: boolean
+VideoBaseTexture-flow.js:159:29-33: boolean
+VideoBaseTexture-flow.js:172:9-12: BaseTexture
+VideoBaseTexture-flow.js:172:9-37: 
+VideoBaseTexture-flow.js:172:23-37: 
+VideoBaseTexture-flow.js:181:9-12: BaseTexture
+VideoBaseTexture-flow.js:181:9-42: 
+VideoBaseTexture-flow.js:181:25-34: 
+VideoBaseTexture-flow.js:181:25-42: 
+VideoBaseTexture-flow.js:189:9-12: BaseTexture
+VideoBaseTexture-flow.js:189:9-29: Array<>
+VideoBaseTexture-flow.js:189:28-29: Array<>
+VideoBaseTexture-flow.js:190:9-12: BaseTexture
+VideoBaseTexture-flow.js:190:9-25: number
+VideoBaseTexture-flow.js:190:25: number
+VideoBaseTexture-flow.js:191:9-12: BaseTexture
+VideoBaseTexture-flow.js:191:9-20: number
+VideoBaseTexture-flow.js:191:20: number
+VideoBaseTexture-flow.js:194:13-18: void | HTMLVideoElement | Image
+VideoBaseTexture-flow.js:196:13-16: BaseTexture
+VideoBaseTexture-flow.js:196:13-35: void
+VideoBaseTexture-flow.js:196:29-34: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:224:13-16: BaseTexture
+VideoBaseTexture-flow.js:224:32-36: string
+VideoBaseTexture-flow.js:226:13-16: BaseTexture
+VideoBaseTexture-flow.js:226:13-100: 
+VideoBaseTexture-flow.js:226:30-33: BaseTexture
+VideoBaseTexture-flow.js:226:30-40: 
+VideoBaseTexture-flow.js:226:30-100: 
+VideoBaseTexture-flow.js:226:58-68: 
+VideoBaseTexture-flow.js:226:84-94: 
+VideoBaseTexture-flow.js:226:84-100: 
+VideoBaseTexture-flow.js:227:13-16: BaseTexture
+VideoBaseTexture-flow.js:227:13-104: 
+VideoBaseTexture-flow.js:227:31-34: BaseTexture
+VideoBaseTexture-flow.js:227:31-41: 
+VideoBaseTexture-flow.js:227:31-104: 
+VideoBaseTexture-flow.js:227:60-70: 
+VideoBaseTexture-flow.js:227:87-97: 
+VideoBaseTexture-flow.js:227:87-104: 
+VideoBaseTexture-flow.js:229:13-16: BaseTexture
+VideoBaseTexture-flow.js:229:13-57: number
+VideoBaseTexture-flow.js:229:26-39: 
+VideoBaseTexture-flow.js:229:26-57: number
+VideoBaseTexture-flow.js:229:43-46: BaseTexture
+VideoBaseTexture-flow.js:229:43-57: 
+VideoBaseTexture-flow.js:230:13-16: BaseTexture
+VideoBaseTexture-flow.js:230:13-59: number
+VideoBaseTexture-flow.js:230:27-41: 
+VideoBaseTexture-flow.js:230:27-59: number
+VideoBaseTexture-flow.js:230:45-48: BaseTexture
+VideoBaseTexture-flow.js:230:45-59: 
+VideoBaseTexture-flow.js:232:13-16: BaseTexture
+VideoBaseTexture-flow.js:232:13-103: 
+VideoBaseTexture-flow.js:232:33-42: 
+VideoBaseTexture-flow.js:232:33-65: 
+VideoBaseTexture-flow.js:232:33-103: 
+VideoBaseTexture-flow.js:232:51-64: 
+VideoBaseTexture-flow.js:232:70-79: 
+VideoBaseTexture-flow.js:232:70-103: 
+VideoBaseTexture-flow.js:232:88-91: BaseTexture
+VideoBaseTexture-flow.js:232:88-102: 
+VideoBaseTexture-flow.js:235:9-12: BaseTexture
+VideoBaseTexture-flow.js:235:9-33: 
+VideoBaseTexture-flow.js:235:19-26: string
+VideoBaseTexture-flow.js:235:29-32: BaseTexture
+VideoBaseTexture-flow.js:259:16-21: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:261:15-24: 
+VideoBaseTexture-flow.js:261:28-31: BaseTexture
+VideoBaseTexture-flow.js:261:28-41: 
+VideoBaseTexture-flow.js:263:9-12: BaseTexture
+VideoBaseTexture-flow.js:263:9-30: boolean
+VideoBaseTexture-flow.js:263:26-30: boolean
+VideoBaseTexture-flow.js:264:9-12: BaseTexture
+VideoBaseTexture-flow.js:264:9-30: boolean
+VideoBaseTexture-flow.js:264:26-30: boolean
+VideoBaseTexture-flow.js:266:13-22: 
+VideoBaseTexture-flow.js:266:27-30: BaseTexture
+VideoBaseTexture-flow.js:268:13-23: 
+VideoBaseTexture-flow.js:268:13-37: null
+VideoBaseTexture-flow.js:268:34-37: null
+VideoBaseTexture-flow.js:269:13-23: 
+VideoBaseTexture-flow.js:269:13-38: null
+VideoBaseTexture-flow.js:269:35-38: null
+VideoBaseTexture-flow.js:272:15-31: 
+VideoBaseTexture-flow.js:272:35-46: 
+VideoBaseTexture-flow.js:272:36-39: BaseTexture
+VideoBaseTexture-flow.js:272:36-46: 
+VideoBaseTexture-flow.js:274:9-12: BaseTexture
+VideoBaseTexture-flow.js:274:9-28: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:274:23-28: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:277:15-20: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:277:29-34: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:277:49-54: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:277:71-76: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:277:87-92: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:279:13-16: BaseTexture
+VideoBaseTexture-flow.js:279:13-35: void
+VideoBaseTexture-flow.js:281:17-20: BaseTexture
+VideoBaseTexture-flow.js:281:36-40: string
+VideoBaseTexture-flow.js:283:17-20: BaseTexture
+VideoBaseTexture-flow.js:283:17-37: void
+VideoBaseTexture-flow.js:287:17-20: BaseTexture
+VideoBaseTexture-flow.js:287:17-36: void
+VideoBaseTexture-flow.js:290:17-33: 
+VideoBaseTexture-flow.js:293:17-20: BaseTexture
+VideoBaseTexture-flow.js:293:17-41: 
+VideoBaseTexture-flow.js:293:27-34: string
+VideoBaseTexture-flow.js:293:37-40: BaseTexture
+VideoBaseTexture-flow.js:296:19-24: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:299:13-16: BaseTexture
+VideoBaseTexture-flow.js:299:13-33: boolean
+VideoBaseTexture-flow.js:299:30-33: boolean
+VideoBaseTexture-flow.js:301:19-23: BaseTexture
+VideoBaseTexture-flow.js:301:27-30: BaseTexture
+VideoBaseTexture-flow.js:303:13-18: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:303:13,325:13: () => void
+VideoBaseTexture-flow.js:303:29,325:13: () => void
+VideoBaseTexture-flow.js:305:17-21: BaseTexture
+VideoBaseTexture-flow.js:305:17-40: void
+VideoBaseTexture-flow.js:306:17-22: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:306:17-36: null
+VideoBaseTexture-flow.js:306:33-36: null
+VideoBaseTexture-flow.js:307:17-22: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:307:17-37: null
+VideoBaseTexture-flow.js:307:34-37: null
+VideoBaseTexture-flow.js:309:22-26: BaseTexture
+VideoBaseTexture-flow.js:314:17-21: BaseTexture
+VideoBaseTexture-flow.js:314:17-39: boolean
+VideoBaseTexture-flow.js:314:35-39: boolean
+VideoBaseTexture-flow.js:315:17-21: BaseTexture
+VideoBaseTexture-flow.js:315:17-37: void
+VideoBaseTexture-flow.js:317:21-25: BaseTexture
+VideoBaseTexture-flow.js:317:41-45: string
+VideoBaseTexture-flow.js:319:21-25: BaseTexture
+VideoBaseTexture-flow.js:319:21-42: void
+VideoBaseTexture-flow.js:324:17-21: BaseTexture
+VideoBaseTexture-flow.js:324:17-43: 
+VideoBaseTexture-flow.js:324:28-35: string
+VideoBaseTexture-flow.js:324:38-42: BaseTexture
+VideoBaseTexture-flow.js:327:13-18: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:327:13,339:13: () => void
+VideoBaseTexture-flow.js:327:30,339:13: () => void
+VideoBaseTexture-flow.js:329:17-22: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:329:17-36: null
+VideoBaseTexture-flow.js:329:33-36: null
+VideoBaseTexture-flow.js:330:17-22: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:330:17-37: null
+VideoBaseTexture-flow.js:330:34-37: null
+VideoBaseTexture-flow.js:332:22-26: BaseTexture
+VideoBaseTexture-flow.js:337:17-21: BaseTexture
+VideoBaseTexture-flow.js:337:17-39: boolean
+VideoBaseTexture-flow.js:337:35-39: boolean
+VideoBaseTexture-flow.js:338:17-21: BaseTexture
+VideoBaseTexture-flow.js:338:17-42: 
+VideoBaseTexture-flow.js:338:28-34: string
+VideoBaseTexture-flow.js:338:37-41: BaseTexture
+VideoBaseTexture-flow.js:345:17-22: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:345:36-41: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:348:17-22: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:348:17-36: null
+VideoBaseTexture-flow.js:348:33-36: null
+VideoBaseTexture-flow.js:349:17-22: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:349:17-37: null
+VideoBaseTexture-flow.js:349:34-37: null
+VideoBaseTexture-flow.js:351:21-25: BaseTexture
+VideoBaseTexture-flow.js:351:41-45: string
+VideoBaseTexture-flow.js:353:21-25: BaseTexture
+VideoBaseTexture-flow.js:353:21-42: void
+VideoBaseTexture-flow.js:358:17-20: BaseTexture
+VideoBaseTexture-flow.js:358:17-38: boolean
+VideoBaseTexture-flow.js:358:34-38: boolean
+VideoBaseTexture-flow.js:360:21-26: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:360:37-42: HTMLVideoElement | Image
+VideoBaseTexture-flow.js:362:21-24: BaseTexture
+VideoBaseTexture-flow.js:362:21-40: void
+VideoBaseTexture-flow.js:365:25-34: 
+VideoBaseTexture-flow.js:367:25-28: BaseTexture
+VideoBaseTexture-flow.js:367:25-49: 
+VideoBaseTexture-flow.js:367:35-42: string
+VideoBaseTexture-flow.js:367:45-48: BaseTexture
+VideoBaseTexture-flow.js:371:26-35: 
+VideoBaseTexture-flow.js:373:21-24: BaseTexture
+VideoBaseTexture-flow.js:373:21-44: 
+VideoBaseTexture-flow.js:373:31-37: string
+VideoBaseTexture-flow.js:373:40-43: BaseTexture
+VideoBaseTexture-flow.js:384:14-17: BaseTexture
+VideoBaseTexture-flow.js:389:15-21: 
+VideoBaseTexture-flow.js:389:25-40: 
+VideoBaseTexture-flow.js:389:25-55: 
+VideoBaseTexture-flow.js:389:42-54: 
+VideoBaseTexture-flow.js:390:13-21: 
+VideoBaseTexture-flow.js:392:13-19: 
+VideoBaseTexture-flow.js:392:24-30: 
+VideoBaseTexture-flow.js:392:46-52: string
+VideoBaseTexture-flow.js:395:19-30: 
+VideoBaseTexture-flow.js:395:34-40: 
+VideoBaseTexture-flow.js:395:34-48: 
+VideoBaseTexture-flow.js:395:34-59: 
+VideoBaseTexture-flow.js:395:34-62: 
+VideoBaseTexture-flow.js:395:56-58: string
+VideoBaseTexture-flow.js:395:61: number
+VideoBaseTexture-flow.js:397:13-61: 
+VideoBaseTexture-flow.js:397:25-41: 
+VideoBaseTexture-flow.js:397:25-61: 
+VideoBaseTexture-flow.js:397:43-60: 
+VideoBaseTexture-flow.js:397:47-58: 
+VideoBaseTexture-flow.js:399:18-26: 
+VideoBaseTexture-flow.js:401:23-66: Error
+VideoBaseTexture-flow.js:401:27-31: [class: Error]
+VideoBaseTexture-flow.js:401:33-65: string
+VideoBaseTexture-flow.js:406:13-56: 
+VideoBaseTexture-flow.js:406:25-41: 
+VideoBaseTexture-flow.js:406:25-56: 
+VideoBaseTexture-flow.js:406:43-46: BaseTexture
+VideoBaseTexture-flow.js:406:43-55: 
+VideoBaseTexture-flow.js:408:18-26: 
+VideoBaseTexture-flow.js:410:23-61: Error
+VideoBaseTexture-flow.js:410:27-31: [class: Error]
+VideoBaseTexture-flow.js:410:33-60: string
+VideoBaseTexture-flow.js:414:9-12: BaseTexture
+VideoBaseTexture-flow.js:414:9-34: 
+VideoBaseTexture-flow.js:414:26-34: 
+VideoBaseTexture-flow.js:423:13-16: BaseTexture
+VideoBaseTexture-flow.js:423:32-36: string
+VideoBaseTexture-flow.js:429:15-21: 
+VideoBaseTexture-flow.js:429:25-40: 
+VideoBaseTexture-flow.js:429:25-55: 
+VideoBaseTexture-flow.js:429:42-45: BaseTexture
+VideoBaseTexture-flow.js:429:42-54: 
+VideoBaseTexture-flow.js:431:13-19: 
+VideoBaseTexture-flow.js:433:13-16: BaseTexture
+VideoBaseTexture-flow.js:433:13-52: void
+VideoBaseTexture-flow.js:433:45-51: 
+VideoBaseTexture-flow.js:438:13-16: BaseTexture
+VideoBaseTexture-flow.js:438:13-41: void
+VideoBaseTexture-flow.js:447:32-38: 
+VideoBaseTexture-flow.js:449:13-21: string
+VideoBaseTexture-flow.js:451:13-19: 
+VideoBaseTexture-flow.js:451:34-41: string
+VideoBaseTexture-flow.js:453:18-21: (encodedString: string) => string
+VideoBaseTexture-flow.js:455:23-84: Error
+VideoBaseTexture-flow.js:455:27-31: [class: Error]
+VideoBaseTexture-flow.js:455:33-83: string
+VideoBaseTexture-flow.js:457:13-42: string
+VideoBaseTexture-flow.js:457:25-28: (encodedString: string) => string
+VideoBaseTexture-flow.js:457:25-42: string
+VideoBaseTexture-flow.js:457:30-36: 
+VideoBaseTexture-flow.js:457:30-41: 
+VideoBaseTexture-flow.js:461:13-36: 
+VideoBaseTexture-flow.js:461:25-31: 
+VideoBaseTexture-flow.js:461:25-36: 
+VideoBaseTexture-flow.js:464:9-12: BaseTexture
+VideoBaseTexture-flow.js:464:9-49: void
+VideoBaseTexture-flow.js:464:40-48: string
+VideoBaseTexture-flow.js:472:15-20: XMLHttpRequest
+VideoBaseTexture-flow.js:472:24-43: XMLHttpRequest
+VideoBaseTexture-flow.js:472:28-41: [class: XMLHttpRequest]
+VideoBaseTexture-flow.js:481:9-14: XMLHttpRequest
+VideoBaseTexture-flow.js:481:9,489:9: () => void
+VideoBaseTexture-flow.js:481:25,489:9: () => void
+VideoBaseTexture-flow.js:483:17-22: XMLHttpRequest
+VideoBaseTexture-flow.js:483:39-44: XMLHttpRequest
+VideoBaseTexture-flow.js:483:39-49: number
+VideoBaseTexture-flow.js:483:54-59: XMLHttpRequest
+VideoBaseTexture-flow.js:483:72-74: number
+VideoBaseTexture-flow.js:485:23-64: Error
+VideoBaseTexture-flow.js:485:27-31: [class: Error]
+VideoBaseTexture-flow.js:485:33-63: string
+VideoBaseTexture-flow.js:488:13-16: BaseTexture
+VideoBaseTexture-flow.js:488:13-59: void
+VideoBaseTexture-flow.js:488:44-49: XMLHttpRequest
+VideoBaseTexture-flow.js:488:44-58: 
+VideoBaseTexture-flow.js:491:9-14: XMLHttpRequest
+VideoBaseTexture-flow.js:491:9-55: () => 
+VideoBaseTexture-flow.js:491:26-55: () => 
+VideoBaseTexture-flow.js:491:32-35: BaseTexture
+VideoBaseTexture-flow.js:491:32-55: 
+VideoBaseTexture-flow.js:491:42-48: string
+VideoBaseTexture-flow.js:491:51-54: BaseTexture
+VideoBaseTexture-flow.js:493:9-14: XMLHttpRequest
+VideoBaseTexture-flow.js:493:9-47: void
+VideoBaseTexture-flow.js:493:21-25: string
+VideoBaseTexture-flow.js:493:28-31: BaseTexture
+VideoBaseTexture-flow.js:493:28-40: 
+VideoBaseTexture-flow.js:493:43-46: boolean
+VideoBaseTexture-flow.js:494:9-14: XMLHttpRequest
+VideoBaseTexture-flow.js:494:9-21: void
+VideoBaseTexture-flow.js:506:31-39: string
+VideoBaseTexture-flow.js:508:15-21: 
+VideoBaseTexture-flow.js:508:25-34: 
+VideoBaseTexture-flow.js:508:25-45: 
+VideoBaseTexture-flow.js:508:36-44: string
+VideoBaseTexture-flow.js:510:15-22: 
+VideoBaseTexture-flow.js:510:26-32: 
+VideoBaseTexture-flow.js:510:26-38: 
+VideoBaseTexture-flow.js:511:15-23: 
+VideoBaseTexture-flow.js:511:27-33: 
+VideoBaseTexture-flow.js:511:27-40: 
+VideoBaseTexture-flow.js:513:14-21: 
+VideoBaseTexture-flow.js:513:27-35: 
+VideoBaseTexture-flow.js:515:19-115: Error
+VideoBaseTexture-flow.js:515:23-27: [class: Error]
+VideoBaseTexture-flow.js:515:29-114: string
+VideoBaseTexture-flow.js:519:9-12: BaseTexture
+VideoBaseTexture-flow.js:519:9-64: number
+VideoBaseTexture-flow.js:519:26-29: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+VideoBaseTexture-flow.js:519:26-64: number
+VideoBaseTexture-flow.js:519:37-44: 
+VideoBaseTexture-flow.js:519:37-63: number
+VideoBaseTexture-flow.js:519:48-51: BaseTexture
+VideoBaseTexture-flow.js:519:48-63: 
+VideoBaseTexture-flow.js:520:9-12: BaseTexture
+VideoBaseTexture-flow.js:520:9-66: number
+VideoBaseTexture-flow.js:520:27-30: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+VideoBaseTexture-flow.js:520:27-66: number
+VideoBaseTexture-flow.js:520:38-46: 
+VideoBaseTexture-flow.js:520:38-65: number
+VideoBaseTexture-flow.js:520:50-53: BaseTexture
+VideoBaseTexture-flow.js:520:50-65: 
+VideoBaseTexture-flow.js:522:9-12: BaseTexture
+VideoBaseTexture-flow.js:522:9-53: number
+VideoBaseTexture-flow.js:522:22-25: BaseTexture
+VideoBaseTexture-flow.js:522:22-35: 
+VideoBaseTexture-flow.js:522:22-53: number
+VideoBaseTexture-flow.js:522:39-42: BaseTexture
+VideoBaseTexture-flow.js:522:39-53: 
+VideoBaseTexture-flow.js:523:9-12: BaseTexture
+VideoBaseTexture-flow.js:523:9-55: number
+VideoBaseTexture-flow.js:523:23-37: number
+VideoBaseTexture-flow.js:523:23-55: number
+VideoBaseTexture-flow.js:523:41-44: BaseTexture
+VideoBaseTexture-flow.js:523:41-55: 
+VideoBaseTexture-flow.js:526:9-12: BaseTexture
+VideoBaseTexture-flow.js:526:9-99: 
+VideoBaseTexture-flow.js:526:29-38: 
+VideoBaseTexture-flow.js:526:29-61: 
+VideoBaseTexture-flow.js:526:29-99: 
+VideoBaseTexture-flow.js:526:47-50: BaseTexture
+VideoBaseTexture-flow.js:526:47-60: 
+VideoBaseTexture-flow.js:526:66-75: 
+VideoBaseTexture-flow.js:526:66-99: 
+VideoBaseTexture-flow.js:526:84-87: BaseTexture
+VideoBaseTexture-flow.js:526:84-98: 
+VideoBaseTexture-flow.js:529:15-20: HTMLCanvasElement
+VideoBaseTexture-flow.js:529:24-31: Document
+VideoBaseTexture-flow.js:529:24-55: HTMLCanvasElement
+VideoBaseTexture-flow.js:529:47-54: string
+VideoBaseTexture-flow.js:531:9-14: HTMLCanvasElement
+VideoBaseTexture-flow.js:531:9-37: 
+VideoBaseTexture-flow.js:531:24-27: BaseTexture
+VideoBaseTexture-flow.js:531:24-37: 
+VideoBaseTexture-flow.js:532:9-14: HTMLCanvasElement
+VideoBaseTexture-flow.js:532:9-39: 
+VideoBaseTexture-flow.js:532:25-28: BaseTexture
+VideoBaseTexture-flow.js:532:25-39: 
+VideoBaseTexture-flow.js:533:9-14: HTMLCanvasElement
+VideoBaseTexture-flow.js:533:9-42: 
+VideoBaseTexture-flow.js:533:26-42: 
+VideoBaseTexture-flow.js:533:36-38: 
+VideoBaseTexture-flow.js:533:36-40: 
+VideoBaseTexture-flow.js:536:9-14: HTMLCanvasElement
+VideoBaseTexture-flow.js:536:9,537:29: ?CanvasRenderingContext2D
+VideoBaseTexture-flow.js:536:9,538:101: 
+VideoBaseTexture-flow.js:537:25-28: string
+VideoBaseTexture-flow.js:538:24-27: BaseTexture
+VideoBaseTexture-flow.js:538:24-34: 
+VideoBaseTexture-flow.js:538:37: number
+VideoBaseTexture-flow.js:538:40: number
+VideoBaseTexture-flow.js:538:43-50: 
+VideoBaseTexture-flow.js:538:53-61: 
+VideoBaseTexture-flow.js:538:64: number
+VideoBaseTexture-flow.js:538:67: number
+VideoBaseTexture-flow.js:538:70-73: BaseTexture
+VideoBaseTexture-flow.js:538:70-83: 
+VideoBaseTexture-flow.js:538:86-89: BaseTexture
+VideoBaseTexture-flow.js:538:86-100: 
+VideoBaseTexture-flow.js:541:9-12: BaseTexture
+VideoBaseTexture-flow.js:541:9-37: 
+VideoBaseTexture-flow.js:541:27-30: BaseTexture
+VideoBaseTexture-flow.js:541:27-37: 
+VideoBaseTexture-flow.js:542:9-12: BaseTexture
+VideoBaseTexture-flow.js:542:9-28: HTMLCanvasElement
+VideoBaseTexture-flow.js:542:23-28: HTMLCanvasElement
+VideoBaseTexture-flow.js:545:9-24: 
+VideoBaseTexture-flow.js:545:9-47: BaseTexture
+VideoBaseTexture-flow.js:545:26-31: HTMLCanvasElement
+VideoBaseTexture-flow.js:545:26-39: 
+VideoBaseTexture-flow.js:545:44-47: BaseTexture
+VideoBaseTexture-flow.js:547:9-12: BaseTexture
+VideoBaseTexture-flow.js:547:9-30: boolean
+VideoBaseTexture-flow.js:547:26-30: boolean
+VideoBaseTexture-flow.js:548:9-12: BaseTexture
+VideoBaseTexture-flow.js:548:9-28: void
+VideoBaseTexture-flow.js:549:9-12: BaseTexture
+VideoBaseTexture-flow.js:549:9-33: 
+VideoBaseTexture-flow.js:549:19-26: string
+VideoBaseTexture-flow.js:549:29-32: BaseTexture
+VideoBaseTexture-flow.js:560:9-12: BaseTexture
+VideoBaseTexture-flow.js:560:9-29: boolean
+VideoBaseTexture-flow.js:560:26-29: boolean
+VideoBaseTexture-flow.js:561:9-12: BaseTexture
+VideoBaseTexture-flow.js:561:9-21: void
+VideoBaseTexture-flow.js:570:13-16: BaseTexture
+VideoBaseTexture-flow.js:572:13-50: boolean
+VideoBaseTexture-flow.js:572:20-35: 
+VideoBaseTexture-flow.js:572:20-50: 
+VideoBaseTexture-flow.js:572:37-49: 
+VideoBaseTexture-flow.js:573:13-46: boolean
+VideoBaseTexture-flow.js:573:20-31: 
+VideoBaseTexture-flow.js:573:20-46: 
+VideoBaseTexture-flow.js:573:33-45: 
+VideoBaseTexture-flow.js:575:13-16: BaseTexture
+VideoBaseTexture-flow.js:575:13-32: null
+VideoBaseTexture-flow.js:575:29-32: null
+VideoBaseTexture-flow.js:577:18-26: Navigator
+VideoBaseTexture-flow.js:579:17-20: BaseTexture
+VideoBaseTexture-flow.js:579:17-27: 
+VideoBaseTexture-flow.js:579:17-36: string
+VideoBaseTexture-flow.js:579:35-36: string
+VideoBaseTexture-flow.js:583:13-16: BaseTexture
+VideoBaseTexture-flow.js:583:28-38: 
+VideoBaseTexture-flow.js:585:13-56: boolean
+VideoBaseTexture-flow.js:585:20-35: 
+VideoBaseTexture-flow.js:585:20-56: 
+VideoBaseTexture-flow.js:585:37-55: 
+VideoBaseTexture-flow.js:588:9-12: BaseTexture
+VideoBaseTexture-flow.js:588:9-26: null
+VideoBaseTexture-flow.js:588:23-26: null
+VideoBaseTexture-flow.js:590:9-12: BaseTexture
+VideoBaseTexture-flow.js:590:9-22: void
+VideoBaseTexture-flow.js:601:9-12: BaseTexture
+VideoBaseTexture-flow.js:601:9-34: 
+VideoBaseTexture-flow.js:601:19-27: string
+VideoBaseTexture-flow.js:601:30-33: BaseTexture
+VideoBaseTexture-flow.js:613:23-28: 
+VideoBaseTexture-flow.js:615:9-12: BaseTexture
+VideoBaseTexture-flow.js:615:9-19: 
+VideoBaseTexture-flow.js:615:9-32: 
+VideoBaseTexture-flow.js:615:27-32: 
+VideoBaseTexture-flow.js:617:9-12: BaseTexture
+VideoBaseTexture-flow.js:617:9-36: void
+VideoBaseTexture-flow.js:617:25-28: BaseTexture
+VideoBaseTexture-flow.js:617:25-35: 
+VideoBaseTexture-flow.js:631:22-29: 
+VideoBaseTexture-flow.js:631:32-42: 
+VideoBaseTexture-flow.js:631:45-53: 
+VideoBaseTexture-flow.js:631:56-66: 
+VideoBaseTexture-flow.js:633:13-23: BaseTexture
+VideoBaseTexture-flow.js:633:27-42: 
+VideoBaseTexture-flow.js:633:27-52: 
+VideoBaseTexture-flow.js:633:44-51: 
+VideoBaseTexture-flow.js:635:14-24: 
+VideoBaseTexture-flow.js:639:19-23: Image
+VideoBaseTexture-flow.js:639:27-37: Image
+VideoBaseTexture-flow.js:639:31-35: [class: Image]
+VideoBaseTexture-flow.js:641:17-27: 
+VideoBaseTexture-flow.js:641:33-41: void
+VideoBaseTexture-flow.js:641:46-53: 
+VideoBaseTexture-flow.js:641:46-70: 
+VideoBaseTexture-flow.js:641:63-69: string
+VideoBaseTexture-flow.js:641:76: number
+VideoBaseTexture-flow.js:643:17-21: Image
+VideoBaseTexture-flow.js:643:17-66: 
+VideoBaseTexture-flow.js:643:37-56: 
+VideoBaseTexture-flow.js:643:37-66: 
+VideoBaseTexture-flow.js:643:58-65: 
+VideoBaseTexture-flow.js:646:13-59: BaseTexture
+VideoBaseTexture-flow.js:646:27-59: BaseTexture
+VideoBaseTexture-flow.js:646:31-41: [class: BaseTexture]
+VideoBaseTexture-flow.js:646:43-47: Image
+VideoBaseTexture-flow.js:646:50-58: 
+VideoBaseTexture-flow.js:647:13-23: BaseTexture
+VideoBaseTexture-flow.js:647:13-43: 
+VideoBaseTexture-flow.js:647:36-43: 
+VideoBaseTexture-flow.js:649:17-27: 
+VideoBaseTexture-flow.js:651:17-27: BaseTexture
+VideoBaseTexture-flow.js:651:17-53: 
+VideoBaseTexture-flow.js:651:43-53: 
+VideoBaseTexture-flow.js:655:13-23: BaseTexture
+VideoBaseTexture-flow.js:655:13-65: 
+VideoBaseTexture-flow.js:655:38-55: 
+VideoBaseTexture-flow.js:655:38-65: 
+VideoBaseTexture-flow.js:655:57-64: 
+VideoBaseTexture-flow.js:657:13-17: Image
+VideoBaseTexture-flow.js:657:13-32: 
+VideoBaseTexture-flow.js:657:25-32: 
+VideoBaseTexture-flow.js:659:13-28: 
+VideoBaseTexture-flow.js:659:13-52: BaseTexture
+VideoBaseTexture-flow.js:659:30-37: 
+VideoBaseTexture-flow.js:659:42-52: BaseTexture
+VideoBaseTexture-flow.js:662:16-26: BaseTexture
+VideoBaseTexture-flow.js:673:23-28: 
+VideoBaseTexture-flow.js:673:31-39: 
+VideoBaseTexture-flow.js:675:14-19: 
+VideoBaseTexture-flow.js:677:13-18: 
+VideoBaseTexture-flow.js:677:13-46: 
+VideoBaseTexture-flow.js:677:30-46: 
+VideoBaseTexture-flow.js:677:40-42: 
+VideoBaseTexture-flow.js:677:40-44: 
+VideoBaseTexture-flow.js:680:13-23: BaseTexture
+VideoBaseTexture-flow.js:680:27-42: 
+VideoBaseTexture-flow.js:680:27-58: 
+VideoBaseTexture-flow.js:680:44-57: 
+VideoBaseTexture-flow.js:682:14-24: 
+VideoBaseTexture-flow.js:684:13-60: BaseTexture
+VideoBaseTexture-flow.js:684:27-60: BaseTexture
+VideoBaseTexture-flow.js:684:31-41: [class: BaseTexture]
+VideoBaseTexture-flow.js:684:43-48: 
+VideoBaseTexture-flow.js:684:51-59: 
+VideoBaseTexture-flow.js:685:13-28: 
+VideoBaseTexture-flow.js:685:13-58: BaseTexture
+VideoBaseTexture-flow.js:685:30-43: 
+VideoBaseTexture-flow.js:685:48-58: BaseTexture
+VideoBaseTexture-flow.js:688:16-26: BaseTexture
+VideoBaseTexture-flow.js:702:1,1061:1: [class: Ticker]
+VideoBaseTexture-flow.js:713:9-12: Ticker
+VideoBaseTexture-flow.js:713:9-42: 
+VideoBaseTexture-flow.js:713:25-42: 
+VideoBaseTexture-flow.js:713:29-40: 
+VideoBaseTexture-flow.js:719:9-12: Ticker
+VideoBaseTexture-flow.js:719:9-30: null
+VideoBaseTexture-flow.js:719:27-30: null
+VideoBaseTexture-flow.js:726:9-12: Ticker
+VideoBaseTexture-flow.js:726:9-32: number
+VideoBaseTexture-flow.js:726:30-32: number
+VideoBaseTexture-flow.js:736:9-12: Ticker
+VideoBaseTexture-flow.js:736:9-30: boolean
+VideoBaseTexture-flow.js:736:26-30: boolean
+VideoBaseTexture-flow.js:747:9-12: Ticker
+VideoBaseTexture-flow.js:747:9-26: number
+VideoBaseTexture-flow.js:747:26: number
+VideoBaseTexture-flow.js:759:9-12: Ticker
+VideoBaseTexture-flow.js:759:9-40: number
+VideoBaseTexture-flow.js:759:26: number
+VideoBaseTexture-flow.js:759:26-40: number
+VideoBaseTexture-flow.js:759:30-40: 
+VideoBaseTexture-flow.js:771:9-12: Ticker
+VideoBaseTexture-flow.js:771:9-25: number
+VideoBaseTexture-flow.js:771:25: number
+VideoBaseTexture-flow.js:783:9-12: Ticker
+VideoBaseTexture-flow.js:783:9-22: number
+VideoBaseTexture-flow.js:783:22: number
+VideoBaseTexture-flow.js:796:9-12: Ticker
+VideoBaseTexture-flow.js:796:9-28: boolean
+VideoBaseTexture-flow.js:796:24-28: boolean
+VideoBaseTexture-flow.js:809:9-12: Ticker
+VideoBaseTexture-flow.js:809:9,823:9: (time: ) => void
+VideoBaseTexture-flow.js:809:22,823:9: (time: ) => void
+VideoBaseTexture-flow.js:809:23-26: 
+VideoBaseTexture-flow.js:811:13-16: Ticker
+VideoBaseTexture-flow.js:811:13-34: null
+VideoBaseTexture-flow.js:811:31-34: null
+VideoBaseTexture-flow.js:813:17-20: Ticker
+VideoBaseTexture-flow.js:816:17-20: Ticker
+VideoBaseTexture-flow.js:816:17-33: void
+VideoBaseTexture-flow.js:816:29-32: 
+VideoBaseTexture-flow.js:818:21-24: Ticker
+VideoBaseTexture-flow.js:818:37-40: Ticker
+VideoBaseTexture-flow.js:818:37-51: 
+VideoBaseTexture-flow.js:818:57-60: null
+VideoBaseTexture-flow.js:818:65-68: Ticker
+VideoBaseTexture-flow.js:818:65-77: 
+VideoBaseTexture-flow.js:818:65-99: 
+VideoBaseTexture-flow.js:818:89-92: 
+VideoBaseTexture-flow.js:818:95-98: boolean
+VideoBaseTexture-flow.js:820:21-24: Ticker
+VideoBaseTexture-flow.js:820:21-71: 
+VideoBaseTexture-flow.js:820:39-59: 
+VideoBaseTexture-flow.js:820:39-71: 
+VideoBaseTexture-flow.js:820:61-64: Ticker
+VideoBaseTexture-flow.js:820:61-70: 
+VideoBaseTexture-flow.js:835:13-16: Ticker
+VideoBaseTexture-flow.js:835:13-27: 
+VideoBaseTexture-flow.js:835:33-36: null
+VideoBaseTexture-flow.js:835:41-44: Ticker
+VideoBaseTexture-flow.js:835:41-53: 
+VideoBaseTexture-flow.js:835:41-75: 
+VideoBaseTexture-flow.js:835:65-68: 
+VideoBaseTexture-flow.js:835:71-74: boolean
+VideoBaseTexture-flow.js:838:13-16: Ticker
+VideoBaseTexture-flow.js:838:13-45: 
+VideoBaseTexture-flow.js:838:29-39: 
+VideoBaseTexture-flow.js:838:29-45: 
+VideoBaseTexture-flow.js:839:13-16: Ticker
+VideoBaseTexture-flow.js:839:13-63: 
+VideoBaseTexture-flow.js:839:31-51: 
+VideoBaseTexture-flow.js:839:31-63: 
+VideoBaseTexture-flow.js:839:53-56: Ticker
+VideoBaseTexture-flow.js:839:53-62: 
+VideoBaseTexture-flow.js:850:13-16: Ticker
+VideoBaseTexture-flow.js:850:13-27: 
+VideoBaseTexture-flow.js:850:33-36: null
+VideoBaseTexture-flow.js:852:13-32: 
+VideoBaseTexture-flow.js:852:13-49: 
+VideoBaseTexture-flow.js:852:34-48: 
+VideoBaseTexture-flow.js:853:13-16: Ticker
+VideoBaseTexture-flow.js:853:13-34: null
+VideoBaseTexture-flow.js:853:31-34: null
+VideoBaseTexture-flow.js:869:13-16: Ticker
+VideoBaseTexture-flow.js:871:13-16: Ticker
+VideoBaseTexture-flow.js:871:13-35: void
+VideoBaseTexture-flow.js:873:18-21: Ticker
+VideoBaseTexture-flow.js:875:13-16: Ticker
+VideoBaseTexture-flow.js:875:13-24: void
+VideoBaseTexture-flow.js:888:9-10: 
+VideoBaseTexture-flow.js:888:13-19: 
+VideoBaseTexture-flow.js:890:9-12: Ticker
+VideoBaseTexture-flow.js:890:9-21: 
+VideoBaseTexture-flow.js:890:9-43: 
+VideoBaseTexture-flow.js:890:26-29: 
+VideoBaseTexture-flow.js:890:32-33: 
+VideoBaseTexture-flow.js:890:36-42: 
+VideoBaseTexture-flow.js:892:9-12: Ticker
+VideoBaseTexture-flow.js:892:9-31: void
+VideoBaseTexture-flow.js:894:16-19: Ticker
+VideoBaseTexture-flow.js:906:13-14: 
+VideoBaseTexture-flow.js:906:17-23: 
+VideoBaseTexture-flow.js:908:9-12: Ticker
+VideoBaseTexture-flow.js:908:9-21: 
+VideoBaseTexture-flow.js:908:9-45: 
+VideoBaseTexture-flow.js:908:28-31: 
+VideoBaseTexture-flow.js:908:34-35: 
+VideoBaseTexture-flow.js:908:38-44: 
+VideoBaseTexture-flow.js:910:9-12: Ticker
+VideoBaseTexture-flow.js:910:9-31: void
+VideoBaseTexture-flow.js:912:16-19: Ticker
+VideoBaseTexture-flow.js:924:12-13: 
+VideoBaseTexture-flow.js:924:16-22: 
+VideoBaseTexture-flow.js:926:9-12: Ticker
+VideoBaseTexture-flow.js:926:9-21: 
+VideoBaseTexture-flow.js:926:9-44: 
+VideoBaseTexture-flow.js:926:27-30: 
+VideoBaseTexture-flow.js:926:33-34: 
+VideoBaseTexture-flow.js:926:37-43: 
+VideoBaseTexture-flow.js:928:14-17: Ticker
+VideoBaseTexture-flow.js:928:14-26: 
+VideoBaseTexture-flow.js:928:14-48: 
+VideoBaseTexture-flow.js:928:38-41: 
+VideoBaseTexture-flow.js:928:44-47: boolean
+VideoBaseTexture-flow.js:930:13-16: Ticker
+VideoBaseTexture-flow.js:930:13-34: void
+VideoBaseTexture-flow.js:933:16-19: Ticker
+VideoBaseTexture-flow.js:942:14-17: Ticker
+VideoBaseTexture-flow.js:944:13-16: Ticker
+VideoBaseTexture-flow.js:944:13-31: boolean
+VideoBaseTexture-flow.js:944:28-31: boolean
+VideoBaseTexture-flow.js:945:13-16: Ticker
+VideoBaseTexture-flow.js:945:13-35: void
+VideoBaseTexture-flow.js:955:13-16: Ticker
+VideoBaseTexture-flow.js:957:13-16: Ticker
+VideoBaseTexture-flow.js:957:13-32: boolean
+VideoBaseTexture-flow.js:957:28-32: boolean
+VideoBaseTexture-flow.js:958:13-16: Ticker
+VideoBaseTexture-flow.js:958:13-34: void
+VideoBaseTexture-flow.js:975:26-36: 
+VideoBaseTexture-flow.js:975:26-42: 
+VideoBaseTexture-flow.js:977:13-21: number
+VideoBaseTexture-flow.js:994:13-23: 
+VideoBaseTexture-flow.js:994:13-39: boolean
+VideoBaseTexture-flow.js:994:27-30: Ticker
+VideoBaseTexture-flow.js:994:27-39: 
+VideoBaseTexture-flow.js:997:13-68: number
+VideoBaseTexture-flow.js:997:25-28: Ticker
+VideoBaseTexture-flow.js:997:25-68: number
+VideoBaseTexture-flow.js:997:42-52: 
+VideoBaseTexture-flow.js:997:42-68: number
+VideoBaseTexture-flow.js:997:56-59: Ticker
+VideoBaseTexture-flow.js:997:56-68: 
+VideoBaseTexture-flow.js:1000:17-25: number
+VideoBaseTexture-flow.js:1000:17-46: boolean
+VideoBaseTexture-flow.js:1000:29-32: Ticker
+VideoBaseTexture-flow.js:1000:29-46: 
+VideoBaseTexture-flow.js:1002:17-46: 
+VideoBaseTexture-flow.js:1002:29-32: Ticker
+VideoBaseTexture-flow.js:1002:29-46: 
+VideoBaseTexture-flow.js:1005:13-16: Ticker
+VideoBaseTexture-flow.js:1005:13-65: number
+VideoBaseTexture-flow.js:1005:30-38: number
+VideoBaseTexture-flow.js:1005:30-52: number
+VideoBaseTexture-flow.js:1005:30-65: number
+VideoBaseTexture-flow.js:1005:42-52: 
+VideoBaseTexture-flow.js:1005:56-59: Ticker
+VideoBaseTexture-flow.js:1005:56-65: 
+VideoBaseTexture-flow.js:1008:13-16: Ticker
+VideoBaseTexture-flow.js:1008:13-25: 
+VideoBaseTexture-flow.js:1008:13-52: 
+VideoBaseTexture-flow.js:1008:32-35: 
+VideoBaseTexture-flow.js:1008:38-51: number
+VideoBaseTexture-flow.js:1012:13-16: Ticker
+VideoBaseTexture-flow.js:1012:13-47: number
+VideoBaseTexture-flow.js:1012:30-33: Ticker
+VideoBaseTexture-flow.js:1012:30-47: number
+VideoBaseTexture-flow.js:1012:47: number
+VideoBaseTexture-flow.js:1015:9-12: Ticker
+VideoBaseTexture-flow.js:1015:9-35: 
+VideoBaseTexture-flow.js:1015:25-35: 
+VideoBaseTexture-flow.js:1030:16-19: number
+VideoBaseTexture-flow.js:1030:16-36: number
+VideoBaseTexture-flow.js:1030:23-26: Ticker
+VideoBaseTexture-flow.js:1030:23-36: 
+VideoBaseTexture-flow.js:1046:16-19: number
+VideoBaseTexture-flow.js:1046:16-40: number
+VideoBaseTexture-flow.js:1046:23-26: Ticker
+VideoBaseTexture-flow.js:1046:23-40: 
+VideoBaseTexture-flow.js:1054:16-18: number
+VideoBaseTexture-flow.js:1057:15-21: number
+VideoBaseTexture-flow.js:1057:25-28: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+VideoBaseTexture-flow.js:1057:25-70: number
+VideoBaseTexture-flow.js:1057:34-37: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+VideoBaseTexture-flow.js:1057:34-49: number
+VideoBaseTexture-flow.js:1057:34-56: number
+VideoBaseTexture-flow.js:1057:43: number
+VideoBaseTexture-flow.js:1057:46-48: number
+VideoBaseTexture-flow.js:1057:53-56: number
+VideoBaseTexture-flow.js:1057:59-69: 
+VideoBaseTexture-flow.js:1059:9-12: Ticker
+VideoBaseTexture-flow.js:1059:9-40: number
+VideoBaseTexture-flow.js:1059:30: number
+VideoBaseTexture-flow.js:1059:30-40: number
+VideoBaseTexture-flow.js:1059:34-40: number
+VideoBaseTexture-flow.js:1070:1,1339:1: [class: VideoBaseTexture]
+VideoBaseTexture-flow.js:1070:32-42: [class: BaseTexture]
+VideoBaseTexture-flow.js:1076:17-22: HTMLVideoElement
+VideoBaseTexture-flow.js:1076:25-33: 
+VideoBaseTexture-flow.js:1078:14-19: HTMLVideoElement
+VideoBaseTexture-flow.js:1080:19-65: Error
+VideoBaseTexture-flow.js:1080:23-27: [class: Error]
+VideoBaseTexture-flow.js:1080:29-64: string
+VideoBaseTexture-flow.js:1086:14-19: HTMLVideoElement
+VideoBaseTexture-flow.js:1086:36-41: HTMLVideoElement
+VideoBaseTexture-flow.js:1086:36-58: number
+VideoBaseTexture-flow.js:1086:63-68: HTMLVideoElement
+VideoBaseTexture-flow.js:1086:85-90: HTMLVideoElement
+VideoBaseTexture-flow.js:1086:85-107: number
+VideoBaseTexture-flow.js:1087:16-21: HTMLVideoElement
+VideoBaseTexture-flow.js:1087:32-37: HTMLVideoElement
+VideoBaseTexture-flow.js:1089:13-18: HTMLVideoElement
+VideoBaseTexture-flow.js:1089:13-34: boolean
+VideoBaseTexture-flow.js:1089:31-34: boolean
+VideoBaseTexture-flow.js:1092:9-32: void
+VideoBaseTexture-flow.js:1092:15-20: HTMLVideoElement
+VideoBaseTexture-flow.js:1092:23-31: 
+VideoBaseTexture-flow.js:1094:9-12: VideoBaseTexture
+VideoBaseTexture-flow.js:1094:9-38: number
+VideoBaseTexture-flow.js:1094:22-27: HTMLVideoElement
+VideoBaseTexture-flow.js:1094:22-38: number
+VideoBaseTexture-flow.js:1095:9-12: VideoBaseTexture
+VideoBaseTexture-flow.js:1095:9-40: number
+VideoBaseTexture-flow.js:1095:23-28: HTMLVideoElement
+VideoBaseTexture-flow.js:1095:23-40: number
+VideoBaseTexture-flow.js:1097:9-12: VideoBaseTexture
+VideoBaseTexture-flow.js:1097:9-31: boolean
+VideoBaseTexture-flow.js:1097:28-31: boolean
+VideoBaseTexture-flow.js:1098:9-12: VideoBaseTexture
+VideoBaseTexture-flow.js:1098:9-36: boolean
+VideoBaseTexture-flow.js:1098:32-36: boolean
+VideoBaseTexture-flow.js:1107:9-12: VideoBaseTexture
+VideoBaseTexture-flow.js:1107:9-28: boolean
+VideoBaseTexture-flow.js:1107:25-28: boolean
+VideoBaseTexture-flow.js:1109:9-12: VideoBaseTexture
+VideoBaseTexture-flow.js:1109:9-44: () => void
+VideoBaseTexture-flow.js:1109:23-26: VideoBaseTexture
+VideoBaseTexture-flow.js:1109:23-33: () => void
+VideoBaseTexture-flow.js:1109:23-44: () => void
+VideoBaseTexture-flow.js:1109:40-43: VideoBaseTexture
+VideoBaseTexture-flow.js:1110:9-12: VideoBaseTexture
+VideoBaseTexture-flow.js:1110:9-52: () => void
+VideoBaseTexture-flow.js:1110:27-30: VideoBaseTexture
+VideoBaseTexture-flow.js:1110:27-41: () => void
+VideoBaseTexture-flow.js:1110:27-52: () => void
+VideoBaseTexture-flow.js:1110:48-51: VideoBaseTexture
+VideoBaseTexture-flow.js:1112:9-14: HTMLVideoElement
+VideoBaseTexture-flow.js:1112:9-69: void
+VideoBaseTexture-flow.js:1112:33-38: string
+VideoBaseTexture-flow.js:1112:41-44: VideoBaseTexture
+VideoBaseTexture-flow.js:1112:41-57: () => void
+VideoBaseTexture-flow.js:1112:41-68: () => void
+VideoBaseTexture-flow.js:1112:64-67: VideoBaseTexture
+VideoBaseTexture-flow.js:1113:9-14: HTMLVideoElement
+VideoBaseTexture-flow.js:1113:9-69: void
+VideoBaseTexture-flow.js:1113:33-39: string
+VideoBaseTexture-flow.js:1113:42-45: VideoBaseTexture
+VideoBaseTexture-flow.js:1113:42-57: () => void
+VideoBaseTexture-flow.js:1113:42-68: () => void
+VideoBaseTexture-flow.js:1113:64-67: VideoBaseTexture
+VideoBaseTexture-flow.js:1114:9-12: VideoBaseTexture
+VideoBaseTexture-flow.js:1114:9-30: boolean
+VideoBaseTexture-flow.js:1114:26-30: boolean
+VideoBaseTexture-flow.js:1115:9-12: VideoBaseTexture
+VideoBaseTexture-flow.js:1115:9-29: boolean
+VideoBaseTexture-flow.js:1115:25-29: boolean
+VideoBaseTexture-flow.js:1117:14-17: VideoBaseTexture
+VideoBaseTexture-flow.js:1117:14-34: boolean
+VideoBaseTexture-flow.js:1119:13-18: HTMLVideoElement
+VideoBaseTexture-flow.js:1119:13-63: void
+VideoBaseTexture-flow.js:1119:37-45: string
+VideoBaseTexture-flow.js:1119:48-51: VideoBaseTexture
+VideoBaseTexture-flow.js:1119:48-62: () => void
+VideoBaseTexture-flow.js:1120:13-18: HTMLVideoElement
+VideoBaseTexture-flow.js:1120:13-70: void
+VideoBaseTexture-flow.js:1120:37-52: string
+VideoBaseTexture-flow.js:1120:55-58: VideoBaseTexture
+VideoBaseTexture-flow.js:1120:55-69: () => void
+VideoBaseTexture-flow.js:1124:13-16: VideoBaseTexture
+VideoBaseTexture-flow.js:1124:13-29: void
+VideoBaseTexture-flow.js:1136:15-20: 
+VideoBaseTexture-flow.js:1136:24-27: VideoBaseTexture
+VideoBaseTexture-flow.js:1136:24-34: 
+VideoBaseTexture-flow.js:1138:17-22: 
+VideoBaseTexture-flow.js:1138:17-34: 
+VideoBaseTexture-flow.js:1138:17-38: boolean
+VideoBaseTexture-flow.js:1138:17-116: boolean
+VideoBaseTexture-flow.js:1138:38: number
+VideoBaseTexture-flow.js:1138:43-48: 
+VideoBaseTexture-flow.js:1138:61-65: boolean
+VideoBaseTexture-flow.js:1138:70-75: 
+VideoBaseTexture-flow.js:1138:87-91: boolean
+VideoBaseTexture-flow.js:1138:96-101: 
+VideoBaseTexture-flow.js:1138:96-112: 
+VideoBaseTexture-flow.js:1138:96-116: boolean
+VideoBaseTexture-flow.js:1138:116: number
+VideoBaseTexture-flow.js:1149:16-19: VideoBaseTexture
+VideoBaseTexture-flow.js:1149:16-26: 
+VideoBaseTexture-flow.js:1149:16-75: boolean
+VideoBaseTexture-flow.js:1149:43: number
+VideoBaseTexture-flow.js:1149:48-69: 
+VideoBaseTexture-flow.js:1149:48-75: boolean
+VideoBaseTexture-flow.js:1149:75: number
+VideoBaseTexture-flow.js:1160:14-17: VideoBaseTexture
+VideoBaseTexture-flow.js:1162:13-16: VideoBaseTexture
+VideoBaseTexture-flow.js:1162:13-29: void
+VideoBaseTexture-flow.js:1165:14-17: VideoBaseTexture
+VideoBaseTexture-flow.js:1165:38-41: VideoBaseTexture
+VideoBaseTexture-flow.js:1167:13-18: 
+VideoBaseTexture-flow.js:1167:13-41: 
+VideoBaseTexture-flow.js:1167:24-27: VideoBaseTexture
+VideoBaseTexture-flow.js:1167:24-34: () => void
+VideoBaseTexture-flow.js:1167:37-40: VideoBaseTexture
+VideoBaseTexture-flow.js:1168:13-16: VideoBaseTexture
+VideoBaseTexture-flow.js:1168:13-39: boolean
+VideoBaseTexture-flow.js:1168:36-39: boolean
+VideoBaseTexture-flow.js:1179:13-16: VideoBaseTexture
+VideoBaseTexture-flow.js:1181:13-18: 
+VideoBaseTexture-flow.js:1181:13-44: 
+VideoBaseTexture-flow.js:1181:27-30: VideoBaseTexture
+VideoBaseTexture-flow.js:1181:27-37: () => void
+VideoBaseTexture-flow.js:1181:40-43: VideoBaseTexture
+VideoBaseTexture-flow.js:1182:13-16: VideoBaseTexture
+VideoBaseTexture-flow.js:1182:13-40: boolean
+VideoBaseTexture-flow.js:1182:36-40: boolean
+VideoBaseTexture-flow.js:1193:9-12: VideoBaseTexture
+VideoBaseTexture-flow.js:1193:9-29: boolean
+VideoBaseTexture-flow.js:1193:26-29: boolean
+VideoBaseTexture-flow.js:1195:13-16: VideoBaseTexture
+VideoBaseTexture-flow.js:1197:13-23: 
+VideoBaseTexture-flow.js:1197:13-71: 
+VideoBaseTexture-flow.js:1197:45-53: string
+VideoBaseTexture-flow.js:1197:56-59: VideoBaseTexture
+VideoBaseTexture-flow.js:1197:56-70: () => void
+VideoBaseTexture-flow.js:1198:13-16: VideoBaseTexture
+VideoBaseTexture-flow.js:1198:13-23: 
+VideoBaseTexture-flow.js:1198:13-78: 
+VideoBaseTexture-flow.js:1198:45-60: string
+VideoBaseTexture-flow.js:1198:63-66: VideoBaseTexture
+VideoBaseTexture-flow.js:1198:63-77: () => void
+VideoBaseTexture-flow.js:1200:13-16: VideoBaseTexture
+VideoBaseTexture-flow.js:1200:13-47: 
+VideoBaseTexture-flow.js:1200:26-29: VideoBaseTexture
+VideoBaseTexture-flow.js:1200:26-36: 
+VideoBaseTexture-flow.js:1200:26-47: 
+VideoBaseTexture-flow.js:1201:13-16: VideoBaseTexture
+VideoBaseTexture-flow.js:1201:13-49: 
+VideoBaseTexture-flow.js:1201:27-30: VideoBaseTexture
+VideoBaseTexture-flow.js:1201:27-37: 
+VideoBaseTexture-flow.js:1201:27-49: 
+VideoBaseTexture-flow.js:1204:18-21: VideoBaseTexture
+VideoBaseTexture-flow.js:1206:17-20: VideoBaseTexture
+VideoBaseTexture-flow.js:1206:17-36: boolean
+VideoBaseTexture-flow.js:1206:33-36: boolean
+VideoBaseTexture-flow.js:1207:17-20: VideoBaseTexture
+VideoBaseTexture-flow.js:1207:17-41: 
+VideoBaseTexture-flow.js:1207:27-34: string
+VideoBaseTexture-flow.js:1207:37-40: VideoBaseTexture
+VideoBaseTexture-flow.js:1210:17-20: VideoBaseTexture
+VideoBaseTexture-flow.js:1210:17-39: boolean
+VideoBaseTexture-flow.js:1212:17-20: VideoBaseTexture
+VideoBaseTexture-flow.js:1212:17-35: void
+VideoBaseTexture-flow.js:1214:22-25: VideoBaseTexture
+VideoBaseTexture-flow.js:1216:17-20: VideoBaseTexture
+VideoBaseTexture-flow.js:1216:17-27: 
+VideoBaseTexture-flow.js:1216:17-34: 
+VideoBaseTexture-flow.js:1227:13-16: VideoBaseTexture
+VideoBaseTexture-flow.js:1229:13-18: 
+VideoBaseTexture-flow.js:1229:13-44: 
+VideoBaseTexture-flow.js:1229:27-30: VideoBaseTexture
+VideoBaseTexture-flow.js:1229:27-37: () => void
+VideoBaseTexture-flow.js:1229:40-43: VideoBaseTexture
+VideoBaseTexture-flow.js:1232:13-16: VideoBaseTexture
+VideoBaseTexture-flow.js:1232:28-38: 
+VideoBaseTexture-flow.js:1234:13-56: boolean
+VideoBaseTexture-flow.js:1234:20-35: 
+VideoBaseTexture-flow.js:1234:20-56: 
+VideoBaseTexture-flow.js:1234:37-55: 
+VideoBaseTexture-flow.js:1235:13-38: boolean
+VideoBaseTexture-flow.js:1235:20-38: 
+VideoBaseTexture-flow.js:1238:9-23: void
+VideoBaseTexture-flow.js:1249:22-26: HTMLVideoElement
+VideoBaseTexture-flow.js:1249:29-37: 
+VideoBaseTexture-flow.js:1251:14-18: HTMLVideoElement
+VideoBaseTexture-flow.js:1253:13-17: HTMLVideoElement
+VideoBaseTexture-flow.js:1253:13-44: 
+VideoBaseTexture-flow.js:1253:29-44: 
+VideoBaseTexture-flow.js:1253:38-40: 
+VideoBaseTexture-flow.js:1253:38-42: 
+VideoBaseTexture-flow.js:1256:13-23: VideoBaseTexture
+VideoBaseTexture-flow.js:1256:27-42: 
+VideoBaseTexture-flow.js:1256:27-57: 
+VideoBaseTexture-flow.js:1256:44-56: 
+VideoBaseTexture-flow.js:1258:14-24: 
+VideoBaseTexture-flow.js:1260:13-64: VideoBaseTexture
+VideoBaseTexture-flow.js:1260:27-64: VideoBaseTexture
+VideoBaseTexture-flow.js:1260:31-46: [class: VideoBaseTexture]
+VideoBaseTexture-flow.js:1260:48-52: HTMLVideoElement
+VideoBaseTexture-flow.js:1260:55-63: 
+VideoBaseTexture-flow.js:1261:13-28: 
+VideoBaseTexture-flow.js:1261:13-57: VideoBaseTexture
+VideoBaseTexture-flow.js:1261:30-42: 
+VideoBaseTexture-flow.js:1261:47-57: VideoBaseTexture
+VideoBaseTexture-flow.js:1264:16-26: VideoBaseTexture
+VideoBaseTexture-flow.js:1279:20-27: 
+VideoBaseTexture-flow.js:1279:30-38: 
+VideoBaseTexture-flow.js:1281:15-19: HTMLVideoElement
+VideoBaseTexture-flow.js:1281:23-30: Document
+VideoBaseTexture-flow.js:1281:23-53: HTMLVideoElement
+VideoBaseTexture-flow.js:1281:46-52: string
+VideoBaseTexture-flow.js:1283:9-13: HTMLVideoElement
+VideoBaseTexture-flow.js:1283:9-52: void
+VideoBaseTexture-flow.js:1283:28-47: string
+VideoBaseTexture-flow.js:1283:50-51: string
+VideoBaseTexture-flow.js:1284:9-13: HTMLVideoElement
+VideoBaseTexture-flow.js:1284:9-45: void
+VideoBaseTexture-flow.js:1284:28-40: string
+VideoBaseTexture-flow.js:1284:43-44: string
+VideoBaseTexture-flow.js:1287:13-17: Array<T>
+VideoBaseTexture-flow.js:1287:19-25: (obj: any) => boolean
+VideoBaseTexture-flow.js:1287:27-34: 
+VideoBaseTexture-flow.js:1289:22: number
+VideoBaseTexture-flow.js:1289:26: number
+VideoBaseTexture-flow.js:1289:29: number
+VideoBaseTexture-flow.js:1289:29-47: boolean
+VideoBaseTexture-flow.js:1289:33-40: 
+VideoBaseTexture-flow.js:1289:33-47: 
+VideoBaseTexture-flow.js:1289:50-52: number
+VideoBaseTexture-flow.js:1291:17-21: HTMLVideoElement
+VideoBaseTexture-flow.js:1291:17-97: Node
+VideoBaseTexture-flow.js:1291:35-46: (path: , type: ) => HTMLSourceElement
+VideoBaseTexture-flow.js:1291:35-96: HTMLSourceElement
+VideoBaseTexture-flow.js:1291:48-55: 
+VideoBaseTexture-flow.js:1291:48-58: 
+VideoBaseTexture-flow.js:1291:48-77: 
+VideoBaseTexture-flow.js:1291:57: number
+VideoBaseTexture-flow.js:1291:67-77: 
+VideoBaseTexture-flow.js:1291:80-87: 
+VideoBaseTexture-flow.js:1291:80-90: 
+VideoBaseTexture-flow.js:1291:80-95: 
+VideoBaseTexture-flow.js:1291:89: number
+VideoBaseTexture-flow.js:1297:13-17: HTMLVideoElement
+VideoBaseTexture-flow.js:1297:13-84: Node
+VideoBaseTexture-flow.js:1297:31-42: (path: , type: ) => HTMLSourceElement
+VideoBaseTexture-flow.js:1297:31-83: HTMLSourceElement
+VideoBaseTexture-flow.js:1297:44-51: 
+VideoBaseTexture-flow.js:1297:44-67: 
+VideoBaseTexture-flow.js:1297:60-67: 
+VideoBaseTexture-flow.js:1297:70-77: 
+VideoBaseTexture-flow.js:1297:70-82: 
+VideoBaseTexture-flow.js:1300:9-13: HTMLVideoElement
+VideoBaseTexture-flow.js:1300:9-20: void
+VideoBaseTexture-flow.js:1302:16-31: [class: VideoBaseTexture]
+VideoBaseTexture-flow.js:1302:16-59: VideoBaseTexture
+VideoBaseTexture-flow.js:1302:43-47: HTMLVideoElement
+VideoBaseTexture-flow.js:1302:50-58: 
+VideoBaseTexture-flow.js:1313:16-19: VideoBaseTexture
+VideoBaseTexture-flow.js:1313:16-31: 
+VideoBaseTexture-flow.js:1321:20-24: $Subtype<>
+VideoBaseTexture-flow.js:1323:13-17: 
+VideoBaseTexture-flow.js:1323:23-26: VideoBaseTexture
+VideoBaseTexture-flow.js:1325:13-16: 
+VideoBaseTexture-flow.js:1325:13-36: 
+VideoBaseTexture-flow.js:1325:32-36: 
+VideoBaseTexture-flow.js:1327:18-21: 
+VideoBaseTexture-flow.js:1327:38-41: 
+VideoBaseTexture-flow.js:1329:17-22: 
+VideoBaseTexture-flow.js:1329:17-48: 
+VideoBaseTexture-flow.js:1329:31-34: 
+VideoBaseTexture-flow.js:1329:31-41: 
+VideoBaseTexture-flow.js:1329:44-47: 
+VideoBaseTexture-flow.js:1330:17-20: VideoBaseTexture
+VideoBaseTexture-flow.js:1330:17-44: boolean
+VideoBaseTexture-flow.js:1330:40-44: boolean
+VideoBaseTexture-flow.js:1332:22-25: 
+VideoBaseTexture-flow.js:1332:43-46: 
+VideoBaseTexture-flow.js:1334:17-22: 
+VideoBaseTexture-flow.js:1334:17-45: 
+VideoBaseTexture-flow.js:1334:28-31: 
+VideoBaseTexture-flow.js:1334:28-38: 
+VideoBaseTexture-flow.js:1334:41-44: 
+VideoBaseTexture-flow.js:1335:17-20: VideoBaseTexture
+VideoBaseTexture-flow.js:1335:17-43: boolean
+VideoBaseTexture-flow.js:1335:40-43: boolean
+VideoBaseTexture-flow.js:1341:1-16: [class: VideoBaseTexture]
+VideoBaseTexture-flow.js:1341:1-52: (videoSrc: , scaleMode: ) => VideoBaseTexture
+VideoBaseTexture-flow.js:1341:29-44: [class: VideoBaseTexture]
+VideoBaseTexture-flow.js:1341:29-52: (videoSrc: , scaleMode: ) => VideoBaseTexture
+VideoBaseTexture-flow.js:1343:10-21: (path: , type: ) => HTMLSourceElement
+VideoBaseTexture-flow.js:1343:23-26: 
+VideoBaseTexture-flow.js:1343:29-32: 
+VideoBaseTexture-flow.js:1345:10-13: 
+VideoBaseTexture-flow.js:1347:9-64: 
+VideoBaseTexture-flow.js:1347:16-64: 
+VideoBaseTexture-flow.js:1347:25-28: 
+VideoBaseTexture-flow.js:1347:25-62: 
+VideoBaseTexture-flow.js:1347:37-40: 
+VideoBaseTexture-flow.js:1347:37-57: 
+VideoBaseTexture-flow.js:1347:37-61: 
+VideoBaseTexture-flow.js:1347:54-56: string
+VideoBaseTexture-flow.js:1347:61: number
+VideoBaseTexture-flow.js:1350:11-16: HTMLSourceElement
+VideoBaseTexture-flow.js:1350:20-27: Document
+VideoBaseTexture-flow.js:1350:20-51: HTMLSourceElement
+VideoBaseTexture-flow.js:1350:43-50: string
+VideoBaseTexture-flow.js:1352:5-10: HTMLSourceElement
+VideoBaseTexture-flow.js:1352:5-21: 
+VideoBaseTexture-flow.js:1352:18-21: 
+VideoBaseTexture-flow.js:1353:5-10: HTMLSourceElement
+VideoBaseTexture-flow.js:1353:5-22: 
+VideoBaseTexture-flow.js:1353:19-22: 
+VideoBaseTexture-flow.js:1355:12-17: HTMLSourceElement
+VideoBaseTexture-flow.js:1367:1-8: 
+VideoBaseTexture-flow.js:1367:1,1387:2: 
+VideoBaseTexture-flow.js:1367:10-38: string
+VideoBaseTexture-flow.js:1367:41,1387:1: () => void
+VideoBaseTexture-flow.js:1369:5-12: 
+VideoBaseTexture-flow.js:1369:5,1386:6: 
+VideoBaseTexture-flow.js:1369:14-31: string
+VideoBaseTexture-flow.js:1369:34,1386:5: () => void
+VideoBaseTexture-flow.js:1371:9-10: 
+VideoBaseTexture-flow.js:1371:9,1385:10: 
+VideoBaseTexture-flow.js:1371:12-57: string
+VideoBaseTexture-flow.js:1371:60,1385:9: () => void
+VideoBaseTexture-flow.js:1373:17-20: 
+VideoBaseTexture-flow.js:1373:24-44: 
+VideoBaseTexture-flow.js:1373:28-42: 
+VideoBaseTexture-flow.js:1374:17-21: 
+VideoBaseTexture-flow.js:1374:25-43: 
+VideoBaseTexture-flow.js:1374:29-41: 
+VideoBaseTexture-flow.js:1375:17-29: 
+VideoBaseTexture-flow.js:1375:33-51: 
+VideoBaseTexture-flow.js:1375:37-49: 
+VideoBaseTexture-flow.js:1376:17-21: 
+VideoBaseTexture-flow.js:1376:25-35: 
+VideoBaseTexture-flow.js:1376:29-33: 
+VideoBaseTexture-flow.js:1378:13-16: 
+VideoBaseTexture-flow.js:1378:13-23: 
+VideoBaseTexture-flow.js:1378:13-35: 
+VideoBaseTexture-flow.js:1378:29-30: number
+VideoBaseTexture-flow.js:1378:33-34: number
+VideoBaseTexture-flow.js:1379:13-25: 
+VideoBaseTexture-flow.js:1379:13-34: 
+VideoBaseTexture-flow.js:1379:13-44: 
+VideoBaseTexture-flow.js:1379:40: number
+VideoBaseTexture-flow.js:1379:43: number
+VideoBaseTexture-flow.js:1380:13-25: 
+VideoBaseTexture-flow.js:1380:13-40: 
+VideoBaseTexture-flow.js:1380:36-40: 
+VideoBaseTexture-flow.js:1381:13-25: 
+VideoBaseTexture-flow.js:1381:13-56: 
+VideoBaseTexture-flow.js:1382:13-16: 
+VideoBaseTexture-flow.js:1382:13-55: 
+VideoBaseTexture-flow.js:1382:35-47: 
+VideoBaseTexture-flow.js:1382:50-54: 
+VideoBaseTexture-flow.js:1383:13-18: 
+VideoBaseTexture-flow.js:1383:13-27: 
+VideoBaseTexture-flow.js:1383:13-30: 
+VideoBaseTexture-flow.js:1383:13-39: 
+VideoBaseTexture-flow.js:1383:20-24: 
+VideoBaseTexture-flow.js:1383:20-26: 
+VideoBaseTexture-flow.js:1383:38: number
+VideoBaseTexture-flow.js:1384:13-18: 
+VideoBaseTexture-flow.js:1384:13-27: 
+VideoBaseTexture-flow.js:1384:13-30: 
+VideoBaseTexture-flow.js:1384:13-39: 
+VideoBaseTexture-flow.js:1384:20-24: 
+VideoBaseTexture-flow.js:1384:20-26: 
+VideoBaseTexture-flow.js:1384:38: number
+VideoBaseTexture-flow.js:1394:1-8: 
+VideoBaseTexture-flow.js:1394:1,1628:2: 
+VideoBaseTexture-flow.js:1394:10-16: string
+VideoBaseTexture-flow.js:1394:19,1628:1: () => void
+VideoBaseTexture-flow.js:1396:5-12: 
+VideoBaseTexture-flow.js:1396:5,1409:6: 
+VideoBaseTexture-flow.js:1396:14-18: string
+VideoBaseTexture-flow.js:1396:21,1409:5: () => void
+VideoBaseTexture-flow.js:1398:9-10: 
+VideoBaseTexture-flow.js:1398:9,1402:10: 
+VideoBaseTexture-flow.js:1398:12-25: string
+VideoBaseTexture-flow.js:1398:28,1402:9: () => void
+VideoBaseTexture-flow.js:1400:13-18: 
+VideoBaseTexture-flow.js:1400:13-29: 
+VideoBaseTexture-flow.js:1400:13,1401:19: 
+VideoBaseTexture-flow.js:1400:13,1401:22: 
+VideoBaseTexture-flow.js:1400:13,1401:36: 
+VideoBaseTexture-flow.js:1400:20-24: 
+VideoBaseTexture-flow.js:1400:20-28: 
+VideoBaseTexture-flow.js:1401:26-35: string
+VideoBaseTexture-flow.js:1404:9-10: 
+VideoBaseTexture-flow.js:1404:9,1408:10: 
+VideoBaseTexture-flow.js:1404:12-35: string
+VideoBaseTexture-flow.js:1404:38,1408:9: () => void
+VideoBaseTexture-flow.js:1406:13-18: 
+VideoBaseTexture-flow.js:1406:13-31: 
+VideoBaseTexture-flow.js:1406:13,1407:19: 
+VideoBaseTexture-flow.js:1406:13,1407:22: 
+VideoBaseTexture-flow.js:1406:13,1407:34: 
+VideoBaseTexture-flow.js:1406:20-24: 
+VideoBaseTexture-flow.js:1406:20-30: 
+VideoBaseTexture-flow.js:1407:26-33: string
+VideoBaseTexture-flow.js:1411:5-12: 
+VideoBaseTexture-flow.js:1411:5,1420:6: 
+VideoBaseTexture-flow.js:1411:14-22: string
+VideoBaseTexture-flow.js:1411:25,1420:5: () => void
+VideoBaseTexture-flow.js:1413:9-10: 
+VideoBaseTexture-flow.js:1413:9,1417:10: 
+VideoBaseTexture-flow.js:1413:12-25: string
+VideoBaseTexture-flow.js:1413:28,1417:9: () => void
+VideoBaseTexture-flow.js:1415:13-18: 
+VideoBaseTexture-flow.js:1415:13-33: 
+VideoBaseTexture-flow.js:1415:13,1416:19: 
+VideoBaseTexture-flow.js:1415:13,1416:22: 
+VideoBaseTexture-flow.js:1415:13,1416:36: 
+VideoBaseTexture-flow.js:1415:20-24: 
+VideoBaseTexture-flow.js:1415:20-32: 
+VideoBaseTexture-flow.js:1416:26-35: string
+VideoBaseTexture-flow.js:1422:5-12: 
+VideoBaseTexture-flow.js:1422:5,1431:6: 
+VideoBaseTexture-flow.js:1422:14-25: string
+VideoBaseTexture-flow.js:1422:28,1431:5: () => void
+VideoBaseTexture-flow.js:1424:9-10: 
+VideoBaseTexture-flow.js:1424:9,1428:10: 
+VideoBaseTexture-flow.js:1424:12-25: string
+VideoBaseTexture-flow.js:1424:28,1428:9: () => void
+VideoBaseTexture-flow.js:1426:13-18: 
+VideoBaseTexture-flow.js:1426:13-36: 
+VideoBaseTexture-flow.js:1426:13,1427:19: 
+VideoBaseTexture-flow.js:1426:13,1427:22: 
+VideoBaseTexture-flow.js:1426:13,1427:36: 
+VideoBaseTexture-flow.js:1426:20-24: 
+VideoBaseTexture-flow.js:1426:20-35: 
+VideoBaseTexture-flow.js:1427:26-35: string
+VideoBaseTexture-flow.js:1433:5-12: 
+VideoBaseTexture-flow.js:1433:5,1442:6: 
+VideoBaseTexture-flow.js:1433:14-22: string
+VideoBaseTexture-flow.js:1433:25,1442:5: () => void
+VideoBaseTexture-flow.js:1435:9-10: 
+VideoBaseTexture-flow.js:1435:9,1439:10: 
+VideoBaseTexture-flow.js:1435:12-25: string
+VideoBaseTexture-flow.js:1435:28,1439:9: () => void
+VideoBaseTexture-flow.js:1437:13-18: 
+VideoBaseTexture-flow.js:1437:13-33: 
+VideoBaseTexture-flow.js:1437:13,1438:19: 
+VideoBaseTexture-flow.js:1437:13,1438:22: 
+VideoBaseTexture-flow.js:1437:13,1438:36: 
+VideoBaseTexture-flow.js:1437:20-24: 
+VideoBaseTexture-flow.js:1437:20-32: 
+VideoBaseTexture-flow.js:1438:26-35: string
+VideoBaseTexture-flow.js:1444:5-12: 
+VideoBaseTexture-flow.js:1444:5,1453:6: 
+VideoBaseTexture-flow.js:1444:14-33: string
+VideoBaseTexture-flow.js:1444:36,1453:5: () => void
+VideoBaseTexture-flow.js:1446:9-10: 
+VideoBaseTexture-flow.js:1446:9,1450:10: 
+VideoBaseTexture-flow.js:1446:12-25: string
+VideoBaseTexture-flow.js:1446:28,1450:9: () => void
+VideoBaseTexture-flow.js:1448:13-18: 
+VideoBaseTexture-flow.js:1448:13-44: 
+VideoBaseTexture-flow.js:1448:13,1449:19: 
+VideoBaseTexture-flow.js:1448:13,1449:22: 
+VideoBaseTexture-flow.js:1448:13,1449:36: 
+VideoBaseTexture-flow.js:1448:20-24: 
+VideoBaseTexture-flow.js:1448:20-43: 
+VideoBaseTexture-flow.js:1449:26-35: string
+VideoBaseTexture-flow.js:1455:5-12: 
+VideoBaseTexture-flow.js:1455:5,1486:6: 
+VideoBaseTexture-flow.js:1455:14-31: string
+VideoBaseTexture-flow.js:1455:34,1486:5: () => void
+VideoBaseTexture-flow.js:1457:9-10: 
+VideoBaseTexture-flow.js:1457:9,1461:10: 
+VideoBaseTexture-flow.js:1457:12-25: string
+VideoBaseTexture-flow.js:1457:28,1461:9: () => void
+VideoBaseTexture-flow.js:1459:13-18: 
+VideoBaseTexture-flow.js:1459:13-42: 
+VideoBaseTexture-flow.js:1459:13,1460:19: 
+VideoBaseTexture-flow.js:1459:13,1460:22: 
+VideoBaseTexture-flow.js:1459:13,1460:36: 
+VideoBaseTexture-flow.js:1459:20-24: 
+VideoBaseTexture-flow.js:1459:20-41: 
+VideoBaseTexture-flow.js:1460:26-35: string
+VideoBaseTexture-flow.js:1463:9-10: 
+VideoBaseTexture-flow.js:1463:9,1477:10: 
+VideoBaseTexture-flow.js:1463:12-40: string
+VideoBaseTexture-flow.js:1463:43,1477:9: () => void
+VideoBaseTexture-flow.js:1465:17-23: 
+VideoBaseTexture-flow.js:1465:27-31: 
+VideoBaseTexture-flow.js:1465:27-86: 
+VideoBaseTexture-flow.js:1465:50-85: string
+VideoBaseTexture-flow.js:1467:13-18: 
+VideoBaseTexture-flow.js:1467:13-27: 
+VideoBaseTexture-flow.js:1467:13,1468:19: 
+VideoBaseTexture-flow.js:1467:13,1468:22: 
+VideoBaseTexture-flow.js:1467:13,1468:35: 
+VideoBaseTexture-flow.js:1467:20-26: 
+VideoBaseTexture-flow.js:1468:27-34: string
+VideoBaseTexture-flow.js:1469:13-18: 
+VideoBaseTexture-flow.js:1469:13-37: 
+VideoBaseTexture-flow.js:1469:13,1470:19: 
+VideoBaseTexture-flow.js:1469:13,1470:34: 
+VideoBaseTexture-flow.js:1469:20-26: 
+VideoBaseTexture-flow.js:1469:20-36: 
+VideoBaseTexture-flow.js:1470:27-33: string
+VideoBaseTexture-flow.js:1471:13-18: 
+VideoBaseTexture-flow.js:1471:13-35: 
+VideoBaseTexture-flow.js:1471:13,1472:19: 
+VideoBaseTexture-flow.js:1471:13,1472:32: 
+VideoBaseTexture-flow.js:1471:20-26: 
+VideoBaseTexture-flow.js:1471:20-34: 
+VideoBaseTexture-flow.js:1472:27-31: string
+VideoBaseTexture-flow.js:1473:13-18: 
+VideoBaseTexture-flow.js:1473:13-36: 
+VideoBaseTexture-flow.js:1473:13,1474:19: 
+VideoBaseTexture-flow.js:1473:13,1474:35: 
+VideoBaseTexture-flow.js:1473:20-26: 
+VideoBaseTexture-flow.js:1473:20-35: 
+VideoBaseTexture-flow.js:1474:27-34: string
+VideoBaseTexture-flow.js:1475:13-18: 
+VideoBaseTexture-flow.js:1475:13-32: 
+VideoBaseTexture-flow.js:1475:13,1476:19: 
+VideoBaseTexture-flow.js:1475:13,1476:41: 
+VideoBaseTexture-flow.js:1475:20-26: 
+VideoBaseTexture-flow.js:1475:20-31: 
+VideoBaseTexture-flow.js:1476:27-40: string
+VideoBaseTexture-flow.js:1479:9-10: 
+VideoBaseTexture-flow.js:1479:9,1485:10: 
+VideoBaseTexture-flow.js:1479:12-54: string
+VideoBaseTexture-flow.js:1479:57,1485:9: () => void
+VideoBaseTexture-flow.js:1481:17-23: 
+VideoBaseTexture-flow.js:1481:27-31: 
+VideoBaseTexture-flow.js:1481:27-55: 
+VideoBaseTexture-flow.js:1481:50-54: string
+VideoBaseTexture-flow.js:1483:13-18: 
+VideoBaseTexture-flow.js:1483:13-27: 
+VideoBaseTexture-flow.js:1483:13,1484:19: 
+VideoBaseTexture-flow.js:1483:13,1484:22: 
+VideoBaseTexture-flow.js:1483:13,1484:38: 
+VideoBaseTexture-flow.js:1483:20-26: 
+VideoBaseTexture-flow.js:1484:27-37: string
+VideoBaseTexture-flow.js:1488:5-12: 
+VideoBaseTexture-flow.js:1488:5,1503:6: 
+VideoBaseTexture-flow.js:1488:14-32: string
+VideoBaseTexture-flow.js:1488:35,1503:5: () => void
+VideoBaseTexture-flow.js:1490:9-10: 
+VideoBaseTexture-flow.js:1490:9,1494:10: 
+VideoBaseTexture-flow.js:1490:12-25: string
+VideoBaseTexture-flow.js:1490:28,1494:9: () => void
+VideoBaseTexture-flow.js:1492:13-18: 
+VideoBaseTexture-flow.js:1492:13-43: 
+VideoBaseTexture-flow.js:1492:13,1493:19: 
+VideoBaseTexture-flow.js:1492:13,1493:22: 
+VideoBaseTexture-flow.js:1492:13,1493:36: 
+VideoBaseTexture-flow.js:1492:20-24: 
+VideoBaseTexture-flow.js:1492:20-42: 
+VideoBaseTexture-flow.js:1493:26-35: string
+VideoBaseTexture-flow.js:1496:9-10: 
+VideoBaseTexture-flow.js:1496:9,1502:10: 
+VideoBaseTexture-flow.js:1496:12-58: string
+VideoBaseTexture-flow.js:1496:61,1502:9: () => void
+VideoBaseTexture-flow.js:1498:17-25: 
+VideoBaseTexture-flow.js:1498:29-33: 
+VideoBaseTexture-flow.js:1498:29-77: 
+VideoBaseTexture-flow.js:1498:53-76: string
+VideoBaseTexture-flow.js:1500:13-18: 
+VideoBaseTexture-flow.js:1500:13-29: 
+VideoBaseTexture-flow.js:1500:13,1501:19: 
+VideoBaseTexture-flow.js:1500:13,1501:32: 
+VideoBaseTexture-flow.js:1500:20-28: 
+VideoBaseTexture-flow.js:1501:27-31: string
+VideoBaseTexture-flow.js:1505:5-12: 
+VideoBaseTexture-flow.js:1505:5,1544:6: 
+VideoBaseTexture-flow.js:1505:14-25: string
+VideoBaseTexture-flow.js:1505:28,1544:5: () => void
+VideoBaseTexture-flow.js:1507:9-10: 
+VideoBaseTexture-flow.js:1507:9,1511:10: 
+VideoBaseTexture-flow.js:1507:12-25: string
+VideoBaseTexture-flow.js:1507:28,1511:9: () => void
+VideoBaseTexture-flow.js:1509:13-18: 
+VideoBaseTexture-flow.js:1509:13-36: 
+VideoBaseTexture-flow.js:1509:13,1510:19: 
+VideoBaseTexture-flow.js:1509:13,1510:22: 
+VideoBaseTexture-flow.js:1509:13,1510:36: 
+VideoBaseTexture-flow.js:1509:20-24: 
+VideoBaseTexture-flow.js:1509:20-35: 
+VideoBaseTexture-flow.js:1510:26-35: string
+VideoBaseTexture-flow.js:1513:9-10: 
+VideoBaseTexture-flow.js:1513:9,1523:10: 
+VideoBaseTexture-flow.js:1513:12-81: string
+VideoBaseTexture-flow.js:1513:84,1523:9: () => void
+VideoBaseTexture-flow.js:1515:17-23: 
+VideoBaseTexture-flow.js:1515:27-31: 
+VideoBaseTexture-flow.js:1515:27-80: 
+VideoBaseTexture-flow.js:1515:44-79: string
+VideoBaseTexture-flow.js:1517:13-18: 
+VideoBaseTexture-flow.js:1517:13-27: 
+VideoBaseTexture-flow.js:1517:13,1518:19: 
+VideoBaseTexture-flow.js:1517:13,1518:22: 
+VideoBaseTexture-flow.js:1517:13,1518:35: 
+VideoBaseTexture-flow.js:1517:20-26: 
+VideoBaseTexture-flow.js:1518:27-34: string
+VideoBaseTexture-flow.js:1519:13-18: 
+VideoBaseTexture-flow.js:1519:13-33: 
+VideoBaseTexture-flow.js:1519:13,1520:19: 
+VideoBaseTexture-flow.js:1519:13,1520:29: 
+VideoBaseTexture-flow.js:1519:20-26: 
+VideoBaseTexture-flow.js:1519:20-32: 
+VideoBaseTexture-flow.js:1520:27-28: number
+VideoBaseTexture-flow.js:1521:13-18: 
+VideoBaseTexture-flow.js:1521:13-34: 
+VideoBaseTexture-flow.js:1521:13,1522:19: 
+VideoBaseTexture-flow.js:1521:13,1522:29: 
+VideoBaseTexture-flow.js:1521:20-26: 
+VideoBaseTexture-flow.js:1521:20-33: 
+VideoBaseTexture-flow.js:1522:27-28: number
+VideoBaseTexture-flow.js:1525:9-10: 
+VideoBaseTexture-flow.js:1525:9,1535:10: 
+VideoBaseTexture-flow.js:1525:12-39: string
+VideoBaseTexture-flow.js:1525:42,1535:9: () => void
+VideoBaseTexture-flow.js:1527:17-23: 
+VideoBaseTexture-flow.js:1527:27-31: 
+VideoBaseTexture-flow.js:1527:27-84: 
+VideoBaseTexture-flow.js:1527:44-83: string
+VideoBaseTexture-flow.js:1529:13-18: 
+VideoBaseTexture-flow.js:1529:13-27: 
+VideoBaseTexture-flow.js:1529:13,1530:19: 
+VideoBaseTexture-flow.js:1529:13,1530:22: 
+VideoBaseTexture-flow.js:1529:13,1530:35: 
+VideoBaseTexture-flow.js:1529:20-26: 
+VideoBaseTexture-flow.js:1530:27-34: string
+VideoBaseTexture-flow.js:1531:13-18: 
+VideoBaseTexture-flow.js:1531:13-33: 
+VideoBaseTexture-flow.js:1531:13,1532:19: 
+VideoBaseTexture-flow.js:1531:13,1532:29: 
+VideoBaseTexture-flow.js:1531:20-26: 
+VideoBaseTexture-flow.js:1531:20-32: 
+VideoBaseTexture-flow.js:1532:27-28: number
+VideoBaseTexture-flow.js:1533:13-18: 
+VideoBaseTexture-flow.js:1533:13-34: 
+VideoBaseTexture-flow.js:1533:13,1534:19: 
+VideoBaseTexture-flow.js:1533:13,1534:29: 
+VideoBaseTexture-flow.js:1533:20-26: 
+VideoBaseTexture-flow.js:1533:20-33: 
+VideoBaseTexture-flow.js:1534:27-28: number
+VideoBaseTexture-flow.js:1537:9-10: 
+VideoBaseTexture-flow.js:1537:9,1543:10: 
+VideoBaseTexture-flow.js:1537:12-78: string
+VideoBaseTexture-flow.js:1537:81,1543:9: () => void
+VideoBaseTexture-flow.js:1539:17-23: 
+VideoBaseTexture-flow.js:1539:27-31: 
+VideoBaseTexture-flow.js:1539:27-68: 
+VideoBaseTexture-flow.js:1539:44-67: string
+VideoBaseTexture-flow.js:1541:13-18: 
+VideoBaseTexture-flow.js:1541:13-47: 
+VideoBaseTexture-flow.js:1541:13,1542:19: 
+VideoBaseTexture-flow.js:1541:13,1542:28: 
+VideoBaseTexture-flow.js:1541:20-25: [class: Object]
+VideoBaseTexture-flow.js:1541:20-39: Array<>
+VideoBaseTexture-flow.js:1541:20-46: number
+VideoBaseTexture-flow.js:1541:32-38: 
+VideoBaseTexture-flow.js:1542:27: number
+VideoBaseTexture-flow.js:1546:5-12: 
+VideoBaseTexture-flow.js:1546:5,1553:6: 
+VideoBaseTexture-flow.js:1546:14-23: string
+VideoBaseTexture-flow.js:1546:26,1553:5: () => void
+VideoBaseTexture-flow.js:1548:9-10: 
+VideoBaseTexture-flow.js:1548:9,1552:10: 
+VideoBaseTexture-flow.js:1548:12-25: string
+VideoBaseTexture-flow.js:1548:28,1552:9: () => void
+VideoBaseTexture-flow.js:1550:13-18: 
+VideoBaseTexture-flow.js:1550:13-34: 
+VideoBaseTexture-flow.js:1550:13,1551:19: 
+VideoBaseTexture-flow.js:1550:13,1551:22: 
+VideoBaseTexture-flow.js:1550:13,1551:36: 
+VideoBaseTexture-flow.js:1550:20-24: 
+VideoBaseTexture-flow.js:1550:20-33: 
+VideoBaseTexture-flow.js:1551:26-35: string
+VideoBaseTexture-flow.js:1555:5-12: 
+VideoBaseTexture-flow.js:1555:5,1562:6: 
+VideoBaseTexture-flow.js:1555:14-31: string
+VideoBaseTexture-flow.js:1555:34,1562:5: () => void
+VideoBaseTexture-flow.js:1557:9-10: 
+VideoBaseTexture-flow.js:1557:9,1561:10: 
+VideoBaseTexture-flow.js:1557:12-25: string
+VideoBaseTexture-flow.js:1557:28,1561:9: () => void
+VideoBaseTexture-flow.js:1559:13-18: 
+VideoBaseTexture-flow.js:1559:13-42: 
+VideoBaseTexture-flow.js:1559:13,1560:19: 
+VideoBaseTexture-flow.js:1559:13,1560:22: 
+VideoBaseTexture-flow.js:1559:13,1560:36: 
+VideoBaseTexture-flow.js:1559:20-24: 
+VideoBaseTexture-flow.js:1559:20-41: 
+VideoBaseTexture-flow.js:1560:26-35: string
+VideoBaseTexture-flow.js:1564:5-12: 
+VideoBaseTexture-flow.js:1564:5,1589:6: 
+VideoBaseTexture-flow.js:1564:14-19: string
+VideoBaseTexture-flow.js:1564:22,1589:5: () => void
+VideoBaseTexture-flow.js:1566:9-10: 
+VideoBaseTexture-flow.js:1566:9,1570:10: 
+VideoBaseTexture-flow.js:1566:12-34: string
+VideoBaseTexture-flow.js:1566:37,1570:9: () => void
+VideoBaseTexture-flow.js:1568:13-18: 
+VideoBaseTexture-flow.js:1568:13-33: 
+VideoBaseTexture-flow.js:1568:13,1569:19: 
+VideoBaseTexture-flow.js:1568:13,1569:22: 
+VideoBaseTexture-flow.js:1568:13,1569:31: 
+VideoBaseTexture-flow.js:1568:20-24: 
+VideoBaseTexture-flow.js:1568:20-32: 
+VideoBaseTexture-flow.js:1568:31: number
+VideoBaseTexture-flow.js:1569:30: number
+VideoBaseTexture-flow.js:1572:9-10: 
+VideoBaseTexture-flow.js:1572:9,1579:10: 
+VideoBaseTexture-flow.js:1572:12-50: string
+VideoBaseTexture-flow.js:1572:53,1579:9: () => void
+VideoBaseTexture-flow.js:1574:22: number
+VideoBaseTexture-flow.js:1574:26: number
+VideoBaseTexture-flow.js:1574:29: number
+VideoBaseTexture-flow.js:1574:29-34: boolean
+VideoBaseTexture-flow.js:1574:33-34: number
+VideoBaseTexture-flow.js:1574:37-42: number
+VideoBaseTexture-flow.js:1574:42: number
+VideoBaseTexture-flow.js:1576:17-22: 
+VideoBaseTexture-flow.js:1576:17-50: 
+VideoBaseTexture-flow.js:1576:17,1577:23: 
+VideoBaseTexture-flow.js:1576:17,1577:26: 
+VideoBaseTexture-flow.js:1576:17,1577:36: 
+VideoBaseTexture-flow.js:1576:24-28: 
+VideoBaseTexture-flow.js:1576:24-49: 
+VideoBaseTexture-flow.js:1576:35-48: number
+VideoBaseTexture-flow.js:1576:36-39: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+VideoBaseTexture-flow.js:1576:36-48: number
+VideoBaseTexture-flow.js:1577:34-35: number
+VideoBaseTexture-flow.js:1577:35: number
+VideoBaseTexture-flow.js:1581:9-10: 
+VideoBaseTexture-flow.js:1581:9,1588:10: 
+VideoBaseTexture-flow.js:1581:12-49: string
+VideoBaseTexture-flow.js:1581:52,1588:9: () => void
+VideoBaseTexture-flow.js:1583:22: number
+VideoBaseTexture-flow.js:1583:26: number
+VideoBaseTexture-flow.js:1583:29: number
+VideoBaseTexture-flow.js:1583:29-34: boolean
+VideoBaseTexture-flow.js:1583:33-34: number
+VideoBaseTexture-flow.js:1583:37-42: number
+VideoBaseTexture-flow.js:1583:42: number
+VideoBaseTexture-flow.js:1585:17-22: 
+VideoBaseTexture-flow.js:1585:17-60: 
+VideoBaseTexture-flow.js:1585:17,1586:23: 
+VideoBaseTexture-flow.js:1585:17,1586:26: 
+VideoBaseTexture-flow.js:1585:17,1586:35: 
+VideoBaseTexture-flow.js:1585:24-28: 
+VideoBaseTexture-flow.js:1585:24-59: 
+VideoBaseTexture-flow.js:1585:35-38: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+VideoBaseTexture-flow.js:1585:35-47: number
+VideoBaseTexture-flow.js:1585:35-58: number
+VideoBaseTexture-flow.js:1585:51-58: number
+VideoBaseTexture-flow.js:1586:34: number
+VideoBaseTexture-flow.js:1591:5-12: 
+VideoBaseTexture-flow.js:1591:5,1627:6: 
+VideoBaseTexture-flow.js:1591:14-27: string
+VideoBaseTexture-flow.js:1591:30,1627:5: () => void
+VideoBaseTexture-flow.js:1593:13-15: [number, number, number, number, number, number, number, number, number, number]
+VideoBaseTexture-flow.js:1595:9-18: 
+VideoBaseTexture-flow.js:1595:9,1598:10: 
+VideoBaseTexture-flow.js:1595:20,1598:9: () => void
+VideoBaseTexture-flow.js:1597:13-49: [number, number, number, number, number, number, number, number, number, number]
+VideoBaseTexture-flow.js:1597:19-49: [number, number, number, number, number, number, number, number, number, number]
+VideoBaseTexture-flow.js:1597:20: number
+VideoBaseTexture-flow.js:1597:23: number
+VideoBaseTexture-flow.js:1597:26: number
+VideoBaseTexture-flow.js:1597:29: number
+VideoBaseTexture-flow.js:1597:32: number
+VideoBaseTexture-flow.js:1597:35: number
+VideoBaseTexture-flow.js:1597:38: number
+VideoBaseTexture-flow.js:1597:41: number
+VideoBaseTexture-flow.js:1597:44: number
+VideoBaseTexture-flow.js:1597:47-48: number
+VideoBaseTexture-flow.js:1600:9-10: 
+VideoBaseTexture-flow.js:1600:9,1604:10: 
+VideoBaseTexture-flow.js:1600:12-97: string
+VideoBaseTexture-flow.js:1600:100,1604:9: () => void
+VideoBaseTexture-flow.js:1602:13-17: 
+VideoBaseTexture-flow.js:1602:13-53: 
+VideoBaseTexture-flow.js:1602:31-33: [number, number, number, number, number, number, number, number, number, number]
+VideoBaseTexture-flow.js:1602:36-38: [number, number, number, number, number, number, number, number, number, number]
+VideoBaseTexture-flow.js:1602:36-45: number
+VideoBaseTexture-flow.js:1602:36-49: number
+VideoBaseTexture-flow.js:1602:49: number
+VideoBaseTexture-flow.js:1602:52: number
+VideoBaseTexture-flow.js:1603:13-18: 
+VideoBaseTexture-flow.js:1603:13-30: 
+VideoBaseTexture-flow.js:1603:13-33: 
+VideoBaseTexture-flow.js:1603:13-36: 
+VideoBaseTexture-flow.js:1603:13-46: 
+VideoBaseTexture-flow.js:1603:20-22: [number, number, number, number, number, number, number, number, number, number]
+VideoBaseTexture-flow.js:1603:20-29: number
+VideoBaseTexture-flow.js:1603:44-45: number
+VideoBaseTexture-flow.js:1606:9-10: 
+VideoBaseTexture-flow.js:1606:9,1610:10: 
+VideoBaseTexture-flow.js:1606:12-51: string
+VideoBaseTexture-flow.js:1606:54,1610:9: () => void
+VideoBaseTexture-flow.js:1608:13-17: 
+VideoBaseTexture-flow.js:1608:13-40: 
+VideoBaseTexture-flow.js:1608:31-33: [number, number, number, number, number, number, number, number, number, number]
+VideoBaseTexture-flow.js:1608:36: number
+VideoBaseTexture-flow.js:1608:39: number
+VideoBaseTexture-flow.js:1609:13-18: 
+VideoBaseTexture-flow.js:1609:13-30: 
+VideoBaseTexture-flow.js:1609:13-33: 
+VideoBaseTexture-flow.js:1609:13-36: 
+VideoBaseTexture-flow.js:1609:13-46: 
+VideoBaseTexture-flow.js:1609:20-22: [number, number, number, number, number, number, number, number, number, number]
+VideoBaseTexture-flow.js:1609:20-29: number
+VideoBaseTexture-flow.js:1609:44-45: number
+VideoBaseTexture-flow.js:1612:9-10: 
+VideoBaseTexture-flow.js:1612:9,1618:10: 
+VideoBaseTexture-flow.js:1612:12-105: string
+VideoBaseTexture-flow.js:1612:108,1618:9: () => void
+VideoBaseTexture-flow.js:1614:17-19: [number, number, number, number, number, number]
+VideoBaseTexture-flow.js:1614:23-41: [number, number, number, number, number, number]
+VideoBaseTexture-flow.js:1614:24: number
+VideoBaseTexture-flow.js:1614:27: number
+VideoBaseTexture-flow.js:1614:30: number
+VideoBaseTexture-flow.js:1614:33: number
+VideoBaseTexture-flow.js:1614:36: number
+VideoBaseTexture-flow.js:1614:39-40: number
+VideoBaseTexture-flow.js:1616:13-17: 
+VideoBaseTexture-flow.js:1616:13-40: 
+VideoBaseTexture-flow.js:1616:31-33: [number, number, number, number, number, number, number, number, number, number]
+VideoBaseTexture-flow.js:1616:36: number
+VideoBaseTexture-flow.js:1616:39: number
+VideoBaseTexture-flow.js:1617:13-18: 
+VideoBaseTexture-flow.js:1617:13-23: 
+VideoBaseTexture-flow.js:1617:13-26: 
+VideoBaseTexture-flow.js:1617:13-29: 
+VideoBaseTexture-flow.js:1617:13-34: 
+VideoBaseTexture-flow.js:1617:13-45: 
+VideoBaseTexture-flow.js:1617:20-22: [number, number, number, number, number, number, number, number, number, number]
+VideoBaseTexture-flow.js:1617:42-44: [number, number, number, number, number, number]
+VideoBaseTexture-flow.js:1620:9-10: 
+VideoBaseTexture-flow.js:1620:9,1626:10: 
+VideoBaseTexture-flow.js:1620:12-108: string
+VideoBaseTexture-flow.js:1620:111,1626:9: () => void
+VideoBaseTexture-flow.js:1622:17-19: [number, number, number, number, number, number, number]
+VideoBaseTexture-flow.js:1622:23-43: [number, number, number, number, number, number, number]
+VideoBaseTexture-flow.js:1622:24: number
+VideoBaseTexture-flow.js:1622:27: number
+VideoBaseTexture-flow.js:1622:30: number
+VideoBaseTexture-flow.js:1622:33: number
+VideoBaseTexture-flow.js:1622:36: number
+VideoBaseTexture-flow.js:1622:39: number
+VideoBaseTexture-flow.js:1622:42: number
+VideoBaseTexture-flow.js:1624:13-17: 
+VideoBaseTexture-flow.js:1624:13-41: 
+VideoBaseTexture-flow.js:1624:31-33: [number, number, number, number, number, number, number, number, number, number]
+VideoBaseTexture-flow.js:1624:36: number
+VideoBaseTexture-flow.js:1624:39-40: number
+VideoBaseTexture-flow.js:1625:13-18: 
+VideoBaseTexture-flow.js:1625:13-23: 
+VideoBaseTexture-flow.js:1625:13-26: 
+VideoBaseTexture-flow.js:1625:13-29: 
+VideoBaseTexture-flow.js:1625:13-34: 
+VideoBaseTexture-flow.js:1625:13-45: 
+VideoBaseTexture-flow.js:1625:20-22: [number, number, number, number, number, number, number, number, number, number]
+VideoBaseTexture-flow.js:1625:42-44: [number, number, number, number, number, number, number]
+VideoBaseTexture-flow.js:1635:1-8: 
+VideoBaseTexture-flow.js:1635:1,1689:2: 
+VideoBaseTexture-flow.js:1635:10-18: string
+VideoBaseTexture-flow.js:1635:21,1689:1: () => void
+VideoBaseTexture-flow.js:1637:5-6: 
+VideoBaseTexture-flow.js:1637:5,1664:6: 
+VideoBaseTexture-flow.js:1637:8-66: string
+VideoBaseTexture-flow.js:1637:69,1664:5: () => void
+VideoBaseTexture-flow.js:1639:13-18: 
+VideoBaseTexture-flow.js:1639:22-36: 
+VideoBaseTexture-flow.js:1639:26-34: 
+VideoBaseTexture-flow.js:1641:13-21: 
+VideoBaseTexture-flow.js:1641:25-39: 
+VideoBaseTexture-flow.js:1641:29-37: 
+VideoBaseTexture-flow.js:1643:9-14: 
+VideoBaseTexture-flow.js:1643:9-34: 
+VideoBaseTexture-flow.js:1643:25-33: 
+VideoBaseTexture-flow.js:1645:13-17: 
+VideoBaseTexture-flow.js:1645:21-39: 
+VideoBaseTexture-flow.js:1645:25-29: 
+VideoBaseTexture-flow.js:1645:31-33: number
+VideoBaseTexture-flow.js:1645:36-38: number
+VideoBaseTexture-flow.js:1647:13-22: 
+VideoBaseTexture-flow.js:1649:9-45: 
+VideoBaseTexture-flow.js:1649:22-30: 
+VideoBaseTexture-flow.js:1649:22-45: 
+VideoBaseTexture-flow.js:1649:40-44: 
+VideoBaseTexture-flow.js:1651:9-14: 
+VideoBaseTexture-flow.js:1651:9-28: 
+VideoBaseTexture-flow.js:1651:9-31: 
+VideoBaseTexture-flow.js:1651:9-42: 
+VideoBaseTexture-flow.js:1651:16-25: 
+VideoBaseTexture-flow.js:1651:16-27: 
+VideoBaseTexture-flow.js:1651:39-41: number
+VideoBaseTexture-flow.js:1652:9-14: 
+VideoBaseTexture-flow.js:1652:9-28: 
+VideoBaseTexture-flow.js:1652:9-31: 
+VideoBaseTexture-flow.js:1652:9-42: 
+VideoBaseTexture-flow.js:1652:16-25: 
+VideoBaseTexture-flow.js:1652:16-27: 
+VideoBaseTexture-flow.js:1652:39-41: number
+VideoBaseTexture-flow.js:1654:9-17: 
+VideoBaseTexture-flow.js:1654:9-26: 
+VideoBaseTexture-flow.js:1654:9-33: number
+VideoBaseTexture-flow.js:1654:32-33: number
+VideoBaseTexture-flow.js:1655:9-17: 
+VideoBaseTexture-flow.js:1655:9-26: 
+VideoBaseTexture-flow.js:1655:9-33: number
+VideoBaseTexture-flow.js:1655:32-33: number
+VideoBaseTexture-flow.js:1657:9-17: 
+VideoBaseTexture-flow.js:1657:9-23: 
+VideoBaseTexture-flow.js:1657:9-29: number
+VideoBaseTexture-flow.js:1657:29: number
+VideoBaseTexture-flow.js:1658:9-17: 
+VideoBaseTexture-flow.js:1658:9-23: 
+VideoBaseTexture-flow.js:1658:9-29: number
+VideoBaseTexture-flow.js:1658:29: number
+VideoBaseTexture-flow.js:1660:9-45: 
+VideoBaseTexture-flow.js:1660:22-30: 
+VideoBaseTexture-flow.js:1660:22-45: 
+VideoBaseTexture-flow.js:1660:40-44: 
+VideoBaseTexture-flow.js:1662:9-14: 
+VideoBaseTexture-flow.js:1662:9-28: 
+VideoBaseTexture-flow.js:1662:9-31: 
+VideoBaseTexture-flow.js:1662:9-41: 
+VideoBaseTexture-flow.js:1662:16-25: 
+VideoBaseTexture-flow.js:1662:16-27: 
+VideoBaseTexture-flow.js:1662:39-40: number
+VideoBaseTexture-flow.js:1663:9-14: 
+VideoBaseTexture-flow.js:1663:9-28: 
+VideoBaseTexture-flow.js:1663:9-31: 
+VideoBaseTexture-flow.js:1663:9-41: 
+VideoBaseTexture-flow.js:1663:16-25: 
+VideoBaseTexture-flow.js:1663:16-27: 
+VideoBaseTexture-flow.js:1663:39-40: number
+VideoBaseTexture-flow.js:1666:5-6: 
+VideoBaseTexture-flow.js:1666:5,1688:6: 
+VideoBaseTexture-flow.js:1666:8-78: string
+VideoBaseTexture-flow.js:1666:81,1688:5: () => void
+VideoBaseTexture-flow.js:1668:13-18: 
+VideoBaseTexture-flow.js:1668:22-36: 
+VideoBaseTexture-flow.js:1668:26-34: 
+VideoBaseTexture-flow.js:1670:13-21: 
+VideoBaseTexture-flow.js:1670:25-39: 
+VideoBaseTexture-flow.js:1670:29-37: 
+VideoBaseTexture-flow.js:1671:13-22: 
+VideoBaseTexture-flow.js:1671:26-40: 
+VideoBaseTexture-flow.js:1671:30-38: 
+VideoBaseTexture-flow.js:1673:9-14: 
+VideoBaseTexture-flow.js:1673:9-34: 
+VideoBaseTexture-flow.js:1673:25-33: 
+VideoBaseTexture-flow.js:1674:9-14: 
+VideoBaseTexture-flow.js:1674:9-35: 
+VideoBaseTexture-flow.js:1674:25-34: 
+VideoBaseTexture-flow.js:1676:9-18: 
+VideoBaseTexture-flow.js:1676:9-27: 
+VideoBaseTexture-flow.js:1676:9-35: number
+VideoBaseTexture-flow.js:1676:33-35: number
+VideoBaseTexture-flow.js:1677:9-18: 
+VideoBaseTexture-flow.js:1677:9-27: 
+VideoBaseTexture-flow.js:1677:9-35: number
+VideoBaseTexture-flow.js:1677:33-35: number
+VideoBaseTexture-flow.js:1679:13-17: 
+VideoBaseTexture-flow.js:1679:21-39: 
+VideoBaseTexture-flow.js:1679:25-29: 
+VideoBaseTexture-flow.js:1679:31-33: number
+VideoBaseTexture-flow.js:1679:36-38: number
+VideoBaseTexture-flow.js:1681:9-17: 
+VideoBaseTexture-flow.js:1681:9-23: 
+VideoBaseTexture-flow.js:1681:9-29: number
+VideoBaseTexture-flow.js:1681:29: number
+VideoBaseTexture-flow.js:1682:9-17: 
+VideoBaseTexture-flow.js:1682:9-23: 
+VideoBaseTexture-flow.js:1682:9-29: number
+VideoBaseTexture-flow.js:1682:29: number
+VideoBaseTexture-flow.js:1684:13-22: 
+VideoBaseTexture-flow.js:1684:26-34: 
+VideoBaseTexture-flow.js:1684:26-61: 
+VideoBaseTexture-flow.js:1684:44-48: 
+VideoBaseTexture-flow.js:1684:51-60: 
+VideoBaseTexture-flow.js:1686:9-14: 
+VideoBaseTexture-flow.js:1686:9-28: 
+VideoBaseTexture-flow.js:1686:9-31: 
+VideoBaseTexture-flow.js:1686:9-42: 
+VideoBaseTexture-flow.js:1686:16-25: 
+VideoBaseTexture-flow.js:1686:16-27: 
+VideoBaseTexture-flow.js:1686:39-41: number
+VideoBaseTexture-flow.js:1687:9-14: 
+VideoBaseTexture-flow.js:1687:9-28: 
+VideoBaseTexture-flow.js:1687:9-31: 
+VideoBaseTexture-flow.js:1687:9-42: 
+VideoBaseTexture-flow.js:1687:16-25: 
+VideoBaseTexture-flow.js:1687:16-27: 
+VideoBaseTexture-flow.js:1687:39-41: number
+VideoBaseTexture-flow.js:1696:1-8: 
+VideoBaseTexture-flow.js:1696:1,1726:2: 
+VideoBaseTexture-flow.js:1696:10-19: string
+VideoBaseTexture-flow.js:1696:22,1726:1: () => void
+VideoBaseTexture-flow.js:1698:5-6: 
+VideoBaseTexture-flow.js:1698:5,1725:6: 
+VideoBaseTexture-flow.js:1698:8-87: string
+VideoBaseTexture-flow.js:1698:90,1725:5: () => void
+VideoBaseTexture-flow.js:1700:13-18: 
+VideoBaseTexture-flow.js:1700:22-36: 
+VideoBaseTexture-flow.js:1700:26-34: 
+VideoBaseTexture-flow.js:1702:13-21: 
+VideoBaseTexture-flow.js:1702:25-39: 
+VideoBaseTexture-flow.js:1702:29-37: 
+VideoBaseTexture-flow.js:1704:9-14: 
+VideoBaseTexture-flow.js:1704:9-34: 
+VideoBaseTexture-flow.js:1704:25-33: 
+VideoBaseTexture-flow.js:1706:13-17: 
+VideoBaseTexture-flow.js:1706:21-39: 
+VideoBaseTexture-flow.js:1706:25-29: 
+VideoBaseTexture-flow.js:1706:31-33: number
+VideoBaseTexture-flow.js:1706:36-38: number
+VideoBaseTexture-flow.js:1708:13-23: 
+VideoBaseTexture-flow.js:1710:9-47: 
+VideoBaseTexture-flow.js:1710:23-31: 
+VideoBaseTexture-flow.js:1710:23-47: 
+VideoBaseTexture-flow.js:1710:42-46: 
+VideoBaseTexture-flow.js:1712:9-14: 
+VideoBaseTexture-flow.js:1712:9-29: 
+VideoBaseTexture-flow.js:1712:9-32: 
+VideoBaseTexture-flow.js:1712:9-43: 
+VideoBaseTexture-flow.js:1712:16-26: 
+VideoBaseTexture-flow.js:1712:16-28: 
+VideoBaseTexture-flow.js:1712:40-42: number
+VideoBaseTexture-flow.js:1713:9-14: 
+VideoBaseTexture-flow.js:1713:9-29: 
+VideoBaseTexture-flow.js:1713:9-32: 
+VideoBaseTexture-flow.js:1713:9-43: 
+VideoBaseTexture-flow.js:1713:16-26: 
+VideoBaseTexture-flow.js:1713:16-28: 
+VideoBaseTexture-flow.js:1713:40-42: number
+VideoBaseTexture-flow.js:1715:9-17: 
+VideoBaseTexture-flow.js:1715:9-26: 
+VideoBaseTexture-flow.js:1715:9-33: number
+VideoBaseTexture-flow.js:1715:32-33: number
+VideoBaseTexture-flow.js:1716:9-17: 
+VideoBaseTexture-flow.js:1716:9-26: 
+VideoBaseTexture-flow.js:1716:9-33: number
+VideoBaseTexture-flow.js:1716:32-33: number
+VideoBaseTexture-flow.js:1718:9-17: 
+VideoBaseTexture-flow.js:1718:9-23: 
+VideoBaseTexture-flow.js:1718:9-29: number
+VideoBaseTexture-flow.js:1718:29: number
+VideoBaseTexture-flow.js:1719:9-17: 
+VideoBaseTexture-flow.js:1719:9-23: 
+VideoBaseTexture-flow.js:1719:9-29: number
+VideoBaseTexture-flow.js:1719:29: number
+VideoBaseTexture-flow.js:1721:9-47: 
+VideoBaseTexture-flow.js:1721:23-31: 
+VideoBaseTexture-flow.js:1721:23-47: 
+VideoBaseTexture-flow.js:1721:42-46: 
+VideoBaseTexture-flow.js:1723:9-14: 
+VideoBaseTexture-flow.js:1723:9-29: 
+VideoBaseTexture-flow.js:1723:9-32: 
+VideoBaseTexture-flow.js:1723:9-43: 
+VideoBaseTexture-flow.js:1723:16-26: 
+VideoBaseTexture-flow.js:1723:16-28: 
+VideoBaseTexture-flow.js:1723:40-42: number
+VideoBaseTexture-flow.js:1724:9-14: 
+VideoBaseTexture-flow.js:1724:9-29: 
+VideoBaseTexture-flow.js:1724:9-32: 
+VideoBaseTexture-flow.js:1724:9-43: 
+VideoBaseTexture-flow.js:1724:16-26: 
+VideoBaseTexture-flow.js:1724:16-28: 
+VideoBaseTexture-flow.js:1724:40-42: number
+VideoBaseTexture-flow.js:1733:1-8: 
+VideoBaseTexture-flow.js:1733:1,1811:2: 
+VideoBaseTexture-flow.js:1733:10-15: string
+VideoBaseTexture-flow.js:1733:18,1811:1: () => void
+VideoBaseTexture-flow.js:1735:5-12: 
+VideoBaseTexture-flow.js:1735:5,1810:6: 
+VideoBaseTexture-flow.js:1735:14-22: string
+VideoBaseTexture-flow.js:1735:25,1810:5: () => void
+VideoBaseTexture-flow.js:1737:9-10: 
+VideoBaseTexture-flow.js:1737:9,1744:10: 
+VideoBaseTexture-flow.js:1737:12-50: string
+VideoBaseTexture-flow.js:1737:53,1744:9: () => void
+VideoBaseTexture-flow.js:1739:17-20: Text
+VideoBaseTexture-flow.js:1739:24-38: Text
+VideoBaseTexture-flow.js:1739:28-31: [class: Text]
+VideoBaseTexture-flow.js:1739:33-37: string
+VideoBaseTexture-flow.js:1741:13-18: 
+VideoBaseTexture-flow.js:1741:13-31: 
+VideoBaseTexture-flow.js:1741:13-34: 
+VideoBaseTexture-flow.js:1741:13-38: 
+VideoBaseTexture-flow.js:1741:13-50: 
+VideoBaseTexture-flow.js:1741:20-23: Text
+VideoBaseTexture-flow.js:1741:20-30: 
+VideoBaseTexture-flow.js:1741:46-49: null
+VideoBaseTexture-flow.js:1742:13-16: Text
+VideoBaseTexture-flow.js:1742:13-26: 
+VideoBaseTexture-flow.js:1743:13-18: 
+VideoBaseTexture-flow.js:1743:13-31: 
+VideoBaseTexture-flow.js:1743:13-34: 
+VideoBaseTexture-flow.js:1743:13-46: 
+VideoBaseTexture-flow.js:1743:20-23: Text
+VideoBaseTexture-flow.js:1743:20-30: 
+VideoBaseTexture-flow.js:1743:42-45: null
+VideoBaseTexture-flow.js:1746:9-10: 
+VideoBaseTexture-flow.js:1746:9,1753:10: 
+VideoBaseTexture-flow.js:1746:12-39: string
+VideoBaseTexture-flow.js:1746:42,1753:9: () => void
+VideoBaseTexture-flow.js:1748:17-20: Text
+VideoBaseTexture-flow.js:1748:24-38: Text
+VideoBaseTexture-flow.js:1748:28-31: [class: Text]
+VideoBaseTexture-flow.js:1748:33-37: string
+VideoBaseTexture-flow.js:1750:13-18: 
+VideoBaseTexture-flow.js:1750:13-30: 
+VideoBaseTexture-flow.js:1750:13-33: 
+VideoBaseTexture-flow.js:1750:13-37: 
+VideoBaseTexture-flow.js:1750:13-49: 
+VideoBaseTexture-flow.js:1750:20-23: Text
+VideoBaseTexture-flow.js:1750:20-29: 
+VideoBaseTexture-flow.js:1750:45-48: null
+VideoBaseTexture-flow.js:1751:13-16: Text
+VideoBaseTexture-flow.js:1751:13-26: 
+VideoBaseTexture-flow.js:1752:13-18: 
+VideoBaseTexture-flow.js:1752:13-30: 
+VideoBaseTexture-flow.js:1752:13-33: 
+VideoBaseTexture-flow.js:1752:13-45: 
+VideoBaseTexture-flow.js:1752:20-23: Text
+VideoBaseTexture-flow.js:1752:20-29: 
+VideoBaseTexture-flow.js:1752:41-44: null
+VideoBaseTexture-flow.js:1755:9-10: 
+VideoBaseTexture-flow.js:1755:9,1764:10: 
+VideoBaseTexture-flow.js:1755:12-60: string
+VideoBaseTexture-flow.js:1755:63,1764:9: () => void
+VideoBaseTexture-flow.js:1757:17-20: Text
+VideoBaseTexture-flow.js:1757:24-38: Text
+VideoBaseTexture-flow.js:1757:28-31: [class: Text]
+VideoBaseTexture-flow.js:1757:33-37: string
+VideoBaseTexture-flow.js:1758:17-21: 
+VideoBaseTexture-flow.js:1758:25-43: 
+VideoBaseTexture-flow.js:1758:29-41: 
+VideoBaseTexture-flow.js:1760:13-16: Text
+VideoBaseTexture-flow.js:1760:13-32: 
+VideoBaseTexture-flow.js:1760:27-31: 
+VideoBaseTexture-flow.js:1761:13-16: Text
+VideoBaseTexture-flow.js:1761:13-44: 
+VideoBaseTexture-flow.js:1761:26-43: {children: boolean}
+VideoBaseTexture-flow.js:1761:38-41: boolean
+VideoBaseTexture-flow.js:1762:13-18: 
+VideoBaseTexture-flow.js:1762:13-34: 
+VideoBaseTexture-flow.js:1762:13-37: 
+VideoBaseTexture-flow.js:1762:13-49: 
+VideoBaseTexture-flow.js:1762:20-23: Text
+VideoBaseTexture-flow.js:1762:20-33: 
+VideoBaseTexture-flow.js:1762:45-48: null
+VideoBaseTexture-flow.js:1763:13-18: 
+VideoBaseTexture-flow.js:1763:13-35: 
+VideoBaseTexture-flow.js:1763:13-38: 
+VideoBaseTexture-flow.js:1763:13-50: 
+VideoBaseTexture-flow.js:1763:20-24: 
+VideoBaseTexture-flow.js:1763:20-34: 
+VideoBaseTexture-flow.js:1763:46-49: null
+VideoBaseTexture-flow.js:1766:9-10: 
+VideoBaseTexture-flow.js:1766:9,1775:10: 
+VideoBaseTexture-flow.js:1766:12-44: string
+VideoBaseTexture-flow.js:1766:47,1775:9: () => void
+VideoBaseTexture-flow.js:1768:17-20: Text
+VideoBaseTexture-flow.js:1768:24-38: Text
+VideoBaseTexture-flow.js:1768:28-31: [class: Text]
+VideoBaseTexture-flow.js:1768:33-37: string
+VideoBaseTexture-flow.js:1769:17-21: 
+VideoBaseTexture-flow.js:1769:25-43: 
+VideoBaseTexture-flow.js:1769:29-41: 
+VideoBaseTexture-flow.js:1771:13-16: Text
+VideoBaseTexture-flow.js:1771:13-32: 
+VideoBaseTexture-flow.js:1771:27-31: 
+VideoBaseTexture-flow.js:1772:13-16: Text
+VideoBaseTexture-flow.js:1772:13-30: 
+VideoBaseTexture-flow.js:1772:26-29: boolean
+VideoBaseTexture-flow.js:1773:13-18: 
+VideoBaseTexture-flow.js:1773:13-34: 
+VideoBaseTexture-flow.js:1773:13-37: 
+VideoBaseTexture-flow.js:1773:13-49: 
+VideoBaseTexture-flow.js:1773:20-23: Text
+VideoBaseTexture-flow.js:1773:20-33: 
+VideoBaseTexture-flow.js:1773:45-48: null
+VideoBaseTexture-flow.js:1774:13-18: 
+VideoBaseTexture-flow.js:1774:13-35: 
+VideoBaseTexture-flow.js:1774:13-38: 
+VideoBaseTexture-flow.js:1774:13-50: 
+VideoBaseTexture-flow.js:1774:20-24: 
+VideoBaseTexture-flow.js:1774:20-34: 
+VideoBaseTexture-flow.js:1774:46-49: null
+VideoBaseTexture-flow.js:1777:9-10: 
+VideoBaseTexture-flow.js:1777:9,1791:10: 
+VideoBaseTexture-flow.js:1777:12-68: string
+VideoBaseTexture-flow.js:1777:71,1791:9: () => void
+VideoBaseTexture-flow.js:1779:17-20: Text
+VideoBaseTexture-flow.js:1779:24-38: Text
+VideoBaseTexture-flow.js:1779:28-31: [class: Text]
+VideoBaseTexture-flow.js:1779:33-37: string
+VideoBaseTexture-flow.js:1780:17-21: 
+VideoBaseTexture-flow.js:1780:25-43: 
+VideoBaseTexture-flow.js:1780:29-41: 
+VideoBaseTexture-flow.js:1781:17-32: 
+VideoBaseTexture-flow.js:1783:13-17: 
+VideoBaseTexture-flow.js:1783:13,1786:13: (opts: ) => void
+VideoBaseTexture-flow.js:1783:29,1786:13: (opts: ) => void
+VideoBaseTexture-flow.js:1783:39-42: 
+VideoBaseTexture-flow.js:1785:17-39: 
+VideoBaseTexture-flow.js:1785:36-39: 
+VideoBaseTexture-flow.js:1788:13-16: Text
+VideoBaseTexture-flow.js:1788:13-32: 
+VideoBaseTexture-flow.js:1788:27-31: 
+VideoBaseTexture-flow.js:1789:13-16: Text
+VideoBaseTexture-flow.js:1789:13-59: 
+VideoBaseTexture-flow.js:1789:26-58: {children: boolean, texture: boolean}
+VideoBaseTexture-flow.js:1789:38-41: boolean
+VideoBaseTexture-flow.js:1789:53-56: boolean
+VideoBaseTexture-flow.js:1790:13-18: 
+VideoBaseTexture-flow.js:1790:13-36: 
+VideoBaseTexture-flow.js:1790:13-39: 
+VideoBaseTexture-flow.js:1790:13-44: 
+VideoBaseTexture-flow.js:1790:13-104: 
+VideoBaseTexture-flow.js:1790:20-35: void
+VideoBaseTexture-flow.js:1790:52-103: {baseTexture: boolean, children: boolean, texture: boolean}
+VideoBaseTexture-flow.js:1790:64-67: boolean
+VideoBaseTexture-flow.js:1790:79-82: boolean
+VideoBaseTexture-flow.js:1790:98-101: boolean
+VideoBaseTexture-flow.js:1793:9-10: 
+VideoBaseTexture-flow.js:1793:9,1800:10: 
+VideoBaseTexture-flow.js:1793:12-71: string
+VideoBaseTexture-flow.js:1793:74,1800:9: () => void
+VideoBaseTexture-flow.js:1795:17-20: Text
+VideoBaseTexture-flow.js:1795:24-38: Text
+VideoBaseTexture-flow.js:1795:28-31: [class: Text]
+VideoBaseTexture-flow.js:1795:33-37: string
+VideoBaseTexture-flow.js:1797:13-16: Text
+VideoBaseTexture-flow.js:1797:13-29: number
+VideoBaseTexture-flow.js:1797:27-29: number
+VideoBaseTexture-flow.js:1799:13-18: 
+VideoBaseTexture-flow.js:1799:13-31: 
+VideoBaseTexture-flow.js:1799:13-34: 
+VideoBaseTexture-flow.js:1799:13-45: 
+VideoBaseTexture-flow.js:1799:20-30: number
+VideoBaseTexture-flow.js:1799:42-44: number
+VideoBaseTexture-flow.js:1802:9-10: 
+VideoBaseTexture-flow.js:1802:9,1809:10: 
+VideoBaseTexture-flow.js:1802:12-69: string
+VideoBaseTexture-flow.js:1802:72,1809:9: () => void
+VideoBaseTexture-flow.js:1804:17-20: Text
+VideoBaseTexture-flow.js:1804:24-38: Text
+VideoBaseTexture-flow.js:1804:28-31: [class: Text]
+VideoBaseTexture-flow.js:1804:33-37: string
+VideoBaseTexture-flow.js:1806:13-16: Text
+VideoBaseTexture-flow.js:1806:13-28: number
+VideoBaseTexture-flow.js:1806:26-28: number
+VideoBaseTexture-flow.js:1808:13-18: 
+VideoBaseTexture-flow.js:1808:13-30: 
+VideoBaseTexture-flow.js:1808:13-33: 
+VideoBaseTexture-flow.js:1808:13-44: 
+VideoBaseTexture-flow.js:1808:20-29: number
+VideoBaseTexture-flow.js:1808:41-43: number
+VideoBaseTexture-flow.js:1818:1-8: 
+VideoBaseTexture-flow.js:1818:1,1879:2: 
+VideoBaseTexture-flow.js:1818:10-17: string
+VideoBaseTexture-flow.js:1818:20,1879:1: () => void
+VideoBaseTexture-flow.js:1820:5-12: 
+VideoBaseTexture-flow.js:1820:5,1848:6: 
+VideoBaseTexture-flow.js:1820:14-20: string
+VideoBaseTexture-flow.js:1820:23,1848:5: () => void
+VideoBaseTexture-flow.js:1822:9-10: 
+VideoBaseTexture-flow.js:1822:9,1830:10: 
+VideoBaseTexture-flow.js:1822:12-56: string
+VideoBaseTexture-flow.js:1822:59,1830:9: () => void
+VideoBaseTexture-flow.js:1824:17-22: 
+VideoBaseTexture-flow.js:1824:26-37: 
+VideoBaseTexture-flow.js:1824:30-35: 
+VideoBaseTexture-flow.js:1826:13-18: 
+VideoBaseTexture-flow.js:1826:13-30: number
+VideoBaseTexture-flow.js:1826:28-30: number
+VideoBaseTexture-flow.js:1827:13-18: 
+VideoBaseTexture-flow.js:1827:13-32: 
+VideoBaseTexture-flow.js:1827:13-35: 
+VideoBaseTexture-flow.js:1827:13-38: 
+VideoBaseTexture-flow.js:1827:13-41: 
+VideoBaseTexture-flow.js:1827:13-50: 
+VideoBaseTexture-flow.js:1827:20-31: number
+VideoBaseTexture-flow.js:1827:49: number
+VideoBaseTexture-flow.js:1828:13-18: 
+VideoBaseTexture-flow.js:1828:13-24: 
+VideoBaseTexture-flow.js:1828:13-31: number
+VideoBaseTexture-flow.js:1828:30-31: number
+VideoBaseTexture-flow.js:1828:31: number
+VideoBaseTexture-flow.js:1829:13-18: 
+VideoBaseTexture-flow.js:1829:13-32: 
+VideoBaseTexture-flow.js:1829:13-35: 
+VideoBaseTexture-flow.js:1829:13-38: 
+VideoBaseTexture-flow.js:1829:13-41: 
+VideoBaseTexture-flow.js:1829:13-50: 
+VideoBaseTexture-flow.js:1829:20-25: 
+VideoBaseTexture-flow.js:1829:20-31: 
+VideoBaseTexture-flow.js:1829:49: number
+VideoBaseTexture-flow.js:1832:9-10: 
+VideoBaseTexture-flow.js:1832:9,1847:10: 
+VideoBaseTexture-flow.js:1832:12-46: string
+VideoBaseTexture-flow.js:1832:49,1847:9: () => void
+VideoBaseTexture-flow.js:1834:17-23: 
+VideoBaseTexture-flow.js:1834:27-56: 
+VideoBaseTexture-flow.js:1834:31-37: 
+VideoBaseTexture-flow.js:1834:39-55: BaseTexture
+VideoBaseTexture-flow.js:1834:43-53: [class: BaseTexture]
+VideoBaseTexture-flow.js:1835:17-22: 
+VideoBaseTexture-flow.js:1835:26-37: 
+VideoBaseTexture-flow.js:1835:30-35: 
+VideoBaseTexture-flow.js:1837:13-19: 
+VideoBaseTexture-flow.js:1837:13-24: 
+VideoBaseTexture-flow.js:1837:13-36: number
+VideoBaseTexture-flow.js:1837:34-36: number
+VideoBaseTexture-flow.js:1838:13-18: 
+VideoBaseTexture-flow.js:1838:13-24: 
+VideoBaseTexture-flow.js:1838:13-30: number
+VideoBaseTexture-flow.js:1838:30: number
+VideoBaseTexture-flow.js:1839:13-18: 
+VideoBaseTexture-flow.js:1839:13-29: number
+VideoBaseTexture-flow.js:1839:28-29: number
+VideoBaseTexture-flow.js:1841:13-18: 
+VideoBaseTexture-flow.js:1841:13-34: 
+VideoBaseTexture-flow.js:1841:13-37: 
+VideoBaseTexture-flow.js:1841:13-40: 
+VideoBaseTexture-flow.js:1841:13-49: 
+VideoBaseTexture-flow.js:1841:20-33: number
+VideoBaseTexture-flow.js:1841:48: number
+VideoBaseTexture-flow.js:1843:13-18: 
+VideoBaseTexture-flow.js:1843:13-24: 
+VideoBaseTexture-flow.js:1843:13-31: number
+VideoBaseTexture-flow.js:1843:30-31: number
+VideoBaseTexture-flow.js:1843:31: number
+VideoBaseTexture-flow.js:1844:13-18: 
+VideoBaseTexture-flow.js:1844:13-29: number
+VideoBaseTexture-flow.js:1844:28-29: number
+VideoBaseTexture-flow.js:1846:13-18: 
+VideoBaseTexture-flow.js:1846:13-34: 
+VideoBaseTexture-flow.js:1846:13-37: 
+VideoBaseTexture-flow.js:1846:13-40: 
+VideoBaseTexture-flow.js:1846:13-49: 
+VideoBaseTexture-flow.js:1846:20-33: number
+VideoBaseTexture-flow.js:1846:48: number
+VideoBaseTexture-flow.js:1850:5-12: 
+VideoBaseTexture-flow.js:1850:5,1878:6: 
+VideoBaseTexture-flow.js:1850:14-21: string
+VideoBaseTexture-flow.js:1850:24,1878:5: () => void
+VideoBaseTexture-flow.js:1852:9-10: 
+VideoBaseTexture-flow.js:1852:9,1860:10: 
+VideoBaseTexture-flow.js:1852:12-56: string
+VideoBaseTexture-flow.js:1852:59,1860:9: () => void
+VideoBaseTexture-flow.js:1854:17-22: 
+VideoBaseTexture-flow.js:1854:26-37: 
+VideoBaseTexture-flow.js:1854:30-35: 
+VideoBaseTexture-flow.js:1856:13-18: 
+VideoBaseTexture-flow.js:1856:13-31: number
+VideoBaseTexture-flow.js:1856:29-31: number
+VideoBaseTexture-flow.js:1857:13-18: 
+VideoBaseTexture-flow.js:1857:13-33: 
+VideoBaseTexture-flow.js:1857:13-36: 
+VideoBaseTexture-flow.js:1857:13-39: 
+VideoBaseTexture-flow.js:1857:13-42: 
+VideoBaseTexture-flow.js:1857:13-51: 
+VideoBaseTexture-flow.js:1857:20-32: number
+VideoBaseTexture-flow.js:1857:50: number
+VideoBaseTexture-flow.js:1858:13-18: 
+VideoBaseTexture-flow.js:1858:13-24: 
+VideoBaseTexture-flow.js:1858:13-31: number
+VideoBaseTexture-flow.js:1858:30-31: number
+VideoBaseTexture-flow.js:1858:31: number
+VideoBaseTexture-flow.js:1859:13-18: 
+VideoBaseTexture-flow.js:1859:13-33: 
+VideoBaseTexture-flow.js:1859:13-36: 
+VideoBaseTexture-flow.js:1859:13-39: 
+VideoBaseTexture-flow.js:1859:13-42: 
+VideoBaseTexture-flow.js:1859:13-51: 
+VideoBaseTexture-flow.js:1859:20-25: 
+VideoBaseTexture-flow.js:1859:20-32: 
+VideoBaseTexture-flow.js:1859:50: number
+VideoBaseTexture-flow.js:1862:9-10: 
+VideoBaseTexture-flow.js:1862:9,1877:10: 
+VideoBaseTexture-flow.js:1862:12-46: string
+VideoBaseTexture-flow.js:1862:49,1877:9: () => void
+VideoBaseTexture-flow.js:1864:17-23: 
+VideoBaseTexture-flow.js:1864:27-56: 
+VideoBaseTexture-flow.js:1864:31-37: 
+VideoBaseTexture-flow.js:1864:39-55: BaseTexture
+VideoBaseTexture-flow.js:1864:43-53: [class: BaseTexture]
+VideoBaseTexture-flow.js:1865:17-22: 
+VideoBaseTexture-flow.js:1865:26-37: 
+VideoBaseTexture-flow.js:1865:30-35: 
+VideoBaseTexture-flow.js:1867:13-19: 
+VideoBaseTexture-flow.js:1867:13-24: 
+VideoBaseTexture-flow.js:1867:13-37: number
+VideoBaseTexture-flow.js:1867:35-37: number
+VideoBaseTexture-flow.js:1868:13-18: 
+VideoBaseTexture-flow.js:1868:13-24: 
+VideoBaseTexture-flow.js:1868:13-30: number
+VideoBaseTexture-flow.js:1868:30: number
+VideoBaseTexture-flow.js:1869:13-18: 
+VideoBaseTexture-flow.js:1869:13-30: number
+VideoBaseTexture-flow.js:1869:29-30: number
+VideoBaseTexture-flow.js:1871:13-18: 
+VideoBaseTexture-flow.js:1871:13-34: 
+VideoBaseTexture-flow.js:1871:13-37: 
+VideoBaseTexture-flow.js:1871:13-40: 
+VideoBaseTexture-flow.js:1871:13-49: 
+VideoBaseTexture-flow.js:1871:20-33: number
+VideoBaseTexture-flow.js:1871:48: number
+VideoBaseTexture-flow.js:1873:13-18: 
+VideoBaseTexture-flow.js:1873:13-24: 
+VideoBaseTexture-flow.js:1873:13-31: number
+VideoBaseTexture-flow.js:1873:30-31: number
+VideoBaseTexture-flow.js:1873:31: number
+VideoBaseTexture-flow.js:1874:13-18: 
+VideoBaseTexture-flow.js:1874:13-30: number
+VideoBaseTexture-flow.js:1874:29-30: number
+VideoBaseTexture-flow.js:1876:13-18: 
+VideoBaseTexture-flow.js:1876:13-34: 
+VideoBaseTexture-flow.js:1876:13-37: 
+VideoBaseTexture-flow.js:1876:13-40: 
+VideoBaseTexture-flow.js:1876:13-49: 
+VideoBaseTexture-flow.js:1876:20-33: number
+VideoBaseTexture-flow.js:1876:48: number
+VideoBaseTexture-flow.js:1886:1-8: 
+VideoBaseTexture-flow.js:1886:1,2024:2: 
+VideoBaseTexture-flow.js:1886:10-25: string
+VideoBaseTexture-flow.js:1886:28,2024:1: () => void
+VideoBaseTexture-flow.js:1888:5-6: 
+VideoBaseTexture-flow.js:1888:5,1918:6: 
+VideoBaseTexture-flow.js:1888:8-66: string
+VideoBaseTexture-flow.js:1888:69,1918:5: () => void
+VideoBaseTexture-flow.js:1890:13-18: 
+VideoBaseTexture-flow.js:1890:22-36: 
+VideoBaseTexture-flow.js:1890:26-34: 
+VideoBaseTexture-flow.js:1891:13-19: 
+VideoBaseTexture-flow.js:1891:23-35: 
+VideoBaseTexture-flow.js:1891:23-50: 
+VideoBaseTexture-flow.js:1891:44-45: number
+VideoBaseTexture-flow.js:1891:48-49: number
+VideoBaseTexture-flow.js:1893:13-18: 
+VideoBaseTexture-flow.js:1893:22-40: 
+VideoBaseTexture-flow.js:1893:26-31: 
+VideoBaseTexture-flow.js:1893:33-39: 
+VideoBaseTexture-flow.js:1895:9-14: 
+VideoBaseTexture-flow.js:1895:9-31: 
+VideoBaseTexture-flow.js:1895:25-30: 
+VideoBaseTexture-flow.js:1897:13-18: 
+VideoBaseTexture-flow.js:1899:9-40: 
+VideoBaseTexture-flow.js:1899:18-23: 
+VideoBaseTexture-flow.js:1899:18-40: 
+VideoBaseTexture-flow.js:1901:9-14: 
+VideoBaseTexture-flow.js:1901:9-24: 
+VideoBaseTexture-flow.js:1901:9-27: 
+VideoBaseTexture-flow.js:1901:9-36: 
+VideoBaseTexture-flow.js:1901:16-21: 
+VideoBaseTexture-flow.js:1901:16-23: 
+VideoBaseTexture-flow.js:1901:35: number
+VideoBaseTexture-flow.js:1902:9-14: 
+VideoBaseTexture-flow.js:1902:9-24: 
+VideoBaseTexture-flow.js:1902:9-27: 
+VideoBaseTexture-flow.js:1902:9-36: 
+VideoBaseTexture-flow.js:1902:16-21: 
+VideoBaseTexture-flow.js:1902:16-23: 
+VideoBaseTexture-flow.js:1902:35: number
+VideoBaseTexture-flow.js:1903:9-14: 
+VideoBaseTexture-flow.js:1903:9-28: 
+VideoBaseTexture-flow.js:1903:9-31: 
+VideoBaseTexture-flow.js:1903:9-41: 
+VideoBaseTexture-flow.js:1903:16-21: 
+VideoBaseTexture-flow.js:1903:16-27: 
+VideoBaseTexture-flow.js:1903:39-40: number
+VideoBaseTexture-flow.js:1904:9-14: 
+VideoBaseTexture-flow.js:1904:9-29: 
+VideoBaseTexture-flow.js:1904:9-32: 
+VideoBaseTexture-flow.js:1904:9-42: 
+VideoBaseTexture-flow.js:1904:16-21: 
+VideoBaseTexture-flow.js:1904:16-28: 
+VideoBaseTexture-flow.js:1904:40-41: number
+VideoBaseTexture-flow.js:1906:9-14: 
+VideoBaseTexture-flow.js:1906:9-23: 
+VideoBaseTexture-flow.js:1906:9-30: number
+VideoBaseTexture-flow.js:1906:29-30: number
+VideoBaseTexture-flow.js:1907:9-14: 
+VideoBaseTexture-flow.js:1907:9-23: 
+VideoBaseTexture-flow.js:1907:9-30: number
+VideoBaseTexture-flow.js:1907:29-30: number
+VideoBaseTexture-flow.js:1909:9-14: 
+VideoBaseTexture-flow.js:1909:9-20: 
+VideoBaseTexture-flow.js:1909:9-26: number
+VideoBaseTexture-flow.js:1909:26: number
+VideoBaseTexture-flow.js:1910:9-14: 
+VideoBaseTexture-flow.js:1910:9-20: 
+VideoBaseTexture-flow.js:1910:9-26: number
+VideoBaseTexture-flow.js:1910:26: number
+VideoBaseTexture-flow.js:1912:9-40: 
+VideoBaseTexture-flow.js:1912:18-23: 
+VideoBaseTexture-flow.js:1912:18-40: 
+VideoBaseTexture-flow.js:1914:9-14: 
+VideoBaseTexture-flow.js:1914:9-24: 
+VideoBaseTexture-flow.js:1914:9-27: 
+VideoBaseTexture-flow.js:1914:9-36: 
+VideoBaseTexture-flow.js:1914:16-21: 
+VideoBaseTexture-flow.js:1914:16-23: 
+VideoBaseTexture-flow.js:1914:35: number
+VideoBaseTexture-flow.js:1915:9-14: 
+VideoBaseTexture-flow.js:1915:9-24: 
+VideoBaseTexture-flow.js:1915:9-27: 
+VideoBaseTexture-flow.js:1915:9-36: 
+VideoBaseTexture-flow.js:1915:16-21: 
+VideoBaseTexture-flow.js:1915:16-23: 
+VideoBaseTexture-flow.js:1915:35: number
+VideoBaseTexture-flow.js:1916:9-14: 
+VideoBaseTexture-flow.js:1916:9-28: 
+VideoBaseTexture-flow.js:1916:9-31: 
+VideoBaseTexture-flow.js:1916:9-41: 
+VideoBaseTexture-flow.js:1916:16-21: 
+VideoBaseTexture-flow.js:1916:16-27: 
+VideoBaseTexture-flow.js:1916:39-40: number
+VideoBaseTexture-flow.js:1917:9-14: 
+VideoBaseTexture-flow.js:1917:9-29: 
+VideoBaseTexture-flow.js:1917:9-32: 
+VideoBaseTexture-flow.js:1917:9-42: 
+VideoBaseTexture-flow.js:1917:16-21: 
+VideoBaseTexture-flow.js:1917:16-28: 
+VideoBaseTexture-flow.js:1917:40-41: number
+VideoBaseTexture-flow.js:1920:5-6: 
+VideoBaseTexture-flow.js:1920:5,1938:6: 
+VideoBaseTexture-flow.js:1920:8-59: string
+VideoBaseTexture-flow.js:1920:62,1938:5: () => void
+VideoBaseTexture-flow.js:1922:13-18: 
+VideoBaseTexture-flow.js:1922:22-36: 
+VideoBaseTexture-flow.js:1922:26-34: 
+VideoBaseTexture-flow.js:1924:13-20: 
+VideoBaseTexture-flow.js:1924:24-37: 
+VideoBaseTexture-flow.js:1924:28-35: 
+VideoBaseTexture-flow.js:1926:9-16: 
+VideoBaseTexture-flow.js:1926:9-36: 
+VideoBaseTexture-flow.js:1926:9-57: 
+VideoBaseTexture-flow.js:1926:28-35: number
+VideoBaseTexture-flow.js:1926:49: number
+VideoBaseTexture-flow.js:1926:52: number
+VideoBaseTexture-flow.js:1926:55-56: number
+VideoBaseTexture-flow.js:1928:9-16: 
+VideoBaseTexture-flow.js:1928:9-22: 
+VideoBaseTexture-flow.js:1928:9-29: 
+VideoBaseTexture-flow.js:1928:28: number
+VideoBaseTexture-flow.js:1930:9-14: 
+VideoBaseTexture-flow.js:1930:9-33: 
+VideoBaseTexture-flow.js:1930:25-32: 
+VideoBaseTexture-flow.js:1932:13-18: 
+VideoBaseTexture-flow.js:1932:22-29: 
+VideoBaseTexture-flow.js:1932:22-46: 
+VideoBaseTexture-flow.js:1934:9-14: 
+VideoBaseTexture-flow.js:1934:9-24: 
+VideoBaseTexture-flow.js:1934:9-27: 
+VideoBaseTexture-flow.js:1934:9-38: 
+VideoBaseTexture-flow.js:1934:16-21: 
+VideoBaseTexture-flow.js:1934:16-23: 
+VideoBaseTexture-flow.js:1934:35-37: number
+VideoBaseTexture-flow.js:1934:36-37: number
+VideoBaseTexture-flow.js:1935:9-14: 
+VideoBaseTexture-flow.js:1935:9-24: 
+VideoBaseTexture-flow.js:1935:9-27: 
+VideoBaseTexture-flow.js:1935:9-38: 
+VideoBaseTexture-flow.js:1935:16-21: 
+VideoBaseTexture-flow.js:1935:16-23: 
+VideoBaseTexture-flow.js:1935:35-37: number
+VideoBaseTexture-flow.js:1935:36-37: number
+VideoBaseTexture-flow.js:1936:9-14: 
+VideoBaseTexture-flow.js:1936:9-28: 
+VideoBaseTexture-flow.js:1936:9-31: 
+VideoBaseTexture-flow.js:1936:9-41: 
+VideoBaseTexture-flow.js:1936:16-21: 
+VideoBaseTexture-flow.js:1936:16-27: 
+VideoBaseTexture-flow.js:1936:39-40: number
+VideoBaseTexture-flow.js:1937:9-14: 
+VideoBaseTexture-flow.js:1937:9-29: 
+VideoBaseTexture-flow.js:1937:9-32: 
+VideoBaseTexture-flow.js:1937:9-42: 
+VideoBaseTexture-flow.js:1937:16-21: 
+VideoBaseTexture-flow.js:1937:16-28: 
+VideoBaseTexture-flow.js:1937:40-41: number
+VideoBaseTexture-flow.js:1940:5-6: 
+VideoBaseTexture-flow.js:1940:5,1954:6: 
+VideoBaseTexture-flow.js:1940:8-69: string
+VideoBaseTexture-flow.js:1940:72,1954:5: () => void
+VideoBaseTexture-flow.js:1942:13-18: 
+VideoBaseTexture-flow.js:1942:22-36: 
+VideoBaseTexture-flow.js:1942:26-34: 
+VideoBaseTexture-flow.js:1944:13-21: 
+VideoBaseTexture-flow.js:1944:25-39: 
+VideoBaseTexture-flow.js:1944:29-37: 
+VideoBaseTexture-flow.js:1946:9-14: 
+VideoBaseTexture-flow.js:1946:9-34: 
+VideoBaseTexture-flow.js:1946:25-33: 
+VideoBaseTexture-flow.js:1948:13-18: 
+VideoBaseTexture-flow.js:1948:22-30: 
+VideoBaseTexture-flow.js:1948:22-47: 
+VideoBaseTexture-flow.js:1950:9-14: 
+VideoBaseTexture-flow.js:1950:9-24: 
+VideoBaseTexture-flow.js:1950:9-27: 
+VideoBaseTexture-flow.js:1950:9-36: 
+VideoBaseTexture-flow.js:1950:16-21: 
+VideoBaseTexture-flow.js:1950:16-23: 
+VideoBaseTexture-flow.js:1950:35: number
+VideoBaseTexture-flow.js:1951:9-14: 
+VideoBaseTexture-flow.js:1951:9-24: 
+VideoBaseTexture-flow.js:1951:9-27: 
+VideoBaseTexture-flow.js:1951:9-36: 
+VideoBaseTexture-flow.js:1951:16-21: 
+VideoBaseTexture-flow.js:1951:16-23: 
+VideoBaseTexture-flow.js:1951:35: number
+VideoBaseTexture-flow.js:1952:9-14: 
+VideoBaseTexture-flow.js:1952:9-28: 
+VideoBaseTexture-flow.js:1952:9-31: 
+VideoBaseTexture-flow.js:1952:9-40: 
+VideoBaseTexture-flow.js:1952:16-21: 
+VideoBaseTexture-flow.js:1952:16-27: 
+VideoBaseTexture-flow.js:1952:39: number
+VideoBaseTexture-flow.js:1953:9-14: 
+VideoBaseTexture-flow.js:1953:9-29: 
+VideoBaseTexture-flow.js:1953:9-32: 
+VideoBaseTexture-flow.js:1953:9-41: 
+VideoBaseTexture-flow.js:1953:16-21: 
+VideoBaseTexture-flow.js:1953:16-28: 
+VideoBaseTexture-flow.js:1953:40: number
+VideoBaseTexture-flow.js:1956:5-6: 
+VideoBaseTexture-flow.js:1956:5,1976:6: 
+VideoBaseTexture-flow.js:1956:8-112: string
+VideoBaseTexture-flow.js:1956:115,1976:5: () => void
+VideoBaseTexture-flow.js:1958:13-18: 
+VideoBaseTexture-flow.js:1958:22-36: 
+VideoBaseTexture-flow.js:1958:26-34: 
+VideoBaseTexture-flow.js:1960:13-21: 
+VideoBaseTexture-flow.js:1960:25-39: 
+VideoBaseTexture-flow.js:1960:29-37: 
+VideoBaseTexture-flow.js:1962:13-20: 
+VideoBaseTexture-flow.js:1962:24-37: 
+VideoBaseTexture-flow.js:1962:24-57: 
+VideoBaseTexture-flow.js:1962:24-80: 
+VideoBaseTexture-flow.js:1962:28-35: 
+VideoBaseTexture-flow.js:1962:49-56: number
+VideoBaseTexture-flow.js:1962:68: number
+VideoBaseTexture-flow.js:1962:71: number
+VideoBaseTexture-flow.js:1962:74-75: number
+VideoBaseTexture-flow.js:1962:78-79: number
+VideoBaseTexture-flow.js:1964:9-14: 
+VideoBaseTexture-flow.js:1964:9-34: 
+VideoBaseTexture-flow.js:1964:25-33: 
+VideoBaseTexture-flow.js:1965:9-17: 
+VideoBaseTexture-flow.js:1965:9-36: 
+VideoBaseTexture-flow.js:1965:28-35: 
+VideoBaseTexture-flow.js:1967:9-17: 
+VideoBaseTexture-flow.js:1967:9-26: 
+VideoBaseTexture-flow.js:1967:9-34: number
+VideoBaseTexture-flow.js:1967:32-34: number
+VideoBaseTexture-flow.js:1968:9-17: 
+VideoBaseTexture-flow.js:1968:9-26: 
+VideoBaseTexture-flow.js:1968:9-34: number
+VideoBaseTexture-flow.js:1968:32-34: number
+VideoBaseTexture-flow.js:1970:13-18: 
+VideoBaseTexture-flow.js:1970:22-30: 
+VideoBaseTexture-flow.js:1970:22-47: 
+VideoBaseTexture-flow.js:1972:9-14: 
+VideoBaseTexture-flow.js:1972:9-24: 
+VideoBaseTexture-flow.js:1972:9-27: 
+VideoBaseTexture-flow.js:1972:9-36: 
+VideoBaseTexture-flow.js:1972:16-21: 
+VideoBaseTexture-flow.js:1972:16-23: 
+VideoBaseTexture-flow.js:1972:35: number
+VideoBaseTexture-flow.js:1973:9-14: 
+VideoBaseTexture-flow.js:1973:9-24: 
+VideoBaseTexture-flow.js:1973:9-27: 
+VideoBaseTexture-flow.js:1973:9-36: 
+VideoBaseTexture-flow.js:1973:16-21: 
+VideoBaseTexture-flow.js:1973:16-23: 
+VideoBaseTexture-flow.js:1973:35: number
+VideoBaseTexture-flow.js:1974:9-14: 
+VideoBaseTexture-flow.js:1974:9-28: 
+VideoBaseTexture-flow.js:1974:9-31: 
+VideoBaseTexture-flow.js:1974:9-41: 
+VideoBaseTexture-flow.js:1974:16-21: 
+VideoBaseTexture-flow.js:1974:16-27: 
+VideoBaseTexture-flow.js:1974:39-40: number
+VideoBaseTexture-flow.js:1975:9-14: 
+VideoBaseTexture-flow.js:1975:9-29: 
+VideoBaseTexture-flow.js:1975:9-32: 
+VideoBaseTexture-flow.js:1975:9-42: 
+VideoBaseTexture-flow.js:1975:16-21: 
+VideoBaseTexture-flow.js:1975:16-28: 
+VideoBaseTexture-flow.js:1975:40-41: number
+VideoBaseTexture-flow.js:1978:5-6: 
+VideoBaseTexture-flow.js:1978:5,1997:6: 
+VideoBaseTexture-flow.js:1978:8-57: string
+VideoBaseTexture-flow.js:1978:60,1997:5: () => void
+VideoBaseTexture-flow.js:1980:13-18: 
+VideoBaseTexture-flow.js:1980:22-36: 
+VideoBaseTexture-flow.js:1980:26-34: 
+VideoBaseTexture-flow.js:1982:13-19: 
+VideoBaseTexture-flow.js:1982:23-35: 
+VideoBaseTexture-flow.js:1982:23-50: 
+VideoBaseTexture-flow.js:1982:44-45: number
+VideoBaseTexture-flow.js:1982:48-49: number
+VideoBaseTexture-flow.js:1984:13-17: 
+VideoBaseTexture-flow.js:1984:21-43: 
+VideoBaseTexture-flow.js:1984:25-28: 
+VideoBaseTexture-flow.js:1984:25-34: 
+VideoBaseTexture-flow.js:1984:36-42: 
+VideoBaseTexture-flow.js:1986:9-14: 
+VideoBaseTexture-flow.js:1986:9-30: 
+VideoBaseTexture-flow.js:1986:25-29: 
+VideoBaseTexture-flow.js:1988:9-13: 
+VideoBaseTexture-flow.js:1988:9-22: 
+VideoBaseTexture-flow.js:1988:9-29: number
+VideoBaseTexture-flow.js:1988:28-29: number
+VideoBaseTexture-flow.js:1989:9-13: 
+VideoBaseTexture-flow.js:1989:9-22: 
+VideoBaseTexture-flow.js:1989:9-29: number
+VideoBaseTexture-flow.js:1989:28-29: number
+VideoBaseTexture-flow.js:1991:13-18: 
+VideoBaseTexture-flow.js:1991:22-26: 
+VideoBaseTexture-flow.js:1991:22-43: 
+VideoBaseTexture-flow.js:1993:9-14: 
+VideoBaseTexture-flow.js:1993:9-24: 
+VideoBaseTexture-flow.js:1993:9-27: 
+VideoBaseTexture-flow.js:1993:9-36: 
+VideoBaseTexture-flow.js:1993:16-21: 
+VideoBaseTexture-flow.js:1993:16-23: 
+VideoBaseTexture-flow.js:1993:35: number
+VideoBaseTexture-flow.js:1994:9-14: 
+VideoBaseTexture-flow.js:1994:9-24: 
+VideoBaseTexture-flow.js:1994:9-27: 
+VideoBaseTexture-flow.js:1994:9-36: 
+VideoBaseTexture-flow.js:1994:16-21: 
+VideoBaseTexture-flow.js:1994:16-23: 
+VideoBaseTexture-flow.js:1994:35: number
+VideoBaseTexture-flow.js:1995:9-14: 
+VideoBaseTexture-flow.js:1995:9-28: 
+VideoBaseTexture-flow.js:1995:9-31: 
+VideoBaseTexture-flow.js:1995:9-41: 
+VideoBaseTexture-flow.js:1995:16-21: 
+VideoBaseTexture-flow.js:1995:16-27: 
+VideoBaseTexture-flow.js:1995:39-40: number
+VideoBaseTexture-flow.js:1996:9-14: 
+VideoBaseTexture-flow.js:1996:9-29: 
+VideoBaseTexture-flow.js:1996:9-32: 
+VideoBaseTexture-flow.js:1996:9-42: 
+VideoBaseTexture-flow.js:1996:16-21: 
+VideoBaseTexture-flow.js:1996:16-28: 
+VideoBaseTexture-flow.js:1996:40-41: number
+VideoBaseTexture-flow.js:1999:5-6: 
+VideoBaseTexture-flow.js:1999:5,2023:6: 
+VideoBaseTexture-flow.js:1999:8-92: string
+VideoBaseTexture-flow.js:1999:95,2023:5: () => void
+VideoBaseTexture-flow.js:2001:13-18: 
+VideoBaseTexture-flow.js:2001:22-36: 
+VideoBaseTexture-flow.js:2001:26-34: 
+VideoBaseTexture-flow.js:2003:13-19: 
+VideoBaseTexture-flow.js:2003:23-36: 
+VideoBaseTexture-flow.js:2003:27-34: 
+VideoBaseTexture-flow.js:2005:9-15: 
+VideoBaseTexture-flow.js:2005:9-35: 
+VideoBaseTexture-flow.js:2005:27-34: number
+VideoBaseTexture-flow.js:2006:9-15: 
+VideoBaseTexture-flow.js:2006:9-40: 
+VideoBaseTexture-flow.js:2006:26: number
+VideoBaseTexture-flow.js:2006:29: number
+VideoBaseTexture-flow.js:2006:32-34: number
+VideoBaseTexture-flow.js:2006:37-39: number
+VideoBaseTexture-flow.js:2007:9-15: 
+VideoBaseTexture-flow.js:2007:9-25: 
+VideoBaseTexture-flow.js:2008:9-15: 
+VideoBaseTexture-flow.js:2008:9-36: boolean
+VideoBaseTexture-flow.js:2008:33-36: boolean
+VideoBaseTexture-flow.js:2010:9-14: 
+VideoBaseTexture-flow.js:2010:9-32: 
+VideoBaseTexture-flow.js:2010:25-31: 
+VideoBaseTexture-flow.js:2012:13-20: 
+VideoBaseTexture-flow.js:2012:24-51: 
+VideoBaseTexture-flow.js:2012:28-41: 
+VideoBaseTexture-flow.js:2012:43-45: number
+VideoBaseTexture-flow.js:2012:48-50: number
+VideoBaseTexture-flow.js:2014:9-16: 
+VideoBaseTexture-flow.js:2014:9-55: () => void
+VideoBaseTexture-flow.js:2014:29-55: () => void
+VideoBaseTexture-flow.js:2015:9-16: 
+VideoBaseTexture-flow.js:2015:9-31: 
+VideoBaseTexture-flow.js:2015:25-30: 
+VideoBaseTexture-flow.js:2017:13-18: 
+VideoBaseTexture-flow.js:2017:22-27: 
+VideoBaseTexture-flow.js:2017:22-44: 
+VideoBaseTexture-flow.js:2019:9-14: 
+VideoBaseTexture-flow.js:2019:9-24: 
+VideoBaseTexture-flow.js:2019:9-27: 
+VideoBaseTexture-flow.js:2019:9-36: 
+VideoBaseTexture-flow.js:2019:16-21: 
+VideoBaseTexture-flow.js:2019:16-23: 
+VideoBaseTexture-flow.js:2019:35: number
+VideoBaseTexture-flow.js:2020:9-14: 
+VideoBaseTexture-flow.js:2020:9-24: 
+VideoBaseTexture-flow.js:2020:9-27: 
+VideoBaseTexture-flow.js:2020:9-36: 
+VideoBaseTexture-flow.js:2020:16-21: 
+VideoBaseTexture-flow.js:2020:16-23: 
+VideoBaseTexture-flow.js:2020:35: number
+VideoBaseTexture-flow.js:2021:9-14: 
+VideoBaseTexture-flow.js:2021:9-28: 
+VideoBaseTexture-flow.js:2021:9-31: 
+VideoBaseTexture-flow.js:2021:9-42: 
+VideoBaseTexture-flow.js:2021:16-21: 
+VideoBaseTexture-flow.js:2021:16-27: 
+VideoBaseTexture-flow.js:2021:39-41: number
+VideoBaseTexture-flow.js:2022:9-14: 
+VideoBaseTexture-flow.js:2022:9-29: 
+VideoBaseTexture-flow.js:2022:9-32: 
+VideoBaseTexture-flow.js:2022:9-43: 
+VideoBaseTexture-flow.js:2022:16-21: 
+VideoBaseTexture-flow.js:2022:16-28: 
+VideoBaseTexture-flow.js:2022:40-42: number
+VideoBaseTexture-flow.js:2031:1-8: 
+VideoBaseTexture-flow.js:2031:1,2043:2: 
+VideoBaseTexture-flow.js:2031:10-24: string
+VideoBaseTexture-flow.js:2031:27,2043:1: () => void
+VideoBaseTexture-flow.js:2033:5-6: 
+VideoBaseTexture-flow.js:2033:5,2042:6: 
+VideoBaseTexture-flow.js:2033:8-52: string
+VideoBaseTexture-flow.js:2033:55,2042:5: () => void
+VideoBaseTexture-flow.js:2035:13-17: 
+VideoBaseTexture-flow.js:2035:21-39: 
+VideoBaseTexture-flow.js:2035:25-37: 
+VideoBaseTexture-flow.js:2036:13-21: 
+VideoBaseTexture-flow.js:2036:25-39: 
+VideoBaseTexture-flow.js:2036:29-37: 
+VideoBaseTexture-flow.js:2038:9-14: 
+VideoBaseTexture-flow.js:2038:9-41: 
+VideoBaseTexture-flow.js:2038:9-44: 
+VideoBaseTexture-flow.js:2038:9-53: 
+VideoBaseTexture-flow.js:2038:16-24: 
+VideoBaseTexture-flow.js:2038:16-33: 
+VideoBaseTexture-flow.js:2038:16-40: 
+VideoBaseTexture-flow.js:2038:52: number
+VideoBaseTexture-flow.js:2039:9-13: 
+VideoBaseTexture-flow.js:2039:9-34: 
+VideoBaseTexture-flow.js:2039:25-33: 
+VideoBaseTexture-flow.js:2040:9-14: 
+VideoBaseTexture-flow.js:2040:9-41: 
+VideoBaseTexture-flow.js:2040:9-44: 
+VideoBaseTexture-flow.js:2040:9-53: 
+VideoBaseTexture-flow.js:2040:16-24: 
+VideoBaseTexture-flow.js:2040:16-33: 
+VideoBaseTexture-flow.js:2040:16-40: 
+VideoBaseTexture-flow.js:2040:52: number
+VideoBaseTexture-flow.js:2041:9-14: 
+VideoBaseTexture-flow.js:2041:9-28: 
+VideoBaseTexture-flow.js:2041:9-31: 
+VideoBaseTexture-flow.js:2041:9-48: 
+VideoBaseTexture-flow.js:2041:16-20: 
+VideoBaseTexture-flow.js:2041:16-27: 
+VideoBaseTexture-flow.js:2041:39-47: 
+VideoBaseTexture-flow.js:2050:1-8: 
+VideoBaseTexture-flow.js:2050:1,2097:2: 
+VideoBaseTexture-flow.js:2050:10-20: string
+VideoBaseTexture-flow.js:2050:23,2097:1: () => void
+VideoBaseTexture-flow.js:2052:5-12: 
+VideoBaseTexture-flow.js:2052:5,2064:6: 
+VideoBaseTexture-flow.js:2052:14-21: string
+VideoBaseTexture-flow.js:2052:24,2064:5: () => void
+VideoBaseTexture-flow.js:2054:9-10: 
+VideoBaseTexture-flow.js:2054:9,2063:10: 
+VideoBaseTexture-flow.js:2054:12-64: string
+VideoBaseTexture-flow.js:2054:67,2063:9: () => void
+VideoBaseTexture-flow.js:2056:17-25: 
+VideoBaseTexture-flow.js:2056:29-43: 
+VideoBaseTexture-flow.js:2056:33-41: 
+VideoBaseTexture-flow.js:2057:17-21: 
+VideoBaseTexture-flow.js:2057:25-43: 
+VideoBaseTexture-flow.js:2057:29-41: 
+VideoBaseTexture-flow.js:2059:13-18: 
+VideoBaseTexture-flow.js:2059:13-45: 
+VideoBaseTexture-flow.js:2059:13-48: 
+VideoBaseTexture-flow.js:2059:13-51: 
+VideoBaseTexture-flow.js:2059:13-61: 
+VideoBaseTexture-flow.js:2059:20-28: 
+VideoBaseTexture-flow.js:2059:20-37: 
+VideoBaseTexture-flow.js:2059:20-44: 
+VideoBaseTexture-flow.js:2059:60: number
+VideoBaseTexture-flow.js:2060:13-21: 
+VideoBaseTexture-flow.js:2060:13-37: 
+VideoBaseTexture-flow.js:2060:32-36: 
+VideoBaseTexture-flow.js:2061:13-18: 
+VideoBaseTexture-flow.js:2061:13-45: 
+VideoBaseTexture-flow.js:2061:13-48: 
+VideoBaseTexture-flow.js:2061:13-51: 
+VideoBaseTexture-flow.js:2061:13-61: 
+VideoBaseTexture-flow.js:2061:20-28: 
+VideoBaseTexture-flow.js:2061:20-37: 
+VideoBaseTexture-flow.js:2061:20-44: 
+VideoBaseTexture-flow.js:2061:60: number
+VideoBaseTexture-flow.js:2062:13-18: 
+VideoBaseTexture-flow.js:2062:13-32: 
+VideoBaseTexture-flow.js:2062:13-35: 
+VideoBaseTexture-flow.js:2062:13-38: 
+VideoBaseTexture-flow.js:2062:13-56: 
+VideoBaseTexture-flow.js:2062:20-24: 
+VideoBaseTexture-flow.js:2062:20-31: 
+VideoBaseTexture-flow.js:2062:47-55: 
+VideoBaseTexture-flow.js:2066:5-12: 
+VideoBaseTexture-flow.js:2066:5,2096:6: 
+VideoBaseTexture-flow.js:2066:14-21: string
+VideoBaseTexture-flow.js:2066:24,2096:5: () => void
+VideoBaseTexture-flow.js:2068:9-10: 
+VideoBaseTexture-flow.js:2068:9,2095:10: 
+VideoBaseTexture-flow.js:2068:12-74: string
+VideoBaseTexture-flow.js:2068:77,2095:9: () => void
+VideoBaseTexture-flow.js:2070:17-25: 
+VideoBaseTexture-flow.js:2070:29-43: 
+VideoBaseTexture-flow.js:2070:33-41: 
+VideoBaseTexture-flow.js:2071:17-21: 
+VideoBaseTexture-flow.js:2071:25-43: 
+VideoBaseTexture-flow.js:2071:29-41: 
+VideoBaseTexture-flow.js:2072:17-30: boolean
+VideoBaseTexture-flow.js:2072:34-38: boolean
+VideoBaseTexture-flow.js:2073:17-32: boolean
+VideoBaseTexture-flow.js:2073:36-40: boolean
+VideoBaseTexture-flow.js:2075:13-17: 
+VideoBaseTexture-flow.js:2075:13,2080:14: 
+VideoBaseTexture-flow.js:2075:22-28: string
+VideoBaseTexture-flow.js:2075:31,2080:13: (to: ) => void
+VideoBaseTexture-flow.js:2075:41-42: 
+VideoBaseTexture-flow.js:2077:17-37: boolean
+VideoBaseTexture-flow.js:2077:34-37: boolean
+VideoBaseTexture-flow.js:2078:17-22: 
+VideoBaseTexture-flow.js:2078:17-49: 
+VideoBaseTexture-flow.js:2078:17-52: 
+VideoBaseTexture-flow.js:2078:17-55: 
+VideoBaseTexture-flow.js:2078:17-65: 
+VideoBaseTexture-flow.js:2078:24-32: 
+VideoBaseTexture-flow.js:2078:24-41: 
+VideoBaseTexture-flow.js:2078:24-48: 
+VideoBaseTexture-flow.js:2078:64: number
+VideoBaseTexture-flow.js:2079:17-22: 
+VideoBaseTexture-flow.js:2079:17-36: 
+VideoBaseTexture-flow.js:2079:17-39: 
+VideoBaseTexture-flow.js:2079:17-42: 
+VideoBaseTexture-flow.js:2079:17-53: 
+VideoBaseTexture-flow.js:2079:24-28: 
+VideoBaseTexture-flow.js:2079:24-35: 
+VideoBaseTexture-flow.js:2079:51-52: 
+VideoBaseTexture-flow.js:2081:13-17: 
+VideoBaseTexture-flow.js:2081:13,2087:14: 
+VideoBaseTexture-flow.js:2081:22-30: string
+VideoBaseTexture-flow.js:2081:33,2087:13: (from: ) => void
+VideoBaseTexture-flow.js:2081:43-46: 
+VideoBaseTexture-flow.js:2083:17-39: boolean
+VideoBaseTexture-flow.js:2083:36-39: boolean
+VideoBaseTexture-flow.js:2084:17-22: 
+VideoBaseTexture-flow.js:2084:17-49: 
+VideoBaseTexture-flow.js:2084:17-52: 
+VideoBaseTexture-flow.js:2084:17-55: 
+VideoBaseTexture-flow.js:2084:17-65: 
+VideoBaseTexture-flow.js:2084:24-32: 
+VideoBaseTexture-flow.js:2084:24-41: 
+VideoBaseTexture-flow.js:2084:24-48: 
+VideoBaseTexture-flow.js:2084:64: number
+VideoBaseTexture-flow.js:2085:17-22: 
+VideoBaseTexture-flow.js:2085:17-36: 
+VideoBaseTexture-flow.js:2085:17-39: 
+VideoBaseTexture-flow.js:2085:17-42: 
+VideoBaseTexture-flow.js:2085:17-47: 
+VideoBaseTexture-flow.js:2085:24-28: 
+VideoBaseTexture-flow.js:2085:24-35: 
+VideoBaseTexture-flow.js:2086:17-22: 
+VideoBaseTexture-flow.js:2086:17-33: 
+VideoBaseTexture-flow.js:2086:17-36: 
+VideoBaseTexture-flow.js:2086:17-39: 
+VideoBaseTexture-flow.js:2086:17-52: 
+VideoBaseTexture-flow.js:2086:24-32: 
+VideoBaseTexture-flow.js:2086:48-51: 
+VideoBaseTexture-flow.js:2089:13-21: 
+VideoBaseTexture-flow.js:2089:13-37: 
+VideoBaseTexture-flow.js:2089:32-36: 
+VideoBaseTexture-flow.js:2090:13-18: 
+VideoBaseTexture-flow.js:2090:13-34: 
+VideoBaseTexture-flow.js:2090:13-37: 
+VideoBaseTexture-flow.js:2090:13-40: 
+VideoBaseTexture-flow.js:2090:13-45: 
+VideoBaseTexture-flow.js:2090:20-33: boolean
+VideoBaseTexture-flow.js:2091:13-18: 
+VideoBaseTexture-flow.js:2091:13-36: 
+VideoBaseTexture-flow.js:2091:13-39: 
+VideoBaseTexture-flow.js:2091:13-42: 
+VideoBaseTexture-flow.js:2091:13-48: 
+VideoBaseTexture-flow.js:2091:20-35: boolean
+VideoBaseTexture-flow.js:2093:13-21: 
+VideoBaseTexture-flow.js:2093:13-40: 
+VideoBaseTexture-flow.js:2093:35-39: 
+VideoBaseTexture-flow.js:2094:13-18: 
+VideoBaseTexture-flow.js:2094:13-36: 
+VideoBaseTexture-flow.js:2094:13-39: 
+VideoBaseTexture-flow.js:2094:13-42: 
+VideoBaseTexture-flow.js:2094:13-47: 
+VideoBaseTexture-flow.js:2094:20-35: boolean
+VideoBaseTexture-flow.js:2104:1-8: 
+VideoBaseTexture-flow.js:2104:1,2557:2: 
+VideoBaseTexture-flow.js:2104:10-20: string
+VideoBaseTexture-flow.js:2104:23,2557:1: () => void
+VideoBaseTexture-flow.js:2106:5-6: 
+VideoBaseTexture-flow.js:2106:5,2143:6: 
+VideoBaseTexture-flow.js:2106:8-66: string
+VideoBaseTexture-flow.js:2106:69,2143:5: () => void
+VideoBaseTexture-flow.js:2108:13-18: 
+VideoBaseTexture-flow.js:2108:22-36: 
+VideoBaseTexture-flow.js:2108:26-34: 
+VideoBaseTexture-flow.js:2109:13-19: 
+VideoBaseTexture-flow.js:2109:23-35: 
+VideoBaseTexture-flow.js:2109:23-50: 
+VideoBaseTexture-flow.js:2109:44-45: number
+VideoBaseTexture-flow.js:2109:48-49: number
+VideoBaseTexture-flow.js:2111:13-18: 
+VideoBaseTexture-flow.js:2111:22-40: 
+VideoBaseTexture-flow.js:2111:26-31: 
+VideoBaseTexture-flow.js:2111:33-39: 
+VideoBaseTexture-flow.js:2113:9-14: 
+VideoBaseTexture-flow.js:2113:9-31: 
+VideoBaseTexture-flow.js:2113:25-30: 
+VideoBaseTexture-flow.js:2115:13-18: 
+VideoBaseTexture-flow.js:2117:9-35: 
+VideoBaseTexture-flow.js:2117:18-23: 
+VideoBaseTexture-flow.js:2117:18-35: 
+VideoBaseTexture-flow.js:2119:9-14: 
+VideoBaseTexture-flow.js:2119:9-24: 
+VideoBaseTexture-flow.js:2119:9-27: 
+VideoBaseTexture-flow.js:2119:9-36: 
+VideoBaseTexture-flow.js:2119:16-21: 
+VideoBaseTexture-flow.js:2119:16-23: 
+VideoBaseTexture-flow.js:2119:35: number
+VideoBaseTexture-flow.js:2120:9-14: 
+VideoBaseTexture-flow.js:2120:9-24: 
+VideoBaseTexture-flow.js:2120:9-27: 
+VideoBaseTexture-flow.js:2120:9-36: 
+VideoBaseTexture-flow.js:2120:16-21: 
+VideoBaseTexture-flow.js:2120:16-23: 
+VideoBaseTexture-flow.js:2120:35: number
+VideoBaseTexture-flow.js:2121:9-14: 
+VideoBaseTexture-flow.js:2121:9-28: 
+VideoBaseTexture-flow.js:2121:9-31: 
+VideoBaseTexture-flow.js:2121:9-41: 
+VideoBaseTexture-flow.js:2121:16-21: 
+VideoBaseTexture-flow.js:2121:16-27: 
+VideoBaseTexture-flow.js:2121:39-40: number
+VideoBaseTexture-flow.js:2122:9-14: 
+VideoBaseTexture-flow.js:2122:9-29: 
+VideoBaseTexture-flow.js:2122:9-32: 
+VideoBaseTexture-flow.js:2122:9-42: 
+VideoBaseTexture-flow.js:2122:16-21: 
+VideoBaseTexture-flow.js:2122:16-28: 
+VideoBaseTexture-flow.js:2122:40-41: number
+VideoBaseTexture-flow.js:2124:9-14: 
+VideoBaseTexture-flow.js:2124:9-23: 
+VideoBaseTexture-flow.js:2124:9-30: number
+VideoBaseTexture-flow.js:2124:29-30: number
+VideoBaseTexture-flow.js:2125:9-14: 
+VideoBaseTexture-flow.js:2125:9-23: 
+VideoBaseTexture-flow.js:2125:9-30: number
+VideoBaseTexture-flow.js:2125:29-30: number
+VideoBaseTexture-flow.js:2127:9-14: 
+VideoBaseTexture-flow.js:2127:9-20: 
+VideoBaseTexture-flow.js:2127:9-26: number
+VideoBaseTexture-flow.js:2127:26: number
+VideoBaseTexture-flow.js:2128:9-14: 
+VideoBaseTexture-flow.js:2128:9-20: 
+VideoBaseTexture-flow.js:2128:9-26: number
+VideoBaseTexture-flow.js:2128:26: number
+VideoBaseTexture-flow.js:2130:9-35: 
+VideoBaseTexture-flow.js:2130:18-23: 
+VideoBaseTexture-flow.js:2130:18-35: 
+VideoBaseTexture-flow.js:2132:9-14: 
+VideoBaseTexture-flow.js:2132:9-24: 
+VideoBaseTexture-flow.js:2132:9-27: 
+VideoBaseTexture-flow.js:2132:9-37: 
+VideoBaseTexture-flow.js:2132:16-21: 
+VideoBaseTexture-flow.js:2132:16-23: 
+VideoBaseTexture-flow.js:2132:35-36: number
+VideoBaseTexture-flow.js:2133:9-14: 
+VideoBaseTexture-flow.js:2133:9-24: 
+VideoBaseTexture-flow.js:2133:9-27: 
+VideoBaseTexture-flow.js:2133:9-37: 
+VideoBaseTexture-flow.js:2133:16-21: 
+VideoBaseTexture-flow.js:2133:16-23: 
+VideoBaseTexture-flow.js:2133:35-36: number
+VideoBaseTexture-flow.js:2134:9-14: 
+VideoBaseTexture-flow.js:2134:9-28: 
+VideoBaseTexture-flow.js:2134:9-31: 
+VideoBaseTexture-flow.js:2134:9-41: 
+VideoBaseTexture-flow.js:2134:16-21: 
+VideoBaseTexture-flow.js:2134:16-27: 
+VideoBaseTexture-flow.js:2134:39-40: number
+VideoBaseTexture-flow.js:2135:9-14: 
+VideoBaseTexture-flow.js:2135:9-29: 
+VideoBaseTexture-flow.js:2135:9-32: 
+VideoBaseTexture-flow.js:2135:9-42: 
+VideoBaseTexture-flow.js:2135:16-21: 
+VideoBaseTexture-flow.js:2135:16-28: 
+VideoBaseTexture-flow.js:2135:40-41: number
+VideoBaseTexture-flow.js:2137:9-39: 
+VideoBaseTexture-flow.js:2137:18-23: 
+VideoBaseTexture-flow.js:2137:18-39: 
+VideoBaseTexture-flow.js:2137:35-38: boolean
+VideoBaseTexture-flow.js:2139:9-14: 
+VideoBaseTexture-flow.js:2139:9-24: 
+VideoBaseTexture-flow.js:2139:9-27: 
+VideoBaseTexture-flow.js:2139:9-37: 
+VideoBaseTexture-flow.js:2139:16-21: 
+VideoBaseTexture-flow.js:2139:16-23: 
+VideoBaseTexture-flow.js:2139:35-36: number
+VideoBaseTexture-flow.js:2140:9-14: 
+VideoBaseTexture-flow.js:2140:9-24: 
+VideoBaseTexture-flow.js:2140:9-27: 
+VideoBaseTexture-flow.js:2140:9-37: 
+VideoBaseTexture-flow.js:2140:16-21: 
+VideoBaseTexture-flow.js:2140:16-23: 
+VideoBaseTexture-flow.js:2140:35-36: number
+VideoBaseTexture-flow.js:2141:9-14: 
+VideoBaseTexture-flow.js:2141:9-28: 
+VideoBaseTexture-flow.js:2141:9-31: 
+VideoBaseTexture-flow.js:2141:9-41: 
+VideoBaseTexture-flow.js:2141:16-21: 
+VideoBaseTexture-flow.js:2141:16-27: 
+VideoBaseTexture-flow.js:2141:39-40: number
+VideoBaseTexture-flow.js:2142:9-14: 
+VideoBaseTexture-flow.js:2142:9-29: 
+VideoBaseTexture-flow.js:2142:9-32: 
+VideoBaseTexture-flow.js:2142:9-42: 
+VideoBaseTexture-flow.js:2142:16-21: 
+VideoBaseTexture-flow.js:2142:16-28: 
+VideoBaseTexture-flow.js:2142:40-41: number
+VideoBaseTexture-flow.js:2145:5-6: 
+VideoBaseTexture-flow.js:2145:5,2190:6: 
+VideoBaseTexture-flow.js:2145:8-59: string
+VideoBaseTexture-flow.js:2145:62,2190:5: () => void
+VideoBaseTexture-flow.js:2147:13-18: 
+VideoBaseTexture-flow.js:2147:22-36: 
+VideoBaseTexture-flow.js:2147:26-34: 
+VideoBaseTexture-flow.js:2149:13-20: 
+VideoBaseTexture-flow.js:2149:24-37: 
+VideoBaseTexture-flow.js:2149:28-35: 
+VideoBaseTexture-flow.js:2151:13-18: 
+VideoBaseTexture-flow.js:2153:9-37: 
+VideoBaseTexture-flow.js:2153:18-25: 
+VideoBaseTexture-flow.js:2153:18-37: 
+VideoBaseTexture-flow.js:2155:9-14: 
+VideoBaseTexture-flow.js:2155:9-24: 
+VideoBaseTexture-flow.js:2155:9-27: 
+VideoBaseTexture-flow.js:2155:9-36: 
+VideoBaseTexture-flow.js:2155:16-21: 
+VideoBaseTexture-flow.js:2155:16-23: 
+VideoBaseTexture-flow.js:2155:35: number
+VideoBaseTexture-flow.js:2156:9-14: 
+VideoBaseTexture-flow.js:2156:9-24: 
+VideoBaseTexture-flow.js:2156:9-27: 
+VideoBaseTexture-flow.js:2156:9-36: 
+VideoBaseTexture-flow.js:2156:16-21: 
+VideoBaseTexture-flow.js:2156:16-23: 
+VideoBaseTexture-flow.js:2156:35: number
+VideoBaseTexture-flow.js:2157:9-14: 
+VideoBaseTexture-flow.js:2157:9-28: 
+VideoBaseTexture-flow.js:2157:9-31: 
+VideoBaseTexture-flow.js:2157:9-40: 
+VideoBaseTexture-flow.js:2157:16-21: 
+VideoBaseTexture-flow.js:2157:16-27: 
+VideoBaseTexture-flow.js:2157:39: number
+VideoBaseTexture-flow.js:2158:9-14: 
+VideoBaseTexture-flow.js:2158:9-29: 
+VideoBaseTexture-flow.js:2158:9-32: 
+VideoBaseTexture-flow.js:2158:9-41: 
+VideoBaseTexture-flow.js:2158:16-21: 
+VideoBaseTexture-flow.js:2158:16-28: 
+VideoBaseTexture-flow.js:2158:40: number
+VideoBaseTexture-flow.js:2160:9-16: 
+VideoBaseTexture-flow.js:2160:9-36: 
+VideoBaseTexture-flow.js:2160:9-61: 
+VideoBaseTexture-flow.js:2160:28-35: number
+VideoBaseTexture-flow.js:2160:49: number
+VideoBaseTexture-flow.js:2160:52: number
+VideoBaseTexture-flow.js:2160:55-56: number
+VideoBaseTexture-flow.js:2160:59-60: number
+VideoBaseTexture-flow.js:2162:9-14: 
+VideoBaseTexture-flow.js:2162:9-33: 
+VideoBaseTexture-flow.js:2162:25-32: 
+VideoBaseTexture-flow.js:2164:9-37: 
+VideoBaseTexture-flow.js:2164:18-25: 
+VideoBaseTexture-flow.js:2164:18-37: 
+VideoBaseTexture-flow.js:2166:9-14: 
+VideoBaseTexture-flow.js:2166:9-24: 
+VideoBaseTexture-flow.js:2166:9-27: 
+VideoBaseTexture-flow.js:2166:9-38: 
+VideoBaseTexture-flow.js:2166:16-21: 
+VideoBaseTexture-flow.js:2166:16-23: 
+VideoBaseTexture-flow.js:2166:35-37: number
+VideoBaseTexture-flow.js:2166:36-37: number
+VideoBaseTexture-flow.js:2167:9-14: 
+VideoBaseTexture-flow.js:2167:9-24: 
+VideoBaseTexture-flow.js:2167:9-27: 
+VideoBaseTexture-flow.js:2167:9-38: 
+VideoBaseTexture-flow.js:2167:16-21: 
+VideoBaseTexture-flow.js:2167:16-23: 
+VideoBaseTexture-flow.js:2167:35-37: number
+VideoBaseTexture-flow.js:2167:36-37: number
+VideoBaseTexture-flow.js:2168:9-14: 
+VideoBaseTexture-flow.js:2168:9-28: 
+VideoBaseTexture-flow.js:2168:9-31: 
+VideoBaseTexture-flow.js:2168:9-41: 
+VideoBaseTexture-flow.js:2168:16-21: 
+VideoBaseTexture-flow.js:2168:16-27: 
+VideoBaseTexture-flow.js:2168:39-40: number
+VideoBaseTexture-flow.js:2169:9-14: 
+VideoBaseTexture-flow.js:2169:9-29: 
+VideoBaseTexture-flow.js:2169:9-32: 
+VideoBaseTexture-flow.js:2169:9-42: 
+VideoBaseTexture-flow.js:2169:16-21: 
+VideoBaseTexture-flow.js:2169:16-28: 
+VideoBaseTexture-flow.js:2169:40-41: number
+VideoBaseTexture-flow.js:2171:9-16: 
+VideoBaseTexture-flow.js:2171:9-25: 
+VideoBaseTexture-flow.js:2171:9-32: number
+VideoBaseTexture-flow.js:2171:31-32: number
+VideoBaseTexture-flow.js:2172:9-16: 
+VideoBaseTexture-flow.js:2172:9-25: 
+VideoBaseTexture-flow.js:2172:9-32: number
+VideoBaseTexture-flow.js:2172:31-32: number
+VideoBaseTexture-flow.js:2174:9-16: 
+VideoBaseTexture-flow.js:2174:9-22: 
+VideoBaseTexture-flow.js:2174:9-28: number
+VideoBaseTexture-flow.js:2174:28: number
+VideoBaseTexture-flow.js:2175:9-16: 
+VideoBaseTexture-flow.js:2175:9-22: 
+VideoBaseTexture-flow.js:2175:9-28: number
+VideoBaseTexture-flow.js:2175:28: number
+VideoBaseTexture-flow.js:2177:9-37: 
+VideoBaseTexture-flow.js:2177:18-25: 
+VideoBaseTexture-flow.js:2177:18-37: 
+VideoBaseTexture-flow.js:2179:9-14: 
+VideoBaseTexture-flow.js:2179:9-24: 
+VideoBaseTexture-flow.js:2179:9-27: 
+VideoBaseTexture-flow.js:2179:9-36: 
+VideoBaseTexture-flow.js:2179:16-21: 
+VideoBaseTexture-flow.js:2179:16-23: 
+VideoBaseTexture-flow.js:2179:35: number
+VideoBaseTexture-flow.js:2180:9-14: 
+VideoBaseTexture-flow.js:2180:9-24: 
+VideoBaseTexture-flow.js:2180:9-27: 
+VideoBaseTexture-flow.js:2180:9-36: 
+VideoBaseTexture-flow.js:2180:16-21: 
+VideoBaseTexture-flow.js:2180:16-23: 
+VideoBaseTexture-flow.js:2180:35: number
+VideoBaseTexture-flow.js:2181:9-14: 
+VideoBaseTexture-flow.js:2181:9-28: 
+VideoBaseTexture-flow.js:2181:9-31: 
+VideoBaseTexture-flow.js:2181:9-41: 
+VideoBaseTexture-flow.js:2181:16-21: 
+VideoBaseTexture-flow.js:2181:16-27: 
+VideoBaseTexture-flow.js:2181:39-40: number
+VideoBaseTexture-flow.js:2182:9-14: 
+VideoBaseTexture-flow.js:2182:9-29: 
+VideoBaseTexture-flow.js:2182:9-32: 
+VideoBaseTexture-flow.js:2182:9-42: 
+VideoBaseTexture-flow.js:2182:16-21: 
+VideoBaseTexture-flow.js:2182:16-28: 
+VideoBaseTexture-flow.js:2182:40-41: number
+VideoBaseTexture-flow.js:2184:9-41: 
+VideoBaseTexture-flow.js:2184:18-25: 
+VideoBaseTexture-flow.js:2184:18-41: 
+VideoBaseTexture-flow.js:2184:37-40: boolean
+VideoBaseTexture-flow.js:2186:9-14: 
+VideoBaseTexture-flow.js:2186:9-24: 
+VideoBaseTexture-flow.js:2186:9-27: 
+VideoBaseTexture-flow.js:2186:9-36: 
+VideoBaseTexture-flow.js:2186:16-21: 
+VideoBaseTexture-flow.js:2186:16-23: 
+VideoBaseTexture-flow.js:2186:35: number
+VideoBaseTexture-flow.js:2187:9-14: 
+VideoBaseTexture-flow.js:2187:9-24: 
+VideoBaseTexture-flow.js:2187:9-27: 
+VideoBaseTexture-flow.js:2187:9-36: 
+VideoBaseTexture-flow.js:2187:16-21: 
+VideoBaseTexture-flow.js:2187:16-23: 
+VideoBaseTexture-flow.js:2187:35: number
+VideoBaseTexture-flow.js:2188:9-14: 
+VideoBaseTexture-flow.js:2188:9-28: 
+VideoBaseTexture-flow.js:2188:9-31: 
+VideoBaseTexture-flow.js:2188:9-41: 
+VideoBaseTexture-flow.js:2188:16-21: 
+VideoBaseTexture-flow.js:2188:16-27: 
+VideoBaseTexture-flow.js:2188:39-40: number
+VideoBaseTexture-flow.js:2189:9-14: 
+VideoBaseTexture-flow.js:2189:9-29: 
+VideoBaseTexture-flow.js:2189:9-32: 
+VideoBaseTexture-flow.js:2189:9-42: 
+VideoBaseTexture-flow.js:2189:16-21: 
+VideoBaseTexture-flow.js:2189:16-28: 
+VideoBaseTexture-flow.js:2189:40-41: number
+VideoBaseTexture-flow.js:2192:5-6: 
+VideoBaseTexture-flow.js:2192:5,2221:6: 
+VideoBaseTexture-flow.js:2192:8-69: string
+VideoBaseTexture-flow.js:2192:72,2221:5: () => void
+VideoBaseTexture-flow.js:2194:13-18: 
+VideoBaseTexture-flow.js:2194:22-36: 
+VideoBaseTexture-flow.js:2194:26-34: 
+VideoBaseTexture-flow.js:2196:13-21: 
+VideoBaseTexture-flow.js:2196:25-39: 
+VideoBaseTexture-flow.js:2196:29-37: 
+VideoBaseTexture-flow.js:2198:9-14: 
+VideoBaseTexture-flow.js:2198:9-34: 
+VideoBaseTexture-flow.js:2198:25-33: 
+VideoBaseTexture-flow.js:2200:13-18: 
+VideoBaseTexture-flow.js:2202:9-38: 
+VideoBaseTexture-flow.js:2202:18-26: 
+VideoBaseTexture-flow.js:2202:18-38: 
+VideoBaseTexture-flow.js:2204:9-14: 
+VideoBaseTexture-flow.js:2204:9-24: 
+VideoBaseTexture-flow.js:2204:9-27: 
+VideoBaseTexture-flow.js:2204:9-36: 
+VideoBaseTexture-flow.js:2204:16-21: 
+VideoBaseTexture-flow.js:2204:16-23: 
+VideoBaseTexture-flow.js:2204:35: number
+VideoBaseTexture-flow.js:2205:9-14: 
+VideoBaseTexture-flow.js:2205:9-24: 
+VideoBaseTexture-flow.js:2205:9-27: 
+VideoBaseTexture-flow.js:2205:9-36: 
+VideoBaseTexture-flow.js:2205:16-21: 
+VideoBaseTexture-flow.js:2205:16-23: 
+VideoBaseTexture-flow.js:2205:35: number
+VideoBaseTexture-flow.js:2206:9-14: 
+VideoBaseTexture-flow.js:2206:9-28: 
+VideoBaseTexture-flow.js:2206:9-31: 
+VideoBaseTexture-flow.js:2206:9-40: 
+VideoBaseTexture-flow.js:2206:16-21: 
+VideoBaseTexture-flow.js:2206:16-27: 
+VideoBaseTexture-flow.js:2206:39: number
+VideoBaseTexture-flow.js:2207:9-14: 
+VideoBaseTexture-flow.js:2207:9-29: 
+VideoBaseTexture-flow.js:2207:9-32: 
+VideoBaseTexture-flow.js:2207:9-41: 
+VideoBaseTexture-flow.js:2207:16-21: 
+VideoBaseTexture-flow.js:2207:16-28: 
+VideoBaseTexture-flow.js:2207:40: number
+VideoBaseTexture-flow.js:2209:9-17: 
+VideoBaseTexture-flow.js:2209:9-26: 
+VideoBaseTexture-flow.js:2209:9-33: number
+VideoBaseTexture-flow.js:2209:32-33: number
+VideoBaseTexture-flow.js:2210:9-17: 
+VideoBaseTexture-flow.js:2210:9-26: 
+VideoBaseTexture-flow.js:2210:9-33: number
+VideoBaseTexture-flow.js:2210:32-33: number
+VideoBaseTexture-flow.js:2212:9-17: 
+VideoBaseTexture-flow.js:2212:9-23: 
+VideoBaseTexture-flow.js:2212:9-29: number
+VideoBaseTexture-flow.js:2212:29: number
+VideoBaseTexture-flow.js:2213:9-17: 
+VideoBaseTexture-flow.js:2213:9-23: 
+VideoBaseTexture-flow.js:2213:9-29: number
+VideoBaseTexture-flow.js:2213:29: number
+VideoBaseTexture-flow.js:2215:9-38: 
+VideoBaseTexture-flow.js:2215:18-26: 
+VideoBaseTexture-flow.js:2215:18-38: 
+VideoBaseTexture-flow.js:2217:9-14: 
+VideoBaseTexture-flow.js:2217:9-24: 
+VideoBaseTexture-flow.js:2217:9-27: 
+VideoBaseTexture-flow.js:2217:9-36: 
+VideoBaseTexture-flow.js:2217:16-21: 
+VideoBaseTexture-flow.js:2217:16-23: 
+VideoBaseTexture-flow.js:2217:35: number
+VideoBaseTexture-flow.js:2218:9-14: 
+VideoBaseTexture-flow.js:2218:9-24: 
+VideoBaseTexture-flow.js:2218:9-27: 
+VideoBaseTexture-flow.js:2218:9-36: 
+VideoBaseTexture-flow.js:2218:16-21: 
+VideoBaseTexture-flow.js:2218:16-23: 
+VideoBaseTexture-flow.js:2218:35: number
+VideoBaseTexture-flow.js:2219:9-14: 
+VideoBaseTexture-flow.js:2219:9-28: 
+VideoBaseTexture-flow.js:2219:9-31: 
+VideoBaseTexture-flow.js:2219:9-40: 
+VideoBaseTexture-flow.js:2219:16-21: 
+VideoBaseTexture-flow.js:2219:16-27: 
+VideoBaseTexture-flow.js:2219:39: number
+VideoBaseTexture-flow.js:2220:9-14: 
+VideoBaseTexture-flow.js:2220:9-29: 
+VideoBaseTexture-flow.js:2220:9-32: 
+VideoBaseTexture-flow.js:2220:9-41: 
+VideoBaseTexture-flow.js:2220:16-21: 
+VideoBaseTexture-flow.js:2220:16-28: 
+VideoBaseTexture-flow.js:2220:40: number
+VideoBaseTexture-flow.js:2223:5-6: 
+VideoBaseTexture-flow.js:2223:5,2268:6: 
+VideoBaseTexture-flow.js:2223:8-62: string
+VideoBaseTexture-flow.js:2223:65,2268:5: () => void
+VideoBaseTexture-flow.js:2225:13-18: 
+VideoBaseTexture-flow.js:2225:22-36: 
+VideoBaseTexture-flow.js:2225:26-34: 
+VideoBaseTexture-flow.js:2227:13-21: 
+VideoBaseTexture-flow.js:2227:25-39: 
+VideoBaseTexture-flow.js:2227:29-37: 
+VideoBaseTexture-flow.js:2229:13-20: 
+VideoBaseTexture-flow.js:2229:24-37: 
+VideoBaseTexture-flow.js:2229:24-57: 
+VideoBaseTexture-flow.js:2229:24-82: 
+VideoBaseTexture-flow.js:2229:28-35: 
+VideoBaseTexture-flow.js:2229:49-56: number
+VideoBaseTexture-flow.js:2229:70: number
+VideoBaseTexture-flow.js:2229:73: number
+VideoBaseTexture-flow.js:2229:76-77: number
+VideoBaseTexture-flow.js:2229:80-81: number
+VideoBaseTexture-flow.js:2231:13-19: 
+VideoBaseTexture-flow.js:2231:23-35: 
+VideoBaseTexture-flow.js:2231:23-50: 
+VideoBaseTexture-flow.js:2231:44-45: number
+VideoBaseTexture-flow.js:2231:48-49: number
+VideoBaseTexture-flow.js:2232:13-18: 
+VideoBaseTexture-flow.js:2232:22-40: 
+VideoBaseTexture-flow.js:2232:26-31: 
+VideoBaseTexture-flow.js:2232:33-39: 
+VideoBaseTexture-flow.js:2234:9-17: 
+VideoBaseTexture-flow.js:2234:9-34: 
+VideoBaseTexture-flow.js:2234:28-33: 
+VideoBaseTexture-flow.js:2235:9-17: 
+VideoBaseTexture-flow.js:2235:9-36: 
+VideoBaseTexture-flow.js:2235:28-35: 
+VideoBaseTexture-flow.js:2237:9-14: 
+VideoBaseTexture-flow.js:2237:9-34: 
+VideoBaseTexture-flow.js:2237:25-33: 
+VideoBaseTexture-flow.js:2239:9-14: 
+VideoBaseTexture-flow.js:2239:9-23: 
+VideoBaseTexture-flow.js:2239:9-30: number
+VideoBaseTexture-flow.js:2239:29-30: number
+VideoBaseTexture-flow.js:2240:9-14: 
+VideoBaseTexture-flow.js:2240:9-23: 
+VideoBaseTexture-flow.js:2240:9-30: number
+VideoBaseTexture-flow.js:2240:29-30: number
+VideoBaseTexture-flow.js:2241:9-16: 
+VideoBaseTexture-flow.js:2241:9-25: 
+VideoBaseTexture-flow.js:2241:9-33: number
+VideoBaseTexture-flow.js:2241:31-33: number
+VideoBaseTexture-flow.js:2242:9-16: 
+VideoBaseTexture-flow.js:2242:9-25: 
+VideoBaseTexture-flow.js:2242:9-33: number
+VideoBaseTexture-flow.js:2242:31-33: number
+VideoBaseTexture-flow.js:2244:13-18: 
+VideoBaseTexture-flow.js:2246:9-38: 
+VideoBaseTexture-flow.js:2246:18-26: 
+VideoBaseTexture-flow.js:2246:18-38: 
+VideoBaseTexture-flow.js:2248:9-14: 
+VideoBaseTexture-flow.js:2248:9-24: 
+VideoBaseTexture-flow.js:2248:9-27: 
+VideoBaseTexture-flow.js:2248:9-37: 
+VideoBaseTexture-flow.js:2248:16-21: 
+VideoBaseTexture-flow.js:2248:16-23: 
+VideoBaseTexture-flow.js:2248:35-36: number
+VideoBaseTexture-flow.js:2249:9-14: 
+VideoBaseTexture-flow.js:2249:9-24: 
+VideoBaseTexture-flow.js:2249:9-27: 
+VideoBaseTexture-flow.js:2249:9-37: 
+VideoBaseTexture-flow.js:2249:16-21: 
+VideoBaseTexture-flow.js:2249:16-23: 
+VideoBaseTexture-flow.js:2249:35-36: number
+VideoBaseTexture-flow.js:2250:9-14: 
+VideoBaseTexture-flow.js:2250:9-28: 
+VideoBaseTexture-flow.js:2250:9-31: 
+VideoBaseTexture-flow.js:2250:9-41: 
+VideoBaseTexture-flow.js:2250:16-21: 
+VideoBaseTexture-flow.js:2250:16-27: 
+VideoBaseTexture-flow.js:2250:39-40: number
+VideoBaseTexture-flow.js:2251:9-14: 
+VideoBaseTexture-flow.js:2251:9-29: 
+VideoBaseTexture-flow.js:2251:9-32: 
+VideoBaseTexture-flow.js:2251:9-42: 
+VideoBaseTexture-flow.js:2251:16-21: 
+VideoBaseTexture-flow.js:2251:16-28: 
+VideoBaseTexture-flow.js:2251:40-41: number
+VideoBaseTexture-flow.js:2253:9-17: 
+VideoBaseTexture-flow.js:2253:9-32: number
+VideoBaseTexture-flow.js:2253:30-32: number
+VideoBaseTexture-flow.js:2255:9-38: 
+VideoBaseTexture-flow.js:2255:18-26: 
+VideoBaseTexture-flow.js:2255:18-38: 
+VideoBaseTexture-flow.js:2257:9-14: 
+VideoBaseTexture-flow.js:2257:9-28: 
+VideoBaseTexture-flow.js:2257:9-31: 
+VideoBaseTexture-flow.js:2257:9-41: 
+VideoBaseTexture-flow.js:2257:16-21: 
+VideoBaseTexture-flow.js:2257:16-23: 
+VideoBaseTexture-flow.js:2257:16-27: number
+VideoBaseTexture-flow.js:2257:27: number
+VideoBaseTexture-flow.js:2257:39-40: number
+VideoBaseTexture-flow.js:2258:9-14: 
+VideoBaseTexture-flow.js:2258:9-28: 
+VideoBaseTexture-flow.js:2258:9-31: 
+VideoBaseTexture-flow.js:2258:9-41: 
+VideoBaseTexture-flow.js:2258:16-21: 
+VideoBaseTexture-flow.js:2258:16-23: 
+VideoBaseTexture-flow.js:2258:16-27: number
+VideoBaseTexture-flow.js:2258:27: number
+VideoBaseTexture-flow.js:2258:39-40: number
+VideoBaseTexture-flow.js:2259:9-14: 
+VideoBaseTexture-flow.js:2259:9-32: 
+VideoBaseTexture-flow.js:2259:9-35: 
+VideoBaseTexture-flow.js:2259:9-45: 
+VideoBaseTexture-flow.js:2259:16-21: 
+VideoBaseTexture-flow.js:2259:16-27: 
+VideoBaseTexture-flow.js:2259:16-31: number
+VideoBaseTexture-flow.js:2259:31: number
+VideoBaseTexture-flow.js:2259:43-44: number
+VideoBaseTexture-flow.js:2260:9-14: 
+VideoBaseTexture-flow.js:2260:9-33: 
+VideoBaseTexture-flow.js:2260:9-36: 
+VideoBaseTexture-flow.js:2260:9-46: 
+VideoBaseTexture-flow.js:2260:16-21: 
+VideoBaseTexture-flow.js:2260:16-28: 
+VideoBaseTexture-flow.js:2260:16-32: number
+VideoBaseTexture-flow.js:2260:32: number
+VideoBaseTexture-flow.js:2260:44-45: number
+VideoBaseTexture-flow.js:2262:9-42: 
+VideoBaseTexture-flow.js:2262:18-26: 
+VideoBaseTexture-flow.js:2262:18-42: 
+VideoBaseTexture-flow.js:2262:38-41: boolean
+VideoBaseTexture-flow.js:2264:9-14: 
+VideoBaseTexture-flow.js:2264:9-28: 
+VideoBaseTexture-flow.js:2264:9-31: 
+VideoBaseTexture-flow.js:2264:9-41: 
+VideoBaseTexture-flow.js:2264:16-21: 
+VideoBaseTexture-flow.js:2264:16-23: 
+VideoBaseTexture-flow.js:2264:16-27: number
+VideoBaseTexture-flow.js:2264:27: number
+VideoBaseTexture-flow.js:2264:39-40: number
+VideoBaseTexture-flow.js:2265:9-14: 
+VideoBaseTexture-flow.js:2265:9-28: 
+VideoBaseTexture-flow.js:2265:9-31: 
+VideoBaseTexture-flow.js:2265:9-41: 
+VideoBaseTexture-flow.js:2265:16-21: 
+VideoBaseTexture-flow.js:2265:16-23: 
+VideoBaseTexture-flow.js:2265:16-27: number
+VideoBaseTexture-flow.js:2265:27: number
+VideoBaseTexture-flow.js:2265:39-40: number
+VideoBaseTexture-flow.js:2266:9-14: 
+VideoBaseTexture-flow.js:2266:9-32: 
+VideoBaseTexture-flow.js:2266:9-35: 
+VideoBaseTexture-flow.js:2266:9-45: 
+VideoBaseTexture-flow.js:2266:16-21: 
+VideoBaseTexture-flow.js:2266:16-27: 
+VideoBaseTexture-flow.js:2266:16-31: number
+VideoBaseTexture-flow.js:2266:31: number
+VideoBaseTexture-flow.js:2266:43-44: number
+VideoBaseTexture-flow.js:2267:9-14: 
+VideoBaseTexture-flow.js:2267:9-33: 
+VideoBaseTexture-flow.js:2267:9-36: 
+VideoBaseTexture-flow.js:2267:9-46: 
+VideoBaseTexture-flow.js:2267:16-21: 
+VideoBaseTexture-flow.js:2267:16-28: 
+VideoBaseTexture-flow.js:2267:16-32: number
+VideoBaseTexture-flow.js:2267:32: number
+VideoBaseTexture-flow.js:2267:44-45: number
+VideoBaseTexture-flow.js:2270:5-6: 
+VideoBaseTexture-flow.js:2270:5,2299:6: 
+VideoBaseTexture-flow.js:2270:8-112: string
+VideoBaseTexture-flow.js:2270:115,2299:5: () => void
+VideoBaseTexture-flow.js:2272:13-18: 
+VideoBaseTexture-flow.js:2272:22-36: 
+VideoBaseTexture-flow.js:2272:26-34: 
+VideoBaseTexture-flow.js:2274:13-21: 
+VideoBaseTexture-flow.js:2274:25-39: 
+VideoBaseTexture-flow.js:2274:29-37: 
+VideoBaseTexture-flow.js:2276:13-20: 
+VideoBaseTexture-flow.js:2276:24-37: 
+VideoBaseTexture-flow.js:2276:24-57: 
+VideoBaseTexture-flow.js:2276:24-80: 
+VideoBaseTexture-flow.js:2276:28-35: 
+VideoBaseTexture-flow.js:2276:49-56: number
+VideoBaseTexture-flow.js:2276:68: number
+VideoBaseTexture-flow.js:2276:71: number
+VideoBaseTexture-flow.js:2276:74-75: number
+VideoBaseTexture-flow.js:2276:78-79: number
+VideoBaseTexture-flow.js:2278:9-14: 
+VideoBaseTexture-flow.js:2278:9-34: 
+VideoBaseTexture-flow.js:2278:25-33: 
+VideoBaseTexture-flow.js:2279:9-17: 
+VideoBaseTexture-flow.js:2279:9-36: 
+VideoBaseTexture-flow.js:2279:28-35: 
+VideoBaseTexture-flow.js:2281:9-17: 
+VideoBaseTexture-flow.js:2281:9-26: 
+VideoBaseTexture-flow.js:2281:9-34: number
+VideoBaseTexture-flow.js:2281:32-34: number
+VideoBaseTexture-flow.js:2282:9-17: 
+VideoBaseTexture-flow.js:2282:9-26: 
+VideoBaseTexture-flow.js:2282:9-34: number
+VideoBaseTexture-flow.js:2282:32-34: number
+VideoBaseTexture-flow.js:2284:13-18: 
+VideoBaseTexture-flow.js:2286:9-38: 
+VideoBaseTexture-flow.js:2286:18-26: 
+VideoBaseTexture-flow.js:2286:18-38: 
+VideoBaseTexture-flow.js:2288:9-14: 
+VideoBaseTexture-flow.js:2288:9-24: 
+VideoBaseTexture-flow.js:2288:9-27: 
+VideoBaseTexture-flow.js:2288:9-38: 
+VideoBaseTexture-flow.js:2288:16-21: 
+VideoBaseTexture-flow.js:2288:16-23: 
+VideoBaseTexture-flow.js:2288:35-37: number
+VideoBaseTexture-flow.js:2289:9-14: 
+VideoBaseTexture-flow.js:2289:9-24: 
+VideoBaseTexture-flow.js:2289:9-27: 
+VideoBaseTexture-flow.js:2289:9-38: 
+VideoBaseTexture-flow.js:2289:16-21: 
+VideoBaseTexture-flow.js:2289:16-23: 
+VideoBaseTexture-flow.js:2289:35-37: number
+VideoBaseTexture-flow.js:2290:9-14: 
+VideoBaseTexture-flow.js:2290:9-28: 
+VideoBaseTexture-flow.js:2290:9-31: 
+VideoBaseTexture-flow.js:2290:9-41: 
+VideoBaseTexture-flow.js:2290:16-21: 
+VideoBaseTexture-flow.js:2290:16-27: 
+VideoBaseTexture-flow.js:2290:39-40: number
+VideoBaseTexture-flow.js:2291:9-14: 
+VideoBaseTexture-flow.js:2291:9-29: 
+VideoBaseTexture-flow.js:2291:9-32: 
+VideoBaseTexture-flow.js:2291:9-42: 
+VideoBaseTexture-flow.js:2291:16-21: 
+VideoBaseTexture-flow.js:2291:16-28: 
+VideoBaseTexture-flow.js:2291:40-41: number
+VideoBaseTexture-flow.js:2293:9-41: 
+VideoBaseTexture-flow.js:2293:18-25: 
+VideoBaseTexture-flow.js:2293:18-41: 
+VideoBaseTexture-flow.js:2293:37-40: boolean
+VideoBaseTexture-flow.js:2295:9-14: 
+VideoBaseTexture-flow.js:2295:9-24: 
+VideoBaseTexture-flow.js:2295:9-27: 
+VideoBaseTexture-flow.js:2295:9-38: 
+VideoBaseTexture-flow.js:2295:16-21: 
+VideoBaseTexture-flow.js:2295:16-23: 
+VideoBaseTexture-flow.js:2295:35-37: number
+VideoBaseTexture-flow.js:2296:9-14: 
+VideoBaseTexture-flow.js:2296:9-24: 
+VideoBaseTexture-flow.js:2296:9-27: 
+VideoBaseTexture-flow.js:2296:9-38: 
+VideoBaseTexture-flow.js:2296:16-21: 
+VideoBaseTexture-flow.js:2296:16-23: 
+VideoBaseTexture-flow.js:2296:35-37: number
+VideoBaseTexture-flow.js:2297:9-14: 
+VideoBaseTexture-flow.js:2297:9-28: 
+VideoBaseTexture-flow.js:2297:9-31: 
+VideoBaseTexture-flow.js:2297:9-41: 
+VideoBaseTexture-flow.js:2297:16-21: 
+VideoBaseTexture-flow.js:2297:16-27: 
+VideoBaseTexture-flow.js:2297:39-40: number
+VideoBaseTexture-flow.js:2298:9-14: 
+VideoBaseTexture-flow.js:2298:9-29: 
+VideoBaseTexture-flow.js:2298:9-32: 
+VideoBaseTexture-flow.js:2298:9-42: 
+VideoBaseTexture-flow.js:2298:16-21: 
+VideoBaseTexture-flow.js:2298:16-28: 
+VideoBaseTexture-flow.js:2298:40-41: number
+VideoBaseTexture-flow.js:2301:5-6: 
+VideoBaseTexture-flow.js:2301:5,2332:6: 
+VideoBaseTexture-flow.js:2301:8-57: string
+VideoBaseTexture-flow.js:2301:60,2332:5: () => void
+VideoBaseTexture-flow.js:2303:13-18: 
+VideoBaseTexture-flow.js:2303:22-36: 
+VideoBaseTexture-flow.js:2303:26-34: 
+VideoBaseTexture-flow.js:2305:13-19: 
+VideoBaseTexture-flow.js:2305:23-35: 
+VideoBaseTexture-flow.js:2305:23-50: 
+VideoBaseTexture-flow.js:2305:44-45: number
+VideoBaseTexture-flow.js:2305:48-49: number
+VideoBaseTexture-flow.js:2307:13-17: 
+VideoBaseTexture-flow.js:2307:21-43: 
+VideoBaseTexture-flow.js:2307:25-28: 
+VideoBaseTexture-flow.js:2307:25-34: 
+VideoBaseTexture-flow.js:2307:36-42: 
+VideoBaseTexture-flow.js:2309:9-14: 
+VideoBaseTexture-flow.js:2309:9-30: 
+VideoBaseTexture-flow.js:2309:25-29: 
+VideoBaseTexture-flow.js:2311:9-13: 
+VideoBaseTexture-flow.js:2311:9-22: 
+VideoBaseTexture-flow.js:2311:9-29: number
+VideoBaseTexture-flow.js:2311:28-29: number
+VideoBaseTexture-flow.js:2312:9-13: 
+VideoBaseTexture-flow.js:2312:9-22: 
+VideoBaseTexture-flow.js:2312:9-29: number
+VideoBaseTexture-flow.js:2312:28-29: number
+VideoBaseTexture-flow.js:2314:13-18: 
+VideoBaseTexture-flow.js:2316:9-34: 
+VideoBaseTexture-flow.js:2316:18-22: 
+VideoBaseTexture-flow.js:2316:18-34: 
+VideoBaseTexture-flow.js:2318:9-14: 
+VideoBaseTexture-flow.js:2318:9-24: 
+VideoBaseTexture-flow.js:2318:9-27: 
+VideoBaseTexture-flow.js:2318:9-37: 
+VideoBaseTexture-flow.js:2318:16-21: 
+VideoBaseTexture-flow.js:2318:16-23: 
+VideoBaseTexture-flow.js:2318:35-36: number
+VideoBaseTexture-flow.js:2319:9-14: 
+VideoBaseTexture-flow.js:2319:9-24: 
+VideoBaseTexture-flow.js:2319:9-27: 
+VideoBaseTexture-flow.js:2319:9-37: 
+VideoBaseTexture-flow.js:2319:16-21: 
+VideoBaseTexture-flow.js:2319:16-23: 
+VideoBaseTexture-flow.js:2319:35-36: number
+VideoBaseTexture-flow.js:2320:9-14: 
+VideoBaseTexture-flow.js:2320:9-28: 
+VideoBaseTexture-flow.js:2320:9-31: 
+VideoBaseTexture-flow.js:2320:9-41: 
+VideoBaseTexture-flow.js:2320:16-21: 
+VideoBaseTexture-flow.js:2320:16-27: 
+VideoBaseTexture-flow.js:2320:39-40: number
+VideoBaseTexture-flow.js:2321:9-14: 
+VideoBaseTexture-flow.js:2321:9-29: 
+VideoBaseTexture-flow.js:2321:9-32: 
+VideoBaseTexture-flow.js:2321:9-42: 
+VideoBaseTexture-flow.js:2321:16-21: 
+VideoBaseTexture-flow.js:2321:16-28: 
+VideoBaseTexture-flow.js:2321:40-41: number
+VideoBaseTexture-flow.js:2323:9-13: 
+VideoBaseTexture-flow.js:2323:9-19: 
+VideoBaseTexture-flow.js:2323:9-25: number
+VideoBaseTexture-flow.js:2323:25: number
+VideoBaseTexture-flow.js:2324:9-13: 
+VideoBaseTexture-flow.js:2324:9-19: 
+VideoBaseTexture-flow.js:2324:9-25: number
+VideoBaseTexture-flow.js:2324:25: number
+VideoBaseTexture-flow.js:2326:9-34: 
+VideoBaseTexture-flow.js:2326:18-22: 
+VideoBaseTexture-flow.js:2326:18-34: 
+VideoBaseTexture-flow.js:2328:9-14: 
+VideoBaseTexture-flow.js:2328:9-24: 
+VideoBaseTexture-flow.js:2328:9-27: 
+VideoBaseTexture-flow.js:2328:9-37: 
+VideoBaseTexture-flow.js:2328:16-21: 
+VideoBaseTexture-flow.js:2328:16-23: 
+VideoBaseTexture-flow.js:2328:35-36: number
+VideoBaseTexture-flow.js:2329:9-14: 
+VideoBaseTexture-flow.js:2329:9-24: 
+VideoBaseTexture-flow.js:2329:9-27: 
+VideoBaseTexture-flow.js:2329:9-37: 
+VideoBaseTexture-flow.js:2329:16-21: 
+VideoBaseTexture-flow.js:2329:16-23: 
+VideoBaseTexture-flow.js:2329:35-36: number
+VideoBaseTexture-flow.js:2330:9-14: 
+VideoBaseTexture-flow.js:2330:9-28: 
+VideoBaseTexture-flow.js:2330:9-31: 
+VideoBaseTexture-flow.js:2330:9-41: 
+VideoBaseTexture-flow.js:2330:16-21: 
+VideoBaseTexture-flow.js:2330:16-27: 
+VideoBaseTexture-flow.js:2330:39-40: number
+VideoBaseTexture-flow.js:2331:9-14: 
+VideoBaseTexture-flow.js:2331:9-29: 
+VideoBaseTexture-flow.js:2331:9-32: 
+VideoBaseTexture-flow.js:2331:9-42: 
+VideoBaseTexture-flow.js:2331:16-21: 
+VideoBaseTexture-flow.js:2331:16-28: 
+VideoBaseTexture-flow.js:2331:40-41: number
+VideoBaseTexture-flow.js:2334:5-6: 
+VideoBaseTexture-flow.js:2334:5,2381:6: 
+VideoBaseTexture-flow.js:2334:8-86: string
+VideoBaseTexture-flow.js:2334:89,2381:5: () => void
+VideoBaseTexture-flow.js:2336:13-18: 
+VideoBaseTexture-flow.js:2336:22-36: 
+VideoBaseTexture-flow.js:2336:26-34: 
+VideoBaseTexture-flow.js:2338:13-21: 
+VideoBaseTexture-flow.js:2338:25-39: 
+VideoBaseTexture-flow.js:2338:29-37: 
+VideoBaseTexture-flow.js:2340:13-20: 
+VideoBaseTexture-flow.js:2340:24-37: 
+VideoBaseTexture-flow.js:2340:24-57: 
+VideoBaseTexture-flow.js:2340:24-82: 
+VideoBaseTexture-flow.js:2340:28-35: 
+VideoBaseTexture-flow.js:2340:49-56: number
+VideoBaseTexture-flow.js:2340:70: number
+VideoBaseTexture-flow.js:2340:73: number
+VideoBaseTexture-flow.js:2340:76-77: number
+VideoBaseTexture-flow.js:2340:80-81: number
+VideoBaseTexture-flow.js:2342:13-19: 
+VideoBaseTexture-flow.js:2342:23-35: 
+VideoBaseTexture-flow.js:2342:23-50: 
+VideoBaseTexture-flow.js:2342:44-45: number
+VideoBaseTexture-flow.js:2342:48-49: number
+VideoBaseTexture-flow.js:2343:13-18: 
+VideoBaseTexture-flow.js:2343:22-40: 
+VideoBaseTexture-flow.js:2343:26-31: 
+VideoBaseTexture-flow.js:2343:33-39: 
+VideoBaseTexture-flow.js:2345:9-17: 
+VideoBaseTexture-flow.js:2345:9-34: 
+VideoBaseTexture-flow.js:2345:28-33: 
+VideoBaseTexture-flow.js:2346:9-17: 
+VideoBaseTexture-flow.js:2346:9-36: 
+VideoBaseTexture-flow.js:2346:28-35: 
+VideoBaseTexture-flow.js:2348:9-14: 
+VideoBaseTexture-flow.js:2348:9-34: 
+VideoBaseTexture-flow.js:2348:25-33: 
+VideoBaseTexture-flow.js:2350:9-14: 
+VideoBaseTexture-flow.js:2350:9-23: 
+VideoBaseTexture-flow.js:2350:9-30: number
+VideoBaseTexture-flow.js:2350:29-30: number
+VideoBaseTexture-flow.js:2351:9-14: 
+VideoBaseTexture-flow.js:2351:9-23: 
+VideoBaseTexture-flow.js:2351:9-30: number
+VideoBaseTexture-flow.js:2351:29-30: number
+VideoBaseTexture-flow.js:2352:9-16: 
+VideoBaseTexture-flow.js:2352:9-25: 
+VideoBaseTexture-flow.js:2352:9-33: number
+VideoBaseTexture-flow.js:2352:31-33: number
+VideoBaseTexture-flow.js:2353:9-16: 
+VideoBaseTexture-flow.js:2353:9-25: 
+VideoBaseTexture-flow.js:2353:9-33: number
+VideoBaseTexture-flow.js:2353:31-33: number
+VideoBaseTexture-flow.js:2355:9-16: 
+VideoBaseTexture-flow.js:2355:9-32: boolean
+VideoBaseTexture-flow.js:2355:28-32: boolean
+VideoBaseTexture-flow.js:2357:13-18: 
+VideoBaseTexture-flow.js:2359:9-38: 
+VideoBaseTexture-flow.js:2359:18-26: 
+VideoBaseTexture-flow.js:2359:18-38: 
+VideoBaseTexture-flow.js:2361:9-14: 
+VideoBaseTexture-flow.js:2361:9-24: 
+VideoBaseTexture-flow.js:2361:9-27: 
+VideoBaseTexture-flow.js:2361:9-37: 
+VideoBaseTexture-flow.js:2361:16-21: 
+VideoBaseTexture-flow.js:2361:16-23: 
+VideoBaseTexture-flow.js:2361:35-36: number
+VideoBaseTexture-flow.js:2362:9-14: 
+VideoBaseTexture-flow.js:2362:9-24: 
+VideoBaseTexture-flow.js:2362:9-27: 
+VideoBaseTexture-flow.js:2362:9-37: 
+VideoBaseTexture-flow.js:2362:16-21: 
+VideoBaseTexture-flow.js:2362:16-23: 
+VideoBaseTexture-flow.js:2362:35-36: number
+VideoBaseTexture-flow.js:2363:9-14: 
+VideoBaseTexture-flow.js:2363:9-28: 
+VideoBaseTexture-flow.js:2363:9-31: 
+VideoBaseTexture-flow.js:2363:9-41: 
+VideoBaseTexture-flow.js:2363:16-21: 
+VideoBaseTexture-flow.js:2363:16-27: 
+VideoBaseTexture-flow.js:2363:39-40: number
+VideoBaseTexture-flow.js:2364:9-14: 
+VideoBaseTexture-flow.js:2364:9-29: 
+VideoBaseTexture-flow.js:2364:9-32: 
+VideoBaseTexture-flow.js:2364:9-42: 
+VideoBaseTexture-flow.js:2364:16-21: 
+VideoBaseTexture-flow.js:2364:16-28: 
+VideoBaseTexture-flow.js:2364:40-41: number
+VideoBaseTexture-flow.js:2366:9-14: 
+VideoBaseTexture-flow.js:2366:9-33: boolean
+VideoBaseTexture-flow.js:2366:29-33: boolean
+VideoBaseTexture-flow.js:2368:9-38: 
+VideoBaseTexture-flow.js:2368:18-26: 
+VideoBaseTexture-flow.js:2368:18-38: 
+VideoBaseTexture-flow.js:2370:9-14: 
+VideoBaseTexture-flow.js:2370:9-24: 
+VideoBaseTexture-flow.js:2370:9-27: 
+VideoBaseTexture-flow.js:2370:9-36: 
+VideoBaseTexture-flow.js:2370:16-21: 
+VideoBaseTexture-flow.js:2370:16-23: 
+VideoBaseTexture-flow.js:2370:35: number
+VideoBaseTexture-flow.js:2371:9-14: 
+VideoBaseTexture-flow.js:2371:9-24: 
+VideoBaseTexture-flow.js:2371:9-27: 
+VideoBaseTexture-flow.js:2371:9-36: 
+VideoBaseTexture-flow.js:2371:16-21: 
+VideoBaseTexture-flow.js:2371:16-23: 
+VideoBaseTexture-flow.js:2371:35: number
+VideoBaseTexture-flow.js:2372:9-14: 
+VideoBaseTexture-flow.js:2372:9-28: 
+VideoBaseTexture-flow.js:2372:9-31: 
+VideoBaseTexture-flow.js:2372:9-40: 
+VideoBaseTexture-flow.js:2372:16-21: 
+VideoBaseTexture-flow.js:2372:16-27: 
+VideoBaseTexture-flow.js:2372:39: number
+VideoBaseTexture-flow.js:2373:9-14: 
+VideoBaseTexture-flow.js:2373:9-29: 
+VideoBaseTexture-flow.js:2373:9-32: 
+VideoBaseTexture-flow.js:2373:9-41: 
+VideoBaseTexture-flow.js:2373:16-21: 
+VideoBaseTexture-flow.js:2373:16-28: 
+VideoBaseTexture-flow.js:2373:40: number
+VideoBaseTexture-flow.js:2375:9-35: 
+VideoBaseTexture-flow.js:2375:18-23: 
+VideoBaseTexture-flow.js:2375:18-35: 
+VideoBaseTexture-flow.js:2377:9-14: 
+VideoBaseTexture-flow.js:2377:9-24: 
+VideoBaseTexture-flow.js:2377:9-27: 
+VideoBaseTexture-flow.js:2377:9-37: 
+VideoBaseTexture-flow.js:2377:16-21: 
+VideoBaseTexture-flow.js:2377:16-23: 
+VideoBaseTexture-flow.js:2377:35-36: number
+VideoBaseTexture-flow.js:2378:9-14: 
+VideoBaseTexture-flow.js:2378:9-24: 
+VideoBaseTexture-flow.js:2378:9-27: 
+VideoBaseTexture-flow.js:2378:9-37: 
+VideoBaseTexture-flow.js:2378:16-21: 
+VideoBaseTexture-flow.js:2378:16-23: 
+VideoBaseTexture-flow.js:2378:35-36: number
+VideoBaseTexture-flow.js:2379:9-14: 
+VideoBaseTexture-flow.js:2379:9-28: 
+VideoBaseTexture-flow.js:2379:9-31: 
+VideoBaseTexture-flow.js:2379:9-41: 
+VideoBaseTexture-flow.js:2379:16-21: 
+VideoBaseTexture-flow.js:2379:16-27: 
+VideoBaseTexture-flow.js:2379:39-40: number
+VideoBaseTexture-flow.js:2380:9-14: 
+VideoBaseTexture-flow.js:2380:9-29: 
+VideoBaseTexture-flow.js:2380:9-32: 
+VideoBaseTexture-flow.js:2380:9-42: 
+VideoBaseTexture-flow.js:2380:16-21: 
+VideoBaseTexture-flow.js:2380:16-28: 
+VideoBaseTexture-flow.js:2380:40-41: number
+VideoBaseTexture-flow.js:2383:5-6: 
+VideoBaseTexture-flow.js:2383:5,2407:6: 
+VideoBaseTexture-flow.js:2383:8-62: string
+VideoBaseTexture-flow.js:2383:65,2407:5: () => void
+VideoBaseTexture-flow.js:2385:13-18: 
+VideoBaseTexture-flow.js:2385:22-36: 
+VideoBaseTexture-flow.js:2385:26-34: 
+VideoBaseTexture-flow.js:2387:13-21: 
+VideoBaseTexture-flow.js:2387:25-39: 
+VideoBaseTexture-flow.js:2387:29-37: 
+VideoBaseTexture-flow.js:2389:13-19: 
+VideoBaseTexture-flow.js:2389:23-35: 
+VideoBaseTexture-flow.js:2389:23-50: 
+VideoBaseTexture-flow.js:2389:44-45: number
+VideoBaseTexture-flow.js:2389:48-49: number
+VideoBaseTexture-flow.js:2390:13-18: 
+VideoBaseTexture-flow.js:2390:22-40: 
+VideoBaseTexture-flow.js:2390:26-31: 
+VideoBaseTexture-flow.js:2390:33-39: 
+VideoBaseTexture-flow.js:2392:9-17: 
+VideoBaseTexture-flow.js:2392:9-34: 
+VideoBaseTexture-flow.js:2392:28-33: 
+VideoBaseTexture-flow.js:2393:9-14: 
+VideoBaseTexture-flow.js:2393:9-34: 
+VideoBaseTexture-flow.js:2393:25-33: 
+VideoBaseTexture-flow.js:2395:9-14: 
+VideoBaseTexture-flow.js:2395:9-23: 
+VideoBaseTexture-flow.js:2395:9-35: 
+VideoBaseTexture-flow.js:2395:29-30: number
+VideoBaseTexture-flow.js:2395:33-34: number
+VideoBaseTexture-flow.js:2396:9-17: 
+VideoBaseTexture-flow.js:2396:9-33: boolean
+VideoBaseTexture-flow.js:2396:29-33: boolean
+VideoBaseTexture-flow.js:2397:9-17: 
+VideoBaseTexture-flow.js:2397:9-26: 
+VideoBaseTexture-flow.js:2397:9-40: 
+VideoBaseTexture-flow.js:2397:32-34: number
+VideoBaseTexture-flow.js:2397:37-39: number
+VideoBaseTexture-flow.js:2399:13-18: 
+VideoBaseTexture-flow.js:2401:9-38: 
+VideoBaseTexture-flow.js:2401:18-26: 
+VideoBaseTexture-flow.js:2401:18-38: 
+VideoBaseTexture-flow.js:2403:9-14: 
+VideoBaseTexture-flow.js:2403:9-24: 
+VideoBaseTexture-flow.js:2403:9-27: 
+VideoBaseTexture-flow.js:2403:9-38: 
+VideoBaseTexture-flow.js:2403:16-21: 
+VideoBaseTexture-flow.js:2403:16-23: 
+VideoBaseTexture-flow.js:2403:35-37: number
+VideoBaseTexture-flow.js:2404:9-14: 
+VideoBaseTexture-flow.js:2404:9-24: 
+VideoBaseTexture-flow.js:2404:9-27: 
+VideoBaseTexture-flow.js:2404:9-38: 
+VideoBaseTexture-flow.js:2404:16-21: 
+VideoBaseTexture-flow.js:2404:16-23: 
+VideoBaseTexture-flow.js:2404:35-37: number
+VideoBaseTexture-flow.js:2405:9-14: 
+VideoBaseTexture-flow.js:2405:9-28: 
+VideoBaseTexture-flow.js:2405:9-31: 
+VideoBaseTexture-flow.js:2405:9-41: 
+VideoBaseTexture-flow.js:2405:16-21: 
+VideoBaseTexture-flow.js:2405:16-27: 
+VideoBaseTexture-flow.js:2405:39-40: number
+VideoBaseTexture-flow.js:2406:9-14: 
+VideoBaseTexture-flow.js:2406:9-29: 
+VideoBaseTexture-flow.js:2406:9-32: 
+VideoBaseTexture-flow.js:2406:9-42: 
+VideoBaseTexture-flow.js:2406:16-21: 
+VideoBaseTexture-flow.js:2406:16-28: 
+VideoBaseTexture-flow.js:2406:40-41: number
+VideoBaseTexture-flow.js:2409:5-6: 
+VideoBaseTexture-flow.js:2409:5,2446:6: 
+VideoBaseTexture-flow.js:2409:8-73: string
+VideoBaseTexture-flow.js:2409:76,2446:5: () => void
+VideoBaseTexture-flow.js:2411:13-18: 
+VideoBaseTexture-flow.js:2411:22-36: 
+VideoBaseTexture-flow.js:2411:26-34: 
+VideoBaseTexture-flow.js:2413:13-21: 
+VideoBaseTexture-flow.js:2413:25-39: 
+VideoBaseTexture-flow.js:2413:29-37: 
+VideoBaseTexture-flow.js:2415:13-20: 
+VideoBaseTexture-flow.js:2415:24-37: 
+VideoBaseTexture-flow.js:2415:24-57: 
+VideoBaseTexture-flow.js:2415:24-80: 
+VideoBaseTexture-flow.js:2415:28-35: 
+VideoBaseTexture-flow.js:2415:49-56: number
+VideoBaseTexture-flow.js:2415:68: number
+VideoBaseTexture-flow.js:2415:71: number
+VideoBaseTexture-flow.js:2415:74-75: number
+VideoBaseTexture-flow.js:2415:78-79: number
+VideoBaseTexture-flow.js:2417:13-19: 
+VideoBaseTexture-flow.js:2417:23-35: 
+VideoBaseTexture-flow.js:2417:23-50: 
+VideoBaseTexture-flow.js:2417:44-45: number
+VideoBaseTexture-flow.js:2417:48-49: number
+VideoBaseTexture-flow.js:2418:13-18: 
+VideoBaseTexture-flow.js:2418:22-40: 
+VideoBaseTexture-flow.js:2418:26-31: 
+VideoBaseTexture-flow.js:2418:33-39: 
+VideoBaseTexture-flow.js:2420:9-17: 
+VideoBaseTexture-flow.js:2420:9-34: 
+VideoBaseTexture-flow.js:2420:28-33: 
+VideoBaseTexture-flow.js:2421:9-17: 
+VideoBaseTexture-flow.js:2421:9-36: 
+VideoBaseTexture-flow.js:2421:28-35: 
+VideoBaseTexture-flow.js:2422:9-14: 
+VideoBaseTexture-flow.js:2422:9-30: 
+VideoBaseTexture-flow.js:2422:23-30: 
+VideoBaseTexture-flow.js:2424:9-14: 
+VideoBaseTexture-flow.js:2424:9-34: 
+VideoBaseTexture-flow.js:2424:25-33: 
+VideoBaseTexture-flow.js:2426:9-14: 
+VideoBaseTexture-flow.js:2426:9-23: 
+VideoBaseTexture-flow.js:2426:9-30: number
+VideoBaseTexture-flow.js:2426:29-30: number
+VideoBaseTexture-flow.js:2427:9-14: 
+VideoBaseTexture-flow.js:2427:9-23: 
+VideoBaseTexture-flow.js:2427:9-30: number
+VideoBaseTexture-flow.js:2427:29-30: number
+VideoBaseTexture-flow.js:2428:9-16: 
+VideoBaseTexture-flow.js:2428:9-25: 
+VideoBaseTexture-flow.js:2428:9-32: number
+VideoBaseTexture-flow.js:2428:31-32: number
+VideoBaseTexture-flow.js:2429:9-16: 
+VideoBaseTexture-flow.js:2429:9-25: 
+VideoBaseTexture-flow.js:2429:9-32: number
+VideoBaseTexture-flow.js:2429:31-32: number
+VideoBaseTexture-flow.js:2431:13-18: 
+VideoBaseTexture-flow.js:2433:9-37: 
+VideoBaseTexture-flow.js:2433:18-25: 
+VideoBaseTexture-flow.js:2433:18-37: 
+VideoBaseTexture-flow.js:2435:9-14: 
+VideoBaseTexture-flow.js:2435:9-24: 
+VideoBaseTexture-flow.js:2435:9-27: 
+VideoBaseTexture-flow.js:2435:9-37: 
+VideoBaseTexture-flow.js:2435:16-21: 
+VideoBaseTexture-flow.js:2435:16-23: 
+VideoBaseTexture-flow.js:2435:35-36: number
+VideoBaseTexture-flow.js:2436:9-14: 
+VideoBaseTexture-flow.js:2436:9-24: 
+VideoBaseTexture-flow.js:2436:9-27: 
+VideoBaseTexture-flow.js:2436:9-37: 
+VideoBaseTexture-flow.js:2436:16-21: 
+VideoBaseTexture-flow.js:2436:16-23: 
+VideoBaseTexture-flow.js:2436:35-36: number
+VideoBaseTexture-flow.js:2437:9-14: 
+VideoBaseTexture-flow.js:2437:9-28: 
+VideoBaseTexture-flow.js:2437:9-31: 
+VideoBaseTexture-flow.js:2437:9-41: 
+VideoBaseTexture-flow.js:2437:16-21: 
+VideoBaseTexture-flow.js:2437:16-27: 
+VideoBaseTexture-flow.js:2437:39-40: number
+VideoBaseTexture-flow.js:2438:9-14: 
+VideoBaseTexture-flow.js:2438:9-29: 
+VideoBaseTexture-flow.js:2438:9-32: 
+VideoBaseTexture-flow.js:2438:9-42: 
+VideoBaseTexture-flow.js:2438:16-21: 
+VideoBaseTexture-flow.js:2438:16-28: 
+VideoBaseTexture-flow.js:2438:40-41: number
+VideoBaseTexture-flow.js:2440:9-38: 
+VideoBaseTexture-flow.js:2440:18-26: 
+VideoBaseTexture-flow.js:2440:18-38: 
+VideoBaseTexture-flow.js:2442:9-14: 
+VideoBaseTexture-flow.js:2442:9-24: 
+VideoBaseTexture-flow.js:2442:9-27: 
+VideoBaseTexture-flow.js:2442:9-37: 
+VideoBaseTexture-flow.js:2442:16-21: 
+VideoBaseTexture-flow.js:2442:16-23: 
+VideoBaseTexture-flow.js:2442:35-36: number
+VideoBaseTexture-flow.js:2443:9-14: 
+VideoBaseTexture-flow.js:2443:9-24: 
+VideoBaseTexture-flow.js:2443:9-27: 
+VideoBaseTexture-flow.js:2443:9-37: 
+VideoBaseTexture-flow.js:2443:16-21: 
+VideoBaseTexture-flow.js:2443:16-23: 
+VideoBaseTexture-flow.js:2443:35-36: number
+VideoBaseTexture-flow.js:2444:9-14: 
+VideoBaseTexture-flow.js:2444:9-28: 
+VideoBaseTexture-flow.js:2444:9-31: 
+VideoBaseTexture-flow.js:2444:9-40: 
+VideoBaseTexture-flow.js:2444:16-21: 
+VideoBaseTexture-flow.js:2444:16-27: 
+VideoBaseTexture-flow.js:2444:39: number
+VideoBaseTexture-flow.js:2445:9-14: 
+VideoBaseTexture-flow.js:2445:9-29: 
+VideoBaseTexture-flow.js:2445:9-32: 
+VideoBaseTexture-flow.js:2445:9-41: 
+VideoBaseTexture-flow.js:2445:16-21: 
+VideoBaseTexture-flow.js:2445:16-28: 
+VideoBaseTexture-flow.js:2445:40: number
+VideoBaseTexture-flow.js:2448:5-6: 
+VideoBaseTexture-flow.js:2448:5,2471:6: 
+VideoBaseTexture-flow.js:2448:8-86: string
+VideoBaseTexture-flow.js:2448:89,2471:5: () => void
+VideoBaseTexture-flow.js:2450:13-18: 
+VideoBaseTexture-flow.js:2450:22-36: 
+VideoBaseTexture-flow.js:2450:26-34: 
+VideoBaseTexture-flow.js:2452:13-21: 
+VideoBaseTexture-flow.js:2452:25-39: 
+VideoBaseTexture-flow.js:2452:29-37: 
+VideoBaseTexture-flow.js:2454:13-20: 
+VideoBaseTexture-flow.js:2454:24-37: 
+VideoBaseTexture-flow.js:2454:24-57: 
+VideoBaseTexture-flow.js:2454:24-78: 
+VideoBaseTexture-flow.js:2454:28-35: 
+VideoBaseTexture-flow.js:2454:49-56: number
+VideoBaseTexture-flow.js:2454:70: number
+VideoBaseTexture-flow.js:2454:73: number
+VideoBaseTexture-flow.js:2454:76-77: number
+VideoBaseTexture-flow.js:2456:9-17: 
+VideoBaseTexture-flow.js:2456:9-36: 
+VideoBaseTexture-flow.js:2456:28-35: 
+VideoBaseTexture-flow.js:2458:9-14: 
+VideoBaseTexture-flow.js:2458:9-34: 
+VideoBaseTexture-flow.js:2458:25-33: 
+VideoBaseTexture-flow.js:2462:9-17: 
+VideoBaseTexture-flow.js:2462:9-26: 
+VideoBaseTexture-flow.js:2462:9-28: 
+VideoBaseTexture-flow.js:2462:9-35: 
+VideoBaseTexture-flow.js:2462:33-35: number
+VideoBaseTexture-flow.js:2463:9-17: 
+VideoBaseTexture-flow.js:2463:9-26: 
+VideoBaseTexture-flow.js:2463:9-28: 
+VideoBaseTexture-flow.js:2463:9-35: 
+VideoBaseTexture-flow.js:2463:33-35: number
+VideoBaseTexture-flow.js:2465:13-18: 
+VideoBaseTexture-flow.js:2465:22-29: 
+VideoBaseTexture-flow.js:2465:22-41: 
+VideoBaseTexture-flow.js:2467:9-14: 
+VideoBaseTexture-flow.js:2467:9-24: 
+VideoBaseTexture-flow.js:2467:9-27: 
+VideoBaseTexture-flow.js:2467:9-39: 
+VideoBaseTexture-flow.js:2467:16-21: 
+VideoBaseTexture-flow.js:2467:16-23: 
+VideoBaseTexture-flow.js:2467:35-38: number
+VideoBaseTexture-flow.js:2467:36-38: number
+VideoBaseTexture-flow.js:2468:9-14: 
+VideoBaseTexture-flow.js:2468:9-24: 
+VideoBaseTexture-flow.js:2468:9-27: 
+VideoBaseTexture-flow.js:2468:9-39: 
+VideoBaseTexture-flow.js:2468:16-21: 
+VideoBaseTexture-flow.js:2468:16-23: 
+VideoBaseTexture-flow.js:2468:35-38: number
+VideoBaseTexture-flow.js:2468:36-38: number
+VideoBaseTexture-flow.js:2469:9-14: 
+VideoBaseTexture-flow.js:2469:9-28: 
+VideoBaseTexture-flow.js:2469:9-31: 
+VideoBaseTexture-flow.js:2469:9-41: 
+VideoBaseTexture-flow.js:2469:16-21: 
+VideoBaseTexture-flow.js:2469:16-27: 
+VideoBaseTexture-flow.js:2469:39-40: number
+VideoBaseTexture-flow.js:2470:9-14: 
+VideoBaseTexture-flow.js:2470:9-29: 
+VideoBaseTexture-flow.js:2470:9-32: 
+VideoBaseTexture-flow.js:2470:9-42: 
+VideoBaseTexture-flow.js:2470:16-21: 
+VideoBaseTexture-flow.js:2470:16-28: 
+VideoBaseTexture-flow.js:2470:40-41: number
+VideoBaseTexture-flow.js:2473:5-6: 
+VideoBaseTexture-flow.js:2473:5,2501:6: 
+VideoBaseTexture-flow.js:2473:8-67: string
+VideoBaseTexture-flow.js:2473:70,2501:5: () => void
+VideoBaseTexture-flow.js:2475:13-18: 
+VideoBaseTexture-flow.js:2475:22-36: 
+VideoBaseTexture-flow.js:2475:26-34: 
+VideoBaseTexture-flow.js:2477:13-21: 
+VideoBaseTexture-flow.js:2477:25-39: 
+VideoBaseTexture-flow.js:2477:29-37: 
+VideoBaseTexture-flow.js:2479:13-16: Text
+VideoBaseTexture-flow.js:2479:20-45: Text
+VideoBaseTexture-flow.js:2479:24-27: [class: Text]
+VideoBaseTexture-flow.js:2479:29-44: string
+VideoBaseTexture-flow.js:2481:9-17: 
+VideoBaseTexture-flow.js:2481:9-32: 
+VideoBaseTexture-flow.js:2481:28-31: Text
+VideoBaseTexture-flow.js:2483:9-14: 
+VideoBaseTexture-flow.js:2483:9-34: 
+VideoBaseTexture-flow.js:2483:25-33: 
+VideoBaseTexture-flow.js:2485:13-18: 
+VideoBaseTexture-flow.js:2487:9-33: 
+VideoBaseTexture-flow.js:2487:18-21: Text
+VideoBaseTexture-flow.js:2487:18-33: 
+VideoBaseTexture-flow.js:2488:13-14: 
+VideoBaseTexture-flow.js:2488:18-23: 
+VideoBaseTexture-flow.js:2488:18-29: 
+VideoBaseTexture-flow.js:2490:9-14: 
+VideoBaseTexture-flow.js:2490:9-24: 
+VideoBaseTexture-flow.js:2490:9-27: 
+VideoBaseTexture-flow.js:2490:9-36: 
+VideoBaseTexture-flow.js:2490:16-21: 
+VideoBaseTexture-flow.js:2490:16-23: 
+VideoBaseTexture-flow.js:2490:35: number
+VideoBaseTexture-flow.js:2491:9-14: 
+VideoBaseTexture-flow.js:2491:9-24: 
+VideoBaseTexture-flow.js:2491:9-27: 
+VideoBaseTexture-flow.js:2491:9-36: 
+VideoBaseTexture-flow.js:2491:16-21: 
+VideoBaseTexture-flow.js:2491:16-23: 
+VideoBaseTexture-flow.js:2491:35: number
+VideoBaseTexture-flow.js:2492:9-14: 
+VideoBaseTexture-flow.js:2492:9-28: 
+VideoBaseTexture-flow.js:2492:9-31: 
+VideoBaseTexture-flow.js:2492:9-34: 
+VideoBaseTexture-flow.js:2492:9-49: 
+VideoBaseTexture-flow.js:2492:16-21: 
+VideoBaseTexture-flow.js:2492:16-27: 
+VideoBaseTexture-flow.js:2492:48: number
+VideoBaseTexture-flow.js:2493:9-14: 
+VideoBaseTexture-flow.js:2493:9-29: 
+VideoBaseTexture-flow.js:2493:9-32: 
+VideoBaseTexture-flow.js:2493:9-47: 
+VideoBaseTexture-flow.js:2493:16-21: 
+VideoBaseTexture-flow.js:2493:16-28: 
+VideoBaseTexture-flow.js:2493:46: number
+VideoBaseTexture-flow.js:2495:9-12: Text
+VideoBaseTexture-flow.js:2495:9-28: string
+VideoBaseTexture-flow.js:2495:21-28: string
+VideoBaseTexture-flow.js:2497:9-33: 
+VideoBaseTexture-flow.js:2497:18-21: Text
+VideoBaseTexture-flow.js:2497:18-33: 
+VideoBaseTexture-flow.js:2500:9-14: 
+VideoBaseTexture-flow.js:2500:9-28: 
+VideoBaseTexture-flow.js:2500:9-31: 
+VideoBaseTexture-flow.js:2500:9-35: 
+VideoBaseTexture-flow.js:2500:9-45: 
+VideoBaseTexture-flow.js:2500:16-21: 
+VideoBaseTexture-flow.js:2500:16-27: 
+VideoBaseTexture-flow.js:2500:43-44: 
+VideoBaseTexture-flow.js:2503:5-6: 
+VideoBaseTexture-flow.js:2503:5,2530:6: 
+VideoBaseTexture-flow.js:2503:8-89: string
+VideoBaseTexture-flow.js:2503:92,2530:5: () => void
+VideoBaseTexture-flow.js:2505:13-18: 
+VideoBaseTexture-flow.js:2505:22-36: 
+VideoBaseTexture-flow.js:2505:26-34: 
+VideoBaseTexture-flow.js:2506:13-19: 
+VideoBaseTexture-flow.js:2506:23-35: 
+VideoBaseTexture-flow.js:2506:23-50: 
+VideoBaseTexture-flow.js:2506:44-45: number
+VideoBaseTexture-flow.js:2506:48-49: number
+VideoBaseTexture-flow.js:2507:13-18: 
+VideoBaseTexture-flow.js:2507:22-40: 
+VideoBaseTexture-flow.js:2507:26-31: 
+VideoBaseTexture-flow.js:2507:33-39: 
+VideoBaseTexture-flow.js:2509:9-14: 
+VideoBaseTexture-flow.js:2509:9-23: 
+VideoBaseTexture-flow.js:2509:9-30: number
+VideoBaseTexture-flow.js:2509:29-30: number
+VideoBaseTexture-flow.js:2510:9-14: 
+VideoBaseTexture-flow.js:2510:9-23: 
+VideoBaseTexture-flow.js:2510:9-30: number
+VideoBaseTexture-flow.js:2510:29-30: number
+VideoBaseTexture-flow.js:2512:9-14: 
+VideoBaseTexture-flow.js:2512:9-20: 
+VideoBaseTexture-flow.js:2512:9-26: number
+VideoBaseTexture-flow.js:2512:26: number
+VideoBaseTexture-flow.js:2513:9-14: 
+VideoBaseTexture-flow.js:2513:9-20: 
+VideoBaseTexture-flow.js:2513:9-26: number
+VideoBaseTexture-flow.js:2513:26: number
+VideoBaseTexture-flow.js:2515:9-14: 
+VideoBaseTexture-flow.js:2515:9-31: 
+VideoBaseTexture-flow.js:2515:25-30: 
+VideoBaseTexture-flow.js:2517:13-18: 
+VideoBaseTexture-flow.js:2517:22-27: 
+VideoBaseTexture-flow.js:2517:22-39: 
+VideoBaseTexture-flow.js:2519:9-14: 
+VideoBaseTexture-flow.js:2519:9-24: 
+VideoBaseTexture-flow.js:2519:9-27: 
+VideoBaseTexture-flow.js:2519:9-37: 
+VideoBaseTexture-flow.js:2519:16-21: 
+VideoBaseTexture-flow.js:2519:16-23: 
+VideoBaseTexture-flow.js:2519:35-36: number
+VideoBaseTexture-flow.js:2520:9-14: 
+VideoBaseTexture-flow.js:2520:9-24: 
+VideoBaseTexture-flow.js:2520:9-27: 
+VideoBaseTexture-flow.js:2520:9-37: 
+VideoBaseTexture-flow.js:2520:16-21: 
+VideoBaseTexture-flow.js:2520:16-23: 
+VideoBaseTexture-flow.js:2520:35-36: number
+VideoBaseTexture-flow.js:2521:9-14: 
+VideoBaseTexture-flow.js:2521:9-28: 
+VideoBaseTexture-flow.js:2521:9-31: 
+VideoBaseTexture-flow.js:2521:9-41: 
+VideoBaseTexture-flow.js:2521:16-21: 
+VideoBaseTexture-flow.js:2521:16-27: 
+VideoBaseTexture-flow.js:2521:39-40: number
+VideoBaseTexture-flow.js:2522:9-14: 
+VideoBaseTexture-flow.js:2522:9-29: 
+VideoBaseTexture-flow.js:2522:9-32: 
+VideoBaseTexture-flow.js:2522:9-42: 
+VideoBaseTexture-flow.js:2522:16-21: 
+VideoBaseTexture-flow.js:2522:16-28: 
+VideoBaseTexture-flow.js:2522:40-41: number
+VideoBaseTexture-flow.js:2524:13-23: 
+VideoBaseTexture-flow.js:2524:27-32: 
+VideoBaseTexture-flow.js:2524:27-49: 
+VideoBaseTexture-flow.js:2526:9-14: 
+VideoBaseTexture-flow.js:2526:9-29: 
+VideoBaseTexture-flow.js:2526:9-32: 
+VideoBaseTexture-flow.js:2526:9-41: 
+VideoBaseTexture-flow.js:2526:16-26: 
+VideoBaseTexture-flow.js:2526:16-28: 
+VideoBaseTexture-flow.js:2526:40: number
+VideoBaseTexture-flow.js:2527:9-14: 
+VideoBaseTexture-flow.js:2527:9-29: 
+VideoBaseTexture-flow.js:2527:9-32: 
+VideoBaseTexture-flow.js:2527:9-41: 
+VideoBaseTexture-flow.js:2527:16-26: 
+VideoBaseTexture-flow.js:2527:16-28: 
+VideoBaseTexture-flow.js:2527:40: number
+VideoBaseTexture-flow.js:2528:9-14: 
+VideoBaseTexture-flow.js:2528:9-33: 
+VideoBaseTexture-flow.js:2528:9-36: 
+VideoBaseTexture-flow.js:2528:9-46: 
+VideoBaseTexture-flow.js:2528:16-26: 
+VideoBaseTexture-flow.js:2528:16-32: 
+VideoBaseTexture-flow.js:2528:44-45: number
+VideoBaseTexture-flow.js:2529:9-14: 
+VideoBaseTexture-flow.js:2529:9-34: 
+VideoBaseTexture-flow.js:2529:9-37: 
+VideoBaseTexture-flow.js:2529:9-47: 
+VideoBaseTexture-flow.js:2529:16-26: 
+VideoBaseTexture-flow.js:2529:16-33: 
+VideoBaseTexture-flow.js:2529:45-46: number
+VideoBaseTexture-flow.js:2532:5-6: 
+VideoBaseTexture-flow.js:2532:5,2556:6: 
+VideoBaseTexture-flow.js:2532:8-60: string
+VideoBaseTexture-flow.js:2532:63,2556:5: () => void
+VideoBaseTexture-flow.js:2534:13-18: 
+VideoBaseTexture-flow.js:2534:22-36: 
+VideoBaseTexture-flow.js:2534:26-34: 
+VideoBaseTexture-flow.js:2535:13-23: 
+VideoBaseTexture-flow.js:2535:27-57: 
+VideoBaseTexture-flow.js:2535:31-47: 
+VideoBaseTexture-flow.js:2535:49-51: number
+VideoBaseTexture-flow.js:2535:54-56: number
+VideoBaseTexture-flow.js:2537:13-16: 
+VideoBaseTexture-flow.js:2537:20-47: 
+VideoBaseTexture-flow.js:2537:24-32: 
+VideoBaseTexture-flow.js:2537:34: number
+VideoBaseTexture-flow.js:2537:37: number
+VideoBaseTexture-flow.js:2537:40-42: number
+VideoBaseTexture-flow.js:2537:45-46: number
+VideoBaseTexture-flow.js:2538:13-17: 
+VideoBaseTexture-flow.js:2538:21-47: 
+VideoBaseTexture-flow.js:2538:25-33: 
+VideoBaseTexture-flow.js:2538:35: number
+VideoBaseTexture-flow.js:2538:38: number
+VideoBaseTexture-flow.js:2538:41-42: number
+VideoBaseTexture-flow.js:2538:45-46: number
+VideoBaseTexture-flow.js:2539:13-16: 
+VideoBaseTexture-flow.js:2539:20-47: 
+VideoBaseTexture-flow.js:2539:24-32: 
+VideoBaseTexture-flow.js:2539:34-35: number
+VideoBaseTexture-flow.js:2539:38: number
+VideoBaseTexture-flow.js:2539:41-42: number
+VideoBaseTexture-flow.js:2539:45-46: number
+VideoBaseTexture-flow.js:2541:13-26: 
+VideoBaseTexture-flow.js:2541:30-72: 
+VideoBaseTexture-flow.js:2541:34-40: 
+VideoBaseTexture-flow.js:2541:42-52: 
+VideoBaseTexture-flow.js:2541:55-59: 
+VideoBaseTexture-flow.js:2541:62-65: 
+VideoBaseTexture-flow.js:2541:68-71: 
+VideoBaseTexture-flow.js:2543:13-18: 
+VideoBaseTexture-flow.js:2543:22-47: 
+VideoBaseTexture-flow.js:2543:26-31: 
+VideoBaseTexture-flow.js:2543:33-46: 
+VideoBaseTexture-flow.js:2545:9-14: 
+VideoBaseTexture-flow.js:2545:9-23: 
+VideoBaseTexture-flow.js:2545:9-30: number
+VideoBaseTexture-flow.js:2545:29-30: number
+VideoBaseTexture-flow.js:2546:9-14: 
+VideoBaseTexture-flow.js:2546:9-23: 
+VideoBaseTexture-flow.js:2546:9-30: number
+VideoBaseTexture-flow.js:2546:29-30: number
+VideoBaseTexture-flow.js:2548:9-14: 
+VideoBaseTexture-flow.js:2548:9-31: 
+VideoBaseTexture-flow.js:2548:25-30: 
+VideoBaseTexture-flow.js:2550:13-18: 
+VideoBaseTexture-flow.js:2550:22-27: 
+VideoBaseTexture-flow.js:2550:22-39: 
+VideoBaseTexture-flow.js:2552:9-14: 
+VideoBaseTexture-flow.js:2552:9-24: 
+VideoBaseTexture-flow.js:2552:9-27: 
+VideoBaseTexture-flow.js:2552:9-37: 
+VideoBaseTexture-flow.js:2552:16-21: 
+VideoBaseTexture-flow.js:2552:16-23: 
+VideoBaseTexture-flow.js:2552:35-36: number
+VideoBaseTexture-flow.js:2553:9-14: 
+VideoBaseTexture-flow.js:2553:9-24: 
+VideoBaseTexture-flow.js:2553:9-27: 
+VideoBaseTexture-flow.js:2553:9-37: 
+VideoBaseTexture-flow.js:2553:16-21: 
+VideoBaseTexture-flow.js:2553:16-23: 
+VideoBaseTexture-flow.js:2553:35-36: number
+VideoBaseTexture-flow.js:2554:9-14: 
+VideoBaseTexture-flow.js:2554:9-28: 
+VideoBaseTexture-flow.js:2554:9-31: 
+VideoBaseTexture-flow.js:2554:9-42: 
+VideoBaseTexture-flow.js:2554:16-21: 
+VideoBaseTexture-flow.js:2554:16-27: 
+VideoBaseTexture-flow.js:2554:39-41: number
+VideoBaseTexture-flow.js:2555:9-14: 
+VideoBaseTexture-flow.js:2555:9-29: 
+VideoBaseTexture-flow.js:2555:9-32: 
+VideoBaseTexture-flow.js:2555:9-42: 
+VideoBaseTexture-flow.js:2555:16-21: 
+VideoBaseTexture-flow.js:2555:16-28: 
+VideoBaseTexture-flow.js:2555:40-41: number
