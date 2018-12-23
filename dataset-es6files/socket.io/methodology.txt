@@ -1,0 +1,4 @@
+1- Put all code together (src+tests) in one single file: socketio-flow.js
+2- Verify if the variable names created in the require statements are equal to the class names. If equal, just comment the require statement line. In the case of socket.io, they all were equal.
+3- Comment repeated commands for 'use strict'.
+4- Comment module.exports command lines. 
