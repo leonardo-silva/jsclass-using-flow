@@ -1,0 +1,6 @@
+1- Create the flow files (src+tests) for each class. Ex: Treap-flow.js, MinHeap-flow.js, etc
+2- Add the specific test code to the end of each generated file. 
+2- Verify if the variable names created in the require statements are equal to the class names. If equal, just comment the require statement line. If not, like for classes MinHeap and MaxHeap, the variable must be assigned to the value exported by the file indicated in the require statement (the parameter).
+3- Comment repeated commands for 'use strict'.
+4- Comment module.exports command lines. 
+

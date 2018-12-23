@@ -1,0 +1,767 @@
+heap-flow.js:1:1-12: string
+heap-flow.js:17:1,64:1: [class: Comparator]
+heap-flow.js:18:15-23: void
+heap-flow.js:19:9-17: void
+heap-flow.js:20:7-10: Comparator
+heap-flow.js:20:7-30: 
+heap-flow.js:20:22-30: 
+heap-flow.js:27:11: 
+heap-flow.js:27:14: 
+heap-flow.js:28:9: 
+heap-flow.js:28:15: 
+heap-flow.js:28:25: number
+heap-flow.js:29:12: 
+heap-flow.js:29:12-16: boolean
+heap-flow.js:29:12-25: number
+heap-flow.js:29:16: 
+heap-flow.js:29:20-21: number
+heap-flow.js:29:21: number
+heap-flow.js:29:25: number
+heap-flow.js:32:12: 
+heap-flow.js:32:15: 
+heap-flow.js:33:12-15: Comparator
+heap-flow.js:33:12-29: number
+heap-flow.js:33:12-33: boolean
+heap-flow.js:33:25: 
+heap-flow.js:33:28: 
+heap-flow.js:33:33: number
+heap-flow.js:36:19: 
+heap-flow.js:36:22: 
+heap-flow.js:37:12-15: Comparator
+heap-flow.js:37:12-30: boolean
+heap-flow.js:37:12-50: boolean
+heap-flow.js:37:26: 
+heap-flow.js:37:29: 
+heap-flow.js:37:35-38: Comparator
+heap-flow.js:37:35-50: boolean
+heap-flow.js:37:46: 
+heap-flow.js:37:49: 
+heap-flow.js:40:15: 
+heap-flow.js:40:18: 
+heap-flow.js:41:12-15: Comparator
+heap-flow.js:41:12-29: number
+heap-flow.js:41:12-33: boolean
+heap-flow.js:41:25: 
+heap-flow.js:41:28: 
+heap-flow.js:41:33: number
+heap-flow.js:44:22: 
+heap-flow.js:44:25: 
+heap-flow.js:45:12-15: Comparator
+heap-flow.js:45:12-33: boolean
+heap-flow.js:45:12-53: boolean
+heap-flow.js:45:29: 
+heap-flow.js:45:32: 
+heap-flow.js:45:38-41: Comparator
+heap-flow.js:45:38-53: boolean
+heap-flow.js:45:49: 
+heap-flow.js:45:52: 
+heap-flow.js:48:9: 
+heap-flow.js:48:12: 
+heap-flow.js:49:12-15: Comparator
+heap-flow.js:49:12-29: number
+heap-flow.js:49:12-35: boolean
+heap-flow.js:49:25: 
+heap-flow.js:49:28: 
+heap-flow.js:49:35: number
+heap-flow.js:59:9-25: (a: , b: ) => number
+heap-flow.js:59:29-32: Comparator
+heap-flow.js:59:29-40: (a: , b: ) => number
+heap-flow.js:60:5-8: Comparator
+heap-flow.js:60:5,62:5: (a: , b: ) => number
+heap-flow.js:60:20,62:5: (a: , b: ) => number
+heap-flow.js:60:29: 
+heap-flow.js:60:32: 
+heap-flow.js:61:14-30: (a: , b: ) => number
+heap-flow.js:61:14-36: number
+heap-flow.js:61:32: 
+heap-flow.js:61:35: 
+heap-flow.js:71:1,176:1: [class: MinHeap]
+heap-flow.js:72:15-23: void
+heap-flow.js:73:5-8: MinHeap
+heap-flow.js:73:5-27: [null]
+heap-flow.js:73:22-27: [null]
+heap-flow.js:73:23-26: null
+heap-flow.js:74:5-8: MinHeap
+heap-flow.js:74:5-48: Comparator
+heap-flow.js:74:24-48: Comparator
+heap-flow.js:74:28-37: [class: Comparator]
+heap-flow.js:74:39-47: void
+heap-flow.js:76:5-10: [class: Object]
+heap-flow.js:76:5,80:6: MinHeap
+heap-flow.js:76:27-30: MinHeap
+heap-flow.js:76:33-35: string
+heap-flow.js:76:38,80:5: {get: () => number}
+heap-flow.js:77:12,79:7: () => number
+heap-flow.js:77:12,79:18: () => number
+heap-flow.js:78:16-19: MinHeap
+heap-flow.js:78:16-29: 
+heap-flow.js:78:16-36: 
+heap-flow.js:78:16-40: number
+heap-flow.js:78:40: number
+heap-flow.js:79:14-17: MinHeap
+heap-flow.js:83:9: number
+heap-flow.js:83:12: number
+heap-flow.js:84:9-11: 
+heap-flow.js:84:15-18: MinHeap
+heap-flow.js:84:15-28: 
+heap-flow.js:84:15-31: 
+heap-flow.js:84:30: number
+heap-flow.js:85:5-8: MinHeap
+heap-flow.js:85:5-18: 
+heap-flow.js:85:5-41: 
+heap-flow.js:85:20: number
+heap-flow.js:85:25-28: MinHeap
+heap-flow.js:85:25-38: 
+heap-flow.js:85:25-41: 
+heap-flow.js:85:40: number
+heap-flow.js:86:5-8: MinHeap
+heap-flow.js:86:5-18: 
+heap-flow.js:86:5-27: 
+heap-flow.js:86:20: number
+heap-flow.js:86:25-27: 
+heap-flow.js:90:12-15: MinHeap
+heap-flow.js:90:12-17: 
+heap-flow.js:90:12-23: boolean
+heap-flow.js:90:23: number
+heap-flow.js:93:10: number
+heap-flow.js:94:5-8: MinHeap
+heap-flow.js:94:5-18: 
+heap-flow.js:94:5-26: 
+heap-flow.js:94:25: number
+heap-flow.js:95:5-8: MinHeap
+heap-flow.js:95:5-18: void
+heap-flow.js:99:9-15: 
+heap-flow.js:99:19-22: MinHeap
+heap-flow.js:99:19-32: 
+heap-flow.js:99:19-35: 
+heap-flow.js:99:34: number
+heap-flow.js:103:9-12: 
+heap-flow.js:103:16-19: MinHeap
+heap-flow.js:103:16-29: 
+heap-flow.js:103:16-35: 
+heap-flow.js:104:9-12: MinHeap
+heap-flow.js:105:7-10: MinHeap
+heap-flow.js:105:7-20: 
+heap-flow.js:105:7-30: 
+heap-flow.js:105:22: number
+heap-flow.js:105:27-30: 
+heap-flow.js:106:7-10: MinHeap
+heap-flow.js:106:7-22: void
+heap-flow.js:109:12-18: 
+heap-flow.js:117:9: number
+heap-flow.js:118:9-14: number
+heap-flow.js:120:10-19: 
+heap-flow.js:120:14-17: MinHeap
+heap-flow.js:120:14-19: 
+heap-flow.js:121:9: number
+heap-flow.js:121:9-13: boolean
+heap-flow.js:121:13: number
+heap-flow.js:121:19-24: number
+heap-flow.js:121:19-33: number
+heap-flow.js:121:28: number
+heap-flow.js:121:28-33: number
+heap-flow.js:121:33: number
+heap-flow.js:121:39-42: MinHeap
+heap-flow.js:121:39-54: 
+heap-flow.js:121:39,122:52: 
+heap-flow.js:122:11-14: MinHeap
+heap-flow.js:122:11-24: 
+heap-flow.js:122:11-32: 
+heap-flow.js:122:26-31: number
+heap-flow.js:122:35-38: MinHeap
+heap-flow.js:122:35-48: 
+heap-flow.js:122:35-51: 
+heap-flow.js:122:50: number
+heap-flow.js:123:9-18: number
+heap-flow.js:123:13-18: number
+heap-flow.js:124:7-10: MinHeap
+heap-flow.js:124:7-27: void
+heap-flow.js:124:18-23: number
+heap-flow.js:124:26: number
+heap-flow.js:132:13: number | void
+heap-flow.js:133:9: number
+heap-flow.js:134:10-19: number
+heap-flow.js:134:14: number | void
+heap-flow.js:134:14-19: number
+heap-flow.js:134:19: number
+heap-flow.js:134:22-43: boolean
+heap-flow.js:134:23-32: number
+heap-flow.js:134:27: number
+heap-flow.js:134:27-32: number
+heap-flow.js:134:32: number
+heap-flow.js:134:38-41: MinHeap
+heap-flow.js:134:38-43: 
+heap-flow.js:134:46-50: number
+heap-flow.js:134:50: number
+heap-flow.js:136:11: number
+heap-flow.js:136:11-15: number
+heap-flow.js:136:11-25: boolean
+heap-flow.js:136:15: number
+heap-flow.js:136:20-23: MinHeap
+heap-flow.js:136:20-25: 
+heap-flow.js:136:30-33: MinHeap
+heap-flow.js:136:30-45: 
+heap-flow.js:136:30,137:53: 
+heap-flow.js:137:13-16: MinHeap
+heap-flow.js:137:13-26: 
+heap-flow.js:137:13-33: 
+heap-flow.js:137:28: number
+heap-flow.js:137:28-32: number
+heap-flow.js:137:32: number
+heap-flow.js:137:36-39: MinHeap
+heap-flow.js:137:36-49: 
+heap-flow.js:137:36-52: 
+heap-flow.js:137:51: number
+heap-flow.js:139:9-11: number
+heap-flow.js:140:11-14: MinHeap
+heap-flow.js:140:11-26: 
+heap-flow.js:140:11,141:30: 
+heap-flow.js:140:37-40: MinHeap
+heap-flow.js:140:37-50: 
+heap-flow.js:140:37-53: 
+heap-flow.js:140:52: number
+heap-flow.js:141:13-16: MinHeap
+heap-flow.js:141:13-26: 
+heap-flow.js:141:13-29: 
+heap-flow.js:141:28: number
+heap-flow.js:143:7-10: MinHeap
+heap-flow.js:143:7-22: void
+heap-flow.js:143:18: number
+heap-flow.js:143:21: number
+heap-flow.js:147:11: [number, number, number, number, number, number]
+heap-flow.js:148:9: [number, number, number, number, number, number]
+heap-flow.js:149:7-10: MinHeap
+heap-flow.js:149:7-24: [number, number, number, number, number, number]
+heap-flow.js:149:24: [number, number, number, number, number, number]
+heap-flow.js:150:7-20: [number, number, number, number, number, number]
+heap-flow.js:150:7-34: number
+heap-flow.js:150:30-33: null
+heap-flow.js:153:14: number
+heap-flow.js:153:18-21: MinHeap
+heap-flow.js:153:18-23: 
+heap-flow.js:153:18-28: number
+heap-flow.js:153:28: number
+heap-flow.js:153:31: number
+heap-flow.js:153:31-35: boolean
+heap-flow.js:153:35: number
+heap-flow.js:153:38-40: number
+heap-flow.js:154:7-10: MinHeap
+heap-flow.js:154:7-23: void
+heap-flow.js:154:22: number
+heap-flow.js:158:11-12: (_: ) => void
+heap-flow.js:162:9-20: Array<>
+heap-flow.js:162:24-25: Array<>
+heap-flow.js:163:9: number
+heap-flow.js:165:10-14: number
+heap-flow.js:165:14: number
+heap-flow.js:165:17: number
+heap-flow.js:165:17-41: boolean
+heap-flow.js:165:21-24: MinHeap
+heap-flow.js:165:21-34: 
+heap-flow.js:165:21-41: 
+heap-flow.js:165:44-46: number
+heap-flow.js:166:7-18: Array<>
+heap-flow.js:166:7-42: number
+heap-flow.js:166:25-28: MinHeap
+heap-flow.js:166:25-38: 
+heap-flow.js:166:25-41: 
+heap-flow.js:166:40: number
+heap-flow.js:169:10-19: 
+heap-flow.js:169:14-17: MinHeap
+heap-flow.js:169:14-19: 
+heap-flow.js:169:22: number
+heap-flow.js:169:22-26: boolean
+heap-flow.js:169:26: number
+heap-flow.js:169:29-31: number
+heap-flow.js:170:7-8: (_: ) => void
+heap-flow.js:170:7-24: void
+heap-flow.js:170:10-13: MinHeap
+heap-flow.js:170:10-23: 
+heap-flow.js:173:5-8: MinHeap
+heap-flow.js:173:5-33: Array<>
+heap-flow.js:173:22-33: Array<>
+heap-flow.js:184:1,189:1: [class: MaxHeap]
+heap-flow.js:184:23-29: [class: MinHeap]
+heap-flow.js:185:15-23: void
+heap-flow.js:186:5-11: [class: MinHeap]
+heap-flow.js:186:5-33: 
+heap-flow.js:186:18-21: void
+heap-flow.js:186:24-32: void
+heap-flow.js:187:5-8: void
+heap-flow.js:187:5-20: 
+heap-flow.js:187:5-30: 
+heap-flow.js:203:5-8: {MaxHeap: [class: MaxHeap], MinHeap: [class: MinHeap]}
+heap-flow.js:203:12,206:1: {MaxHeap: [class: MaxHeap], MinHeap: [class: MinHeap]}
+heap-flow.js:204:12-18: [class: MinHeap]
+heap-flow.js:205:12-18: [class: MaxHeap]
+heap-flow.js:208:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:208:14-30: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:210:1-8: 
+heap-flow.js:210:1,276:2: 
+heap-flow.js:210:10-19: string
+heap-flow.js:210:22,276:1: () => void
+heap-flow.js:211:3-4: 
+heap-flow.js:211:3,240:4: 
+heap-flow.js:211:6-46: string
+heap-flow.js:211:49,240:3: () => void
+heap-flow.js:212:9: MinHeap
+heap-flow.js:212:13-30: MinHeap
+heap-flow.js:212:17-20: {MaxHeap: [class: MaxHeap], MinHeap: [class: MinHeap]}
+heap-flow.js:212:17-28: [class: MinHeap]
+heap-flow.js:213:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:213:5-23: void
+heap-flow.js:213:12: MinHeap
+heap-flow.js:213:12-22: boolean
+heap-flow.js:214:5: MinHeap
+heap-flow.js:214:5-16: void
+heap-flow.js:214:14-15: number
+heap-flow.js:215:5: MinHeap
+heap-flow.js:215:5-18: void
+heap-flow.js:215:14-17: number
+heap-flow.js:216:5: MinHeap
+heap-flow.js:216:5-15: void
+heap-flow.js:216:14: number
+heap-flow.js:217:5: MinHeap
+heap-flow.js:217:5-15: void
+heap-flow.js:217:14: number
+heap-flow.js:218:5: MinHeap
+heap-flow.js:218:5-15: void
+heap-flow.js:218:14: number
+heap-flow.js:219:5: MinHeap
+heap-flow.js:219:5-17: void
+heap-flow.js:219:14-16: number
+heap-flow.js:220:5: MinHeap
+heap-flow.js:220:5-15: void
+heap-flow.js:220:14: number
+heap-flow.js:221:5: MinHeap
+heap-flow.js:221:5-16: void
+heap-flow.js:221:14-15: number
+heap-flow.js:222:5: MinHeap
+heap-flow.js:222:5-15: void
+heap-flow.js:222:14: number
+heap-flow.js:223:5: MinHeap
+heap-flow.js:223:5-16: void
+heap-flow.js:223:14-15: number
+heap-flow.js:224:5: MinHeap
+heap-flow.js:224:5-16: void
+heap-flow.js:224:14-15: number
+heap-flow.js:225:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:225:5-24: void
+heap-flow.js:225:12-23: boolean
+heap-flow.js:225:13: MinHeap
+heap-flow.js:225:13-23: boolean
+heap-flow.js:227:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:227:5-32: void
+heap-flow.js:227:18: MinHeap
+heap-flow.js:227:18-28: 
+heap-flow.js:227:31: number
+heap-flow.js:228:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:228:5-32: void
+heap-flow.js:228:18: MinHeap
+heap-flow.js:228:18-28: 
+heap-flow.js:228:31: number
+heap-flow.js:229:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:229:5-32: void
+heap-flow.js:229:18: MinHeap
+heap-flow.js:229:18-28: 
+heap-flow.js:229:31: number
+heap-flow.js:230:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:230:5-32: void
+heap-flow.js:230:18: MinHeap
+heap-flow.js:230:18-28: 
+heap-flow.js:230:31: number
+heap-flow.js:231:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:231:5-32: void
+heap-flow.js:231:18: MinHeap
+heap-flow.js:231:18-28: 
+heap-flow.js:231:31: number
+heap-flow.js:232:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:232:5-33: void
+heap-flow.js:232:18: MinHeap
+heap-flow.js:232:18-28: 
+heap-flow.js:232:31-32: number
+heap-flow.js:233:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:233:5-33: void
+heap-flow.js:233:18: MinHeap
+heap-flow.js:233:18-28: 
+heap-flow.js:233:31-32: number
+heap-flow.js:234:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:234:5-33: void
+heap-flow.js:234:18: MinHeap
+heap-flow.js:234:18-28: 
+heap-flow.js:234:31-32: number
+heap-flow.js:235:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:235:5-33: void
+heap-flow.js:235:18: MinHeap
+heap-flow.js:235:18-28: 
+heap-flow.js:235:31-32: number
+heap-flow.js:236:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:236:5-34: void
+heap-flow.js:236:18: MinHeap
+heap-flow.js:236:18-28: 
+heap-flow.js:236:31-33: number
+heap-flow.js:237:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:237:5-35: void
+heap-flow.js:237:18: MinHeap
+heap-flow.js:237:18-28: 
+heap-flow.js:237:31-34: number
+heap-flow.js:239:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:239:5-23: void
+heap-flow.js:239:12: MinHeap
+heap-flow.js:239:12-22: boolean
+heap-flow.js:242:3-4: 
+heap-flow.js:242:3,259:4: 
+heap-flow.js:242:6-40: string
+heap-flow.js:242:43,259:3: () => void
+heap-flow.js:243:9: MinHeap
+heap-flow.js:243:13-30: MinHeap
+heap-flow.js:243:17-20: {MaxHeap: [class: MaxHeap], MinHeap: [class: MinHeap]}
+heap-flow.js:243:17-28: [class: MinHeap]
+heap-flow.js:244:5: MinHeap
+heap-flow.js:244:5-57: void
+heap-flow.js:244:15-56: [number, number, number, number, number, number, number, number, number, number, number]
+heap-flow.js:244:16-17: number
+heap-flow.js:244:20-23: number
+heap-flow.js:244:26: number
+heap-flow.js:244:29: number
+heap-flow.js:244:32: number
+heap-flow.js:244:35-37: number
+heap-flow.js:244:40: number
+heap-flow.js:244:43-44: number
+heap-flow.js:244:47: number
+heap-flow.js:244:50-51: number
+heap-flow.js:244:54-55: number
+heap-flow.js:246:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:246:5-32: void
+heap-flow.js:246:18: MinHeap
+heap-flow.js:246:18-28: 
+heap-flow.js:246:31: number
+heap-flow.js:247:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:247:5-32: void
+heap-flow.js:247:18: MinHeap
+heap-flow.js:247:18-28: 
+heap-flow.js:247:31: number
+heap-flow.js:248:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:248:5-32: void
+heap-flow.js:248:18: MinHeap
+heap-flow.js:248:18-28: 
+heap-flow.js:248:31: number
+heap-flow.js:249:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:249:5-32: void
+heap-flow.js:249:18: MinHeap
+heap-flow.js:249:18-28: 
+heap-flow.js:249:31: number
+heap-flow.js:250:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:250:5-32: void
+heap-flow.js:250:18: MinHeap
+heap-flow.js:250:18-28: 
+heap-flow.js:250:31: number
+heap-flow.js:251:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:251:5-33: void
+heap-flow.js:251:18: MinHeap
+heap-flow.js:251:18-28: 
+heap-flow.js:251:31-32: number
+heap-flow.js:252:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:252:5-33: void
+heap-flow.js:252:18: MinHeap
+heap-flow.js:252:18-28: 
+heap-flow.js:252:31-32: number
+heap-flow.js:253:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:253:5-33: void
+heap-flow.js:253:18: MinHeap
+heap-flow.js:253:18-28: 
+heap-flow.js:253:31-32: number
+heap-flow.js:254:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:254:5-33: void
+heap-flow.js:254:18: MinHeap
+heap-flow.js:254:18-28: 
+heap-flow.js:254:31-32: number
+heap-flow.js:255:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:255:5-34: void
+heap-flow.js:255:18: MinHeap
+heap-flow.js:255:18-28: 
+heap-flow.js:255:31-33: number
+heap-flow.js:256:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:256:5-35: void
+heap-flow.js:256:18: MinHeap
+heap-flow.js:256:18-28: 
+heap-flow.js:256:31-34: number
+heap-flow.js:258:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:258:5-23: void
+heap-flow.js:258:12: MinHeap
+heap-flow.js:258:12-22: boolean
+heap-flow.js:261:3-4: 
+heap-flow.js:261:3,275:4: 
+heap-flow.js:261:6-73: string
+heap-flow.js:261:6,262:20: string
+heap-flow.js:262:6-20: string
+heap-flow.js:262:23,275:3: () => void
+heap-flow.js:263:9: MinHeap
+heap-flow.js:263:13-30: MinHeap
+heap-flow.js:263:17-20: {MaxHeap: [class: MaxHeap], MinHeap: [class: MinHeap]}
+heap-flow.js:263:17-28: [class: MinHeap]
+heap-flow.js:264:5: MinHeap
+heap-flow.js:264:5-37: void
+heap-flow.js:264:15-36: [number, number, number, number, number, number]
+heap-flow.js:264:16: number
+heap-flow.js:264:19-20: number
+heap-flow.js:264:23-26: number
+heap-flow.js:264:29: number
+heap-flow.js:264:32: number
+heap-flow.js:264:35: number
+heap-flow.js:266:9-14: Array<>
+heap-flow.js:266:18-19: Array<>
+heap-flow.js:267:5: MinHeap
+heap-flow.js:267:5,269:6: void
+heap-flow.js:267:15,269:5: (n: ) => void
+heap-flow.js:267:24: 
+heap-flow.js:268:7-12: Array<>
+heap-flow.js:268:7-20: number
+heap-flow.js:268:19: 
+heap-flow.js:271:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:271:5-52: void
+heap-flow.js:271:22-27: Array<>
+heap-flow.js:271:30-51: [number, number, number, number, number, number]
+heap-flow.js:271:31: number
+heap-flow.js:271:34: number
+heap-flow.js:271:37: number
+heap-flow.js:271:40: number
+heap-flow.js:271:43-44: number
+heap-flow.js:271:47-50: number
+heap-flow.js:274:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:274:5-24: void
+heap-flow.js:274:18: MinHeap
+heap-flow.js:274:18-20: 
+heap-flow.js:274:23: number
+heap-flow.js:278:1-8: 
+heap-flow.js:278:1,341:2: 
+heap-flow.js:278:10-19: string
+heap-flow.js:278:22,341:1: () => void
+heap-flow.js:279:3-4: 
+heap-flow.js:279:3,308:4: 
+heap-flow.js:279:6-48: string
+heap-flow.js:279:51,308:3: () => void
+heap-flow.js:280:9: MaxHeap
+heap-flow.js:280:13-30: MaxHeap
+heap-flow.js:280:17-20: {MaxHeap: [class: MaxHeap], MinHeap: [class: MinHeap]}
+heap-flow.js:280:17-28: [class: MaxHeap]
+heap-flow.js:281:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:281:5-23: void
+heap-flow.js:281:12: MaxHeap
+heap-flow.js:281:12-22: boolean
+heap-flow.js:282:5: MaxHeap
+heap-flow.js:282:5-16: void
+heap-flow.js:282:14-15: number
+heap-flow.js:283:5: MaxHeap
+heap-flow.js:283:5-18: void
+heap-flow.js:283:14-17: number
+heap-flow.js:284:5: MaxHeap
+heap-flow.js:284:5-15: void
+heap-flow.js:284:14: number
+heap-flow.js:285:5: MaxHeap
+heap-flow.js:285:5-15: void
+heap-flow.js:285:14: number
+heap-flow.js:286:5: MaxHeap
+heap-flow.js:286:5-15: void
+heap-flow.js:286:14: number
+heap-flow.js:287:5: MaxHeap
+heap-flow.js:287:5-17: void
+heap-flow.js:287:14-16: number
+heap-flow.js:288:5: MaxHeap
+heap-flow.js:288:5-15: void
+heap-flow.js:288:14: number
+heap-flow.js:289:5: MaxHeap
+heap-flow.js:289:5-16: void
+heap-flow.js:289:14-15: number
+heap-flow.js:290:5: MaxHeap
+heap-flow.js:290:5-15: void
+heap-flow.js:290:14: number
+heap-flow.js:291:5: MaxHeap
+heap-flow.js:291:5-16: void
+heap-flow.js:291:14-15: number
+heap-flow.js:292:5: MaxHeap
+heap-flow.js:292:5-16: void
+heap-flow.js:292:14-15: number
+heap-flow.js:293:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:293:5-24: void
+heap-flow.js:293:12-23: boolean
+heap-flow.js:293:13: MaxHeap
+heap-flow.js:293:13-23: boolean
+heap-flow.js:295:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:295:5-35: void
+heap-flow.js:295:18: MaxHeap
+heap-flow.js:295:18-28: 
+heap-flow.js:295:31-34: number
+heap-flow.js:296:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:296:5-34: void
+heap-flow.js:296:18: MaxHeap
+heap-flow.js:296:18-28: 
+heap-flow.js:296:31-33: number
+heap-flow.js:297:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:297:5-33: void
+heap-flow.js:297:18: MaxHeap
+heap-flow.js:297:18-28: 
+heap-flow.js:297:31-32: number
+heap-flow.js:298:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:298:5-33: void
+heap-flow.js:298:18: MaxHeap
+heap-flow.js:298:18-28: 
+heap-flow.js:298:31-32: number
+heap-flow.js:299:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:299:5-33: void
+heap-flow.js:299:18: MaxHeap
+heap-flow.js:299:18-28: 
+heap-flow.js:299:31-32: number
+heap-flow.js:300:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:300:5-33: void
+heap-flow.js:300:18: MaxHeap
+heap-flow.js:300:18-28: 
+heap-flow.js:300:31-32: number
+heap-flow.js:301:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:301:5-32: void
+heap-flow.js:301:18: MaxHeap
+heap-flow.js:301:18-28: 
+heap-flow.js:301:31: number
+heap-flow.js:302:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:302:5-32: void
+heap-flow.js:302:18: MaxHeap
+heap-flow.js:302:18-28: 
+heap-flow.js:302:31: number
+heap-flow.js:303:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:303:5-32: void
+heap-flow.js:303:18: MaxHeap
+heap-flow.js:303:18-28: 
+heap-flow.js:303:31: number
+heap-flow.js:304:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:304:5-32: void
+heap-flow.js:304:18: MaxHeap
+heap-flow.js:304:18-28: 
+heap-flow.js:304:31: number
+heap-flow.js:305:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:305:5-32: void
+heap-flow.js:305:18: MaxHeap
+heap-flow.js:305:18-28: 
+heap-flow.js:305:31: number
+heap-flow.js:307:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:307:5-23: void
+heap-flow.js:307:12: MaxHeap
+heap-flow.js:307:12-22: boolean
+heap-flow.js:310:3-4: 
+heap-flow.js:310:3,327:4: 
+heap-flow.js:310:6-40: string
+heap-flow.js:310:43,327:3: () => void
+heap-flow.js:311:9: MaxHeap
+heap-flow.js:311:13-30: MaxHeap
+heap-flow.js:311:17-20: {MaxHeap: [class: MaxHeap], MinHeap: [class: MinHeap]}
+heap-flow.js:311:17-28: [class: MaxHeap]
+heap-flow.js:312:5: MaxHeap
+heap-flow.js:312:5-57: void
+heap-flow.js:312:15-56: [number, number, number, number, number, number, number, number, number, number, number]
+heap-flow.js:312:16-17: number
+heap-flow.js:312:20-23: number
+heap-flow.js:312:26: number
+heap-flow.js:312:29: number
+heap-flow.js:312:32: number
+heap-flow.js:312:35-37: number
+heap-flow.js:312:40: number
+heap-flow.js:312:43-44: number
+heap-flow.js:312:47: number
+heap-flow.js:312:50-51: number
+heap-flow.js:312:54-55: number
+heap-flow.js:314:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:314:5-35: void
+heap-flow.js:314:18: MaxHeap
+heap-flow.js:314:18-28: 
+heap-flow.js:314:31-34: number
+heap-flow.js:315:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:315:5-34: void
+heap-flow.js:315:18: MaxHeap
+heap-flow.js:315:18-28: 
+heap-flow.js:315:31-33: number
+heap-flow.js:316:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:316:5-33: void
+heap-flow.js:316:18: MaxHeap
+heap-flow.js:316:18-28: 
+heap-flow.js:316:31-32: number
+heap-flow.js:317:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:317:5-33: void
+heap-flow.js:317:18: MaxHeap
+heap-flow.js:317:18-28: 
+heap-flow.js:317:31-32: number
+heap-flow.js:318:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:318:5-33: void
+heap-flow.js:318:18: MaxHeap
+heap-flow.js:318:18-28: 
+heap-flow.js:318:31-32: number
+heap-flow.js:319:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:319:5-33: void
+heap-flow.js:319:18: MaxHeap
+heap-flow.js:319:18-28: 
+heap-flow.js:319:31-32: number
+heap-flow.js:320:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:320:5-32: void
+heap-flow.js:320:18: MaxHeap
+heap-flow.js:320:18-28: 
+heap-flow.js:320:31: number
+heap-flow.js:321:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:321:5-32: void
+heap-flow.js:321:18: MaxHeap
+heap-flow.js:321:18-28: 
+heap-flow.js:321:31: number
+heap-flow.js:322:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:322:5-32: void
+heap-flow.js:322:18: MaxHeap
+heap-flow.js:322:18-28: 
+heap-flow.js:322:31: number
+heap-flow.js:323:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:323:5-32: void
+heap-flow.js:323:18: MaxHeap
+heap-flow.js:323:18-28: 
+heap-flow.js:323:31: number
+heap-flow.js:324:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:324:5-32: void
+heap-flow.js:324:18: MaxHeap
+heap-flow.js:324:18-28: 
+heap-flow.js:324:31: number
+heap-flow.js:326:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:326:5-23: void
+heap-flow.js:326:12: MaxHeap
+heap-flow.js:326:12-22: boolean
+heap-flow.js:329:3-4: 
+heap-flow.js:329:3,340:4: 
+heap-flow.js:329:6-73: string
+heap-flow.js:329:6,330:20: string
+heap-flow.js:330:6-20: string
+heap-flow.js:330:23,340:3: () => void
+heap-flow.js:331:9: MaxHeap
+heap-flow.js:331:13-30: MaxHeap
+heap-flow.js:331:17-20: {MaxHeap: [class: MaxHeap], MinHeap: [class: MinHeap]}
+heap-flow.js:331:17-28: [class: MaxHeap]
+heap-flow.js:332:5: MaxHeap
+heap-flow.js:332:5-37: void
+heap-flow.js:332:15-36: [number, number, number, number, number, number]
+heap-flow.js:332:16: number
+heap-flow.js:332:19-20: number
+heap-flow.js:332:23-26: number
+heap-flow.js:332:29: number
+heap-flow.js:332:32: number
+heap-flow.js:332:35: number
+heap-flow.js:334:9-14: Array<>
+heap-flow.js:334:18-19: Array<>
+heap-flow.js:335:5: MaxHeap
+heap-flow.js:335:5,337:6: void
+heap-flow.js:335:15,337:5: (n: ) => void
+heap-flow.js:335:24: 
+heap-flow.js:336:7-12: Array<>
+heap-flow.js:336:7-20: number
+heap-flow.js:336:19: 
+heap-flow.js:339:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+heap-flow.js:339:5-52: void
+heap-flow.js:339:22-27: Array<>
+heap-flow.js:339:30-51: [number, number, number, number, number, number]
+heap-flow.js:339:31-34: number
+heap-flow.js:339:37-38: number
+heap-flow.js:339:41: number
+heap-flow.js:339:44: number
+heap-flow.js:339:47: number
+heap-flow.js:339:50: number

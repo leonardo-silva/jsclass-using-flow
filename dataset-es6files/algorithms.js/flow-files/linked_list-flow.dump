@@ -1,0 +1,726 @@
+linked_list-flow.js:1:1-12: string
+linked_list-flow.js:6:1,12:1: [class: Node]
+linked_list-flow.js:7:15-19: number
+linked_list-flow.js:8:5-8: Node
+linked_list-flow.js:8:5-22: number
+linked_list-flow.js:8:18-22: number
+linked_list-flow.js:9:5-8: Node
+linked_list-flow.js:9:5-20: null
+linked_list-flow.js:9:17-20: null
+linked_list-flow.js:10:5-8: Node
+linked_list-flow.js:10:5-20: null
+linked_list-flow.js:10:17-20: null
+linked_list-flow.js:17:1,152:1: [class: LinkedList]
+linked_list-flow.js:19:5-8: LinkedList
+linked_list-flow.js:19:5-20: number
+linked_list-flow.js:19:20: number
+linked_list-flow.js:20:5-8: LinkedList
+linked_list-flow.js:20:5-20: null
+linked_list-flow.js:20:17-20: null
+linked_list-flow.js:21:5-8: LinkedList
+linked_list-flow.js:21:5-20: null
+linked_list-flow.js:21:17-20: null
+linked_list-flow.js:24:5-10: [class: Object]
+linked_list-flow.js:24:5,28:6: LinkedList
+linked_list-flow.js:24:27-30: LinkedList
+linked_list-flow.js:24:33-40: string
+linked_list-flow.js:24:43,28:5: {get: () => }
+linked_list-flow.js:25:12,27:7: () => 
+linked_list-flow.js:25:12,27:18: () => 
+linked_list-flow.js:26:16-19: LinkedList
+linked_list-flow.js:26:16-27: 
+linked_list-flow.js:27:14-17: LinkedList
+linked_list-flow.js:37:12-15: LinkedList
+linked_list-flow.js:37:12-22: 
+linked_list-flow.js:37:12-28: boolean
+linked_list-flow.js:37:28: number
+linked_list-flow.js:46:7: number
+linked_list-flow.js:46:10-14: number | void
+linked_list-flow.js:47:9-13: number | void
+linked_list-flow.js:47:9-27: boolean
+linked_list-flow.js:47:17-20: LinkedList
+linked_list-flow.js:47:17-27: 
+linked_list-flow.js:47:32-36: number | void
+linked_list-flow.js:47:32-40: boolean
+linked_list-flow.js:47:40: number
+linked_list-flow.js:48:13-44: Error
+linked_list-flow.js:48:17-21: [class: Error]
+linked_list-flow.js:48:23-43: string
+linked_list-flow.js:51:9-12: Node
+linked_list-flow.js:51:16-26: Node
+linked_list-flow.js:51:20-23: [class: Node]
+linked_list-flow.js:51:25: number
+linked_list-flow.js:53:9-13: number | void
+linked_list-flow.js:53:19-27: void
+linked_list-flow.js:53:32-36: number
+linked_list-flow.js:53:32-50: boolean
+linked_list-flow.js:53:40-43: LinkedList
+linked_list-flow.js:53:40-50: 
+linked_list-flow.js:54:11-18: 
+linked_list-flow.js:55:11-18: 
+linked_list-flow.js:57:11-15: number
+linked_list-flow.js:57:21: number
+linked_list-flow.js:59:9-28: 
+linked_list-flow.js:59:20-23: LinkedList
+linked_list-flow.js:59:20-28: 
+linked_list-flow.js:60:9-12: LinkedList
+linked_list-flow.js:60:9-24: Node
+linked_list-flow.js:60:21-24: Node
+linked_list-flow.js:62:9-38: 
+linked_list-flow.js:62:20-23: LinkedList
+linked_list-flow.js:62:20-38: 
+linked_list-flow.js:62:33-37: number
+linked_list-flow.js:63:9-32: 
+linked_list-flow.js:63:20-27: 
+linked_list-flow.js:63:20-32: 
+linked_list-flow.js:64:9-16: 
+linked_list-flow.js:64:9-28: Node
+linked_list-flow.js:64:25-28: Node
+linked_list-flow.js:65:9-12: Node
+linked_list-flow.js:65:9-28: 
+linked_list-flow.js:65:21-28: 
+linked_list-flow.js:67:7-14: 
+linked_list-flow.js:67:7-26: Node
+linked_list-flow.js:67:23-26: Node
+linked_list-flow.js:68:7-10: Node
+linked_list-flow.js:68:7-26: 
+linked_list-flow.js:68:19-26: 
+linked_list-flow.js:71:12-15: LinkedList
+linked_list-flow.js:71:23-26: LinkedList
+linked_list-flow.js:71:23-38: Node
+linked_list-flow.js:71:35-38: Node
+linked_list-flow.js:73:11-14: LinkedList
+linked_list-flow.js:74:9-17: 
+linked_list-flow.js:74:9-29: Node
+linked_list-flow.js:74:26-29: Node
+linked_list-flow.js:75:9-12: Node
+linked_list-flow.js:75:9-29: 
+linked_list-flow.js:75:21-29: 
+linked_list-flow.js:77:7-10: LinkedList
+linked_list-flow.js:77:7-22: Node
+linked_list-flow.js:77:19-22: Node
+linked_list-flow.js:80:5-8: LinkedList
+linked_list-flow.js:80:5-16: 
+linked_list-flow.js:80:5-18: number
+linked_list-flow.js:89:7-11: number
+linked_list-flow.js:90:12-15: LinkedList
+linked_list-flow.js:90:12-30: 
+linked_list-flow.js:90:12-36: 
+linked_list-flow.js:90:25-29: number
+linked_list-flow.js:99:11-15: number
+linked_list-flow.js:100:9-13: number
+linked_list-flow.js:100:9-28: boolean
+linked_list-flow.js:100:18-21: LinkedList
+linked_list-flow.js:100:18-28: 
+linked_list-flow.js:100:33-37: number
+linked_list-flow.js:100:33-41: boolean
+linked_list-flow.js:100:41: number
+linked_list-flow.js:101:13-44: Error
+linked_list-flow.js:101:17-21: [class: Error]
+linked_list-flow.js:101:23-43: string
+linked_list-flow.js:104:9-12: 
+linked_list-flow.js:104:16-19: LinkedList
+linked_list-flow.js:104:16-24: 
+linked_list-flow.js:105:14: number
+linked_list-flow.js:105:18: number
+linked_list-flow.js:105:21: number
+linked_list-flow.js:105:21-30: boolean
+linked_list-flow.js:105:26-30: number
+linked_list-flow.js:105:33-35: number
+linked_list-flow.js:106:7-22: 
+linked_list-flow.js:106:14-17: 
+linked_list-flow.js:106:14-22: 
+linked_list-flow.js:109:12-15: 
+linked_list-flow.js:117:7-11: number
+linked_list-flow.js:118:9-13: number
+linked_list-flow.js:118:9-28: boolean
+linked_list-flow.js:118:18-21: LinkedList
+linked_list-flow.js:118:18-28: 
+linked_list-flow.js:118:33-37: number
+linked_list-flow.js:118:33-41: boolean
+linked_list-flow.js:118:41: number
+linked_list-flow.js:119:13-44: Error
+linked_list-flow.js:119:17-21: [class: Error]
+linked_list-flow.js:119:23-43: string
+linked_list-flow.js:122:5-8: LinkedList
+linked_list-flow.js:122:5-37: void
+linked_list-flow.js:122:18-21: LinkedList
+linked_list-flow.js:122:18-36: 
+linked_list-flow.js:122:31-35: number
+linked_list-flow.js:125:11-14: 
+linked_list-flow.js:126:9-12: 
+linked_list-flow.js:126:18-21: LinkedList
+linked_list-flow.js:128:7-10: 
+linked_list-flow.js:128:7-27: 
+linked_list-flow.js:128:19-22: 
+linked_list-flow.js:128:19-27: 
+linked_list-flow.js:130:7-10: 
+linked_list-flow.js:130:7-15: 
+linked_list-flow.js:130:7-32: 
+linked_list-flow.js:130:24-27: 
+linked_list-flow.js:130:24-32: 
+linked_list-flow.js:132:9-12: 
+linked_list-flow.js:132:18-21: 
+linked_list-flow.js:134:7-10: 
+linked_list-flow.js:134:7-27: 
+linked_list-flow.js:134:19-22: 
+linked_list-flow.js:134:19-27: 
+linked_list-flow.js:136:7-10: 
+linked_list-flow.js:136:7-15: 
+linked_list-flow.js:136:7-32: 
+linked_list-flow.js:136:24-27: 
+linked_list-flow.js:136:24-32: 
+linked_list-flow.js:139:5-8: 
+linked_list-flow.js:139:5-16: 
+linked_list-flow.js:139:5-18: number
+linked_list-flow.js:145:11-12: (e: ) => void
+linked_list-flow.js:146:9-12: 
+linked_list-flow.js:146:16-19: LinkedList
+linked_list-flow.js:146:16-24: 
+linked_list-flow.js:147:12-15: 
+linked_list-flow.js:148:7-8: (e: ) => void
+linked_list-flow.js:148:7-20: void
+linked_list-flow.js:148:10-13: 
+linked_list-flow.js:148:10-19: 
+linked_list-flow.js:149:7-22: 
+linked_list-flow.js:149:14-17: 
+linked_list-flow.js:149:14-22: 
+linked_list-flow.js:162:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:162:14-30: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:164:1-8: 
+linked_list-flow.js:164:1,314:2: 
+linked_list-flow.js:164:10-21: string
+linked_list-flow.js:164:24,314:1: () => void
+linked_list-flow.js:165:3-4: 
+linked_list-flow.js:165:3,169:4: 
+linked_list-flow.js:165:6-25: string
+linked_list-flow.js:165:28,169:3: () => void
+linked_list-flow.js:166:9: LinkedList
+linked_list-flow.js:166:13-28: LinkedList
+linked_list-flow.js:166:17-26: [class: LinkedList]
+linked_list-flow.js:167:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:167:5-23: void
+linked_list-flow.js:167:12: LinkedList
+linked_list-flow.js:167:12-22: boolean
+linked_list-flow.js:168:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:168:5-29: void
+linked_list-flow.js:168:18: LinkedList
+linked_list-flow.js:168:18-25: 
+linked_list-flow.js:168:28: number
+linked_list-flow.js:171:3-4: 
+linked_list-flow.js:171:3,179:4: 
+linked_list-flow.js:171:6-52: string
+linked_list-flow.js:171:55,179:3: () => void
+linked_list-flow.js:172:9: LinkedList
+linked_list-flow.js:172:13-28: LinkedList
+linked_list-flow.js:172:17-26: [class: LinkedList]
+linked_list-flow.js:173:5: LinkedList
+linked_list-flow.js:173:5-12: void
+linked_list-flow.js:173:11: number
+linked_list-flow.js:174:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:174:5-29: void
+linked_list-flow.js:174:18: LinkedList
+linked_list-flow.js:174:18-25: 
+linked_list-flow.js:174:28: number
+linked_list-flow.js:175:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:175:5-24: void
+linked_list-flow.js:175:12-23: boolean
+linked_list-flow.js:175:13: LinkedList
+linked_list-flow.js:175:13-23: boolean
+linked_list-flow.js:177:5: LinkedList
+linked_list-flow.js:177:5-12: void
+linked_list-flow.js:177:11: number
+linked_list-flow.js:178:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:178:5-29: void
+linked_list-flow.js:178:18: LinkedList
+linked_list-flow.js:178:18-25: 
+linked_list-flow.js:178:28: number
+linked_list-flow.js:181:3-4: 
+linked_list-flow.js:181:3,220:6: 
+linked_list-flow.js:181:6-68: string
+linked_list-flow.js:182:5,220:5: () => void
+linked_list-flow.js:183:11: LinkedList
+linked_list-flow.js:183:15-30: LinkedList
+linked_list-flow.js:183:19-28: [class: LinkedList]
+linked_list-flow.js:184:7: LinkedList
+linked_list-flow.js:184:7-14: void
+linked_list-flow.js:184:13: number
+linked_list-flow.js:185:7: LinkedList
+linked_list-flow.js:185:7-14: void
+linked_list-flow.js:185:13: number
+linked_list-flow.js:186:7: LinkedList
+linked_list-flow.js:186:7-14: void
+linked_list-flow.js:186:13: number
+linked_list-flow.js:187:7: LinkedList
+linked_list-flow.js:187:7-14: void
+linked_list-flow.js:187:13: number
+linked_list-flow.js:188:7: LinkedList
+linked_list-flow.js:188:7-14: void
+linked_list-flow.js:188:13: number
+linked_list-flow.js:189:7: LinkedList
+linked_list-flow.js:189:7-14: void
+linked_list-flow.js:189:13: number
+linked_list-flow.js:190:7: LinkedList
+linked_list-flow.js:190:7-14: void
+linked_list-flow.js:190:13: number
+linked_list-flow.js:191:7: LinkedList
+linked_list-flow.js:191:7-14: void
+linked_list-flow.js:191:13: number
+linked_list-flow.js:192:7: LinkedList
+linked_list-flow.js:192:7-14: void
+linked_list-flow.js:192:13: number
+linked_list-flow.js:193:7: LinkedList
+linked_list-flow.js:193:7-15: void
+linked_list-flow.js:193:13-14: number
+linked_list-flow.js:194:7: LinkedList
+linked_list-flow.js:194:7-15: void
+linked_list-flow.js:194:13-14: number
+linked_list-flow.js:195:7-12: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:195:7-31: void
+linked_list-flow.js:195:20: LinkedList
+linked_list-flow.js:195:20-27: 
+linked_list-flow.js:195:26: number
+linked_list-flow.js:195:30: number
+linked_list-flow.js:196:7-12: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:196:7-31: void
+linked_list-flow.js:196:20: LinkedList
+linked_list-flow.js:196:20-27: 
+linked_list-flow.js:196:26: number
+linked_list-flow.js:196:30: number
+linked_list-flow.js:197:7-12: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:197:7-31: void
+linked_list-flow.js:197:20: LinkedList
+linked_list-flow.js:197:20-27: 
+linked_list-flow.js:197:26: number
+linked_list-flow.js:197:30: number
+linked_list-flow.js:198:7-12: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:198:7-31: void
+linked_list-flow.js:198:20: LinkedList
+linked_list-flow.js:198:20-27: 
+linked_list-flow.js:198:26: number
+linked_list-flow.js:198:30: number
+linked_list-flow.js:199:7-12: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:199:7-31: void
+linked_list-flow.js:199:20: LinkedList
+linked_list-flow.js:199:20-27: 
+linked_list-flow.js:199:26: number
+linked_list-flow.js:199:30: number
+linked_list-flow.js:200:7-12: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:200:7-31: void
+linked_list-flow.js:200:20: LinkedList
+linked_list-flow.js:200:20-27: 
+linked_list-flow.js:200:26: number
+linked_list-flow.js:200:30: number
+linked_list-flow.js:201:7-12: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:201:7-31: void
+linked_list-flow.js:201:20: LinkedList
+linked_list-flow.js:201:20-27: 
+linked_list-flow.js:201:26: number
+linked_list-flow.js:201:30: number
+linked_list-flow.js:202:7-12: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:202:7-31: void
+linked_list-flow.js:202:20: LinkedList
+linked_list-flow.js:202:20-27: 
+linked_list-flow.js:202:26: number
+linked_list-flow.js:202:30: number
+linked_list-flow.js:203:7-12: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:203:7-31: void
+linked_list-flow.js:203:20: LinkedList
+linked_list-flow.js:203:20-27: 
+linked_list-flow.js:203:26: number
+linked_list-flow.js:203:30: number
+linked_list-flow.js:204:7-12: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:204:7-32: void
+linked_list-flow.js:204:20: LinkedList
+linked_list-flow.js:204:20-27: 
+linked_list-flow.js:204:26: number
+linked_list-flow.js:204:30-31: number
+linked_list-flow.js:205:7-12: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:205:7-33: void
+linked_list-flow.js:205:20: LinkedList
+linked_list-flow.js:205:20-28: 
+linked_list-flow.js:205:26-27: number
+linked_list-flow.js:205:31-32: number
+linked_list-flow.js:208:7: LinkedList
+linked_list-flow.js:208:7-18: void
+linked_list-flow.js:208:13-14: number
+linked_list-flow.js:208:17: number
+linked_list-flow.js:209:7-12: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:209:7-32: void
+linked_list-flow.js:209:20: LinkedList
+linked_list-flow.js:209:20-27: 
+linked_list-flow.js:209:26: number
+linked_list-flow.js:209:30-31: number
+linked_list-flow.js:210:7-12: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:210:7-32: void
+linked_list-flow.js:210:20: LinkedList
+linked_list-flow.js:210:20-27: 
+linked_list-flow.js:210:30-31: number
+linked_list-flow.js:213:7-12: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:213:7-31: void
+linked_list-flow.js:213:20: LinkedList
+linked_list-flow.js:213:20-27: 
+linked_list-flow.js:213:26: number
+linked_list-flow.js:213:30: number
+linked_list-flow.js:214:7-12: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:214:7-31: void
+linked_list-flow.js:214:20: LinkedList
+linked_list-flow.js:214:20-27: 
+linked_list-flow.js:214:26: number
+linked_list-flow.js:214:30: number
+linked_list-flow.js:215:7-12: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:215:7-33: void
+linked_list-flow.js:215:20: LinkedList
+linked_list-flow.js:215:20-28: 
+linked_list-flow.js:215:26-27: number
+linked_list-flow.js:215:31-32: number
+linked_list-flow.js:216:7-12: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:216:7-33: void
+linked_list-flow.js:216:20: LinkedList
+linked_list-flow.js:216:20-28: 
+linked_list-flow.js:216:26-27: number
+linked_list-flow.js:216:31-32: number
+linked_list-flow.js:218:7: LinkedList
+linked_list-flow.js:218:7-19: void
+linked_list-flow.js:218:13-14: number
+linked_list-flow.js:218:17-18: number
+linked_list-flow.js:219:7-12: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:219:7-33: void
+linked_list-flow.js:219:20: LinkedList
+linked_list-flow.js:219:20-28: 
+linked_list-flow.js:219:26-27: number
+linked_list-flow.js:219:31-32: number
+linked_list-flow.js:222:3-4: 
+linked_list-flow.js:222:3,244:8: 
+linked_list-flow.js:222:6-70: string
+linked_list-flow.js:223:7,244:7: () => void
+linked_list-flow.js:224:13: LinkedList
+linked_list-flow.js:224:17-32: LinkedList
+linked_list-flow.js:224:21-30: [class: LinkedList]
+linked_list-flow.js:225:9-14: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:225:9-44: void
+linked_list-flow.js:225:23-36: () => 
+linked_list-flow.js:225:29: LinkedList
+linked_list-flow.js:225:29-36: 
+linked_list-flow.js:225:35: number
+linked_list-flow.js:225:39-43: [class: Error]
+linked_list-flow.js:226:9-14: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:226:9-44: void
+linked_list-flow.js:226:23-36: () => 
+linked_list-flow.js:226:29: LinkedList
+linked_list-flow.js:226:29-36: 
+linked_list-flow.js:226:35: number
+linked_list-flow.js:226:39-43: [class: Error]
+linked_list-flow.js:227:9-14: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:227:9-45: void
+linked_list-flow.js:227:23-37: () => 
+linked_list-flow.js:227:29: LinkedList
+linked_list-flow.js:227:29-37: 
+linked_list-flow.js:227:35-36: number
+linked_list-flow.js:227:40-44: [class: Error]
+linked_list-flow.js:228:9-14: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:228:9-48: void
+linked_list-flow.js:228:23-40: () => void
+linked_list-flow.js:228:29: LinkedList
+linked_list-flow.js:228:29-40: void
+linked_list-flow.js:228:35-36: number
+linked_list-flow.js:228:39: number
+linked_list-flow.js:228:43-47: [class: Error]
+linked_list-flow.js:229:9-14: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:229:9-49: void
+linked_list-flow.js:229:23-41: () => void
+linked_list-flow.js:229:29: LinkedList
+linked_list-flow.js:229:29-41: void
+linked_list-flow.js:229:35-36: number
+linked_list-flow.js:229:39-40: number
+linked_list-flow.js:229:44-48: [class: Error]
+linked_list-flow.js:231:9: LinkedList
+linked_list-flow.js:231:9-16: void
+linked_list-flow.js:231:15: number
+linked_list-flow.js:232:9: LinkedList
+linked_list-flow.js:232:9-16: void
+linked_list-flow.js:232:15: number
+linked_list-flow.js:234:9-14: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:234:9-43: void
+linked_list-flow.js:234:29-42: () => 
+linked_list-flow.js:234:35: LinkedList
+linked_list-flow.js:234:35-42: 
+linked_list-flow.js:234:41: number
+linked_list-flow.js:235:9-14: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:235:9-43: void
+linked_list-flow.js:235:29-42: () => 
+linked_list-flow.js:235:35: LinkedList
+linked_list-flow.js:235:35-42: 
+linked_list-flow.js:235:41: number
+linked_list-flow.js:236:9-14: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:236:9-46: void
+linked_list-flow.js:236:29-45: () => void
+linked_list-flow.js:236:35: LinkedList
+linked_list-flow.js:236:35-45: void
+linked_list-flow.js:236:41: number
+linked_list-flow.js:236:44: number
+linked_list-flow.js:237:9-14: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:237:9-46: void
+linked_list-flow.js:237:29-45: () => void
+linked_list-flow.js:237:35: LinkedList
+linked_list-flow.js:237:35-45: void
+linked_list-flow.js:237:41: number
+linked_list-flow.js:237:44: number
+linked_list-flow.js:238:9-14: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:238:9-46: void
+linked_list-flow.js:238:29-45: () => void
+linked_list-flow.js:238:35: LinkedList
+linked_list-flow.js:238:35-45: void
+linked_list-flow.js:238:41: number
+linked_list-flow.js:238:44: number
+linked_list-flow.js:239:9-14: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:239:9-46: void
+linked_list-flow.js:239:29-45: () => void
+linked_list-flow.js:239:35: LinkedList
+linked_list-flow.js:239:35-45: void
+linked_list-flow.js:239:41: number
+linked_list-flow.js:239:44: number
+linked_list-flow.js:241:9-14: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:241:9-49: void
+linked_list-flow.js:241:23-41: () => void
+linked_list-flow.js:241:29: LinkedList
+linked_list-flow.js:241:29-41: void
+linked_list-flow.js:241:35-36: number
+linked_list-flow.js:241:39-40: number
+linked_list-flow.js:241:44-48: [class: Error]
+linked_list-flow.js:242:9-14: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:242:9-48: void
+linked_list-flow.js:242:23-40: () => void
+linked_list-flow.js:242:29: LinkedList
+linked_list-flow.js:242:29-40: void
+linked_list-flow.js:242:35-36: number
+linked_list-flow.js:242:39: number
+linked_list-flow.js:242:43-47: [class: Error]
+linked_list-flow.js:243:9-14: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:243:9-45: void
+linked_list-flow.js:243:23-37: () => 
+linked_list-flow.js:243:29: LinkedList
+linked_list-flow.js:243:29-37: 
+linked_list-flow.js:243:35-36: number
+linked_list-flow.js:243:40-44: [class: Error]
+linked_list-flow.js:246:3-4: 
+linked_list-flow.js:246:3,291:4: 
+linked_list-flow.js:246:6-40: string
+linked_list-flow.js:246:43,291:3: () => void
+linked_list-flow.js:247:9: LinkedList
+linked_list-flow.js:247:13-28: LinkedList
+linked_list-flow.js:247:17-26: [class: LinkedList]
+linked_list-flow.js:249:5: LinkedList
+linked_list-flow.js:249:5-12: void
+linked_list-flow.js:249:11: number
+linked_list-flow.js:250:5: LinkedList
+linked_list-flow.js:250:5-12: void
+linked_list-flow.js:250:11: number
+linked_list-flow.js:251:5: LinkedList
+linked_list-flow.js:251:5-12: void
+linked_list-flow.js:251:11: number
+linked_list-flow.js:252:5: LinkedList
+linked_list-flow.js:252:5-12: void
+linked_list-flow.js:252:11: number
+linked_list-flow.js:253:5: LinkedList
+linked_list-flow.js:253:5-12: void
+linked_list-flow.js:253:11: number
+linked_list-flow.js:254:5: LinkedList
+linked_list-flow.js:254:5-12: void
+linked_list-flow.js:254:11: number
+linked_list-flow.js:255:5: LinkedList
+linked_list-flow.js:255:5-12: void
+linked_list-flow.js:255:11: number
+linked_list-flow.js:256:5: LinkedList
+linked_list-flow.js:256:5-12: void
+linked_list-flow.js:256:11: number
+linked_list-flow.js:258:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:258:5-33: void
+linked_list-flow.js:258:18: LinkedList
+linked_list-flow.js:258:18-23: 
+linked_list-flow.js:258:18-29: 
+linked_list-flow.js:258:32: number
+linked_list-flow.js:259:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:259:5-33: void
+linked_list-flow.js:259:18: LinkedList
+linked_list-flow.js:259:18-23: 
+linked_list-flow.js:259:18-29: 
+linked_list-flow.js:259:32: number
+linked_list-flow.js:260:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:260:5-29: void
+linked_list-flow.js:260:18: LinkedList
+linked_list-flow.js:260:18-25: 
+linked_list-flow.js:260:28: number
+linked_list-flow.js:262:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:262:5-29: void
+linked_list-flow.js:262:18: LinkedList
+linked_list-flow.js:262:18-25: 
+linked_list-flow.js:262:24: number
+linked_list-flow.js:262:28: number
+linked_list-flow.js:263:5: LinkedList
+linked_list-flow.js:263:5-12: void
+linked_list-flow.js:263:11: number
+linked_list-flow.js:264:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:264:5-29: void
+linked_list-flow.js:264:18: LinkedList
+linked_list-flow.js:264:18-25: 
+linked_list-flow.js:264:28: number
+linked_list-flow.js:265:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:265:5-33: void
+linked_list-flow.js:265:18: LinkedList
+linked_list-flow.js:265:18-23: 
+linked_list-flow.js:265:18-29: 
+linked_list-flow.js:265:32: number
+linked_list-flow.js:266:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:266:5-40: void
+linked_list-flow.js:266:19-32: () => 
+linked_list-flow.js:266:25: LinkedList
+linked_list-flow.js:266:25-32: 
+linked_list-flow.js:266:31: number
+linked_list-flow.js:266:35-39: [class: Error]
+linked_list-flow.js:268:5: LinkedList
+linked_list-flow.js:268:5-12: void
+linked_list-flow.js:268:11: number
+linked_list-flow.js:269:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:269:5-29: void
+linked_list-flow.js:269:18: LinkedList
+linked_list-flow.js:269:18-25: 
+linked_list-flow.js:269:28: number
+linked_list-flow.js:270:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:270:5-33: void
+linked_list-flow.js:270:18: LinkedList
+linked_list-flow.js:270:18-23: 
+linked_list-flow.js:270:18-29: 
+linked_list-flow.js:270:32: number
+linked_list-flow.js:271:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:271:5-29: void
+linked_list-flow.js:271:18: LinkedList
+linked_list-flow.js:271:18-25: 
+linked_list-flow.js:271:24: number
+linked_list-flow.js:271:28: number
+linked_list-flow.js:272:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:272:5-29: void
+linked_list-flow.js:272:18: LinkedList
+linked_list-flow.js:272:18-25: 
+linked_list-flow.js:272:24: number
+linked_list-flow.js:272:28: number
+linked_list-flow.js:274:5: LinkedList
+linked_list-flow.js:274:5-12: void
+linked_list-flow.js:274:11: number
+linked_list-flow.js:275:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:275:5-29: void
+linked_list-flow.js:275:18: LinkedList
+linked_list-flow.js:275:18-25: 
+linked_list-flow.js:275:28: number
+linked_list-flow.js:277:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:277:5-29: void
+linked_list-flow.js:277:18: LinkedList
+linked_list-flow.js:277:18-25: 
+linked_list-flow.js:277:24: number
+linked_list-flow.js:277:28: number
+linked_list-flow.js:278:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:278:5-29: void
+linked_list-flow.js:278:18: LinkedList
+linked_list-flow.js:278:18-25: 
+linked_list-flow.js:278:24: number
+linked_list-flow.js:278:28: number
+linked_list-flow.js:279:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:279:5-29: void
+linked_list-flow.js:279:18: LinkedList
+linked_list-flow.js:279:18-25: 
+linked_list-flow.js:279:24: number
+linked_list-flow.js:279:28: number
+linked_list-flow.js:280:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:280:5-29: void
+linked_list-flow.js:280:18: LinkedList
+linked_list-flow.js:280:18-25: 
+linked_list-flow.js:280:24: number
+linked_list-flow.js:280:28: number
+linked_list-flow.js:281:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:281:5-29: void
+linked_list-flow.js:281:18: LinkedList
+linked_list-flow.js:281:18-25: 
+linked_list-flow.js:281:24: number
+linked_list-flow.js:281:28: number
+linked_list-flow.js:283:14: number
+linked_list-flow.js:283:18: number
+linked_list-flow.js:283:21: number
+linked_list-flow.js:283:21-25: boolean
+linked_list-flow.js:283:25: number
+linked_list-flow.js:283:28-30: number
+linked_list-flow.js:284:7: LinkedList
+linked_list-flow.js:284:7-14: void
+linked_list-flow.js:284:13: number
+linked_list-flow.js:287:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:287:5-23: void
+linked_list-flow.js:287:12: LinkedList
+linked_list-flow.js:287:12-22: boolean
+linked_list-flow.js:288:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:288:5-30: void
+linked_list-flow.js:288:18: LinkedList
+linked_list-flow.js:288:18-23: 
+linked_list-flow.js:288:26-29: null
+linked_list-flow.js:289:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:289:5-30: void
+linked_list-flow.js:289:18: LinkedList
+linked_list-flow.js:289:18-23: 
+linked_list-flow.js:289:26-29: null
+linked_list-flow.js:290:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:290:5-29: void
+linked_list-flow.js:290:18: LinkedList
+linked_list-flow.js:290:18-25: 
+linked_list-flow.js:290:28: number
+linked_list-flow.js:293:3-4: 
+linked_list-flow.js:293:3,307:4: 
+linked_list-flow.js:293:6-61: string
+linked_list-flow.js:293:64,307:3: () => void
+linked_list-flow.js:294:9: LinkedList
+linked_list-flow.js:294:13-28: LinkedList
+linked_list-flow.js:294:17-26: [class: LinkedList]
+linked_list-flow.js:295:5: LinkedList
+linked_list-flow.js:295:5-12: void
+linked_list-flow.js:295:11: number
+linked_list-flow.js:296:5: LinkedList
+linked_list-flow.js:296:5-12: void
+linked_list-flow.js:296:11: number
+linked_list-flow.js:297:5: LinkedList
+linked_list-flow.js:297:5-12: void
+linked_list-flow.js:297:11: number
+linked_list-flow.js:298:5: LinkedList
+linked_list-flow.js:298:5-13: void
+linked_list-flow.js:298:11-12: number
+linked_list-flow.js:299:5: LinkedList
+linked_list-flow.js:299:5-15: void
+linked_list-flow.js:299:11-14: number
+linked_list-flow.js:301:9: Array<>
+linked_list-flow.js:301:13-14: Array<>
+linked_list-flow.js:302:5: LinkedList
+linked_list-flow.js:302:5,304:6: void
+linked_list-flow.js:302:15,304:5: (e: ) => void
+linked_list-flow.js:302:24: 
+linked_list-flow.js:303:7: Array<>
+linked_list-flow.js:303:7-15: number
+linked_list-flow.js:303:14: 
+linked_list-flow.js:306:5-10: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:306:5-44: void
+linked_list-flow.js:306:22: Array<>
+linked_list-flow.js:306:25-43: [number, number, number, number, number]
+linked_list-flow.js:306:26: number
+linked_list-flow.js:306:29: number
+linked_list-flow.js:306:32: number
+linked_list-flow.js:306:35-36: number
+linked_list-flow.js:306:39-42: number
+linked_list-flow.js:309:3-4: 
+linked_list-flow.js:309:3,313:8: 
+linked_list-flow.js:309:6-69: string
+linked_list-flow.js:310:7,313:7: () => void
+linked_list-flow.js:311:13: LinkedList
+linked_list-flow.js:311:17-32: LinkedList
+linked_list-flow.js:311:21-30: [class: LinkedList]
+linked_list-flow.js:312:9-14: {$call: (value: any, message?: string) => void, deepEqual: (actual: any, expected: any, message?: string) => void, deepStrictEqual: (actual: any, expected: any, message?: string) => void, doesNotThrow: (block: Function, message?: string) => void, equal: (actual: any, expected: any, message?: string) => void, fail: (actual: any, expected: any, message: string, operator: string) => void, ifError: (value: any) => void, notDeepEqual: (actual: any, expected: any, message?: string) => void, notDeepStrictEqual: (actual: any, expected: any, message?: string) => void, notEqual: (actual: any, expected: any, message?: string) => void, notStrictEqual: (actual: any, expected: any, message?: string) => void, ok: (value: any, message?: string) => void, strictEqual: (actual: any, expected: any, message?: string) => void, throws: (block: Function, error?: ((err: any) => boolean) | Function | RegExp, message?: string) => void}
+linked_list-flow.js:312:9-44: void
+linked_list-flow.js:312:23-36: () => void
+linked_list-flow.js:312:29: LinkedList
+linked_list-flow.js:312:29-36: void
+linked_list-flow.js:312:35: number
+linked_list-flow.js:312:39-43: [class: Error]

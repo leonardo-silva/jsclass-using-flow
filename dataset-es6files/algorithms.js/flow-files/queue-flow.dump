@@ -1,0 +1,375 @@
+queue-flow.js:5:1-12: string
+queue-flow.js:10:1,16:1: [class: Node]
+queue-flow.js:11:15-19: 
+queue-flow.js:12:5-8: Node
+queue-flow.js:12:5-22: 
+queue-flow.js:12:18-22: 
+queue-flow.js:13:5-8: Node
+queue-flow.js:13:5-20: null
+queue-flow.js:13:17-20: null
+queue-flow.js:14:5-8: Node
+queue-flow.js:14:5-20: null
+queue-flow.js:14:17-20: null
+queue-flow.js:21:1,156:1: [class: LinkedList]
+queue-flow.js:23:5-8: LinkedList
+queue-flow.js:23:5-20: number
+queue-flow.js:23:20: number
+queue-flow.js:24:5-8: LinkedList
+queue-flow.js:24:5-20: null
+queue-flow.js:24:17-20: null
+queue-flow.js:25:5-8: LinkedList
+queue-flow.js:25:5-20: null
+queue-flow.js:25:17-20: null
+queue-flow.js:28:5-10: [class: Object]
+queue-flow.js:28:5,32:6: LinkedList
+queue-flow.js:28:27-30: LinkedList
+queue-flow.js:28:33-40: string
+queue-flow.js:28:43,32:5: {get: () => }
+queue-flow.js:29:12,31:7: () => 
+queue-flow.js:29:12,31:18: () => 
+queue-flow.js:30:16-19: LinkedList
+queue-flow.js:30:16-27: 
+queue-flow.js:31:14-17: LinkedList
+queue-flow.js:41:12-15: LinkedList
+queue-flow.js:41:12-22: 
+queue-flow.js:41:12-28: boolean
+queue-flow.js:41:28: number
+queue-flow.js:50:7: 
+queue-flow.js:50:10-14: 
+queue-flow.js:51:9-13: 
+queue-flow.js:51:9-27: boolean
+queue-flow.js:51:17-20: LinkedList
+queue-flow.js:51:17-27: 
+queue-flow.js:51:32-36: 
+queue-flow.js:51:32-40: boolean
+queue-flow.js:51:40: number
+queue-flow.js:52:13-44: Error
+queue-flow.js:52:17-21: [class: Error]
+queue-flow.js:52:23-43: string
+queue-flow.js:55:9-12: Node
+queue-flow.js:55:16-26: Node
+queue-flow.js:55:20-23: [class: Node]
+queue-flow.js:55:25: 
+queue-flow.js:57:9-13: 
+queue-flow.js:57:19-27: void
+queue-flow.js:57:32-36: 
+queue-flow.js:57:32-50: boolean
+queue-flow.js:57:40-43: LinkedList
+queue-flow.js:57:40-50: 
+queue-flow.js:58:11-18: 
+queue-flow.js:59:11-18: 
+queue-flow.js:61:11-15: 
+queue-flow.js:61:21: number
+queue-flow.js:63:9-28: 
+queue-flow.js:63:20-23: LinkedList
+queue-flow.js:63:20-28: 
+queue-flow.js:64:9-12: LinkedList
+queue-flow.js:64:9-24: Node
+queue-flow.js:64:21-24: Node
+queue-flow.js:66:9-38: 
+queue-flow.js:66:20-23: LinkedList
+queue-flow.js:66:20-38: 
+queue-flow.js:66:33-37: 
+queue-flow.js:67:9-32: 
+queue-flow.js:67:20-27: 
+queue-flow.js:67:20-32: 
+queue-flow.js:68:9-16: 
+queue-flow.js:68:9-28: Node
+queue-flow.js:68:25-28: Node
+queue-flow.js:69:9-12: Node
+queue-flow.js:69:9-28: 
+queue-flow.js:69:21-28: 
+queue-flow.js:71:7-14: 
+queue-flow.js:71:7-26: Node
+queue-flow.js:71:23-26: Node
+queue-flow.js:72:7-10: Node
+queue-flow.js:72:7-26: 
+queue-flow.js:72:19-26: 
+queue-flow.js:75:12-15: LinkedList
+queue-flow.js:75:23-26: LinkedList
+queue-flow.js:75:23-38: Node
+queue-flow.js:75:35-38: Node
+queue-flow.js:77:11-14: LinkedList
+queue-flow.js:78:9-17: 
+queue-flow.js:78:9-29: Node
+queue-flow.js:78:26-29: Node
+queue-flow.js:79:9-12: Node
+queue-flow.js:79:9-29: 
+queue-flow.js:79:21-29: 
+queue-flow.js:81:7-10: LinkedList
+queue-flow.js:81:7-22: Node
+queue-flow.js:81:19-22: Node
+queue-flow.js:84:5-8: LinkedList
+queue-flow.js:84:5-16: 
+queue-flow.js:84:5-18: number
+queue-flow.js:93:7-11: 
+queue-flow.js:94:12-15: LinkedList
+queue-flow.js:94:12-30: 
+queue-flow.js:94:12-36: 
+queue-flow.js:94:25-29: 
+queue-flow.js:103:11-15: 
+queue-flow.js:104:9-13: 
+queue-flow.js:104:9-28: boolean
+queue-flow.js:104:18-21: LinkedList
+queue-flow.js:104:18-28: 
+queue-flow.js:104:33-37: 
+queue-flow.js:104:33-41: boolean
+queue-flow.js:104:41: number
+queue-flow.js:105:13-44: Error
+queue-flow.js:105:17-21: [class: Error]
+queue-flow.js:105:23-43: string
+queue-flow.js:108:9-12: 
+queue-flow.js:108:16-19: LinkedList
+queue-flow.js:108:16-24: 
+queue-flow.js:109:14: number
+queue-flow.js:109:18: number
+queue-flow.js:109:21: number
+queue-flow.js:109:21-30: boolean
+queue-flow.js:109:26-30: 
+queue-flow.js:109:33-35: number
+queue-flow.js:110:7-22: 
+queue-flow.js:110:14-17: 
+queue-flow.js:110:14-22: 
+queue-flow.js:113:12-15: 
+queue-flow.js:121:7-11: 
+queue-flow.js:122:9-13: 
+queue-flow.js:122:9-28: boolean
+queue-flow.js:122:18-21: LinkedList
+queue-flow.js:122:18-28: 
+queue-flow.js:122:33-37: 
+queue-flow.js:122:33-41: boolean
+queue-flow.js:122:41: number
+queue-flow.js:123:13-44: Error
+queue-flow.js:123:17-21: [class: Error]
+queue-flow.js:123:23-43: string
+queue-flow.js:126:5-8: LinkedList
+queue-flow.js:126:5-37: void
+queue-flow.js:126:18-21: LinkedList
+queue-flow.js:126:18-36: 
+queue-flow.js:126:31-35: 
+queue-flow.js:129:11-14: 
+queue-flow.js:130:9-12: 
+queue-flow.js:130:18-21: LinkedList
+queue-flow.js:132:7-10: 
+queue-flow.js:132:7-27: 
+queue-flow.js:132:19-22: 
+queue-flow.js:132:19-27: 
+queue-flow.js:134:7-10: 
+queue-flow.js:134:7-15: 
+queue-flow.js:134:7-32: 
+queue-flow.js:134:24-27: 
+queue-flow.js:134:24-32: 
+queue-flow.js:136:9-12: 
+queue-flow.js:136:18-21: 
+queue-flow.js:138:7-10: 
+queue-flow.js:138:7-27: 
+queue-flow.js:138:19-22: 
+queue-flow.js:138:19-27: 
+queue-flow.js:140:7-10: 
+queue-flow.js:140:7-15: 
+queue-flow.js:140:7-32: 
+queue-flow.js:140:24-27: 
+queue-flow.js:140:24-32: 
+queue-flow.js:143:5-8: 
+queue-flow.js:143:5-16: 
+queue-flow.js:143:5-18: number
+queue-flow.js:149:11-12: 
+queue-flow.js:150:9-12: 
+queue-flow.js:150:16-19: LinkedList
+queue-flow.js:150:16-24: 
+queue-flow.js:151:12-15: 
+queue-flow.js:152:7-8: 
+queue-flow.js:152:7-20: 
+queue-flow.js:152:10-13: 
+queue-flow.js:152:10-19: 
+queue-flow.js:153:7-22: 
+queue-flow.js:153:14-17: 
+queue-flow.js:153:14-22: 
+queue-flow.js:163:1,209:1: [class: Queue]
+queue-flow.js:165:5-8: Queue
+queue-flow.js:165:5-37: LinkedList
+queue-flow.js:165:22-37: LinkedList
+queue-flow.js:165:26-35: [class: LinkedList]
+queue-flow.js:167:5-10: [class: Object]
+queue-flow.js:167:5,171:6: Queue
+queue-flow.js:167:27-30: Queue
+queue-flow.js:167:33-40: string
+queue-flow.js:167:43,171:5: {get: () => }
+queue-flow.js:168:12,170:7: () => 
+queue-flow.js:168:12,170:18: () => 
+queue-flow.js:169:16-19: Queue
+queue-flow.js:169:16-29: 
+queue-flow.js:169:16-36: 
+queue-flow.js:170:14-17: Queue
+queue-flow.js:175:12-15: Queue
+queue-flow.js:175:12-25: 
+queue-flow.js:175:12-35: 
+queue-flow.js:181:8: number
+queue-flow.js:182:5-8: Queue
+queue-flow.js:182:5-18: 
+queue-flow.js:182:5-25: 
+queue-flow.js:182:24: number
+queue-flow.js:189:9-12: Queue
+queue-flow.js:189:9-22: 
+queue-flow.js:190:13-36: Error
+queue-flow.js:190:17-21: [class: Error]
+queue-flow.js:190:23-35: string
+queue-flow.js:192:9: 
+queue-flow.js:192:13-16: Queue
+queue-flow.js:192:13-26: 
+queue-flow.js:192:13-33: 
+queue-flow.js:192:32: number
+queue-flow.js:193:5-8: Queue
+queue-flow.js:193:5-18: 
+queue-flow.js:193:5-25: 
+queue-flow.js:193:24: number
+queue-flow.js:194:12: 
+queue-flow.js:198:9-12: Queue
+queue-flow.js:198:9-22: 
+queue-flow.js:199:13-36: Error
+queue-flow.js:199:17-21: [class: Error]
+queue-flow.js:199:23-35: string
+queue-flow.js:202:12-15: Queue
+queue-flow.js:202:12-25: 
+queue-flow.js:202:12-32: 
+queue-flow.js:202:31: number
+queue-flow.js:205:11-12: (elem: ) => void
+queue-flow.js:206:5-8: Queue
+queue-flow.js:206:5-18: 
+queue-flow.js:206:5-30: 
+queue-flow.js:206:28-29: (elem: ) => void
+queue-flow.js:221:1-8: 
+queue-flow.js:221:1,267:2: 
+queue-flow.js:221:10-16: string
+queue-flow.js:221:19,267:1: () => void
+queue-flow.js:222:3-4: 
+queue-flow.js:222:3,226:4: 
+queue-flow.js:222:6-25: string
+queue-flow.js:222:28,226:3: () => void
+queue-flow.js:223:9: Queue
+queue-flow.js:223:13-23: Queue
+queue-flow.js:223:17-21: [class: Queue]
+queue-flow.js:224:5-10: 
+queue-flow.js:224:5-23: 
+queue-flow.js:224:12: Queue
+queue-flow.js:224:12-22: 
+queue-flow.js:225:5-10: 
+queue-flow.js:225:5-29: 
+queue-flow.js:225:18: Queue
+queue-flow.js:225:18-25: 
+queue-flow.js:225:28: number
+queue-flow.js:228:3-4: 
+queue-flow.js:228:3,239:4: 
+queue-flow.js:228:6-36: string
+queue-flow.js:228:39,239:3: () => void
+queue-flow.js:229:9: Queue
+queue-flow.js:229:13-23: Queue
+queue-flow.js:229:17-21: [class: Queue]
+queue-flow.js:230:5: Queue
+queue-flow.js:230:5-13: void
+queue-flow.js:230:12: number
+queue-flow.js:231:5: Queue
+queue-flow.js:231:5-13: void
+queue-flow.js:231:12: number
+queue-flow.js:232:5: Queue
+queue-flow.js:232:5-13: void
+queue-flow.js:232:12: number
+queue-flow.js:233:5-10: 
+queue-flow.js:233:5-29: 
+queue-flow.js:233:18: Queue
+queue-flow.js:233:18-25: 
+queue-flow.js:233:28: number
+queue-flow.js:234:5-10: 
+queue-flow.js:234:5-28: 
+queue-flow.js:234:18: Queue
+queue-flow.js:234:18-24: 
+queue-flow.js:234:27: number
+queue-flow.js:235:5-10: 
+queue-flow.js:235:5-28: 
+queue-flow.js:235:18: Queue
+queue-flow.js:235:18-24: 
+queue-flow.js:235:27: number
+queue-flow.js:236:5-10: 
+queue-flow.js:236:5-28: 
+queue-flow.js:236:18: Queue
+queue-flow.js:236:18-24: 
+queue-flow.js:236:27: number
+queue-flow.js:237:5-10: 
+queue-flow.js:237:5-23: 
+queue-flow.js:237:12: Queue
+queue-flow.js:237:12-22: 
+queue-flow.js:238:5-10: 
+queue-flow.js:238:5-39: 
+queue-flow.js:238:19-31: () => 
+queue-flow.js:238:25: Queue
+queue-flow.js:238:25-31: 
+queue-flow.js:238:34-38: [class: Error]
+queue-flow.js:241:3-4: 
+queue-flow.js:241:3,252:4: 
+queue-flow.js:241:6-54: string
+queue-flow.js:241:6,242:30: string
+queue-flow.js:242:5-30: string
+queue-flow.js:242:33,252:3: () => void
+queue-flow.js:243:9: Queue
+queue-flow.js:243:13-23: Queue
+queue-flow.js:243:17-21: [class: Queue]
+queue-flow.js:244:5-10: 
+queue-flow.js:244:5-40: 
+queue-flow.js:244:19-32: () => 
+queue-flow.js:244:25: Queue
+queue-flow.js:244:25-32: 
+queue-flow.js:244:35-39: [class: Error]
+queue-flow.js:245:5: Queue
+queue-flow.js:245:5-13: void
+queue-flow.js:245:12: number
+queue-flow.js:246:5: Queue
+queue-flow.js:246:5-13: void
+queue-flow.js:246:12: number
+queue-flow.js:247:5: Queue
+queue-flow.js:247:5-13: void
+queue-flow.js:247:12: number
+queue-flow.js:248:5-10: 
+queue-flow.js:248:5-29: 
+queue-flow.js:248:18: Queue
+queue-flow.js:248:18-25: 
+queue-flow.js:248:28: number
+queue-flow.js:249:5-10: 
+queue-flow.js:249:5-29: 
+queue-flow.js:249:18: Queue
+queue-flow.js:249:18-25: 
+queue-flow.js:249:28: number
+queue-flow.js:250:5: Queue
+queue-flow.js:250:5-11: 
+queue-flow.js:251:5-10: 
+queue-flow.js:251:5-29: 
+queue-flow.js:251:18: Queue
+queue-flow.js:251:18-25: 
+queue-flow.js:251:28: number
+queue-flow.js:254:3-4: 
+queue-flow.js:254:3,266:4: 
+queue-flow.js:254:6-61: string
+queue-flow.js:254:64,266:3: () => void
+queue-flow.js:255:9: Queue
+queue-flow.js:255:13-23: Queue
+queue-flow.js:255:17-21: [class: Queue]
+queue-flow.js:256:5: Queue
+queue-flow.js:256:5-13: void
+queue-flow.js:256:12: number
+queue-flow.js:257:5: Queue
+queue-flow.js:257:5-13: void
+queue-flow.js:257:12: number
+queue-flow.js:258:5: Queue
+queue-flow.js:258:5-13: void
+queue-flow.js:258:12: number
+queue-flow.js:260:9-13: number
+queue-flow.js:260:17: number
+queue-flow.js:261:5: Queue
+queue-flow.js:261:5,263:6: void
+queue-flow.js:261:15,263:5: (elem: ) => void
+queue-flow.js:261:24-27: 
+queue-flow.js:262:7-19: number
+queue-flow.js:262:16-19: 
+queue-flow.js:265:5-10: 
+queue-flow.js:265:5-26: 
+queue-flow.js:265:18-22: number
+queue-flow.js:265:25: number
