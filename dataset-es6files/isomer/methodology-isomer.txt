@@ -1,0 +1,7 @@
+1- Create the flow files (src+tests) for each class. Ex: vector-flow.js, shape-flow.js, etc
+2- Add the test code to the end of each generated file. ("There is only one test file in this system. I am using the same test code for every file generated in step 1"). 
+2- Verify if the variable names created in the require statements are equal to the class names. If equal, just comment the require statement line. In the case of system isomer, they all were equal.
+3- Comment repeated commands for 'use strict'.
+4- Comment module.exports command lines. 
+
+Obs: Class Shape requires Path and Point. Path requires Point. I only have to put them three together when analysing the dependencies of Shape.

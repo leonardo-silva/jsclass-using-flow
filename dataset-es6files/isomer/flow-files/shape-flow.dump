@@ -1,0 +1,2355 @@
+shape-flow.js:4:1,116:1: [class: Point]
+shape-flow.js:5:15: number
+shape-flow.js:5:18: number
+shape-flow.js:5:21: number | void
+shape-flow.js:6:9-12: Point
+shape-flow.js:6:25-29: [class: Point]
+shape-flow.js:7:7-10: Point
+shape-flow.js:7:7-46: number
+shape-flow.js:7:16-46: number
+shape-flow.js:7:24: number
+shape-flow.js:7:42: number
+shape-flow.js:7:46: number
+shape-flow.js:8:7-10: Point
+shape-flow.js:8:7-46: number
+shape-flow.js:8:16-46: number
+shape-flow.js:8:24: number
+shape-flow.js:8:42: number
+shape-flow.js:8:46: number
+shape-flow.js:9:7-10: Point
+shape-flow.js:9:7-46: number
+shape-flow.js:9:16-46: number
+shape-flow.js:9:24: number | void
+shape-flow.js:9:42: number
+shape-flow.js:9:46: number
+shape-flow.js:11:14-31: Point
+shape-flow.js:11:18-22: [class: Point]
+shape-flow.js:11:24: number
+shape-flow.js:11:27: number
+shape-flow.js:11:30: number | void
+shape-flow.js:19:13-14: number
+shape-flow.js:19:17-18: number
+shape-flow.js:19:21-22: number | void
+shape-flow.js:21:5-42: number
+shape-flow.js:21:10-42: number
+shape-flow.js:21:18-19: number
+shape-flow.js:21:37-38: number
+shape-flow.js:21:42: number
+shape-flow.js:22:5-42: number
+shape-flow.js:22:10-42: number
+shape-flow.js:22:18-19: number
+shape-flow.js:22:37-38: number
+shape-flow.js:22:42: number
+shape-flow.js:23:5-42: number
+shape-flow.js:23:10-42: number
+shape-flow.js:23:18-19: number | void
+shape-flow.js:23:37-38: number
+shape-flow.js:23:42: number
+shape-flow.js:25:12,28:18: Point
+shape-flow.js:25:16-20: [class: Point]
+shape-flow.js:26:7-10: Point
+shape-flow.js:26:7-12: 
+shape-flow.js:26:7-17: 
+shape-flow.js:26:16-17: number
+shape-flow.js:27:7-10: Point
+shape-flow.js:27:7-12: 
+shape-flow.js:27:7-17: 
+shape-flow.js:27:16-17: number
+shape-flow.js:28:7-10: Point
+shape-flow.js:28:7-12: 
+shape-flow.js:28:7-17: 
+shape-flow.js:28:16-17: number
+shape-flow.js:35:9-14: 
+shape-flow.js:35:17-18: 
+shape-flow.js:35:21-22: 
+shape-flow.js:35:25-26: number
+shape-flow.js:36:9: Point
+shape-flow.js:36:13-16: Point
+shape-flow.js:36:13-59: Point
+shape-flow.js:36:28-36: 
+shape-flow.js:36:29-34: 
+shape-flow.js:36:29-36: 
+shape-flow.js:36:39-47: 
+shape-flow.js:36:40-45: 
+shape-flow.js:36:40-47: 
+shape-flow.js:36:50-58: 
+shape-flow.js:36:51-56: 
+shape-flow.js:36:51-58: 
+shape-flow.js:38:9-10: 
+shape-flow.js:38:16-24: void
+shape-flow.js:38:29-30: number
+shape-flow.js:38:36-44: void
+shape-flow.js:40:7-18: 
+shape-flow.js:40:12-18: 
+shape-flow.js:40:17-18: 
+shape-flow.js:43:7-44: number
+shape-flow.js:43:12-44: number
+shape-flow.js:43:20-21: number
+shape-flow.js:43:39-40: number
+shape-flow.js:43:44: number
+shape-flow.js:46:5: Point
+shape-flow.js:46:5-7: 
+shape-flow.js:46:5-13: 
+shape-flow.js:46:12-13: 
+shape-flow.js:47:5: Point
+shape-flow.js:47:5-7: 
+shape-flow.js:47:5-13: 
+shape-flow.js:47:12-13: 
+shape-flow.js:48:5: Point
+shape-flow.js:48:5-7: 
+shape-flow.js:48:5-13: 
+shape-flow.js:48:12-13: number
+shape-flow.js:50:12: Point
+shape-flow.js:50:12-52: Point
+shape-flow.js:50:24-29: 
+shape-flow.js:50:24-31: 
+shape-flow.js:50:34-39: 
+shape-flow.js:50:34-41: 
+shape-flow.js:50:44-49: 
+shape-flow.js:50:44-51: 
+shape-flow.js:56:11-16: 
+shape-flow.js:56:19-23: 
+shape-flow.js:57:9: Point
+shape-flow.js:57:13-16: Point
+shape-flow.js:57:13-59: Point
+shape-flow.js:57:28-36: 
+shape-flow.js:57:29-34: 
+shape-flow.js:57:29-36: 
+shape-flow.js:57:39-47: 
+shape-flow.js:57:40-45: 
+shape-flow.js:57:40-47: 
+shape-flow.js:57:50-58: 
+shape-flow.js:57:51-56: 
+shape-flow.js:57:51-58: 
+shape-flow.js:59:9: number
+shape-flow.js:59:13: Point
+shape-flow.js:59:13-15: 
+shape-flow.js:59:13-33: number
+shape-flow.js:59:13-57: number
+shape-flow.js:59:19-22: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:59:19-33: number
+shape-flow.js:59:28-32: 
+shape-flow.js:59:37: Point
+shape-flow.js:59:37-39: 
+shape-flow.js:59:37-57: number
+shape-flow.js:59:43-46: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:59:43-57: number
+shape-flow.js:59:52-56: 
+shape-flow.js:60:9: number
+shape-flow.js:60:13: Point
+shape-flow.js:60:13-15: 
+shape-flow.js:60:13-33: number
+shape-flow.js:60:13-57: number
+shape-flow.js:60:19-22: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:60:19-33: number
+shape-flow.js:60:28-32: 
+shape-flow.js:60:37: Point
+shape-flow.js:60:37-39: 
+shape-flow.js:60:37-57: number
+shape-flow.js:60:43-46: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:60:43-57: number
+shape-flow.js:60:52-56: 
+shape-flow.js:61:5: Point
+shape-flow.js:61:5-11: number
+shape-flow.js:61:11: number
+shape-flow.js:62:5: Point
+shape-flow.js:62:5-11: number
+shape-flow.js:62:11: number
+shape-flow.js:64:12: Point
+shape-flow.js:64:12-52: Point
+shape-flow.js:64:24-29: 
+shape-flow.js:64:24-31: 
+shape-flow.js:64:34-39: 
+shape-flow.js:64:34-41: 
+shape-flow.js:64:44-49: 
+shape-flow.js:64:44-51: 
+shape-flow.js:70:11-16: 
+shape-flow.js:70:19-23: 
+shape-flow.js:71:9: Point
+shape-flow.js:71:13-16: Point
+shape-flow.js:71:13-59: Point
+shape-flow.js:71:28-36: 
+shape-flow.js:71:29-34: 
+shape-flow.js:71:29-36: 
+shape-flow.js:71:39-47: 
+shape-flow.js:71:40-45: 
+shape-flow.js:71:40-47: 
+shape-flow.js:71:50-58: 
+shape-flow.js:71:51-56: 
+shape-flow.js:71:51-58: 
+shape-flow.js:73:9: number
+shape-flow.js:73:13: Point
+shape-flow.js:73:13-15: 
+shape-flow.js:73:13-33: number
+shape-flow.js:73:13-57: number
+shape-flow.js:73:19-22: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:73:19-33: number
+shape-flow.js:73:28-32: 
+shape-flow.js:73:37: Point
+shape-flow.js:73:37-39: 
+shape-flow.js:73:37-57: number
+shape-flow.js:73:43-46: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:73:43-57: number
+shape-flow.js:73:52-56: 
+shape-flow.js:74:9: number
+shape-flow.js:74:13: Point
+shape-flow.js:74:13-15: 
+shape-flow.js:74:13-33: number
+shape-flow.js:74:13-57: number
+shape-flow.js:74:19-22: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:74:19-33: number
+shape-flow.js:74:28-32: 
+shape-flow.js:74:37: Point
+shape-flow.js:74:37-39: 
+shape-flow.js:74:37-57: number
+shape-flow.js:74:43-46: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:74:43-57: number
+shape-flow.js:74:52-56: 
+shape-flow.js:75:5: Point
+shape-flow.js:75:5-11: number
+shape-flow.js:75:11: number
+shape-flow.js:76:5: Point
+shape-flow.js:76:5-11: number
+shape-flow.js:76:11: number
+shape-flow.js:78:12: Point
+shape-flow.js:78:12-52: Point
+shape-flow.js:78:24-29: 
+shape-flow.js:78:24-31: 
+shape-flow.js:78:34-39: 
+shape-flow.js:78:34-41: 
+shape-flow.js:78:44-49: 
+shape-flow.js:78:44-51: 
+shape-flow.js:84:11-16: 
+shape-flow.js:84:19-23: 
+shape-flow.js:85:9: Point
+shape-flow.js:85:13-16: Point
+shape-flow.js:85:13-59: Point
+shape-flow.js:85:28-36: 
+shape-flow.js:85:29-34: 
+shape-flow.js:85:29-36: 
+shape-flow.js:85:39-47: 
+shape-flow.js:85:40-45: 
+shape-flow.js:85:40-47: 
+shape-flow.js:85:50-58: 
+shape-flow.js:85:51-56: 
+shape-flow.js:85:51-58: 
+shape-flow.js:87:9: number
+shape-flow.js:87:13: Point
+shape-flow.js:87:13-15: 
+shape-flow.js:87:13-33: number
+shape-flow.js:87:13-57: number
+shape-flow.js:87:19-22: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:87:19-33: number
+shape-flow.js:87:28-32: 
+shape-flow.js:87:37: Point
+shape-flow.js:87:37-39: 
+shape-flow.js:87:37-57: number
+shape-flow.js:87:43-46: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:87:43-57: number
+shape-flow.js:87:52-56: 
+shape-flow.js:88:9: number
+shape-flow.js:88:13: Point
+shape-flow.js:88:13-15: 
+shape-flow.js:88:13-33: number
+shape-flow.js:88:13-57: number
+shape-flow.js:88:19-22: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:88:19-33: number
+shape-flow.js:88:28-32: 
+shape-flow.js:88:37: Point
+shape-flow.js:88:37-39: 
+shape-flow.js:88:37-57: number
+shape-flow.js:88:43-46: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:88:43-57: number
+shape-flow.js:88:52-56: 
+shape-flow.js:89:5: Point
+shape-flow.js:89:5-11: number
+shape-flow.js:89:11: number
+shape-flow.js:90:5: Point
+shape-flow.js:90:5-11: number
+shape-flow.js:90:11: number
+shape-flow.js:92:12: Point
+shape-flow.js:92:12-52: Point
+shape-flow.js:92:24-29: 
+shape-flow.js:92:24-31: 
+shape-flow.js:92:34-39: 
+shape-flow.js:92:34-41: 
+shape-flow.js:92:44-49: 
+shape-flow.js:92:44-51: 
+shape-flow.js:101:12-15: Point
+shape-flow.js:101:12-17: 
+shape-flow.js:101:12-26: 
+shape-flow.js:101:12-39: number
+shape-flow.js:101:21-24: Point
+shape-flow.js:101:21-26: 
+shape-flow.js:101:30: number
+shape-flow.js:101:30-39: number
+shape-flow.js:101:34-37: Point
+shape-flow.js:101:34-39: 
+shape-flow.js:108:19-20: 
+shape-flow.js:108:23-24: 
+shape-flow.js:109:9-10: number
+shape-flow.js:109:14-15: 
+shape-flow.js:109:14-17: 
+shape-flow.js:109:14-24: number
+shape-flow.js:109:21-22: 
+shape-flow.js:109:21-24: 
+shape-flow.js:110:9-10: number
+shape-flow.js:110:14-15: 
+shape-flow.js:110:14-17: 
+shape-flow.js:110:14-24: number
+shape-flow.js:110:21-22: 
+shape-flow.js:110:21-24: 
+shape-flow.js:111:9-10: number
+shape-flow.js:111:14-15: 
+shape-flow.js:111:14-17: 
+shape-flow.js:111:14-24: number
+shape-flow.js:111:21-22: 
+shape-flow.js:111:21-24: 
+shape-flow.js:113:12-15: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:113:12-49: number
+shape-flow.js:113:22-23: number
+shape-flow.js:113:22-28: number
+shape-flow.js:113:22-38: number
+shape-flow.js:113:22-48: number
+shape-flow.js:113:27-28: number
+shape-flow.js:113:32-33: number
+shape-flow.js:113:32-38: number
+shape-flow.js:113:37-38: number
+shape-flow.js:113:42-43: number
+shape-flow.js:113:42-48: number
+shape-flow.js:113:47-48: number
+shape-flow.js:118:1-5: [class: Point]
+shape-flow.js:118:1-33: Point
+shape-flow.js:118:16-33: Point
+shape-flow.js:118:20-24: [class: Point]
+shape-flow.js:118:26: number
+shape-flow.js:118:29: number
+shape-flow.js:118:32: number
+shape-flow.js:133:1,303:1: [class: Path]
+shape-flow.js:134:15-20: void | [Point, Point, Point, Point] | [, , ] | Array<> | [, Point, Point, Point] | [, , , ] | [Point, Point, Point] | Point
+shape-flow.js:135:9-14: [class: Object]
+shape-flow.js:135:9-24: Object
+shape-flow.js:135:9-33: () => string
+shape-flow.js:135:9-46: string
+shape-flow.js:135:40-45: void | [Point, Point, Point, Point] | [, , ] | Array<> | [, Point, Point, Point] | [, , , ] | [Point, Point, Point] | Point
+shape-flow.js:135:52-67: string
+shape-flow.js:136:7-10: Path
+shape-flow.js:136:7-26: void | [Point, Point, Point, Point] | [, , ] | Array<> | [, Point, Point, Point] | [, , , ] | [Point, Point, Point] | Point
+shape-flow.js:136:21-26: void | [Point, Point, Point, Point] | [, , ] | Array<> | [, Point, Point, Point] | [, , , ] | [Point, Point, Point] | Point
+shape-flow.js:138:7-10: Path
+shape-flow.js:138:7-57: Array<>
+shape-flow.js:138:21-25: Array<T>
+shape-flow.js:138:21-35: Array
+shape-flow.js:138:21-41: (start?: number, end?: number) => Array<>
+shape-flow.js:138:21-57: Array<>
+shape-flow.js:138:48-56: any
+shape-flow.js:146:8-12: Point
+shape-flow.js:147:5-8: Path
+shape-flow.js:147:5-15: 
+shape-flow.js:147:5-27: 
+shape-flow.js:147:22-26: Point
+shape-flow.js:155:9-14: Array<>
+shape-flow.js:155:18-22: Array<T>
+shape-flow.js:155:18-32: Array
+shape-flow.js:155:18-38: (start?: number, end?: number) => Array<>
+shape-flow.js:155:18-56: Array<>
+shape-flow.js:155:45-48: Path
+shape-flow.js:155:45-55: 
+shape-flow.js:157:12-37: Path
+shape-flow.js:157:16-19: [class: Path]
+shape-flow.js:157:21-26: Array<>
+shape-flow.js:157:21-36: Array<>
+shape-flow.js:167:9-12: 
+shape-flow.js:167:16-24: any
+shape-flow.js:169:12,171:7: Path
+shape-flow.js:169:16-19: [class: Path]
+shape-flow.js:169:21-24: Path
+shape-flow.js:169:21-31: 
+shape-flow.js:169:21,171:6: 
+shape-flow.js:169:37,171:5: (point: ) => 
+shape-flow.js:169:46-50: 
+shape-flow.js:170:14-18: 
+shape-flow.js:170:14-28: 
+shape-flow.js:170:14-47: 
+shape-flow.js:170:36-40: 
+shape-flow.js:170:43-46: 
+shape-flow.js:180:9-12: 
+shape-flow.js:180:16-24: any
+shape-flow.js:182:12,184:7: Path
+shape-flow.js:182:16-19: [class: Path]
+shape-flow.js:182:21-24: Path
+shape-flow.js:182:21-31: 
+shape-flow.js:182:21,184:6: 
+shape-flow.js:182:37,184:5: (point: ) => 
+shape-flow.js:182:46-50: 
+shape-flow.js:183:14-18: 
+shape-flow.js:183:14-26: 
+shape-flow.js:183:14-45: 
+shape-flow.js:183:34-38: 
+shape-flow.js:183:41-44: 
+shape-flow.js:193:9-12: 
+shape-flow.js:193:16-24: any
+shape-flow.js:195:12,197:7: Path
+shape-flow.js:195:16-19: [class: Path]
+shape-flow.js:195:21-24: Path
+shape-flow.js:195:21-31: 
+shape-flow.js:195:21,197:6: 
+shape-flow.js:195:37,197:5: (point: ) => 
+shape-flow.js:195:46-50: 
+shape-flow.js:196:14-18: 
+shape-flow.js:196:14-26: 
+shape-flow.js:196:14-45: 
+shape-flow.js:196:34-38: 
+shape-flow.js:196:41-44: 
+shape-flow.js:206:9-12: 
+shape-flow.js:206:16-24: any
+shape-flow.js:208:12,210:7: Path
+shape-flow.js:208:16-19: [class: Path]
+shape-flow.js:208:21-24: Path
+shape-flow.js:208:21-31: 
+shape-flow.js:208:21,210:6: 
+shape-flow.js:208:37,210:5: (point: ) => 
+shape-flow.js:208:46-50: 
+shape-flow.js:209:14-18: 
+shape-flow.js:209:14-26: 
+shape-flow.js:209:14-45: 
+shape-flow.js:209:34-38: 
+shape-flow.js:209:41-44: 
+shape-flow.js:220:9-12: 
+shape-flow.js:220:16-24: any
+shape-flow.js:222:12,224:7: Path
+shape-flow.js:222:16-19: [class: Path]
+shape-flow.js:222:21-24: Path
+shape-flow.js:222:21-31: 
+shape-flow.js:222:21,224:6: 
+shape-flow.js:222:37,224:5: (point: ) => 
+shape-flow.js:222:46-50: 
+shape-flow.js:223:14-18: 
+shape-flow.js:223:14-24: 
+shape-flow.js:223:14-43: 
+shape-flow.js:223:32-36: 
+shape-flow.js:223:39-42: 
+shape-flow.js:233:9: number
+shape-flow.js:233:12-16: number
+shape-flow.js:233:20: number
+shape-flow.js:234:10-14: number
+shape-flow.js:234:14: number
+shape-flow.js:234:17: number
+shape-flow.js:234:17-38: boolean
+shape-flow.js:234:21-24: Path
+shape-flow.js:234:21-31: 
+shape-flow.js:234:21-38: 
+shape-flow.js:234:41-43: number
+shape-flow.js:235:7-37: number
+shape-flow.js:235:16-19: Path
+shape-flow.js:235:16-26: 
+shape-flow.js:235:16-29: 
+shape-flow.js:235:16-37: 
+shape-flow.js:235:28: number
+shape-flow.js:238:12-16: number
+shape-flow.js:238:12-44: number
+shape-flow.js:238:21-24: Path
+shape-flow.js:238:21-31: 
+shape-flow.js:238:21-43: 
+shape-flow.js:238:43: number
+shape-flow.js:249:20-25: 
+shape-flow.js:249:28-32: number
+shape-flow.js:249:35-40: number
+shape-flow.js:250:9-13: number
+shape-flow.js:250:19-27: void
+shape-flow.js:250:30-38: number
+shape-flow.js:250:38: number
+shape-flow.js:251:9-14: number
+shape-flow.js:251:20-28: void
+shape-flow.js:251:31-40: number
+shape-flow.js:251:40: number
+shape-flow.js:253:9-12: Path
+shape-flow.js:253:16,258:6: Path
+shape-flow.js:253:20-23: [class: Path]
+shape-flow.js:253:25,258:5: [, Point, Point, Point]
+shape-flow.js:254:7-12: 
+shape-flow.js:255:7-53: Point
+shape-flow.js:255:11-15: [class: Point]
+shape-flow.js:255:17-22: 
+shape-flow.js:255:17-24: 
+shape-flow.js:255:17-32: 
+shape-flow.js:255:28-32: number
+shape-flow.js:255:35-40: 
+shape-flow.js:255:35-42: 
+shape-flow.js:255:45-50: 
+shape-flow.js:255:45-52: 
+shape-flow.js:256:7-62: Point
+shape-flow.js:256:11-15: [class: Point]
+shape-flow.js:256:17-22: 
+shape-flow.js:256:17-24: 
+shape-flow.js:256:17-32: 
+shape-flow.js:256:28-32: number
+shape-flow.js:256:35-40: 
+shape-flow.js:256:35-42: 
+shape-flow.js:256:35-51: 
+shape-flow.js:256:46-51: number
+shape-flow.js:256:54-59: 
+shape-flow.js:256:54-61: 
+shape-flow.js:257:7-54: Point
+shape-flow.js:257:11-15: [class: Point]
+shape-flow.js:257:17-22: 
+shape-flow.js:257:17-24: 
+shape-flow.js:257:27-32: 
+shape-flow.js:257:27-34: 
+shape-flow.js:257:27-43: 
+shape-flow.js:257:38-43: number
+shape-flow.js:257:46-51: 
+shape-flow.js:257:46-53: 
+shape-flow.js:260:12-15: Path
+shape-flow.js:267:17-22: Point
+shape-flow.js:267:25-30: number
+shape-flow.js:267:33-40: number | void
+shape-flow.js:268:5-29: number
+shape-flow.js:268:16-23: number | void
+shape-flow.js:268:16-29: number
+shape-flow.js:268:28-29: number
+shape-flow.js:269:9: number
+shape-flow.js:269:12-15: Path
+shape-flow.js:269:19-28: Path
+shape-flow.js:269:23-26: [class: Path]
+shape-flow.js:271:10-14: number
+shape-flow.js:271:14: number
+shape-flow.js:271:17: number
+shape-flow.js:271:17-28: boolean
+shape-flow.js:271:21-28: number
+shape-flow.js:271:31-33: number
+shape-flow.js:272:7-10: Path
+shape-flow.js:272:7,275:11: void
+shape-flow.js:272:17,275:10: Point
+shape-flow.js:272:21-25: [class: Point]
+shape-flow.js:273:9-14: number
+shape-flow.js:273:9-53: number
+shape-flow.js:273:18-21: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:273:18-53: number
+shape-flow.js:273:27: number
+shape-flow.js:273:27-31: number
+shape-flow.js:273:27-41: number
+shape-flow.js:273:27-52: number
+shape-flow.js:273:31: number
+shape-flow.js:273:35-38: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:273:35-41: number
+shape-flow.js:273:45-52: number
+shape-flow.js:274:9-14: number
+shape-flow.js:274:9-53: number
+shape-flow.js:274:18-21: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:274:18-53: number
+shape-flow.js:274:27: number
+shape-flow.js:274:27-31: number
+shape-flow.js:274:27-41: number
+shape-flow.js:274:27-52: number
+shape-flow.js:274:31: number
+shape-flow.js:274:35-38: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:274:35-41: number
+shape-flow.js:274:45-52: number
+shape-flow.js:275:9: number
+shape-flow.js:278:12-15: Path
+shape-flow.js:278:12-55: Path
+shape-flow.js:278:27-32: Point
+shape-flow.js:278:27-34: 
+shape-flow.js:278:37-42: Point
+shape-flow.js:278:37-44: 
+shape-flow.js:278:47-52: Point
+shape-flow.js:278:47-54: 
+shape-flow.js:288:15-20: 
+shape-flow.js:288:23-33: number
+shape-flow.js:288:36-46: number
+shape-flow.js:288:49-54: number
+shape-flow.js:289:9: number
+shape-flow.js:289:12: number
+shape-flow.js:289:15-18: Path
+shape-flow.js:289:22-31: Path
+shape-flow.js:289:26-29: [class: Path]
+shape-flow.js:291:10-14: number
+shape-flow.js:291:14: number
+shape-flow.js:291:17: number
+shape-flow.js:291:17-30: boolean
+shape-flow.js:291:21-26: number
+shape-flow.js:291:21-30: number
+shape-flow.js:291:30: number
+shape-flow.js:291:33-35: number
+shape-flow.js:292:7-51: number
+shape-flow.js:292:11-51: number
+shape-flow.js:292:12: number
+shape-flow.js:292:12-16: number
+shape-flow.js:292:16: number
+shape-flow.js:292:22: number
+shape-flow.js:292:27-37: number
+shape-flow.js:292:41-51: number
+shape-flow.js:294:7-10: Path
+shape-flow.js:294:7,297:11: void
+shape-flow.js:294:17,297:10: Point
+shape-flow.js:294:21-25: [class: Point]
+shape-flow.js:295:9: number
+shape-flow.js:295:9-42: number
+shape-flow.js:295:13-16: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:295:13-42: number
+shape-flow.js:295:22: number
+shape-flow.js:295:22-32: number
+shape-flow.js:295:22-41: number
+shape-flow.js:295:26-29: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:295:26-32: number
+shape-flow.js:295:36-41: number
+shape-flow.js:296:9: number
+shape-flow.js:296:9-42: number
+shape-flow.js:296:13-16: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:296:13-42: number
+shape-flow.js:296:22: number
+shape-flow.js:296:22-32: number
+shape-flow.js:296:22-41: number
+shape-flow.js:296:26-29: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:296:26-32: number
+shape-flow.js:296:36-41: number
+shape-flow.js:297:9: number
+shape-flow.js:300:12-15: Path
+shape-flow.js:300:12-55: Path
+shape-flow.js:300:27-32: 
+shape-flow.js:300:27-34: 
+shape-flow.js:300:37-42: 
+shape-flow.js:300:37-44: 
+shape-flow.js:300:47-52: 
+shape-flow.js:300:47-54: 
+shape-flow.js:314:5-9: 
+shape-flow.js:314:13-30: 
+shape-flow.js:321:1,540:1: [class: Shape]
+shape-flow.js:322:15-19: void
+shape-flow.js:323:9-14: [class: Object]
+shape-flow.js:323:9-24: Object
+shape-flow.js:323:9-33: () => string
+shape-flow.js:323:9-45: string
+shape-flow.js:323:40-44: void
+shape-flow.js:323:51-66: string
+shape-flow.js:324:7-10: Shape
+shape-flow.js:324:7-24: void
+shape-flow.js:324:20-24: void
+shape-flow.js:326:7-10: Shape
+shape-flow.js:326:7-56: Array<>
+shape-flow.js:326:20-24: Array<T>
+shape-flow.js:326:20-34: Array
+shape-flow.js:326:20-40: (start?: number, end?: number) => Array<>
+shape-flow.js:326:20-56: Array<>
+shape-flow.js:326:47-55: any
+shape-flow.js:333:8-11: Path
+shape-flow.js:334:5-8: Shape
+shape-flow.js:334:5-14: 
+shape-flow.js:334:5-25: 
+shape-flow.js:334:21-24: Path
+shape-flow.js:344:9-12: 
+shape-flow.js:344:16-24: any
+shape-flow.js:346:12,348:7: Shape
+shape-flow.js:346:16-20: [class: Shape]
+shape-flow.js:346:22-25: Shape
+shape-flow.js:346:22-31: 
+shape-flow.js:346:22,348:6: 
+shape-flow.js:346:37,348:5: (path: ) => 
+shape-flow.js:346:46-49: 
+shape-flow.js:347:14-17: 
+shape-flow.js:347:14-27: 
+shape-flow.js:347:14-45: 
+shape-flow.js:347:35-38: 
+shape-flow.js:347:41-44: 
+shape-flow.js:357:9-12: 
+shape-flow.js:357:16-24: any
+shape-flow.js:359:12,361:7: Shape
+shape-flow.js:359:16-20: [class: Shape]
+shape-flow.js:359:22-25: Shape
+shape-flow.js:359:22-31: 
+shape-flow.js:359:22,361:6: 
+shape-flow.js:359:37,361:5: (path: ) => 
+shape-flow.js:359:46-49: 
+shape-flow.js:360:14-17: 
+shape-flow.js:360:14-25: 
+shape-flow.js:360:14-43: 
+shape-flow.js:360:33-36: 
+shape-flow.js:360:39-42: 
+shape-flow.js:370:9-12: 
+shape-flow.js:370:16-24: any
+shape-flow.js:372:12,374:7: Shape
+shape-flow.js:372:16-20: [class: Shape]
+shape-flow.js:372:22-25: Shape
+shape-flow.js:372:22-31: 
+shape-flow.js:372:22,374:6: 
+shape-flow.js:372:37,374:5: (path: ) => 
+shape-flow.js:372:46-49: 
+shape-flow.js:373:14-17: 
+shape-flow.js:373:14-25: 
+shape-flow.js:373:14-43: 
+shape-flow.js:373:33-36: 
+shape-flow.js:373:39-42: 
+shape-flow.js:383:9-12: 
+shape-flow.js:383:16-24: any
+shape-flow.js:385:12,387:7: Shape
+shape-flow.js:385:16-20: [class: Shape]
+shape-flow.js:385:22-25: Shape
+shape-flow.js:385:22-31: 
+shape-flow.js:385:22,387:6: 
+shape-flow.js:385:37,387:5: (path: ) => 
+shape-flow.js:385:46-49: 
+shape-flow.js:386:14-17: 
+shape-flow.js:386:14-25: 
+shape-flow.js:386:14-43: 
+shape-flow.js:386:33-36: 
+shape-flow.js:386:39-42: 
+shape-flow.js:396:9-12: 
+shape-flow.js:396:16-24: any
+shape-flow.js:398:12,400:7: Shape
+shape-flow.js:398:16-20: [class: Shape]
+shape-flow.js:398:22-25: Shape
+shape-flow.js:398:22-31: 
+shape-flow.js:398:22,400:6: 
+shape-flow.js:398:37,400:5: (path: ) => 
+shape-flow.js:398:46-49: 
+shape-flow.js:399:14-17: 
+shape-flow.js:399:14-23: 
+shape-flow.js:399:14-41: 
+shape-flow.js:399:31-34: 
+shape-flow.js:399:37-40: 
+shape-flow.js:409:9-13: 
+shape-flow.js:409:17-20: Shape
+shape-flow.js:409:17-26: 
+shape-flow.js:409:17-34: 
+shape-flow.js:415:12-16: 
+shape-flow.js:415:12,417:6: 
+shape-flow.js:415:23,417:5: (pathA: , pathB: ) => number
+shape-flow.js:415:32-36: 
+shape-flow.js:415:39-43: 
+shape-flow.js:416:14-18: 
+shape-flow.js:416:14-26: 
+shape-flow.js:416:14-42: number
+shape-flow.js:416:30-34: 
+shape-flow.js:416:30-42: 
+shape-flow.js:425:18-21: Path
+shape-flow.js:425:24-29: number | void
+shape-flow.js:426:5-54: number
+shape-flow.js:426:14-54: number
+shape-flow.js:426:22-27: number | void
+shape-flow.js:426:45-50: number
+shape-flow.js:426:54: number
+shape-flow.js:428:9: number
+shape-flow.js:428:12-18: Path
+shape-flow.js:428:22-25: Path
+shape-flow.js:428:22-49: Path
+shape-flow.js:428:37: number
+shape-flow.js:428:40: number
+shape-flow.js:428:43-48: number
+shape-flow.js:429:9-13: Shape
+shape-flow.js:429:17-27: Shape
+shape-flow.js:429:21-25: [class: Shape]
+shape-flow.js:432:5-9: Shape
+shape-flow.js:432:5-30: void
+shape-flow.js:432:16-19: Path
+shape-flow.js:432:16-29: Path
+shape-flow.js:433:5-9: Shape
+shape-flow.js:433:5-23: void
+shape-flow.js:433:16-22: Path
+shape-flow.js:436:10-14: number
+shape-flow.js:436:14: number
+shape-flow.js:436:17: number
+shape-flow.js:436:17-38: boolean
+shape-flow.js:436:21-24: Path
+shape-flow.js:436:21-31: 
+shape-flow.js:436:21-38: 
+shape-flow.js:436:41-43: number
+shape-flow.js:437:7-11: Shape
+shape-flow.js:437:7,442:9: void
+shape-flow.js:437:18,442:8: Path
+shape-flow.js:437:22-25: [class: Path]
+shape-flow.js:437:27,442:7: [, , , ]
+shape-flow.js:438:9-15: Path
+shape-flow.js:438:9-22: 
+shape-flow.js:438:9-25: 
+shape-flow.js:438:24: number
+shape-flow.js:439:9-12: Path
+shape-flow.js:439:9-19: 
+shape-flow.js:439:9-22: 
+shape-flow.js:439:21: number
+shape-flow.js:440:9-12: Path
+shape-flow.js:440:9-19: 
+shape-flow.js:440:9-49: 
+shape-flow.js:440:21-48: number
+shape-flow.js:440:22: number
+shape-flow.js:440:22-26: number
+shape-flow.js:440:26: number
+shape-flow.js:440:31-34: Path
+shape-flow.js:440:31-41: 
+shape-flow.js:440:31-48: 
+shape-flow.js:441:9-15: Path
+shape-flow.js:441:9-22: 
+shape-flow.js:441:9-55: 
+shape-flow.js:441:24-54: number
+shape-flow.js:441:25: number
+shape-flow.js:441:25-29: number
+shape-flow.js:441:29: number
+shape-flow.js:441:34-40: Path
+shape-flow.js:441:34-47: 
+shape-flow.js:441:34-54: 
+shape-flow.js:445:12-16: Shape
+shape-flow.js:456:16-21: Point
+shape-flow.js:456:24-25: number
+shape-flow.js:456:28-29: number
+shape-flow.js:456:32-33: number
+shape-flow.js:457:5-42: number
+shape-flow.js:457:10-42: number
+shape-flow.js:457:18-19: number
+shape-flow.js:457:37-38: number
+shape-flow.js:457:42: number
+shape-flow.js:458:5-42: number
+shape-flow.js:458:10-42: number
+shape-flow.js:458:18-19: number
+shape-flow.js:458:37-38: number
+shape-flow.js:458:42: number
+shape-flow.js:459:5-42: number
+shape-flow.js:459:10-42: number
+shape-flow.js:459:18-19: number
+shape-flow.js:459:37-38: number
+shape-flow.js:459:42: number
+shape-flow.js:462:9-13: Shape
+shape-flow.js:462:17-27: Shape
+shape-flow.js:462:21-25: [class: Shape]
+shape-flow.js:465:9-13: Path
+shape-flow.js:465:17,470:6: Path
+shape-flow.js:465:21-24: [class: Path]
+shape-flow.js:465:26,470:5: [Point, Point, Point, Point]
+shape-flow.js:466:7-12: Point
+shape-flow.js:467:7-50: Point
+shape-flow.js:467:11-15: [class: Point]
+shape-flow.js:467:17-22: Point
+shape-flow.js:467:17-24: 
+shape-flow.js:467:17-29: 
+shape-flow.js:467:28-29: number
+shape-flow.js:467:32-37: Point
+shape-flow.js:467:32-39: 
+shape-flow.js:467:42-47: Point
+shape-flow.js:467:42-49: 
+shape-flow.js:468:7-55: Point
+shape-flow.js:468:11-15: [class: Point]
+shape-flow.js:468:17-22: Point
+shape-flow.js:468:17-24: 
+shape-flow.js:468:17-29: 
+shape-flow.js:468:28-29: number
+shape-flow.js:468:32-37: Point
+shape-flow.js:468:32-39: 
+shape-flow.js:468:42-47: Point
+shape-flow.js:468:42-49: 
+shape-flow.js:468:42-54: 
+shape-flow.js:468:53-54: number
+shape-flow.js:469:7-50: Point
+shape-flow.js:469:11-15: [class: Point]
+shape-flow.js:469:17-22: Point
+shape-flow.js:469:17-24: 
+shape-flow.js:469:27-32: Point
+shape-flow.js:469:27-34: 
+shape-flow.js:469:37-42: Point
+shape-flow.js:469:37-44: 
+shape-flow.js:469:37-49: 
+shape-flow.js:469:48-49: number
+shape-flow.js:473:5-9: Shape
+shape-flow.js:473:5-21: void
+shape-flow.js:473:16-20: Path
+shape-flow.js:474:5-9: Shape
+shape-flow.js:474:5-51: void
+shape-flow.js:474:16-20: Path
+shape-flow.js:474:16-30: Path
+shape-flow.js:474:16-50: Path
+shape-flow.js:474:42: number
+shape-flow.js:474:45-46: number
+shape-flow.js:474:49: number
+shape-flow.js:477:9-13: Path
+shape-flow.js:477:17,482:6: Path
+shape-flow.js:477:21-24: [class: Path]
+shape-flow.js:477:26,482:5: [Point, Point, Point, Point]
+shape-flow.js:478:7-12: Point
+shape-flow.js:479:7-50: Point
+shape-flow.js:479:11-15: [class: Point]
+shape-flow.js:479:17-22: Point
+shape-flow.js:479:17-24: 
+shape-flow.js:479:27-32: Point
+shape-flow.js:479:27-34: 
+shape-flow.js:479:37-42: Point
+shape-flow.js:479:37-44: 
+shape-flow.js:479:37-49: 
+shape-flow.js:479:48-49: number
+shape-flow.js:480:7-55: Point
+shape-flow.js:480:11-15: [class: Point]
+shape-flow.js:480:17-22: Point
+shape-flow.js:480:17-24: 
+shape-flow.js:480:27-32: Point
+shape-flow.js:480:27-34: 
+shape-flow.js:480:27-39: 
+shape-flow.js:480:38-39: number
+shape-flow.js:480:42-47: Point
+shape-flow.js:480:42-49: 
+shape-flow.js:480:42-54: 
+shape-flow.js:480:53-54: number
+shape-flow.js:481:7-50: Point
+shape-flow.js:481:11-15: [class: Point]
+shape-flow.js:481:17-22: Point
+shape-flow.js:481:17-24: 
+shape-flow.js:481:27-32: Point
+shape-flow.js:481:27-34: 
+shape-flow.js:481:27-39: 
+shape-flow.js:481:38-39: number
+shape-flow.js:481:42-47: Point
+shape-flow.js:481:42-49: 
+shape-flow.js:483:5-9: Shape
+shape-flow.js:483:5-21: void
+shape-flow.js:483:16-20: Path
+shape-flow.js:484:5-9: Shape
+shape-flow.js:484:5-51: void
+shape-flow.js:484:16-20: Path
+shape-flow.js:484:16-30: Path
+shape-flow.js:484:16-50: Path
+shape-flow.js:484:42-43: number
+shape-flow.js:484:46: number
+shape-flow.js:484:49: number
+shape-flow.js:487:9-13: Path
+shape-flow.js:487:17,492:6: Path
+shape-flow.js:487:21-24: [class: Path]
+shape-flow.js:487:26,492:5: [Point, Point, Point, Point]
+shape-flow.js:488:7-12: Point
+shape-flow.js:489:7-50: Point
+shape-flow.js:489:11-15: [class: Point]
+shape-flow.js:489:17-22: Point
+shape-flow.js:489:17-24: 
+shape-flow.js:489:17-29: 
+shape-flow.js:489:28-29: number
+shape-flow.js:489:32-37: Point
+shape-flow.js:489:32-39: 
+shape-flow.js:489:42-47: Point
+shape-flow.js:489:42-49: 
+shape-flow.js:490:7-55: Point
+shape-flow.js:490:11-15: [class: Point]
+shape-flow.js:490:17-22: Point
+shape-flow.js:490:17-24: 
+shape-flow.js:490:17-29: 
+shape-flow.js:490:28-29: number
+shape-flow.js:490:32-37: Point
+shape-flow.js:490:32-39: 
+shape-flow.js:490:32-44: 
+shape-flow.js:490:43-44: number
+shape-flow.js:490:47-52: Point
+shape-flow.js:490:47-54: 
+shape-flow.js:491:7-50: Point
+shape-flow.js:491:11-15: [class: Point]
+shape-flow.js:491:17-22: Point
+shape-flow.js:491:17-24: 
+shape-flow.js:491:27-32: Point
+shape-flow.js:491:27-34: 
+shape-flow.js:491:27-39: 
+shape-flow.js:491:38-39: number
+shape-flow.js:491:42-47: Point
+shape-flow.js:491:42-49: 
+shape-flow.js:494:5-9: Shape
+shape-flow.js:494:5-31: void
+shape-flow.js:494:16-20: Path
+shape-flow.js:494:16-30: Path
+shape-flow.js:495:5-9: Shape
+shape-flow.js:495:5-41: void
+shape-flow.js:495:16-20: Path
+shape-flow.js:495:16-40: Path
+shape-flow.js:495:32: number
+shape-flow.js:495:35: number
+shape-flow.js:495:38-39: number
+shape-flow.js:497:12-16: Shape
+shape-flow.js:501:18-23: Point
+shape-flow.js:501:26-27: number | void
+shape-flow.js:501:30-31: number | void
+shape-flow.js:501:34-35: number | void
+shape-flow.js:502:5-42: number
+shape-flow.js:502:10-42: number
+shape-flow.js:502:18-19: number | void
+shape-flow.js:502:37-38: number
+shape-flow.js:502:42: number
+shape-flow.js:503:5-42: number
+shape-flow.js:503:10-42: number
+shape-flow.js:503:18-19: number | void
+shape-flow.js:503:37-38: number
+shape-flow.js:503:42: number
+shape-flow.js:504:5-42: number
+shape-flow.js:504:10-42: number
+shape-flow.js:504:18-19: number | void
+shape-flow.js:504:37-38: number
+shape-flow.js:504:42: number
+shape-flow.js:506:9-15: Shape
+shape-flow.js:506:19-29: Shape
+shape-flow.js:506:23-27: [class: Shape]
+shape-flow.js:509:9-13: Path
+shape-flow.js:509:17,513:6: Path
+shape-flow.js:509:21-24: [class: Path]
+shape-flow.js:509:26,513:5: [Point, Point, Point]
+shape-flow.js:510:7-12: Point
+shape-flow.js:511:7-50: Point
+shape-flow.js:511:11-15: [class: Point]
+shape-flow.js:511:17-22: Point
+shape-flow.js:511:17-24: 
+shape-flow.js:511:17-29: 
+shape-flow.js:511:28-29: number
+shape-flow.js:511:32-37: Point
+shape-flow.js:511:32-39: 
+shape-flow.js:511:42-47: Point
+shape-flow.js:511:42-49: 
+shape-flow.js:512:7-68: Point
+shape-flow.js:512:11-15: [class: Point]
+shape-flow.js:512:17-22: Point
+shape-flow.js:512:17-24: 
+shape-flow.js:512:17-33: 
+shape-flow.js:512:28-29: number
+shape-flow.js:512:28-33: number
+shape-flow.js:512:33: number
+shape-flow.js:512:36-41: Point
+shape-flow.js:512:36-43: 
+shape-flow.js:512:36-52: 
+shape-flow.js:512:47-48: number
+shape-flow.js:512:47-52: number
+shape-flow.js:512:52: number
+shape-flow.js:512:55-60: Point
+shape-flow.js:512:55-62: 
+shape-flow.js:512:55-67: 
+shape-flow.js:512:66-67: number
+shape-flow.js:515:5-11: Shape
+shape-flow.js:515:5-23: void
+shape-flow.js:515:18-22: Path
+shape-flow.js:516:5-11: Shape
+shape-flow.js:516:5-74: void
+shape-flow.js:516:18-22: Path
+shape-flow.js:516:18-73: Path
+shape-flow.js:516:32-37: Point
+shape-flow.js:516:32-63: Point
+shape-flow.js:516:49-50: number
+shape-flow.js:516:49-54: number
+shape-flow.js:516:54: number
+shape-flow.js:516:57-58: number
+shape-flow.js:516:57-62: number
+shape-flow.js:516:62: number
+shape-flow.js:516:66-69: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:516:66-72: number
+shape-flow.js:519:9-13: Path
+shape-flow.js:519:17,523:6: Path
+shape-flow.js:519:21-24: [class: Path]
+shape-flow.js:519:26,523:5: [Point, Point, Point]
+shape-flow.js:520:7-12: Point
+shape-flow.js:521:7-68: Point
+shape-flow.js:521:11-15: [class: Point]
+shape-flow.js:521:17-22: Point
+shape-flow.js:521:17-24: 
+shape-flow.js:521:17-33: 
+shape-flow.js:521:28-29: number
+shape-flow.js:521:28-33: number
+shape-flow.js:521:33: number
+shape-flow.js:521:36-41: Point
+shape-flow.js:521:36-43: 
+shape-flow.js:521:36-52: 
+shape-flow.js:521:47-48: number
+shape-flow.js:521:47-52: number
+shape-flow.js:521:52: number
+shape-flow.js:521:55-60: Point
+shape-flow.js:521:55-62: 
+shape-flow.js:521:55-67: 
+shape-flow.js:521:66-67: number
+shape-flow.js:522:7-50: Point
+shape-flow.js:522:11-15: [class: Point]
+shape-flow.js:522:17-22: Point
+shape-flow.js:522:17-24: 
+shape-flow.js:522:27-32: Point
+shape-flow.js:522:27-34: 
+shape-flow.js:522:27-39: 
+shape-flow.js:522:38-39: number
+shape-flow.js:522:42-47: Point
+shape-flow.js:522:42-49: 
+shape-flow.js:524:5-11: Shape
+shape-flow.js:524:5-23: void
+shape-flow.js:524:18-22: Path
+shape-flow.js:525:5-11: Shape
+shape-flow.js:525:5-74: void
+shape-flow.js:525:18-22: Path
+shape-flow.js:525:18-73: Path
+shape-flow.js:525:32-37: Point
+shape-flow.js:525:32-63: Point
+shape-flow.js:525:49-50: number
+shape-flow.js:525:49-54: number
+shape-flow.js:525:54: number
+shape-flow.js:525:57-58: number
+shape-flow.js:525:57-62: number
+shape-flow.js:525:62: number
+shape-flow.js:525:66-69: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:525:66-72: number
+shape-flow.js:527:12-18: Shape
+shape-flow.js:531:19-24: Point
+shape-flow.js:531:27-32: number
+shape-flow.js:531:35-42: number | void
+shape-flow.js:531:45-50: number | void
+shape-flow.js:532:5-54: number
+shape-flow.js:532:14-54: number
+shape-flow.js:532:22-27: number
+shape-flow.js:532:45-50: number
+shape-flow.js:532:54: number
+shape-flow.js:534:9-14: Path
+shape-flow.js:534:18-21: [class: Path]
+shape-flow.js:534:18-54: Path
+shape-flow.js:534:30-35: Point
+shape-flow.js:534:38-43: number
+shape-flow.js:534:46-53: number | void
+shape-flow.js:535:9-16: Shape
+shape-flow.js:535:20-24: [class: Shape]
+shape-flow.js:535:20-48: Shape
+shape-flow.js:535:34-39: Path
+shape-flow.js:535:42-47: number | void
+shape-flow.js:537:12-19: Shape
+shape-flow.js:549:5-7: 
+shape-flow.js:549:11-55: 
+shape-flow.js:549:15-20: 
+shape-flow.js:549:22-29: Document
+shape-flow.js:549:22-54: HTMLElement
+shape-flow.js:549:46-53: string
+shape-flow.js:550:5-9: 
+shape-flow.js:550:13-18: 
+shape-flow.js:550:13-24: 
+shape-flow.js:551:5-8: 
+shape-flow.js:551:12-17: 
+shape-flow.js:551:12-22: 
+shape-flow.js:552:5-9: 
+shape-flow.js:552:13-18: 
+shape-flow.js:552:13-24: 
+shape-flow.js:553:5-9: 
+shape-flow.js:553:13-18: 
+shape-flow.js:553:13-24: 
+shape-flow.js:555:10-18: () => void
+shape-flow.js:557:10-15: (origin: Point) => Shape
+shape-flow.js:557:17-22: Point
+shape-flow.js:558:7-16: number
+shape-flow.js:558:20-21: number
+shape-flow.js:561:7-12: Path
+shape-flow.js:561:16-31: Path
+shape-flow.js:561:20-23: [class: Path]
+shape-flow.js:561:25-30: Point
+shape-flow.js:562:7-11: Array<Path>
+shape-flow.js:562:15-16: Array<Path>
+shape-flow.js:562:19: number
+shape-flow.js:565:7-12: Shape
+shape-flow.js:565:16-26: Shape
+shape-flow.js:565:20-24: [class: Shape]
+shape-flow.js:567:8-12: number
+shape-flow.js:567:12: number
+shape-flow.js:567:15: number
+shape-flow.js:567:15-28: boolean
+shape-flow.js:567:19-28: number
+shape-flow.js:567:31-33: number
+shape-flow.js:574:9-18: Point
+shape-flow.js:574:22-27: Point
+shape-flow.js:574:22-78: Point
+shape-flow.js:574:39: number
+shape-flow.js:574:42: number
+shape-flow.js:574:42-55: number
+shape-flow.js:574:46-55: number
+shape-flow.js:574:58-77: number
+shape-flow.js:574:59: number
+shape-flow.js:574:59-63: number
+shape-flow.js:574:63: number
+shape-flow.js:574:68-77: number
+shape-flow.js:576:5-9: Array<Path>
+shape-flow.js:576:5,581:7: number
+shape-flow.js:576:16,581:6: Path
+shape-flow.js:576:20-23: [class: Path]
+shape-flow.js:576:25,581:5: [Point, Point, Point, Point]
+shape-flow.js:577:7-16: Point
+shape-flow.js:578:7-16: Point
+shape-flow.js:578:7-49: Point
+shape-flow.js:578:28: number
+shape-flow.js:578:31: number
+shape-flow.js:578:34-35: number
+shape-flow.js:578:34-48: number
+shape-flow.js:578:35: number
+shape-flow.js:578:39-48: number
+shape-flow.js:579:7-16: Point
+shape-flow.js:579:7-49: Point
+shape-flow.js:579:28: number
+shape-flow.js:579:31: number
+shape-flow.js:579:34-35: number
+shape-flow.js:579:34-48: number
+shape-flow.js:579:35: number
+shape-flow.js:579:39-48: number
+shape-flow.js:580:7-16: Point
+shape-flow.js:580:7-35: Point
+shape-flow.js:580:28: number
+shape-flow.js:580:31: number
+shape-flow.js:580:34: number
+shape-flow.js:583:5-9: Array<Path>
+shape-flow.js:583:5,588:7: number
+shape-flow.js:583:16,588:6: Path
+shape-flow.js:583:20-23: [class: Path]
+shape-flow.js:583:25,588:5: [Point, Point, Point, Point]
+shape-flow.js:584:7-16: Point
+shape-flow.js:585:7-16: Point
+shape-flow.js:585:7-35: Point
+shape-flow.js:585:28: number
+shape-flow.js:585:31: number
+shape-flow.js:585:34: number
+shape-flow.js:586:7-16: Point
+shape-flow.js:586:7-48: Point
+shape-flow.js:586:28: number
+shape-flow.js:586:31: number
+shape-flow.js:586:31-44: number
+shape-flow.js:586:35-44: number
+shape-flow.js:586:47: number
+shape-flow.js:587:7-16: Point
+shape-flow.js:587:7-48: Point
+shape-flow.js:587:28: number
+shape-flow.js:587:31: number
+shape-flow.js:587:31-44: number
+shape-flow.js:587:35-44: number
+shape-flow.js:587:47: number
+shape-flow.js:590:5-10: Path
+shape-flow.js:590:5-27: void
+shape-flow.js:590:17-26: Point
+shape-flow.js:591:5-10: Path
+shape-flow.js:591:5-59: void
+shape-flow.js:591:17-26: Point
+shape-flow.js:591:17-58: Point
+shape-flow.js:591:38: number
+shape-flow.js:591:41: number
+shape-flow.js:591:41-54: number
+shape-flow.js:591:45-54: number
+shape-flow.js:591:57: number
+shape-flow.js:594:3-8: Path
+shape-flow.js:594:3-40: void
+shape-flow.js:594:15-20: Point
+shape-flow.js:594:15-39: Point
+shape-flow.js:594:32: number
+shape-flow.js:594:35: number
+shape-flow.js:594:38: number
+shape-flow.js:597:8-12: number
+shape-flow.js:597:12: number
+shape-flow.js:597:15: number
+shape-flow.js:597:15-30: boolean
+shape-flow.js:597:19-23: Array<Path>
+shape-flow.js:597:19-30: number
+shape-flow.js:597:33-35: number
+shape-flow.js:598:5-10: Shape
+shape-flow.js:598:5-25: void
+shape-flow.js:598:17-21: Array<Path>
+shape-flow.js:598:17-24: Path
+shape-flow.js:598:23: number
+shape-flow.js:600:3-8: Shape
+shape-flow.js:600:3-21: void
+shape-flow.js:600:15-20: Path
+shape-flow.js:601:3-8: Shape
+shape-flow.js:601:3-50: void
+shape-flow.js:601:15-20: Path
+shape-flow.js:601:15-30: Path
+shape-flow.js:601:15-49: Path
+shape-flow.js:601:42: number
+shape-flow.js:601:45: number
+shape-flow.js:601:48: number
+shape-flow.js:603:10-15: Shape
+shape-flow.js:606:10-13: (origin: Point) => Shape
+shape-flow.js:606:15-20: Point
+shape-flow.js:607:7-10: Shape
+shape-flow.js:607:14-24: Shape
+shape-flow.js:607:18-22: [class: Shape]
+shape-flow.js:609:3-6: Shape
+shape-flow.js:609:3-74: 
+shape-flow.js:609:16-19: Shape
+shape-flow.js:609:16-25: 
+shape-flow.js:609:16-74: 
+shape-flow.js:609:34-38: [class: Shape]
+shape-flow.js:609:34-67: Shape
+shape-flow.js:609:34-73: 
+shape-flow.js:609:46-50: [class: Point]
+shape-flow.js:609:46-57: 
+shape-flow.js:609:60: number
+shape-flow.js:609:63: number
+shape-flow.js:609:66: number
+shape-flow.js:610:3-6: Shape
+shape-flow.js:610:3-80: 
+shape-flow.js:610:16-25: 
+shape-flow.js:610:16-80: 
+shape-flow.js:610:34-38: [class: Shape]
+shape-flow.js:610:34-73: Shape
+shape-flow.js:610:34-79: 
+shape-flow.js:610:46-63: Point
+shape-flow.js:610:50-54: [class: Point]
+shape-flow.js:610:56: number
+shape-flow.js:610:59: number
+shape-flow.js:610:62: number
+shape-flow.js:610:66: number
+shape-flow.js:610:69: number
+shape-flow.js:610:72: number
+shape-flow.js:611:3-6: Shape
+shape-flow.js:611:3-81: 
+shape-flow.js:611:16-25: 
+shape-flow.js:611:16-81: 
+shape-flow.js:611:34-38: [class: Shape]
+shape-flow.js:611:34-74: Shape
+shape-flow.js:611:34-80: 
+shape-flow.js:611:46-64: Point
+shape-flow.js:611:50-54: [class: Point]
+shape-flow.js:611:56: number
+shape-flow.js:611:59: number
+shape-flow.js:611:62-63: number
+shape-flow.js:611:63: number
+shape-flow.js:611:67: number
+shape-flow.js:611:70: number
+shape-flow.js:611:73: number
+shape-flow.js:613:3-6: Shape
+shape-flow.js:613:3,618:5: void
+shape-flow.js:613:13,618:4: Path
+shape-flow.js:613:17-20: [class: Path]
+shape-flow.js:613:22,618:3: [Point, Point, Point, Point]
+shape-flow.js:614:5-22: Point
+shape-flow.js:614:9-13: [class: Point]
+shape-flow.js:614:15: number
+shape-flow.js:614:18: number
+shape-flow.js:614:21: number
+shape-flow.js:615:5-22: Point
+shape-flow.js:615:9-13: [class: Point]
+shape-flow.js:615:15: number
+shape-flow.js:615:18: number
+shape-flow.js:615:21: number
+shape-flow.js:616:5-22: Point
+shape-flow.js:616:9-13: [class: Point]
+shape-flow.js:616:15: number
+shape-flow.js:616:18: number
+shape-flow.js:616:21: number
+shape-flow.js:617:5-22: Point
+shape-flow.js:617:9-13: [class: Point]
+shape-flow.js:617:15: number
+shape-flow.js:617:18: number
+shape-flow.js:617:21: number
+shape-flow.js:620:3-6: Shape
+shape-flow.js:620:3,625:5: void
+shape-flow.js:620:13,625:4: Path
+shape-flow.js:620:17-20: [class: Path]
+shape-flow.js:620:22,625:3: [Point, Point, Point, Point]
+shape-flow.js:621:5-22: Point
+shape-flow.js:621:9-13: [class: Point]
+shape-flow.js:621:15: number
+shape-flow.js:621:18: number
+shape-flow.js:621:21: number
+shape-flow.js:622:5-22: Point
+shape-flow.js:622:9-13: [class: Point]
+shape-flow.js:622:15: number
+shape-flow.js:622:18: number
+shape-flow.js:622:21: number
+shape-flow.js:623:5-22: Point
+shape-flow.js:623:9-13: [class: Point]
+shape-flow.js:623:15: number
+shape-flow.js:623:18: number
+shape-flow.js:623:21: number
+shape-flow.js:624:5-22: Point
+shape-flow.js:624:9-13: [class: Point]
+shape-flow.js:624:15: number
+shape-flow.js:624:18: number
+shape-flow.js:624:21: number
+shape-flow.js:627:10-13: Shape
+shape-flow.js:627:10-38: Shape
+shape-flow.js:627:10-65: Shape
+shape-flow.js:627:10-105: Shape
+shape-flow.js:627:21-25: [class: Point]
+shape-flow.js:627:21-32: 
+shape-flow.js:627:35: number
+shape-flow.js:627:35-37: number
+shape-flow.js:627:37: number
+shape-flow.js:627:50-53: number
+shape-flow.js:627:51-53: number
+shape-flow.js:627:56-59: number
+shape-flow.js:627:62-64: number
+shape-flow.js:627:77-82: Point
+shape-flow.js:627:77-84: 
+shape-flow.js:627:87-92: Point
+shape-flow.js:627:87-94: 
+shape-flow.js:627:97-102: Point
+shape-flow.js:627:97-104: 
+shape-flow.js:630:10-20: () => 
+shape-flow.js:631:10,634:34: 
+shape-flow.js:631:14-18: 
+shape-flow.js:632:5-12: (string: mixed, radix?: number) => number
+shape-flow.js:632:5-33: number
+shape-flow.js:632:14-17: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:632:14-26: number
+shape-flow.js:632:14-32: number
+shape-flow.js:632:30-32: number
+shape-flow.js:633:5-12: (string: mixed, radix?: number) => number
+shape-flow.js:633:5-33: number
+shape-flow.js:633:14-17: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:633:14-26: number
+shape-flow.js:633:14-32: number
+shape-flow.js:633:30-32: number
+shape-flow.js:634:5-12: (string: mixed, radix?: number) => number
+shape-flow.js:634:5-33: number
+shape-flow.js:634:14-17: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:634:14-26: number
+shape-flow.js:634:14-32: number
+shape-flow.js:634:30-32: number
+shape-flow.js:637:1-9: () => void
+shape-flow.js:637:1,665:1: () => void
+shape-flow.js:637:11-26: string
+shape-flow.js:637:31,665:1: () => void
+shape-flow.js:638:3-5: 
+shape-flow.js:638:3-51: 
+shape-flow.js:638:11-15: [class: Shape]
+shape-flow.js:638:11-50: Shape
+shape-flow.js:638:23-40: Point
+shape-flow.js:638:27-31: [class: Point]
+shape-flow.js:638:33: number
+shape-flow.js:638:36: number
+shape-flow.js:638:39: number
+shape-flow.js:638:43: number
+shape-flow.js:638:46: number
+shape-flow.js:638:49: number
+shape-flow.js:639:3-5: 
+shape-flow.js:639:3-51: 
+shape-flow.js:639:11-15: [class: Shape]
+shape-flow.js:639:11-50: Shape
+shape-flow.js:639:23-40: Point
+shape-flow.js:639:27-31: [class: Point]
+shape-flow.js:639:33: number
+shape-flow.js:639:36: number
+shape-flow.js:639:39: number
+shape-flow.js:639:43: number
+shape-flow.js:639:46: number
+shape-flow.js:639:49: number
+shape-flow.js:640:3-5: 
+shape-flow.js:640:3-52: 
+shape-flow.js:640:11-15: [class: Shape]
+shape-flow.js:640:11-51: Shape
+shape-flow.js:640:23-41: Point
+shape-flow.js:640:27-31: [class: Point]
+shape-flow.js:640:33-34: number
+shape-flow.js:640:34: number
+shape-flow.js:640:37: number
+shape-flow.js:640:40: number
+shape-flow.js:640:44: number
+shape-flow.js:640:47: number
+shape-flow.js:640:50: number
+shape-flow.js:642:3-5: 
+shape-flow.js:642:3-38: 
+shape-flow.js:642:11-16: (origin: Point) => Shape
+shape-flow.js:642:11-37: Shape
+shape-flow.js:642:18-36: Point
+shape-flow.js:642:22-26: [class: Point]
+shape-flow.js:642:28-29: number
+shape-flow.js:642:29: number
+shape-flow.js:642:32: number
+shape-flow.js:642:35: number
+shape-flow.js:643:3-5: 
+shape-flow.js:643:3-83: 
+shape-flow.js:643:11-16: (origin: Point) => Shape
+shape-flow.js:643:11-36: Shape
+shape-flow.js:643:11-82: Shape
+shape-flow.js:643:18-35: Point
+shape-flow.js:643:22-26: [class: Point]
+shape-flow.js:643:28: number
+shape-flow.js:643:31: number
+shape-flow.js:643:34: number
+shape-flow.js:643:46-67: Point
+shape-flow.js:643:50-54: [class: Point]
+shape-flow.js:643:56-58: number
+shape-flow.js:643:61-63: number
+shape-flow.js:643:66: number
+shape-flow.js:643:70-77: number
+shape-flow.js:643:70-81: number
+shape-flow.js:643:71-74: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:643:71-77: number
+shape-flow.js:643:81: number
+shape-flow.js:645:3-5: 
+shape-flow.js:645:3-51: 
+shape-flow.js:645:11-15: [class: Shape]
+shape-flow.js:645:11-50: Shape
+shape-flow.js:645:23-40: Point
+shape-flow.js:645:27-31: [class: Point]
+shape-flow.js:645:33: number
+shape-flow.js:645:36: number
+shape-flow.js:645:39: number
+shape-flow.js:645:43: number
+shape-flow.js:645:46: number
+shape-flow.js:645:49: number
+shape-flow.js:646:3-5: 
+shape-flow.js:646:3-51: 
+shape-flow.js:646:11-15: [class: Shape]
+shape-flow.js:646:11-50: Shape
+shape-flow.js:646:23-40: Point
+shape-flow.js:646:27-31: [class: Point]
+shape-flow.js:646:33: number
+shape-flow.js:646:36: number
+shape-flow.js:646:39: number
+shape-flow.js:646:43: number
+shape-flow.js:646:46: number
+shape-flow.js:646:49: number
+shape-flow.js:648:3-5: 
+shape-flow.js:648:3-83: 
+shape-flow.js:648:11-16: (origin: Point) => Shape
+shape-flow.js:648:11-36: Shape
+shape-flow.js:648:11-82: Shape
+shape-flow.js:648:18-35: Point
+shape-flow.js:648:22-26: [class: Point]
+shape-flow.js:648:28: number
+shape-flow.js:648:31: number
+shape-flow.js:648:34: number
+shape-flow.js:648:46-67: Point
+shape-flow.js:648:50-54: [class: Point]
+shape-flow.js:648:56-58: number
+shape-flow.js:648:61-63: number
+shape-flow.js:648:66: number
+shape-flow.js:648:70-77: number
+shape-flow.js:648:70-81: number
+shape-flow.js:648:71-74: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:648:71-77: number
+shape-flow.js:648:81: number
+shape-flow.js:650:3-5: 
+shape-flow.js:650:3,652:27: 
+shape-flow.js:650:11-15: [class: Shape]
+shape-flow.js:650:11-43: Shape
+shape-flow.js:650:11,651:35: Shape
+shape-flow.js:650:25-42: Point
+shape-flow.js:650:29-33: [class: Point]
+shape-flow.js:650:35: number
+shape-flow.js:650:38: number
+shape-flow.js:650:41: number
+shape-flow.js:651:12-29: Point
+shape-flow.js:651:16-20: [class: Point]
+shape-flow.js:651:22: number
+shape-flow.js:651:25: number
+shape-flow.js:651:28: number
+shape-flow.js:651:32-34: number
+shape-flow.js:652:5-26: 
+shape-flow.js:652:9-13: 
+shape-flow.js:652:15-17: number
+shape-flow.js:652:20-22: number
+shape-flow.js:652:25: number
+shape-flow.js:653:3-5: 
+shape-flow.js:653:3,655:27: 
+shape-flow.js:653:11-15: [class: Shape]
+shape-flow.js:653:11-43: Shape
+shape-flow.js:653:11,654:35: Shape
+shape-flow.js:653:25-42: Point
+shape-flow.js:653:29-33: [class: Point]
+shape-flow.js:653:35: number
+shape-flow.js:653:38: number
+shape-flow.js:653:41: number
+shape-flow.js:654:12-29: Point
+shape-flow.js:654:16-20: [class: Point]
+shape-flow.js:654:22: number
+shape-flow.js:654:25: number
+shape-flow.js:654:28: number
+shape-flow.js:654:32-34: number
+shape-flow.js:655:5-26: 
+shape-flow.js:655:9-13: 
+shape-flow.js:655:15-17: number
+shape-flow.js:655:20: number
+shape-flow.js:655:23-25: number
+shape-flow.js:656:3-5: 
+shape-flow.js:656:3,658:27: 
+shape-flow.js:656:11-15: [class: Shape]
+shape-flow.js:656:11-43: Shape
+shape-flow.js:656:11,657:35: Shape
+shape-flow.js:656:25-42: Point
+shape-flow.js:656:29-33: [class: Point]
+shape-flow.js:656:35: number
+shape-flow.js:656:38: number
+shape-flow.js:656:41: number
+shape-flow.js:657:12-29: Point
+shape-flow.js:657:16-20: [class: Point]
+shape-flow.js:657:22: number
+shape-flow.js:657:25: number
+shape-flow.js:657:28: number
+shape-flow.js:657:32-34: number
+shape-flow.js:658:5-26: 
+shape-flow.js:658:9-13: 
+shape-flow.js:658:15: number
+shape-flow.js:658:18-20: number
+shape-flow.js:658:23-25: number
+shape-flow.js:659:3-5: 
+shape-flow.js:659:3,661:27: 
+shape-flow.js:659:11-15: [class: Shape]
+shape-flow.js:659:11-43: Shape
+shape-flow.js:659:11,660:35: Shape
+shape-flow.js:659:25-42: Point
+shape-flow.js:659:29-33: [class: Point]
+shape-flow.js:659:35: number
+shape-flow.js:659:38: number
+shape-flow.js:659:41: number
+shape-flow.js:660:12-29: Point
+shape-flow.js:660:16-20: [class: Point]
+shape-flow.js:660:22: number
+shape-flow.js:660:25: number
+shape-flow.js:660:28: number
+shape-flow.js:660:32-34: number
+shape-flow.js:661:5-26: 
+shape-flow.js:661:9-13: 
+shape-flow.js:661:15-16: number
+shape-flow.js:661:19-21: number
+shape-flow.js:661:24-25: number
+shape-flow.js:663:3-5: 
+shape-flow.js:663:3-76: 
+shape-flow.js:663:11-15: [class: Shape]
+shape-flow.js:663:11-52: Shape
+shape-flow.js:663:23-40: Point
+shape-flow.js:663:27-31: [class: Point]
+shape-flow.js:663:33: number
+shape-flow.js:663:36: number
+shape-flow.js:663:39: number
+shape-flow.js:663:43: number
+shape-flow.js:663:46: number
+shape-flow.js:663:49-51: number
+shape-flow.js:663:55-75: 
+shape-flow.js:663:59-63: 
+shape-flow.js:663:65-66: number
+shape-flow.js:663:69-70: number
+shape-flow.js:663:73-74: number
+shape-flow.js:664:3-5: 
+shape-flow.js:664:3-61: 
+shape-flow.js:664:11-14: (origin: Point) => Shape
+shape-flow.js:664:11-36: Shape
+shape-flow.js:664:16-35: Point
+shape-flow.js:664:20-24: [class: Point]
+shape-flow.js:664:26: number
+shape-flow.js:664:29: number
+shape-flow.js:664:32-34: number
+shape-flow.js:664:39-60: 
+shape-flow.js:664:43-47: 
+shape-flow.js:664:49: number
+shape-flow.js:664:52-54: number
+shape-flow.js:664:57-59: number
+shape-flow.js:667:1-9: () => void
+shape-flow.js:667:1,677:1: () => void
+shape-flow.js:667:11-23: string
+shape-flow.js:667:28,677:1: () => void
+shape-flow.js:668:7-10: Shape
+shape-flow.js:668:14-18: [class: Shape]
+shape-flow.js:668:14-50: Shape
+shape-flow.js:668:26-40: Point
+shape-flow.js:668:30-34: [class: Point]
+shape-flow.js:668:36: number
+shape-flow.js:668:39: number
+shape-flow.js:668:43: number
+shape-flow.js:668:46: number
+shape-flow.js:668:49: number
+shape-flow.js:670:12: number
+shape-flow.js:670:16: number
+shape-flow.js:670:19: number
+shape-flow.js:670:19-24: boolean
+shape-flow.js:670:23-24: number
+shape-flow.js:670:27-29: number
+shape-flow.js:671:5-7: 
+shape-flow.js:671:5,675:25: 
+shape-flow.js:671:13-16: Shape
+shape-flow.js:671:13,672:58: Shape
+shape-flow.js:671:13,673:27: Shape
+shape-flow.js:671:13,674:52: Shape
+shape-flow.js:672:14-32: Point
+shape-flow.js:672:18-22: [class: Point]
+shape-flow.js:672:24-26: number
+shape-flow.js:672:29-31: number
+shape-flow.js:672:35-36: number
+shape-flow.js:672:35-42: number
+shape-flow.js:672:40: number
+shape-flow.js:672:40-42: number
+shape-flow.js:672:42: number
+shape-flow.js:672:45-46: number
+shape-flow.js:672:45-52: number
+shape-flow.js:672:50: number
+shape-flow.js:672:50-52: number
+shape-flow.js:672:52: number
+shape-flow.js:672:55: number
+shape-flow.js:672:55-57: number
+shape-flow.js:672:57: number
+shape-flow.js:673:18: number
+shape-flow.js:673:21: number
+shape-flow.js:673:24: number
+shape-flow.js:673:24-26: number
+shape-flow.js:673:26: number
+shape-flow.js:674:16-34: Point
+shape-flow.js:674:20-24: [class: Point]
+shape-flow.js:674:26-28: number
+shape-flow.js:674:31-33: number
+shape-flow.js:674:37-44: number
+shape-flow.js:674:37-47: number
+shape-flow.js:674:37-51: number
+shape-flow.js:674:38-41: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:674:38-44: number
+shape-flow.js:674:46-47: number
+shape-flow.js:674:51: number
+shape-flow.js:675:12-22: () => 
+shape-flow.js:675:12-24: 
+shape-flow.js:679:1-9: () => void
+shape-flow.js:679:1,687:1: () => void
+shape-flow.js:679:11-24: string
+shape-flow.js:679:29,687:1: () => void
+shape-flow.js:680:7: Shape
+shape-flow.js:680:11-15: [class: Shape]
+shape-flow.js:680:11,684:10: Shape
+shape-flow.js:680:11,684:33: Shape
+shape-flow.js:680:25,684:4: Path
+shape-flow.js:680:29-32: [class: Path]
+shape-flow.js:680:34,684:3: [, , ]
+shape-flow.js:681:5-9: [class: Point]
+shape-flow.js:681:5-18: 
+shape-flow.js:681:11: number
+shape-flow.js:681:14: number
+shape-flow.js:681:17: number
+shape-flow.js:682:5-9: [class: Point]
+shape-flow.js:682:5-18: 
+shape-flow.js:682:11: number
+shape-flow.js:682:14: number
+shape-flow.js:682:17: number
+shape-flow.js:683:5-9: [class: Point]
+shape-flow.js:683:5-18: 
+shape-flow.js:683:11: number
+shape-flow.js:683:14: number
+shape-flow.js:683:17: number
+shape-flow.js:684:7-9: number
+shape-flow.js:684:18-22: [class: Point]
+shape-flow.js:684:18-29: 
+shape-flow.js:684:32: number
+shape-flow.js:686:3-5: 
+shape-flow.js:686:3-36: 
+shape-flow.js:686:11: Shape
+shape-flow.js:686:14-35: 
+shape-flow.js:686:18-22: 
+shape-flow.js:686:24-25: number
+shape-flow.js:686:28-30: number
+shape-flow.js:686:33-34: number
+shape-flow.js:689:1-9: () => void
+shape-flow.js:689:1,696:1: () => void
+shape-flow.js:689:11-25: string
+shape-flow.js:689:30,696:1: () => void
+shape-flow.js:690:3-5: 
+shape-flow.js:690:3-48: 
+shape-flow.js:690:11-15: [class: Shape]
+shape-flow.js:690:11-47: Shape
+shape-flow.js:690:26-43: Point
+shape-flow.js:690:30-34: [class: Point]
+shape-flow.js:690:36: number
+shape-flow.js:690:39: number
+shape-flow.js:690:42: number
+shape-flow.js:690:46: number
+shape-flow.js:691:3-5: 
+shape-flow.js:691:3-74: 
+shape-flow.js:691:11-15: [class: Shape]
+shape-flow.js:691:11-58: Shape
+shape-flow.js:691:26-45: Point
+shape-flow.js:691:30-34: [class: Point]
+shape-flow.js:691:36-37: number
+shape-flow.js:691:40-41: number
+shape-flow.js:691:44: number
+shape-flow.js:691:48-50: number
+shape-flow.js:691:53-54: number
+shape-flow.js:691:57: number
+shape-flow.js:691:61-71: () => 
+shape-flow.js:691:61-73: 
+shape-flow.js:692:3-5: 
+shape-flow.js:692:3-74: 
+shape-flow.js:692:11-15: [class: Shape]
+shape-flow.js:692:11-58: Shape
+shape-flow.js:692:26-43: Point
+shape-flow.js:692:30-34: [class: Point]
+shape-flow.js:692:36: number
+shape-flow.js:692:39: number
+shape-flow.js:692:42: number
+shape-flow.js:692:46-49: number
+shape-flow.js:692:52-53: number
+shape-flow.js:692:56-57: number
+shape-flow.js:692:61-71: () => 
+shape-flow.js:692:61-73: 
+shape-flow.js:693:3-5: 
+shape-flow.js:693:3-74: 
+shape-flow.js:693:11-15: [class: Shape]
+shape-flow.js:693:11-58: Shape
+shape-flow.js:693:26-45: Point
+shape-flow.js:693:30-34: [class: Point]
+shape-flow.js:693:36-38: number
+shape-flow.js:693:41: number
+shape-flow.js:693:44: number
+shape-flow.js:693:48-50: number
+shape-flow.js:693:53-54: number
+shape-flow.js:693:57: number
+shape-flow.js:693:61-71: () => 
+shape-flow.js:693:61-73: 
+shape-flow.js:694:3-5: 
+shape-flow.js:694:3-73: 
+shape-flow.js:694:11-15: [class: Shape]
+shape-flow.js:694:11-57: Shape
+shape-flow.js:694:26-44: Point
+shape-flow.js:694:30-34: [class: Point]
+shape-flow.js:694:36-37: number
+shape-flow.js:694:40: number
+shape-flow.js:694:43: number
+shape-flow.js:694:47-49: number
+shape-flow.js:694:52-53: number
+shape-flow.js:694:56: number
+shape-flow.js:694:60-70: () => 
+shape-flow.js:694:60-72: 
+shape-flow.js:695:3-5: 
+shape-flow.js:695:3-70: 
+shape-flow.js:695:11-15: [class: Shape]
+shape-flow.js:695:11-54: Shape
+shape-flow.js:695:26-43: Point
+shape-flow.js:695:30-34: [class: Point]
+shape-flow.js:695:36: number
+shape-flow.js:695:39: number
+shape-flow.js:695:42: number
+shape-flow.js:695:46: number
+shape-flow.js:695:49-50: number
+shape-flow.js:695:53: number
+shape-flow.js:695:57-67: () => 
+shape-flow.js:695:57-69: 
+shape-flow.js:698:1-9: () => void
+shape-flow.js:698:1,700:1: () => void
+shape-flow.js:698:11-21: string
+shape-flow.js:698:26,700:1: () => void
+shape-flow.js:699:3-5: 
+shape-flow.js:699:3-91: 
+shape-flow.js:699:11-15: [class: Shape]
+shape-flow.js:699:11-90: Shape
+shape-flow.js:699:25-28: [class: Path]
+shape-flow.js:699:25-56: Path
+shape-flow.js:699:25-89: Path
+shape-flow.js:699:35-39: [class: Point]
+shape-flow.js:699:35-46: 
+shape-flow.js:699:49: number
+shape-flow.js:699:52: number
+shape-flow.js:699:55: number
+shape-flow.js:699:66-70: [class: Point]
+shape-flow.js:699:66-77: 
+shape-flow.js:699:80-83: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:699:80-86: number
+shape-flow.js:699:80-88: number
+shape-flow.js:699:88: number
+shape-flow.js:702:1-9: () => void
+shape-flow.js:702:1,707:1: () => void
+shape-flow.js:702:11-21: string
+shape-flow.js:702:26,707:1: () => void
+shape-flow.js:703:3-5: 
+shape-flow.js:703:3-72: 
+shape-flow.js:703:11-15: [class: Shape]
+shape-flow.js:703:11-47: Shape
+shape-flow.js:703:23-37: Point
+shape-flow.js:703:27-31: [class: Point]
+shape-flow.js:703:33: number
+shape-flow.js:703:36: number
+shape-flow.js:703:40: number
+shape-flow.js:703:43: number
+shape-flow.js:703:46: number
+shape-flow.js:703:50-71: 
+shape-flow.js:703:54-58: 
+shape-flow.js:703:60: number
+shape-flow.js:703:63-65: number
+shape-flow.js:703:68-70: number
+shape-flow.js:704:3-5: 
+shape-flow.js:704:3-74: 
+shape-flow.js:704:11-15: [class: Shape]
+shape-flow.js:704:11-49: Shape
+shape-flow.js:704:23-37: Point
+shape-flow.js:704:27-31: [class: Point]
+shape-flow.js:704:33: number
+shape-flow.js:704:36: number
+shape-flow.js:704:40: number
+shape-flow.js:704:43: number
+shape-flow.js:704:46-48: number
+shape-flow.js:704:52-73: 
+shape-flow.js:704:56-60: 
+shape-flow.js:704:62-63: number
+shape-flow.js:704:66-67: number
+shape-flow.js:704:70-72: number
+shape-flow.js:705:3-5: 
+shape-flow.js:705:3-72: 
+shape-flow.js:705:11-15: [class: Shape]
+shape-flow.js:705:11-47: Shape
+shape-flow.js:705:23-37: Point
+shape-flow.js:705:27-31: [class: Point]
+shape-flow.js:705:33: number
+shape-flow.js:705:36: number
+shape-flow.js:705:40: number
+shape-flow.js:705:43: number
+shape-flow.js:705:46: number
+shape-flow.js:705:50-71: 
+shape-flow.js:705:54-58: 
+shape-flow.js:705:60-61: number
+shape-flow.js:705:64-66: number
+shape-flow.js:705:69-70: number
+shape-flow.js:706:3-5: 
+shape-flow.js:706:3-74: 
+shape-flow.js:706:11-15: [class: Shape]
+shape-flow.js:706:11-49: Shape
+shape-flow.js:706:23-37: Point
+shape-flow.js:706:27-31: [class: Point]
+shape-flow.js:706:33: number
+shape-flow.js:706:36: number
+shape-flow.js:706:40: number
+shape-flow.js:706:43: number
+shape-flow.js:706:46-48: number
+shape-flow.js:706:52-73: 
+shape-flow.js:706:56-60: 
+shape-flow.js:706:62-64: number
+shape-flow.js:706:67-68: number
+shape-flow.js:706:71-72: number
+shape-flow.js:709:1-9: () => void
+shape-flow.js:709:1,716:1: () => void
+shape-flow.js:709:11-21: string
+shape-flow.js:709:26,716:1: () => void
+shape-flow.js:710:3-5: 
+shape-flow.js:710:3-41: 
+shape-flow.js:710:20-41: 
+shape-flow.js:710:24-28: 
+shape-flow.js:710:30-32: number
+shape-flow.js:710:35-36: number
+shape-flow.js:710:39-40: number
+shape-flow.js:711:3-5: 
+shape-flow.js:711:3-72: 
+shape-flow.js:711:11-15: [class: Shape]
+shape-flow.js:711:11-47: Shape
+shape-flow.js:711:23-37: Point
+shape-flow.js:711:27-31: [class: Point]
+shape-flow.js:711:33: number
+shape-flow.js:711:36: number
+shape-flow.js:711:40: number
+shape-flow.js:711:43: number
+shape-flow.js:711:46: number
+shape-flow.js:711:50-71: 
+shape-flow.js:711:54-58: 
+shape-flow.js:711:60: number
+shape-flow.js:711:63-65: number
+shape-flow.js:711:68-70: number
+shape-flow.js:712:3-5: 
+shape-flow.js:712:3-74: 
+shape-flow.js:712:11-15: [class: Shape]
+shape-flow.js:712:11-49: Shape
+shape-flow.js:712:23-37: Point
+shape-flow.js:712:27-31: [class: Point]
+shape-flow.js:712:33: number
+shape-flow.js:712:36: number
+shape-flow.js:712:40: number
+shape-flow.js:712:43: number
+shape-flow.js:712:46-48: number
+shape-flow.js:712:52-73: 
+shape-flow.js:712:56-60: 
+shape-flow.js:712:62-63: number
+shape-flow.js:712:66-67: number
+shape-flow.js:712:70-72: number
+shape-flow.js:713:3-5: 
+shape-flow.js:713:3-72: 
+shape-flow.js:713:11-15: [class: Shape]
+shape-flow.js:713:11-47: Shape
+shape-flow.js:713:23-37: Point
+shape-flow.js:713:27-31: [class: Point]
+shape-flow.js:713:33: number
+shape-flow.js:713:36: number
+shape-flow.js:713:40: number
+shape-flow.js:713:43: number
+shape-flow.js:713:46: number
+shape-flow.js:713:50-71: 
+shape-flow.js:713:54-58: 
+shape-flow.js:713:60-61: number
+shape-flow.js:713:64-66: number
+shape-flow.js:713:69-70: number
+shape-flow.js:714:3-5: 
+shape-flow.js:714:3-74: 
+shape-flow.js:714:11-15: [class: Shape]
+shape-flow.js:714:11-49: Shape
+shape-flow.js:714:23-37: Point
+shape-flow.js:714:27-31: [class: Point]
+shape-flow.js:714:33: number
+shape-flow.js:714:36: number
+shape-flow.js:714:40: number
+shape-flow.js:714:43: number
+shape-flow.js:714:46-48: number
+shape-flow.js:714:52-73: 
+shape-flow.js:714:56-60: 
+shape-flow.js:714:62-64: number
+shape-flow.js:714:67-68: number
+shape-flow.js:714:71-72: number
+shape-flow.js:715:3-5: 
+shape-flow.js:715:3-43: 
+shape-flow.js:715:20-43: 
+shape-flow.js:715:24-28: 
+shape-flow.js:715:30-32: number
+shape-flow.js:715:35-37: number
+shape-flow.js:715:40-42: number
+shape-flow.js:718:1-9: () => void
+shape-flow.js:718:1,725:1: () => void
+shape-flow.js:718:11-33: string
+shape-flow.js:718:38,725:1: () => void
+shape-flow.js:719:7-18: number
+shape-flow.js:719:22-25: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:719:22-34: number
+shape-flow.js:721:3-5: 
+shape-flow.js:721:3-86: 
+shape-flow.js:721:11-15: [class: Shape]
+shape-flow.js:721:11-47: Shape
+shape-flow.js:721:23-37: Point
+shape-flow.js:721:27-31: [class: Point]
+shape-flow.js:721:33: number
+shape-flow.js:721:36: number
+shape-flow.js:721:40: number
+shape-flow.js:721:43: number
+shape-flow.js:721:46: number
+shape-flow.js:721:50-85: 
+shape-flow.js:721:54-58: 
+shape-flow.js:721:60: number
+shape-flow.js:721:63-65: number
+shape-flow.js:721:68-70: number
+shape-flow.js:721:73-84: number
+shape-flow.js:722:3-5: 
+shape-flow.js:722:3-88: 
+shape-flow.js:722:11-15: [class: Shape]
+shape-flow.js:722:11-49: Shape
+shape-flow.js:722:23-37: Point
+shape-flow.js:722:27-31: [class: Point]
+shape-flow.js:722:33: number
+shape-flow.js:722:36: number
+shape-flow.js:722:40: number
+shape-flow.js:722:43: number
+shape-flow.js:722:46-48: number
+shape-flow.js:722:52-87: 
+shape-flow.js:722:56-60: 
+shape-flow.js:722:62-63: number
+shape-flow.js:722:66-67: number
+shape-flow.js:722:70-72: number
+shape-flow.js:722:75-86: number
+shape-flow.js:723:3-5: 
+shape-flow.js:723:3-86: 
+shape-flow.js:723:11-15: [class: Shape]
+shape-flow.js:723:11-47: Shape
+shape-flow.js:723:23-37: Point
+shape-flow.js:723:27-31: [class: Point]
+shape-flow.js:723:33: number
+shape-flow.js:723:36: number
+shape-flow.js:723:40: number
+shape-flow.js:723:43: number
+shape-flow.js:723:46: number
+shape-flow.js:723:50-85: 
+shape-flow.js:723:54-58: 
+shape-flow.js:723:60-61: number
+shape-flow.js:723:64-66: number
+shape-flow.js:723:69-70: number
+shape-flow.js:723:73-84: number
+shape-flow.js:724:3-5: 
+shape-flow.js:724:3-88: 
+shape-flow.js:724:11-15: [class: Shape]
+shape-flow.js:724:11-49: Shape
+shape-flow.js:724:23-37: Point
+shape-flow.js:724:27-31: [class: Point]
+shape-flow.js:724:33: number
+shape-flow.js:724:36: number
+shape-flow.js:724:40: number
+shape-flow.js:724:43: number
+shape-flow.js:724:46-48: number
+shape-flow.js:724:52-87: 
+shape-flow.js:724:56-60: 
+shape-flow.js:724:62-64: number
+shape-flow.js:724:67-68: number
+shape-flow.js:724:71-72: number
+shape-flow.js:724:75-86: number
+shape-flow.js:727:1-9: () => void
+shape-flow.js:727:1,736:1: () => void
+shape-flow.js:727:11-33: string
+shape-flow.js:727:38,736:1: () => void
+shape-flow.js:728:7-18: number
+shape-flow.js:728:22-25: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:728:22-34: number
+shape-flow.js:730:3-5: 
+shape-flow.js:730:3-41: 
+shape-flow.js:730:20-41: 
+shape-flow.js:730:24-28: 
+shape-flow.js:730:30-32: number
+shape-flow.js:730:35-36: number
+shape-flow.js:730:39-40: number
+shape-flow.js:731:3-5: 
+shape-flow.js:731:3-86: 
+shape-flow.js:731:11-15: [class: Shape]
+shape-flow.js:731:11-47: Shape
+shape-flow.js:731:23-37: Point
+shape-flow.js:731:27-31: [class: Point]
+shape-flow.js:731:33: number
+shape-flow.js:731:36: number
+shape-flow.js:731:40: number
+shape-flow.js:731:43: number
+shape-flow.js:731:46: number
+shape-flow.js:731:50-85: 
+shape-flow.js:731:54-58: 
+shape-flow.js:731:60: number
+shape-flow.js:731:63-65: number
+shape-flow.js:731:68-70: number
+shape-flow.js:731:73-84: number
+shape-flow.js:732:3-5: 
+shape-flow.js:732:3-88: 
+shape-flow.js:732:11-15: [class: Shape]
+shape-flow.js:732:11-49: Shape
+shape-flow.js:732:23-37: Point
+shape-flow.js:732:27-31: [class: Point]
+shape-flow.js:732:33: number
+shape-flow.js:732:36: number
+shape-flow.js:732:40: number
+shape-flow.js:732:43: number
+shape-flow.js:732:46-48: number
+shape-flow.js:732:52-87: 
+shape-flow.js:732:56-60: 
+shape-flow.js:732:62-63: number
+shape-flow.js:732:66-67: number
+shape-flow.js:732:70-72: number
+shape-flow.js:732:75-86: number
+shape-flow.js:733:3-5: 
+shape-flow.js:733:3-86: 
+shape-flow.js:733:11-15: [class: Shape]
+shape-flow.js:733:11-47: Shape
+shape-flow.js:733:23-37: Point
+shape-flow.js:733:27-31: [class: Point]
+shape-flow.js:733:33: number
+shape-flow.js:733:36: number
+shape-flow.js:733:40: number
+shape-flow.js:733:43: number
+shape-flow.js:733:46: number
+shape-flow.js:733:50-85: 
+shape-flow.js:733:54-58: 
+shape-flow.js:733:60-61: number
+shape-flow.js:733:64-66: number
+shape-flow.js:733:69-70: number
+shape-flow.js:733:73-84: number
+shape-flow.js:734:3-5: 
+shape-flow.js:734:3-88: 
+shape-flow.js:734:11-15: [class: Shape]
+shape-flow.js:734:11-49: Shape
+shape-flow.js:734:23-37: Point
+shape-flow.js:734:27-31: [class: Point]
+shape-flow.js:734:33: number
+shape-flow.js:734:36: number
+shape-flow.js:734:40: number
+shape-flow.js:734:43: number
+shape-flow.js:734:46-48: number
+shape-flow.js:734:52-87: 
+shape-flow.js:734:56-60: 
+shape-flow.js:734:62-64: number
+shape-flow.js:734:67-68: number
+shape-flow.js:734:71-72: number
+shape-flow.js:734:75-86: number
+shape-flow.js:735:3-5: 
+shape-flow.js:735:3-43: 
+shape-flow.js:735:20-43: 
+shape-flow.js:735:24-28: 
+shape-flow.js:735:30-32: number
+shape-flow.js:735:35-37: number
+shape-flow.js:735:40-42: number
+shape-flow.js:738:1-9: () => void
+shape-flow.js:738:1,767:1: () => () => void
+shape-flow.js:738:11-25: string
+shape-flow.js:738:30,767:1: () => () => void
+shape-flow.js:739:7-10: Shape
+shape-flow.js:739:14-18: [class: Shape]
+shape-flow.js:739:14-50: Shape
+shape-flow.js:739:26-40: Point
+shape-flow.js:739:30-34: [class: Point]
+shape-flow.js:739:36: number
+shape-flow.js:739:39: number
+shape-flow.js:739:43: number
+shape-flow.js:739:46: number
+shape-flow.js:739:49: number
+shape-flow.js:740:7-11: number
+shape-flow.js:740:15: number
+shape-flow.js:742:10,766:3: () => void
+shape-flow.js:744:5-7: 
+shape-flow.js:744:5-86: 
+shape-flow.js:744:13-17: [class: Shape]
+shape-flow.js:744:13-59: Shape
+shape-flow.js:744:25-45: Point
+shape-flow.js:744:29-33: [class: Point]
+shape-flow.js:744:35: number
+shape-flow.js:744:38: number
+shape-flow.js:744:41-44: number
+shape-flow.js:744:42-44: number
+shape-flow.js:744:48-49: number
+shape-flow.js:744:52-53: number
+shape-flow.js:744:56-58: number
+shape-flow.js:744:62-85: 
+shape-flow.js:744:66-70: 
+shape-flow.js:744:72-74: number
+shape-flow.js:744:77-79: number
+shape-flow.js:744:82-84: number
+shape-flow.js:747:14: number
+shape-flow.js:747:18: number
+shape-flow.js:747:21: number
+shape-flow.js:747:21-25: boolean
+shape-flow.js:747:25: number
+shape-flow.js:747:28-30: number
+shape-flow.js:748:7-9: 
+shape-flow.js:748:7,751:45: 
+shape-flow.js:748:15-18: Shape
+shape-flow.js:748:15,749:31: Shape
+shape-flow.js:748:15,750:71: Shape
+shape-flow.js:749:20: number
+shape-flow.js:749:20-24: number
+shape-flow.js:749:24: number
+shape-flow.js:749:27: number
+shape-flow.js:749:30: number
+shape-flow.js:750:18-41: Point
+shape-flow.js:750:22-26: [class: Point]
+shape-flow.js:750:28-30: number
+shape-flow.js:750:33-35: number
+shape-flow.js:750:38-40: number
+shape-flow.js:750:44-51: number
+shape-flow.js:750:44-54: number
+shape-flow.js:750:44-62: number
+shape-flow.js:750:44-70: number
+shape-flow.js:750:45-48: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:750:45-51: number
+shape-flow.js:750:53-54: number
+shape-flow.js:750:59: number
+shape-flow.js:750:59-61: number
+shape-flow.js:750:61: number
+shape-flow.js:750:66-70: number
+shape-flow.js:751:11-44: 
+shape-flow.js:751:15-19: 
+shape-flow.js:751:21-23: number
+shape-flow.js:751:21-32: number
+shape-flow.js:751:27: number
+shape-flow.js:751:27-32: number
+shape-flow.js:751:31-32: number
+shape-flow.js:751:35: number
+shape-flow.js:751:38: number
+shape-flow.js:751:41-43: number
+shape-flow.js:753:14: number
+shape-flow.js:753:18: number
+shape-flow.js:753:21: number
+shape-flow.js:753:21-25: boolean
+shape-flow.js:753:25: number
+shape-flow.js:753:28-30: number
+shape-flow.js:754:7-9: 
+shape-flow.js:754:7,757:45: 
+shape-flow.js:754:15-18: Shape
+shape-flow.js:754:15,755:31: Shape
+shape-flow.js:754:15,756:70: Shape
+shape-flow.js:755:20: number
+shape-flow.js:755:23: number
+shape-flow.js:755:23-27: number
+shape-flow.js:755:27: number
+shape-flow.js:755:30: number
+shape-flow.js:756:18-41: Point
+shape-flow.js:756:22-26: [class: Point]
+shape-flow.js:756:28-30: number
+shape-flow.js:756:33-35: number
+shape-flow.js:756:38-40: number
+shape-flow.js:756:44-51: number
+shape-flow.js:756:44-53: number
+shape-flow.js:756:44-61: number
+shape-flow.js:756:44-69: number
+shape-flow.js:756:45-48: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:756:45-51: number
+shape-flow.js:756:53: number
+shape-flow.js:756:58: number
+shape-flow.js:756:58-60: number
+shape-flow.js:756:60: number
+shape-flow.js:756:65-69: number
+shape-flow.js:757:11-44: 
+shape-flow.js:757:15-19: 
+shape-flow.js:757:21: number
+shape-flow.js:757:24-26: number
+shape-flow.js:757:24-35: number
+shape-flow.js:757:30: number
+shape-flow.js:757:30-35: number
+shape-flow.js:757:34-35: number
+shape-flow.js:757:38: number
+shape-flow.js:757:41-43: number
+shape-flow.js:759:14: number
+shape-flow.js:759:18: number
+shape-flow.js:759:21: number
+shape-flow.js:759:21-25: boolean
+shape-flow.js:759:25: number
+shape-flow.js:759:28-30: number
+shape-flow.js:760:7-9: 
+shape-flow.js:760:7,763:45: 
+shape-flow.js:760:15-18: Shape
+shape-flow.js:760:15,761:31: Shape
+shape-flow.js:760:15,762:61: Shape
+shape-flow.js:761:20: number
+shape-flow.js:761:23: number
+shape-flow.js:761:26: number
+shape-flow.js:761:26-30: number
+shape-flow.js:761:30: number
+shape-flow.js:762:18-36: Point
+shape-flow.js:762:22-26: [class: Point]
+shape-flow.js:762:28-30: number
+shape-flow.js:762:33-35: number
+shape-flow.js:762:39-46: number
+shape-flow.js:762:39-48: number
+shape-flow.js:762:39-52: number
+shape-flow.js:762:39-60: number
+shape-flow.js:762:40-43: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:762:40-46: number
+shape-flow.js:762:48: number
+shape-flow.js:762:52: number
+shape-flow.js:762:56-60: number
+shape-flow.js:763:11-44: 
+shape-flow.js:763:15-19: 
+shape-flow.js:763:21: number
+shape-flow.js:763:24: number
+shape-flow.js:763:27-29: number
+shape-flow.js:763:27-38: number
+shape-flow.js:763:33: number
+shape-flow.js:763:33-38: number
+shape-flow.js:763:37-38: number
+shape-flow.js:763:41-43: number
+shape-flow.js:765:5-29: number
+shape-flow.js:765:14: number
+shape-flow.js:765:14-24: number
+shape-flow.js:765:14-29: number
+shape-flow.js:765:18-21: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+shape-flow.js:765:18-24: number
+shape-flow.js:765:28-29: number
+shape-flow.js:772:2,798:1: () => void
+shape-flow.js:772:2,798:4: void
+shape-flow.js:773:7-8: string
+shape-flow.js:774:7-11: HTMLElement
+shape-flow.js:774:15-22: Document
+shape-flow.js:774:15-48: HTMLElement
+shape-flow.js:774:39-47: string
+shape-flow.js:775:7-12: HTMLDivElement
+shape-flow.js:776:7-20: number
+shape-flow.js:778:14-22: () => void
+shape-flow.js:779:5-42: HTMLDivElement
+shape-flow.js:779:14-21: Document
+shape-flow.js:779:14-42: HTMLDivElement
+shape-flow.js:779:37-41: string
+shape-flow.js:780:5-10: HTMLDivElement
+shape-flow.js:780:5-20: DOMTokenList
+shape-flow.js:780:5-36: void
+shape-flow.js:780:26-35: string
+shape-flow.js:781:5-10: HTMLDivElement
+shape-flow.js:781:5-25: string
+shape-flow.js:781:24-25: string
+shape-flow.js:782:5-10: HTMLDivElement
+shape-flow.js:782:5,794:21: () => void
+shape-flow.js:782:23,794:5: (fn: ) => () => void
+shape-flow.js:782:23,794:21: () => void
+shape-flow.js:782:33-34: 
+shape-flow.js:783:14,793:7: () => void
+shape-flow.js:785:9-21: (intervalId?: number) => void
+shape-flow.js:785:9-37: void
+shape-flow.js:785:23-36: number
+shape-flow.js:786:9-11: 
+shape-flow.js:786:9-18: 
+shape-flow.js:786:9-26: 
+shape-flow.js:787:13: 
+shape-flow.js:787:17-18: 
+shape-flow.js:787:17-20: 
+shape-flow.js:790:13-18: [class: Object]
+shape-flow.js:790:13-28: Object
+shape-flow.js:790:13-37: () => string
+shape-flow.js:790:13-45: string
+shape-flow.js:790:44: 
+shape-flow.js:790:50-68: string
+shape-flow.js:791:11-50: number
+shape-flow.js:791:28-38: (callback: any, ms?: number, ...args: Array<any>) => number
+shape-flow.js:791:28-50: number
+shape-flow.js:791:40: 
+shape-flow.js:791:43-46: number
+shape-flow.js:791:43-49: number
+shape-flow.js:791:48-49: number
+shape-flow.js:794:8-16: () => void
+shape-flow.js:794:8-20: 
+shape-flow.js:794:18-19: string
+shape-flow.js:796:5-9: HTMLElement
+shape-flow.js:796:5-29: Node
+shape-flow.js:796:23-28: HTMLDivElement

@@ -1,0 +1,1343 @@
+canvas-flow.js:1:1,34:1: [class: Canvas]
+canvas-flow.js:2:15-18: 
+canvas-flow.js:3:5-8: Canvas
+canvas-flow.js:3:5-20: 
+canvas-flow.js:3:17-20: 
+canvas-flow.js:4:5-8: Canvas
+canvas-flow.js:4:5-41: 
+canvas-flow.js:4:16-24: 
+canvas-flow.js:4:16-41: 
+canvas-flow.js:4:37-40: string
+canvas-flow.js:6:5-8: Canvas
+canvas-flow.js:6:5-27: 
+canvas-flow.js:6:18-21: 
+canvas-flow.js:6:18-27: 
+canvas-flow.js:7:5-8: Canvas
+canvas-flow.js:7:5-29: 
+canvas-flow.js:7:19-22: 
+canvas-flow.js:7:19-29: 
+canvas-flow.js:11:5-8: Canvas
+canvas-flow.js:11:5-12: 
+canvas-flow.js:11:5-53: 
+canvas-flow.js:11:24: number
+canvas-flow.js:11:27: number
+canvas-flow.js:11:30-33: Canvas
+canvas-flow.js:11:30-39: 
+canvas-flow.js:11:42-45: Canvas
+canvas-flow.js:11:42-52: 
+canvas-flow.js:14:8-13: 
+canvas-flow.js:14:16-20: 
+canvas-flow.js:15:5-8: Canvas
+canvas-flow.js:15:5-12: 
+canvas-flow.js:15:5-24: 
+canvas-flow.js:16:5-8: Canvas
+canvas-flow.js:16:5-12: 
+canvas-flow.js:16:5-45: 
+canvas-flow.js:16:21-26: 
+canvas-flow.js:16:21-29: 
+canvas-flow.js:16:21-31: 
+canvas-flow.js:16:28: number
+canvas-flow.js:16:34-39: 
+canvas-flow.js:16:34-42: 
+canvas-flow.js:16:34-44: 
+canvas-flow.js:16:41: number
+canvas-flow.js:18:14: number
+canvas-flow.js:18:18: number
+canvas-flow.js:18:21: number
+canvas-flow.js:18:21-37: boolean
+canvas-flow.js:18:25-30: 
+canvas-flow.js:18:25-37: 
+canvas-flow.js:18:40-42: number
+canvas-flow.js:19:7-10: Canvas
+canvas-flow.js:19:7-14: 
+canvas-flow.js:19:7-47: 
+canvas-flow.js:19:23-28: 
+canvas-flow.js:19:23-31: 
+canvas-flow.js:19:23-33: 
+canvas-flow.js:19:30: number
+canvas-flow.js:19:36-41: 
+canvas-flow.js:19:36-44: 
+canvas-flow.js:19:36-46: 
+canvas-flow.js:19:43: number
+canvas-flow.js:22:5-8: Canvas
+canvas-flow.js:22:5-12: 
+canvas-flow.js:22:5-24: 
+canvas-flow.js:25:5-8: Canvas
+canvas-flow.js:25:5-12: 
+canvas-flow.js:25:5-19: 
+canvas-flow.js:27:5-8: Canvas
+canvas-flow.js:27:5-12: 
+canvas-flow.js:27:5-34: 
+canvas-flow.js:27:28-32: 
+canvas-flow.js:27:28-34: 
+canvas-flow.js:28:5-8: Canvas
+canvas-flow.js:28:5-12: 
+canvas-flow.js:28:5-61: 
+canvas-flow.js:28:26-29: Canvas
+canvas-flow.js:28:26-33: 
+canvas-flow.js:28:26-61: 
+canvas-flow.js:28:49-53: 
+canvas-flow.js:28:49-61: 
+canvas-flow.js:29:5-8: Canvas
+canvas-flow.js:29:5-12: 
+canvas-flow.js:29:5-21: 
+canvas-flow.js:30:5-8: Canvas
+canvas-flow.js:30:5-12: 
+canvas-flow.js:30:5-19: 
+canvas-flow.js:31:5-8: Canvas
+canvas-flow.js:31:5-12: 
+canvas-flow.js:31:5-22: 
+canvas-flow.js:42:5-7: 
+canvas-flow.js:42:11-55: 
+canvas-flow.js:42:15-20: 
+canvas-flow.js:42:22-29: Document
+canvas-flow.js:42:22-54: HTMLElement
+canvas-flow.js:42:46-53: string
+canvas-flow.js:43:5-9: 
+canvas-flow.js:43:13-18: 
+canvas-flow.js:43:13-24: 
+canvas-flow.js:44:5-8: 
+canvas-flow.js:44:12-17: 
+canvas-flow.js:44:12-22: 
+canvas-flow.js:45:5-9: 
+canvas-flow.js:45:13-18: 
+canvas-flow.js:45:13-24: 
+canvas-flow.js:46:5-9: 
+canvas-flow.js:46:13-18: 
+canvas-flow.js:46:13-24: 
+canvas-flow.js:48:10-18: () => void
+canvas-flow.js:50:10-15: (origin: ) => 
+canvas-flow.js:50:17-22: 
+canvas-flow.js:51:7-16: number
+canvas-flow.js:51:20-21: number
+canvas-flow.js:54:7-12: 
+canvas-flow.js:54:16-31: 
+canvas-flow.js:54:20-23: 
+canvas-flow.js:54:25-30: 
+canvas-flow.js:55:7-11: Array<>
+canvas-flow.js:55:15-16: Array<>
+canvas-flow.js:55:19: number
+canvas-flow.js:58:7-12: 
+canvas-flow.js:58:16-26: 
+canvas-flow.js:58:20-24: 
+canvas-flow.js:60:8-12: number
+canvas-flow.js:60:12: number
+canvas-flow.js:60:15: number
+canvas-flow.js:60:15-28: boolean
+canvas-flow.js:60:19-28: number
+canvas-flow.js:60:31-33: number
+canvas-flow.js:67:9-18: 
+canvas-flow.js:67:22-27: 
+canvas-flow.js:67:22-78: 
+canvas-flow.js:67:39: number
+canvas-flow.js:67:42: number
+canvas-flow.js:67:42-55: number
+canvas-flow.js:67:46-55: number
+canvas-flow.js:67:58-77: number
+canvas-flow.js:67:59: number
+canvas-flow.js:67:59-63: number
+canvas-flow.js:67:63: number
+canvas-flow.js:67:68-77: number
+canvas-flow.js:69:5-9: Array<>
+canvas-flow.js:69:5,74:7: number
+canvas-flow.js:69:16,74:6: 
+canvas-flow.js:69:20-23: 
+canvas-flow.js:69:25,74:5: [, , , ]
+canvas-flow.js:70:7-16: 
+canvas-flow.js:71:7-16: 
+canvas-flow.js:71:7-49: 
+canvas-flow.js:71:28: number
+canvas-flow.js:71:31: number
+canvas-flow.js:71:34-35: number
+canvas-flow.js:71:34-48: number
+canvas-flow.js:71:35: number
+canvas-flow.js:71:39-48: number
+canvas-flow.js:72:7-16: 
+canvas-flow.js:72:7-49: 
+canvas-flow.js:72:28: number
+canvas-flow.js:72:31: number
+canvas-flow.js:72:34-35: number
+canvas-flow.js:72:34-48: number
+canvas-flow.js:72:35: number
+canvas-flow.js:72:39-48: number
+canvas-flow.js:73:7-16: 
+canvas-flow.js:73:7-35: 
+canvas-flow.js:73:28: number
+canvas-flow.js:73:31: number
+canvas-flow.js:73:34: number
+canvas-flow.js:76:5-9: Array<>
+canvas-flow.js:76:5,81:7: number
+canvas-flow.js:76:16,81:6: 
+canvas-flow.js:76:20-23: 
+canvas-flow.js:76:25,81:5: [, , , ]
+canvas-flow.js:77:7-16: 
+canvas-flow.js:78:7-16: 
+canvas-flow.js:78:7-35: 
+canvas-flow.js:78:28: number
+canvas-flow.js:78:31: number
+canvas-flow.js:78:34: number
+canvas-flow.js:79:7-16: 
+canvas-flow.js:79:7-48: 
+canvas-flow.js:79:28: number
+canvas-flow.js:79:31: number
+canvas-flow.js:79:31-44: number
+canvas-flow.js:79:35-44: number
+canvas-flow.js:79:47: number
+canvas-flow.js:80:7-16: 
+canvas-flow.js:80:7-48: 
+canvas-flow.js:80:28: number
+canvas-flow.js:80:31: number
+canvas-flow.js:80:31-44: number
+canvas-flow.js:80:35-44: number
+canvas-flow.js:80:47: number
+canvas-flow.js:83:5-10: 
+canvas-flow.js:83:5-27: 
+canvas-flow.js:83:17-26: 
+canvas-flow.js:84:5-10: 
+canvas-flow.js:84:5-59: 
+canvas-flow.js:84:17-26: 
+canvas-flow.js:84:17-58: 
+canvas-flow.js:84:38: number
+canvas-flow.js:84:41: number
+canvas-flow.js:84:41-54: number
+canvas-flow.js:84:45-54: number
+canvas-flow.js:84:57: number
+canvas-flow.js:87:3-8: 
+canvas-flow.js:87:3-40: 
+canvas-flow.js:87:15-20: 
+canvas-flow.js:87:15-39: 
+canvas-flow.js:87:32: number
+canvas-flow.js:87:35: number
+canvas-flow.js:87:38: number
+canvas-flow.js:90:8-12: number
+canvas-flow.js:90:12: number
+canvas-flow.js:90:15: number
+canvas-flow.js:90:15-30: boolean
+canvas-flow.js:90:19-23: Array<>
+canvas-flow.js:90:19-30: number
+canvas-flow.js:90:33-35: number
+canvas-flow.js:91:5-10: 
+canvas-flow.js:91:5-25: 
+canvas-flow.js:91:17-21: Array<>
+canvas-flow.js:91:17-24: 
+canvas-flow.js:91:23: number
+canvas-flow.js:93:3-8: 
+canvas-flow.js:93:3-21: 
+canvas-flow.js:93:15-20: 
+canvas-flow.js:94:3-8: 
+canvas-flow.js:94:3-50: 
+canvas-flow.js:94:15-20: 
+canvas-flow.js:94:15-30: 
+canvas-flow.js:94:15-49: 
+canvas-flow.js:94:42: number
+canvas-flow.js:94:45: number
+canvas-flow.js:94:48: number
+canvas-flow.js:96:10-15: 
+canvas-flow.js:99:10-13: (origin: ) => 
+canvas-flow.js:99:15-20: 
+canvas-flow.js:100:7-10: 
+canvas-flow.js:100:14-24: 
+canvas-flow.js:100:18-22: 
+canvas-flow.js:102:3-6: 
+canvas-flow.js:102:3-74: 
+canvas-flow.js:102:16-19: 
+canvas-flow.js:102:16-25: 
+canvas-flow.js:102:16-74: 
+canvas-flow.js:102:34-38: 
+canvas-flow.js:102:34-67: 
+canvas-flow.js:102:34-73: 
+canvas-flow.js:102:46-50: 
+canvas-flow.js:102:46-57: 
+canvas-flow.js:102:60: number
+canvas-flow.js:102:63: number
+canvas-flow.js:102:66: number
+canvas-flow.js:103:3-6: 
+canvas-flow.js:103:3-80: 
+canvas-flow.js:103:16-25: 
+canvas-flow.js:103:16-80: 
+canvas-flow.js:103:34-38: 
+canvas-flow.js:103:34-73: 
+canvas-flow.js:103:34-79: 
+canvas-flow.js:103:46-63: 
+canvas-flow.js:103:50-54: 
+canvas-flow.js:103:56: number
+canvas-flow.js:103:59: number
+canvas-flow.js:103:62: number
+canvas-flow.js:103:66: number
+canvas-flow.js:103:69: number
+canvas-flow.js:103:72: number
+canvas-flow.js:104:3-6: 
+canvas-flow.js:104:3-81: 
+canvas-flow.js:104:16-25: 
+canvas-flow.js:104:16-81: 
+canvas-flow.js:104:34-38: 
+canvas-flow.js:104:34-74: 
+canvas-flow.js:104:34-80: 
+canvas-flow.js:104:46-64: 
+canvas-flow.js:104:50-54: 
+canvas-flow.js:104:56: number
+canvas-flow.js:104:59: number
+canvas-flow.js:104:62-63: number
+canvas-flow.js:104:63: number
+canvas-flow.js:104:67: number
+canvas-flow.js:104:70: number
+canvas-flow.js:104:73: number
+canvas-flow.js:106:3-6: 
+canvas-flow.js:106:3,111:5: 
+canvas-flow.js:106:13,111:4: 
+canvas-flow.js:106:17-20: 
+canvas-flow.js:106:22,111:3: [, , , ]
+canvas-flow.js:107:5-22: 
+canvas-flow.js:107:9-13: 
+canvas-flow.js:107:15: number
+canvas-flow.js:107:18: number
+canvas-flow.js:107:21: number
+canvas-flow.js:108:5-22: 
+canvas-flow.js:108:9-13: 
+canvas-flow.js:108:15: number
+canvas-flow.js:108:18: number
+canvas-flow.js:108:21: number
+canvas-flow.js:109:5-22: 
+canvas-flow.js:109:9-13: 
+canvas-flow.js:109:15: number
+canvas-flow.js:109:18: number
+canvas-flow.js:109:21: number
+canvas-flow.js:110:5-22: 
+canvas-flow.js:110:9-13: 
+canvas-flow.js:110:15: number
+canvas-flow.js:110:18: number
+canvas-flow.js:110:21: number
+canvas-flow.js:113:3-6: 
+canvas-flow.js:113:3,118:5: 
+canvas-flow.js:113:13,118:4: 
+canvas-flow.js:113:17-20: 
+canvas-flow.js:113:22,118:3: [, , , ]
+canvas-flow.js:114:5-22: 
+canvas-flow.js:114:9-13: 
+canvas-flow.js:114:15: number
+canvas-flow.js:114:18: number
+canvas-flow.js:114:21: number
+canvas-flow.js:115:5-22: 
+canvas-flow.js:115:9-13: 
+canvas-flow.js:115:15: number
+canvas-flow.js:115:18: number
+canvas-flow.js:115:21: number
+canvas-flow.js:116:5-22: 
+canvas-flow.js:116:9-13: 
+canvas-flow.js:116:15: number
+canvas-flow.js:116:18: number
+canvas-flow.js:116:21: number
+canvas-flow.js:117:5-22: 
+canvas-flow.js:117:9-13: 
+canvas-flow.js:117:15: number
+canvas-flow.js:117:18: number
+canvas-flow.js:117:21: number
+canvas-flow.js:120:10-13: 
+canvas-flow.js:120:10-38: 
+canvas-flow.js:120:10-65: 
+canvas-flow.js:120:10-105: 
+canvas-flow.js:120:21-25: 
+canvas-flow.js:120:21-32: 
+canvas-flow.js:120:35: number
+canvas-flow.js:120:35-37: number
+canvas-flow.js:120:37: number
+canvas-flow.js:120:50-53: number
+canvas-flow.js:120:51-53: number
+canvas-flow.js:120:56-59: number
+canvas-flow.js:120:62-64: number
+canvas-flow.js:120:77-82: 
+canvas-flow.js:120:77-84: 
+canvas-flow.js:120:87-92: 
+canvas-flow.js:120:87-94: 
+canvas-flow.js:120:97-102: 
+canvas-flow.js:120:97-104: 
+canvas-flow.js:123:10-20: () => 
+canvas-flow.js:124:10,127:34: 
+canvas-flow.js:124:14-18: 
+canvas-flow.js:125:5-12: (string: mixed, radix?: number) => number
+canvas-flow.js:125:5-33: number
+canvas-flow.js:125:14-17: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+canvas-flow.js:125:14-26: number
+canvas-flow.js:125:14-32: number
+canvas-flow.js:125:30-32: number
+canvas-flow.js:126:5-12: (string: mixed, radix?: number) => number
+canvas-flow.js:126:5-33: number
+canvas-flow.js:126:14-17: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+canvas-flow.js:126:14-26: number
+canvas-flow.js:126:14-32: number
+canvas-flow.js:126:30-32: number
+canvas-flow.js:127:5-12: (string: mixed, radix?: number) => number
+canvas-flow.js:127:5-33: number
+canvas-flow.js:127:14-17: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+canvas-flow.js:127:14-26: number
+canvas-flow.js:127:14-32: number
+canvas-flow.js:127:30-32: number
+canvas-flow.js:130:1-9: () => void
+canvas-flow.js:130:1,158:1: () => void
+canvas-flow.js:130:11-26: string
+canvas-flow.js:130:31,158:1: () => void
+canvas-flow.js:131:3-5: 
+canvas-flow.js:131:3-51: 
+canvas-flow.js:131:11-15: 
+canvas-flow.js:131:11-50: 
+canvas-flow.js:131:23-40: 
+canvas-flow.js:131:27-31: 
+canvas-flow.js:131:33: number
+canvas-flow.js:131:36: number
+canvas-flow.js:131:39: number
+canvas-flow.js:131:43: number
+canvas-flow.js:131:46: number
+canvas-flow.js:131:49: number
+canvas-flow.js:132:3-5: 
+canvas-flow.js:132:3-51: 
+canvas-flow.js:132:11-15: 
+canvas-flow.js:132:11-50: 
+canvas-flow.js:132:23-40: 
+canvas-flow.js:132:27-31: 
+canvas-flow.js:132:33: number
+canvas-flow.js:132:36: number
+canvas-flow.js:132:39: number
+canvas-flow.js:132:43: number
+canvas-flow.js:132:46: number
+canvas-flow.js:132:49: number
+canvas-flow.js:133:3-5: 
+canvas-flow.js:133:3-52: 
+canvas-flow.js:133:11-15: 
+canvas-flow.js:133:11-51: 
+canvas-flow.js:133:23-41: 
+canvas-flow.js:133:27-31: 
+canvas-flow.js:133:33-34: number
+canvas-flow.js:133:34: number
+canvas-flow.js:133:37: number
+canvas-flow.js:133:40: number
+canvas-flow.js:133:44: number
+canvas-flow.js:133:47: number
+canvas-flow.js:133:50: number
+canvas-flow.js:135:3-5: 
+canvas-flow.js:135:3-38: 
+canvas-flow.js:135:11-16: (origin: ) => 
+canvas-flow.js:135:11-37: 
+canvas-flow.js:135:18-36: 
+canvas-flow.js:135:22-26: 
+canvas-flow.js:135:28-29: number
+canvas-flow.js:135:29: number
+canvas-flow.js:135:32: number
+canvas-flow.js:135:35: number
+canvas-flow.js:136:3-5: 
+canvas-flow.js:136:3-83: 
+canvas-flow.js:136:11-16: (origin: ) => 
+canvas-flow.js:136:11-36: 
+canvas-flow.js:136:11-82: 
+canvas-flow.js:136:18-35: 
+canvas-flow.js:136:22-26: 
+canvas-flow.js:136:28: number
+canvas-flow.js:136:31: number
+canvas-flow.js:136:34: number
+canvas-flow.js:136:46-67: 
+canvas-flow.js:136:50-54: 
+canvas-flow.js:136:56-58: number
+canvas-flow.js:136:61-63: number
+canvas-flow.js:136:66: number
+canvas-flow.js:136:70-77: number
+canvas-flow.js:136:70-81: number
+canvas-flow.js:136:71-74: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+canvas-flow.js:136:71-77: number
+canvas-flow.js:136:81: number
+canvas-flow.js:138:3-5: 
+canvas-flow.js:138:3-51: 
+canvas-flow.js:138:11-15: 
+canvas-flow.js:138:11-50: 
+canvas-flow.js:138:23-40: 
+canvas-flow.js:138:27-31: 
+canvas-flow.js:138:33: number
+canvas-flow.js:138:36: number
+canvas-flow.js:138:39: number
+canvas-flow.js:138:43: number
+canvas-flow.js:138:46: number
+canvas-flow.js:138:49: number
+canvas-flow.js:139:3-5: 
+canvas-flow.js:139:3-51: 
+canvas-flow.js:139:11-15: 
+canvas-flow.js:139:11-50: 
+canvas-flow.js:139:23-40: 
+canvas-flow.js:139:27-31: 
+canvas-flow.js:139:33: number
+canvas-flow.js:139:36: number
+canvas-flow.js:139:39: number
+canvas-flow.js:139:43: number
+canvas-flow.js:139:46: number
+canvas-flow.js:139:49: number
+canvas-flow.js:141:3-5: 
+canvas-flow.js:141:3-83: 
+canvas-flow.js:141:11-16: (origin: ) => 
+canvas-flow.js:141:11-36: 
+canvas-flow.js:141:11-82: 
+canvas-flow.js:141:18-35: 
+canvas-flow.js:141:22-26: 
+canvas-flow.js:141:28: number
+canvas-flow.js:141:31: number
+canvas-flow.js:141:34: number
+canvas-flow.js:141:46-67: 
+canvas-flow.js:141:50-54: 
+canvas-flow.js:141:56-58: number
+canvas-flow.js:141:61-63: number
+canvas-flow.js:141:66: number
+canvas-flow.js:141:70-77: number
+canvas-flow.js:141:70-81: number
+canvas-flow.js:141:71-74: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+canvas-flow.js:141:71-77: number
+canvas-flow.js:141:81: number
+canvas-flow.js:143:3-5: 
+canvas-flow.js:143:3,145:27: 
+canvas-flow.js:143:11-15: 
+canvas-flow.js:143:11-43: 
+canvas-flow.js:143:11,144:35: 
+canvas-flow.js:143:25-42: 
+canvas-flow.js:143:29-33: 
+canvas-flow.js:143:35: number
+canvas-flow.js:143:38: number
+canvas-flow.js:143:41: number
+canvas-flow.js:144:12-29: 
+canvas-flow.js:144:16-20: 
+canvas-flow.js:144:22: number
+canvas-flow.js:144:25: number
+canvas-flow.js:144:28: number
+canvas-flow.js:144:32-34: number
+canvas-flow.js:145:5-26: 
+canvas-flow.js:145:9-13: 
+canvas-flow.js:145:15-17: number
+canvas-flow.js:145:20-22: number
+canvas-flow.js:145:25: number
+canvas-flow.js:146:3-5: 
+canvas-flow.js:146:3,148:27: 
+canvas-flow.js:146:11-15: 
+canvas-flow.js:146:11-43: 
+canvas-flow.js:146:11,147:35: 
+canvas-flow.js:146:25-42: 
+canvas-flow.js:146:29-33: 
+canvas-flow.js:146:35: number
+canvas-flow.js:146:38: number
+canvas-flow.js:146:41: number
+canvas-flow.js:147:12-29: 
+canvas-flow.js:147:16-20: 
+canvas-flow.js:147:22: number
+canvas-flow.js:147:25: number
+canvas-flow.js:147:28: number
+canvas-flow.js:147:32-34: number
+canvas-flow.js:148:5-26: 
+canvas-flow.js:148:9-13: 
+canvas-flow.js:148:15-17: number
+canvas-flow.js:148:20: number
+canvas-flow.js:148:23-25: number
+canvas-flow.js:149:3-5: 
+canvas-flow.js:149:3,151:27: 
+canvas-flow.js:149:11-15: 
+canvas-flow.js:149:11-43: 
+canvas-flow.js:149:11,150:35: 
+canvas-flow.js:149:25-42: 
+canvas-flow.js:149:29-33: 
+canvas-flow.js:149:35: number
+canvas-flow.js:149:38: number
+canvas-flow.js:149:41: number
+canvas-flow.js:150:12-29: 
+canvas-flow.js:150:16-20: 
+canvas-flow.js:150:22: number
+canvas-flow.js:150:25: number
+canvas-flow.js:150:28: number
+canvas-flow.js:150:32-34: number
+canvas-flow.js:151:5-26: 
+canvas-flow.js:151:9-13: 
+canvas-flow.js:151:15: number
+canvas-flow.js:151:18-20: number
+canvas-flow.js:151:23-25: number
+canvas-flow.js:152:3-5: 
+canvas-flow.js:152:3,154:27: 
+canvas-flow.js:152:11-15: 
+canvas-flow.js:152:11-43: 
+canvas-flow.js:152:11,153:35: 
+canvas-flow.js:152:25-42: 
+canvas-flow.js:152:29-33: 
+canvas-flow.js:152:35: number
+canvas-flow.js:152:38: number
+canvas-flow.js:152:41: number
+canvas-flow.js:153:12-29: 
+canvas-flow.js:153:16-20: 
+canvas-flow.js:153:22: number
+canvas-flow.js:153:25: number
+canvas-flow.js:153:28: number
+canvas-flow.js:153:32-34: number
+canvas-flow.js:154:5-26: 
+canvas-flow.js:154:9-13: 
+canvas-flow.js:154:15-16: number
+canvas-flow.js:154:19-21: number
+canvas-flow.js:154:24-25: number
+canvas-flow.js:156:3-5: 
+canvas-flow.js:156:3-76: 
+canvas-flow.js:156:11-15: 
+canvas-flow.js:156:11-52: 
+canvas-flow.js:156:23-40: 
+canvas-flow.js:156:27-31: 
+canvas-flow.js:156:33: number
+canvas-flow.js:156:36: number
+canvas-flow.js:156:39: number
+canvas-flow.js:156:43: number
+canvas-flow.js:156:46: number
+canvas-flow.js:156:49-51: number
+canvas-flow.js:156:55-75: 
+canvas-flow.js:156:59-63: 
+canvas-flow.js:156:65-66: number
+canvas-flow.js:156:69-70: number
+canvas-flow.js:156:73-74: number
+canvas-flow.js:157:3-5: 
+canvas-flow.js:157:3-61: 
+canvas-flow.js:157:11-14: (origin: ) => 
+canvas-flow.js:157:11-36: 
+canvas-flow.js:157:16-35: 
+canvas-flow.js:157:20-24: 
+canvas-flow.js:157:26: number
+canvas-flow.js:157:29: number
+canvas-flow.js:157:32-34: number
+canvas-flow.js:157:39-60: 
+canvas-flow.js:157:43-47: 
+canvas-flow.js:157:49: number
+canvas-flow.js:157:52-54: number
+canvas-flow.js:157:57-59: number
+canvas-flow.js:160:1-9: () => void
+canvas-flow.js:160:1,170:1: () => void
+canvas-flow.js:160:11-23: string
+canvas-flow.js:160:28,170:1: () => void
+canvas-flow.js:161:7-10: 
+canvas-flow.js:161:14-18: 
+canvas-flow.js:161:14-50: 
+canvas-flow.js:161:26-40: 
+canvas-flow.js:161:30-34: 
+canvas-flow.js:161:36: number
+canvas-flow.js:161:39: number
+canvas-flow.js:161:43: number
+canvas-flow.js:161:46: number
+canvas-flow.js:161:49: number
+canvas-flow.js:163:12: number
+canvas-flow.js:163:16: number
+canvas-flow.js:163:19: number
+canvas-flow.js:163:19-24: boolean
+canvas-flow.js:163:23-24: number
+canvas-flow.js:163:27-29: number
+canvas-flow.js:164:5-7: 
+canvas-flow.js:164:5,168:25: 
+canvas-flow.js:164:13-16: 
+canvas-flow.js:164:13,165:58: 
+canvas-flow.js:164:13,166:27: 
+canvas-flow.js:164:13,167:52: 
+canvas-flow.js:165:14-32: 
+canvas-flow.js:165:18-22: 
+canvas-flow.js:165:24-26: number
+canvas-flow.js:165:29-31: number
+canvas-flow.js:165:35-36: number
+canvas-flow.js:165:35-42: number
+canvas-flow.js:165:40: number
+canvas-flow.js:165:40-42: number
+canvas-flow.js:165:42: number
+canvas-flow.js:165:45-46: number
+canvas-flow.js:165:45-52: number
+canvas-flow.js:165:50: number
+canvas-flow.js:165:50-52: number
+canvas-flow.js:165:52: number
+canvas-flow.js:165:55: number
+canvas-flow.js:165:55-57: number
+canvas-flow.js:165:57: number
+canvas-flow.js:166:18: number
+canvas-flow.js:166:21: number
+canvas-flow.js:166:24: number
+canvas-flow.js:166:24-26: number
+canvas-flow.js:166:26: number
+canvas-flow.js:167:16-34: 
+canvas-flow.js:167:20-24: 
+canvas-flow.js:167:26-28: number
+canvas-flow.js:167:31-33: number
+canvas-flow.js:167:37-44: number
+canvas-flow.js:167:37-47: number
+canvas-flow.js:167:37-51: number
+canvas-flow.js:167:38-41: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+canvas-flow.js:167:38-44: number
+canvas-flow.js:167:46-47: number
+canvas-flow.js:167:51: number
+canvas-flow.js:168:12-22: () => 
+canvas-flow.js:168:12-24: 
+canvas-flow.js:172:1-9: () => void
+canvas-flow.js:172:1,180:1: () => void
+canvas-flow.js:172:11-24: string
+canvas-flow.js:172:29,180:1: () => void
+canvas-flow.js:173:7: 
+canvas-flow.js:173:11-15: 
+canvas-flow.js:173:11,177:10: 
+canvas-flow.js:173:11,177:33: 
+canvas-flow.js:173:25,177:4: 
+canvas-flow.js:173:29-32: 
+canvas-flow.js:173:34,177:3: [, , ]
+canvas-flow.js:174:5-9: 
+canvas-flow.js:174:5-18: 
+canvas-flow.js:174:11: number
+canvas-flow.js:174:14: number
+canvas-flow.js:174:17: number
+canvas-flow.js:175:5-9: 
+canvas-flow.js:175:5-18: 
+canvas-flow.js:175:11: number
+canvas-flow.js:175:14: number
+canvas-flow.js:175:17: number
+canvas-flow.js:176:5-9: 
+canvas-flow.js:176:5-18: 
+canvas-flow.js:176:11: number
+canvas-flow.js:176:14: number
+canvas-flow.js:176:17: number
+canvas-flow.js:177:7-9: number
+canvas-flow.js:177:18-22: 
+canvas-flow.js:177:18-29: 
+canvas-flow.js:177:32: number
+canvas-flow.js:179:3-5: 
+canvas-flow.js:179:3-36: 
+canvas-flow.js:179:11: 
+canvas-flow.js:179:14-35: 
+canvas-flow.js:179:18-22: 
+canvas-flow.js:179:24-25: number
+canvas-flow.js:179:28-30: number
+canvas-flow.js:179:33-34: number
+canvas-flow.js:182:1-9: () => void
+canvas-flow.js:182:1,189:1: () => void
+canvas-flow.js:182:11-25: string
+canvas-flow.js:182:30,189:1: () => void
+canvas-flow.js:183:3-5: 
+canvas-flow.js:183:3-48: 
+canvas-flow.js:183:11-15: 
+canvas-flow.js:183:11-47: 
+canvas-flow.js:183:26-43: 
+canvas-flow.js:183:30-34: 
+canvas-flow.js:183:36: number
+canvas-flow.js:183:39: number
+canvas-flow.js:183:42: number
+canvas-flow.js:183:46: number
+canvas-flow.js:184:3-5: 
+canvas-flow.js:184:3-74: 
+canvas-flow.js:184:11-15: 
+canvas-flow.js:184:11-58: 
+canvas-flow.js:184:26-45: 
+canvas-flow.js:184:30-34: 
+canvas-flow.js:184:36-37: number
+canvas-flow.js:184:40-41: number
+canvas-flow.js:184:44: number
+canvas-flow.js:184:48-50: number
+canvas-flow.js:184:53-54: number
+canvas-flow.js:184:57: number
+canvas-flow.js:184:61-71: () => 
+canvas-flow.js:184:61-73: 
+canvas-flow.js:185:3-5: 
+canvas-flow.js:185:3-74: 
+canvas-flow.js:185:11-15: 
+canvas-flow.js:185:11-58: 
+canvas-flow.js:185:26-43: 
+canvas-flow.js:185:30-34: 
+canvas-flow.js:185:36: number
+canvas-flow.js:185:39: number
+canvas-flow.js:185:42: number
+canvas-flow.js:185:46-49: number
+canvas-flow.js:185:52-53: number
+canvas-flow.js:185:56-57: number
+canvas-flow.js:185:61-71: () => 
+canvas-flow.js:185:61-73: 
+canvas-flow.js:186:3-5: 
+canvas-flow.js:186:3-74: 
+canvas-flow.js:186:11-15: 
+canvas-flow.js:186:11-58: 
+canvas-flow.js:186:26-45: 
+canvas-flow.js:186:30-34: 
+canvas-flow.js:186:36-38: number
+canvas-flow.js:186:41: number
+canvas-flow.js:186:44: number
+canvas-flow.js:186:48-50: number
+canvas-flow.js:186:53-54: number
+canvas-flow.js:186:57: number
+canvas-flow.js:186:61-71: () => 
+canvas-flow.js:186:61-73: 
+canvas-flow.js:187:3-5: 
+canvas-flow.js:187:3-73: 
+canvas-flow.js:187:11-15: 
+canvas-flow.js:187:11-57: 
+canvas-flow.js:187:26-44: 
+canvas-flow.js:187:30-34: 
+canvas-flow.js:187:36-37: number
+canvas-flow.js:187:40: number
+canvas-flow.js:187:43: number
+canvas-flow.js:187:47-49: number
+canvas-flow.js:187:52-53: number
+canvas-flow.js:187:56: number
+canvas-flow.js:187:60-70: () => 
+canvas-flow.js:187:60-72: 
+canvas-flow.js:188:3-5: 
+canvas-flow.js:188:3-70: 
+canvas-flow.js:188:11-15: 
+canvas-flow.js:188:11-54: 
+canvas-flow.js:188:26-43: 
+canvas-flow.js:188:30-34: 
+canvas-flow.js:188:36: number
+canvas-flow.js:188:39: number
+canvas-flow.js:188:42: number
+canvas-flow.js:188:46: number
+canvas-flow.js:188:49-50: number
+canvas-flow.js:188:53: number
+canvas-flow.js:188:57-67: () => 
+canvas-flow.js:188:57-69: 
+canvas-flow.js:191:1-9: () => void
+canvas-flow.js:191:1,193:1: () => void
+canvas-flow.js:191:11-21: string
+canvas-flow.js:191:26,193:1: () => void
+canvas-flow.js:192:3-5: 
+canvas-flow.js:192:3-91: 
+canvas-flow.js:192:11-15: 
+canvas-flow.js:192:11-90: 
+canvas-flow.js:192:25-28: 
+canvas-flow.js:192:25-56: 
+canvas-flow.js:192:25-89: 
+canvas-flow.js:192:35-39: 
+canvas-flow.js:192:35-46: 
+canvas-flow.js:192:49: number
+canvas-flow.js:192:52: number
+canvas-flow.js:192:55: number
+canvas-flow.js:192:66-70: 
+canvas-flow.js:192:66-77: 
+canvas-flow.js:192:80-83: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+canvas-flow.js:192:80-86: number
+canvas-flow.js:192:80-88: number
+canvas-flow.js:192:88: number
+canvas-flow.js:195:1-9: () => void
+canvas-flow.js:195:1,200:1: () => void
+canvas-flow.js:195:11-21: string
+canvas-flow.js:195:26,200:1: () => void
+canvas-flow.js:196:3-5: 
+canvas-flow.js:196:3-72: 
+canvas-flow.js:196:11-15: 
+canvas-flow.js:196:11-47: 
+canvas-flow.js:196:23-37: 
+canvas-flow.js:196:27-31: 
+canvas-flow.js:196:33: number
+canvas-flow.js:196:36: number
+canvas-flow.js:196:40: number
+canvas-flow.js:196:43: number
+canvas-flow.js:196:46: number
+canvas-flow.js:196:50-71: 
+canvas-flow.js:196:54-58: 
+canvas-flow.js:196:60: number
+canvas-flow.js:196:63-65: number
+canvas-flow.js:196:68-70: number
+canvas-flow.js:197:3-5: 
+canvas-flow.js:197:3-74: 
+canvas-flow.js:197:11-15: 
+canvas-flow.js:197:11-49: 
+canvas-flow.js:197:23-37: 
+canvas-flow.js:197:27-31: 
+canvas-flow.js:197:33: number
+canvas-flow.js:197:36: number
+canvas-flow.js:197:40: number
+canvas-flow.js:197:43: number
+canvas-flow.js:197:46-48: number
+canvas-flow.js:197:52-73: 
+canvas-flow.js:197:56-60: 
+canvas-flow.js:197:62-63: number
+canvas-flow.js:197:66-67: number
+canvas-flow.js:197:70-72: number
+canvas-flow.js:198:3-5: 
+canvas-flow.js:198:3-72: 
+canvas-flow.js:198:11-15: 
+canvas-flow.js:198:11-47: 
+canvas-flow.js:198:23-37: 
+canvas-flow.js:198:27-31: 
+canvas-flow.js:198:33: number
+canvas-flow.js:198:36: number
+canvas-flow.js:198:40: number
+canvas-flow.js:198:43: number
+canvas-flow.js:198:46: number
+canvas-flow.js:198:50-71: 
+canvas-flow.js:198:54-58: 
+canvas-flow.js:198:60-61: number
+canvas-flow.js:198:64-66: number
+canvas-flow.js:198:69-70: number
+canvas-flow.js:199:3-5: 
+canvas-flow.js:199:3-74: 
+canvas-flow.js:199:11-15: 
+canvas-flow.js:199:11-49: 
+canvas-flow.js:199:23-37: 
+canvas-flow.js:199:27-31: 
+canvas-flow.js:199:33: number
+canvas-flow.js:199:36: number
+canvas-flow.js:199:40: number
+canvas-flow.js:199:43: number
+canvas-flow.js:199:46-48: number
+canvas-flow.js:199:52-73: 
+canvas-flow.js:199:56-60: 
+canvas-flow.js:199:62-64: number
+canvas-flow.js:199:67-68: number
+canvas-flow.js:199:71-72: number
+canvas-flow.js:202:1-9: () => void
+canvas-flow.js:202:1,209:1: () => void
+canvas-flow.js:202:11-21: string
+canvas-flow.js:202:26,209:1: () => void
+canvas-flow.js:203:3-5: 
+canvas-flow.js:203:3-41: 
+canvas-flow.js:203:20-41: 
+canvas-flow.js:203:24-28: 
+canvas-flow.js:203:30-32: number
+canvas-flow.js:203:35-36: number
+canvas-flow.js:203:39-40: number
+canvas-flow.js:204:3-5: 
+canvas-flow.js:204:3-72: 
+canvas-flow.js:204:11-15: 
+canvas-flow.js:204:11-47: 
+canvas-flow.js:204:23-37: 
+canvas-flow.js:204:27-31: 
+canvas-flow.js:204:33: number
+canvas-flow.js:204:36: number
+canvas-flow.js:204:40: number
+canvas-flow.js:204:43: number
+canvas-flow.js:204:46: number
+canvas-flow.js:204:50-71: 
+canvas-flow.js:204:54-58: 
+canvas-flow.js:204:60: number
+canvas-flow.js:204:63-65: number
+canvas-flow.js:204:68-70: number
+canvas-flow.js:205:3-5: 
+canvas-flow.js:205:3-74: 
+canvas-flow.js:205:11-15: 
+canvas-flow.js:205:11-49: 
+canvas-flow.js:205:23-37: 
+canvas-flow.js:205:27-31: 
+canvas-flow.js:205:33: number
+canvas-flow.js:205:36: number
+canvas-flow.js:205:40: number
+canvas-flow.js:205:43: number
+canvas-flow.js:205:46-48: number
+canvas-flow.js:205:52-73: 
+canvas-flow.js:205:56-60: 
+canvas-flow.js:205:62-63: number
+canvas-flow.js:205:66-67: number
+canvas-flow.js:205:70-72: number
+canvas-flow.js:206:3-5: 
+canvas-flow.js:206:3-72: 
+canvas-flow.js:206:11-15: 
+canvas-flow.js:206:11-47: 
+canvas-flow.js:206:23-37: 
+canvas-flow.js:206:27-31: 
+canvas-flow.js:206:33: number
+canvas-flow.js:206:36: number
+canvas-flow.js:206:40: number
+canvas-flow.js:206:43: number
+canvas-flow.js:206:46: number
+canvas-flow.js:206:50-71: 
+canvas-flow.js:206:54-58: 
+canvas-flow.js:206:60-61: number
+canvas-flow.js:206:64-66: number
+canvas-flow.js:206:69-70: number
+canvas-flow.js:207:3-5: 
+canvas-flow.js:207:3-74: 
+canvas-flow.js:207:11-15: 
+canvas-flow.js:207:11-49: 
+canvas-flow.js:207:23-37: 
+canvas-flow.js:207:27-31: 
+canvas-flow.js:207:33: number
+canvas-flow.js:207:36: number
+canvas-flow.js:207:40: number
+canvas-flow.js:207:43: number
+canvas-flow.js:207:46-48: number
+canvas-flow.js:207:52-73: 
+canvas-flow.js:207:56-60: 
+canvas-flow.js:207:62-64: number
+canvas-flow.js:207:67-68: number
+canvas-flow.js:207:71-72: number
+canvas-flow.js:208:3-5: 
+canvas-flow.js:208:3-43: 
+canvas-flow.js:208:20-43: 
+canvas-flow.js:208:24-28: 
+canvas-flow.js:208:30-32: number
+canvas-flow.js:208:35-37: number
+canvas-flow.js:208:40-42: number
+canvas-flow.js:211:1-9: () => void
+canvas-flow.js:211:1,218:1: () => void
+canvas-flow.js:211:11-33: string
+canvas-flow.js:211:38,218:1: () => void
+canvas-flow.js:212:7-18: number
+canvas-flow.js:212:22-25: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+canvas-flow.js:212:22-34: number
+canvas-flow.js:214:3-5: 
+canvas-flow.js:214:3-86: 
+canvas-flow.js:214:11-15: 
+canvas-flow.js:214:11-47: 
+canvas-flow.js:214:23-37: 
+canvas-flow.js:214:27-31: 
+canvas-flow.js:214:33: number
+canvas-flow.js:214:36: number
+canvas-flow.js:214:40: number
+canvas-flow.js:214:43: number
+canvas-flow.js:214:46: number
+canvas-flow.js:214:50-85: 
+canvas-flow.js:214:54-58: 
+canvas-flow.js:214:60: number
+canvas-flow.js:214:63-65: number
+canvas-flow.js:214:68-70: number
+canvas-flow.js:214:73-84: number
+canvas-flow.js:215:3-5: 
+canvas-flow.js:215:3-88: 
+canvas-flow.js:215:11-15: 
+canvas-flow.js:215:11-49: 
+canvas-flow.js:215:23-37: 
+canvas-flow.js:215:27-31: 
+canvas-flow.js:215:33: number
+canvas-flow.js:215:36: number
+canvas-flow.js:215:40: number
+canvas-flow.js:215:43: number
+canvas-flow.js:215:46-48: number
+canvas-flow.js:215:52-87: 
+canvas-flow.js:215:56-60: 
+canvas-flow.js:215:62-63: number
+canvas-flow.js:215:66-67: number
+canvas-flow.js:215:70-72: number
+canvas-flow.js:215:75-86: number
+canvas-flow.js:216:3-5: 
+canvas-flow.js:216:3-86: 
+canvas-flow.js:216:11-15: 
+canvas-flow.js:216:11-47: 
+canvas-flow.js:216:23-37: 
+canvas-flow.js:216:27-31: 
+canvas-flow.js:216:33: number
+canvas-flow.js:216:36: number
+canvas-flow.js:216:40: number
+canvas-flow.js:216:43: number
+canvas-flow.js:216:46: number
+canvas-flow.js:216:50-85: 
+canvas-flow.js:216:54-58: 
+canvas-flow.js:216:60-61: number
+canvas-flow.js:216:64-66: number
+canvas-flow.js:216:69-70: number
+canvas-flow.js:216:73-84: number
+canvas-flow.js:217:3-5: 
+canvas-flow.js:217:3-88: 
+canvas-flow.js:217:11-15: 
+canvas-flow.js:217:11-49: 
+canvas-flow.js:217:23-37: 
+canvas-flow.js:217:27-31: 
+canvas-flow.js:217:33: number
+canvas-flow.js:217:36: number
+canvas-flow.js:217:40: number
+canvas-flow.js:217:43: number
+canvas-flow.js:217:46-48: number
+canvas-flow.js:217:52-87: 
+canvas-flow.js:217:56-60: 
+canvas-flow.js:217:62-64: number
+canvas-flow.js:217:67-68: number
+canvas-flow.js:217:71-72: number
+canvas-flow.js:217:75-86: number
+canvas-flow.js:220:1-9: () => void
+canvas-flow.js:220:1,229:1: () => void
+canvas-flow.js:220:11-33: string
+canvas-flow.js:220:38,229:1: () => void
+canvas-flow.js:221:7-18: number
+canvas-flow.js:221:22-25: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+canvas-flow.js:221:22-34: number
+canvas-flow.js:223:3-5: 
+canvas-flow.js:223:3-41: 
+canvas-flow.js:223:20-41: 
+canvas-flow.js:223:24-28: 
+canvas-flow.js:223:30-32: number
+canvas-flow.js:223:35-36: number
+canvas-flow.js:223:39-40: number
+canvas-flow.js:224:3-5: 
+canvas-flow.js:224:3-86: 
+canvas-flow.js:224:11-15: 
+canvas-flow.js:224:11-47: 
+canvas-flow.js:224:23-37: 
+canvas-flow.js:224:27-31: 
+canvas-flow.js:224:33: number
+canvas-flow.js:224:36: number
+canvas-flow.js:224:40: number
+canvas-flow.js:224:43: number
+canvas-flow.js:224:46: number
+canvas-flow.js:224:50-85: 
+canvas-flow.js:224:54-58: 
+canvas-flow.js:224:60: number
+canvas-flow.js:224:63-65: number
+canvas-flow.js:224:68-70: number
+canvas-flow.js:224:73-84: number
+canvas-flow.js:225:3-5: 
+canvas-flow.js:225:3-88: 
+canvas-flow.js:225:11-15: 
+canvas-flow.js:225:11-49: 
+canvas-flow.js:225:23-37: 
+canvas-flow.js:225:27-31: 
+canvas-flow.js:225:33: number
+canvas-flow.js:225:36: number
+canvas-flow.js:225:40: number
+canvas-flow.js:225:43: number
+canvas-flow.js:225:46-48: number
+canvas-flow.js:225:52-87: 
+canvas-flow.js:225:56-60: 
+canvas-flow.js:225:62-63: number
+canvas-flow.js:225:66-67: number
+canvas-flow.js:225:70-72: number
+canvas-flow.js:225:75-86: number
+canvas-flow.js:226:3-5: 
+canvas-flow.js:226:3-86: 
+canvas-flow.js:226:11-15: 
+canvas-flow.js:226:11-47: 
+canvas-flow.js:226:23-37: 
+canvas-flow.js:226:27-31: 
+canvas-flow.js:226:33: number
+canvas-flow.js:226:36: number
+canvas-flow.js:226:40: number
+canvas-flow.js:226:43: number
+canvas-flow.js:226:46: number
+canvas-flow.js:226:50-85: 
+canvas-flow.js:226:54-58: 
+canvas-flow.js:226:60-61: number
+canvas-flow.js:226:64-66: number
+canvas-flow.js:226:69-70: number
+canvas-flow.js:226:73-84: number
+canvas-flow.js:227:3-5: 
+canvas-flow.js:227:3-88: 
+canvas-flow.js:227:11-15: 
+canvas-flow.js:227:11-49: 
+canvas-flow.js:227:23-37: 
+canvas-flow.js:227:27-31: 
+canvas-flow.js:227:33: number
+canvas-flow.js:227:36: number
+canvas-flow.js:227:40: number
+canvas-flow.js:227:43: number
+canvas-flow.js:227:46-48: number
+canvas-flow.js:227:52-87: 
+canvas-flow.js:227:56-60: 
+canvas-flow.js:227:62-64: number
+canvas-flow.js:227:67-68: number
+canvas-flow.js:227:71-72: number
+canvas-flow.js:227:75-86: number
+canvas-flow.js:228:3-5: 
+canvas-flow.js:228:3-43: 
+canvas-flow.js:228:20-43: 
+canvas-flow.js:228:24-28: 
+canvas-flow.js:228:30-32: number
+canvas-flow.js:228:35-37: number
+canvas-flow.js:228:40-42: number
+canvas-flow.js:231:1-9: () => void
+canvas-flow.js:231:1,260:1: () => () => void
+canvas-flow.js:231:11-25: string
+canvas-flow.js:231:30,260:1: () => () => void
+canvas-flow.js:232:7-10: 
+canvas-flow.js:232:14-18: 
+canvas-flow.js:232:14-50: 
+canvas-flow.js:232:26-40: 
+canvas-flow.js:232:30-34: 
+canvas-flow.js:232:36: number
+canvas-flow.js:232:39: number
+canvas-flow.js:232:43: number
+canvas-flow.js:232:46: number
+canvas-flow.js:232:49: number
+canvas-flow.js:233:7-11: number
+canvas-flow.js:233:15: number
+canvas-flow.js:235:10,259:3: () => void
+canvas-flow.js:237:5-7: 
+canvas-flow.js:237:5-86: 
+canvas-flow.js:237:13-17: 
+canvas-flow.js:237:13-59: 
+canvas-flow.js:237:25-45: 
+canvas-flow.js:237:29-33: 
+canvas-flow.js:237:35: number
+canvas-flow.js:237:38: number
+canvas-flow.js:237:41-44: number
+canvas-flow.js:237:42-44: number
+canvas-flow.js:237:48-49: number
+canvas-flow.js:237:52-53: number
+canvas-flow.js:237:56-58: number
+canvas-flow.js:237:62-85: 
+canvas-flow.js:237:66-70: 
+canvas-flow.js:237:72-74: number
+canvas-flow.js:237:77-79: number
+canvas-flow.js:237:82-84: number
+canvas-flow.js:240:14: number
+canvas-flow.js:240:18: number
+canvas-flow.js:240:21: number
+canvas-flow.js:240:21-25: boolean
+canvas-flow.js:240:25: number
+canvas-flow.js:240:28-30: number
+canvas-flow.js:241:7-9: 
+canvas-flow.js:241:7,244:45: 
+canvas-flow.js:241:15-18: 
+canvas-flow.js:241:15,242:31: 
+canvas-flow.js:241:15,243:71: 
+canvas-flow.js:242:20: number
+canvas-flow.js:242:20-24: number
+canvas-flow.js:242:24: number
+canvas-flow.js:242:27: number
+canvas-flow.js:242:30: number
+canvas-flow.js:243:18-41: 
+canvas-flow.js:243:22-26: 
+canvas-flow.js:243:28-30: number
+canvas-flow.js:243:33-35: number
+canvas-flow.js:243:38-40: number
+canvas-flow.js:243:44-51: number
+canvas-flow.js:243:44-54: number
+canvas-flow.js:243:44-62: number
+canvas-flow.js:243:44-70: number
+canvas-flow.js:243:45-48: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+canvas-flow.js:243:45-51: number
+canvas-flow.js:243:53-54: number
+canvas-flow.js:243:59: number
+canvas-flow.js:243:59-61: number
+canvas-flow.js:243:61: number
+canvas-flow.js:243:66-70: number
+canvas-flow.js:244:11-44: 
+canvas-flow.js:244:15-19: 
+canvas-flow.js:244:21-23: number
+canvas-flow.js:244:21-32: number
+canvas-flow.js:244:27: number
+canvas-flow.js:244:27-32: number
+canvas-flow.js:244:31-32: number
+canvas-flow.js:244:35: number
+canvas-flow.js:244:38: number
+canvas-flow.js:244:41-43: number
+canvas-flow.js:246:14: number
+canvas-flow.js:246:18: number
+canvas-flow.js:246:21: number
+canvas-flow.js:246:21-25: boolean
+canvas-flow.js:246:25: number
+canvas-flow.js:246:28-30: number
+canvas-flow.js:247:7-9: 
+canvas-flow.js:247:7,250:45: 
+canvas-flow.js:247:15-18: 
+canvas-flow.js:247:15,248:31: 
+canvas-flow.js:247:15,249:70: 
+canvas-flow.js:248:20: number
+canvas-flow.js:248:23: number
+canvas-flow.js:248:23-27: number
+canvas-flow.js:248:27: number
+canvas-flow.js:248:30: number
+canvas-flow.js:249:18-41: 
+canvas-flow.js:249:22-26: 
+canvas-flow.js:249:28-30: number
+canvas-flow.js:249:33-35: number
+canvas-flow.js:249:38-40: number
+canvas-flow.js:249:44-51: number
+canvas-flow.js:249:44-53: number
+canvas-flow.js:249:44-61: number
+canvas-flow.js:249:44-69: number
+canvas-flow.js:249:45-48: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+canvas-flow.js:249:45-51: number
+canvas-flow.js:249:53: number
+canvas-flow.js:249:58: number
+canvas-flow.js:249:58-60: number
+canvas-flow.js:249:60: number
+canvas-flow.js:249:65-69: number
+canvas-flow.js:250:11-44: 
+canvas-flow.js:250:15-19: 
+canvas-flow.js:250:21: number
+canvas-flow.js:250:24-26: number
+canvas-flow.js:250:24-35: number
+canvas-flow.js:250:30: number
+canvas-flow.js:250:30-35: number
+canvas-flow.js:250:34-35: number
+canvas-flow.js:250:38: number
+canvas-flow.js:250:41-43: number
+canvas-flow.js:252:14: number
+canvas-flow.js:252:18: number
+canvas-flow.js:252:21: number
+canvas-flow.js:252:21-25: boolean
+canvas-flow.js:252:25: number
+canvas-flow.js:252:28-30: number
+canvas-flow.js:253:7-9: 
+canvas-flow.js:253:7,256:45: 
+canvas-flow.js:253:15-18: 
+canvas-flow.js:253:15,254:31: 
+canvas-flow.js:253:15,255:61: 
+canvas-flow.js:254:20: number
+canvas-flow.js:254:23: number
+canvas-flow.js:254:26: number
+canvas-flow.js:254:26-30: number
+canvas-flow.js:254:30: number
+canvas-flow.js:255:18-36: 
+canvas-flow.js:255:22-26: 
+canvas-flow.js:255:28-30: number
+canvas-flow.js:255:33-35: number
+canvas-flow.js:255:39-46: number
+canvas-flow.js:255:39-48: number
+canvas-flow.js:255:39-52: number
+canvas-flow.js:255:39-60: number
+canvas-flow.js:255:40-43: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+canvas-flow.js:255:40-46: number
+canvas-flow.js:255:48: number
+canvas-flow.js:255:52: number
+canvas-flow.js:255:56-60: number
+canvas-flow.js:256:11-44: 
+canvas-flow.js:256:15-19: 
+canvas-flow.js:256:21: number
+canvas-flow.js:256:24: number
+canvas-flow.js:256:27-29: number
+canvas-flow.js:256:27-38: number
+canvas-flow.js:256:33: number
+canvas-flow.js:256:33-38: number
+canvas-flow.js:256:37-38: number
+canvas-flow.js:256:41-43: number
+canvas-flow.js:258:5-29: number
+canvas-flow.js:258:14: number
+canvas-flow.js:258:14-24: number
+canvas-flow.js:258:14-29: number
+canvas-flow.js:258:18-21: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+canvas-flow.js:258:18-24: number
+canvas-flow.js:258:28-29: number
+canvas-flow.js:265:2,291:1: () => void
+canvas-flow.js:265:2,291:4: void
+canvas-flow.js:266:7-8: string
+canvas-flow.js:267:7-11: HTMLElement
+canvas-flow.js:267:15-22: Document
+canvas-flow.js:267:15-48: HTMLElement
+canvas-flow.js:267:39-47: string
+canvas-flow.js:268:7-12: HTMLDivElement
+canvas-flow.js:269:7-20: number
+canvas-flow.js:271:14-22: () => void
+canvas-flow.js:272:5-42: HTMLDivElement
+canvas-flow.js:272:14-21: Document
+canvas-flow.js:272:14-42: HTMLDivElement
+canvas-flow.js:272:37-41: string
+canvas-flow.js:273:5-10: HTMLDivElement
+canvas-flow.js:273:5-20: DOMTokenList
+canvas-flow.js:273:5-36: void
+canvas-flow.js:273:26-35: string
+canvas-flow.js:274:5-10: HTMLDivElement
+canvas-flow.js:274:5-25: string
+canvas-flow.js:274:24-25: string
+canvas-flow.js:275:5-10: HTMLDivElement
+canvas-flow.js:275:5,287:21: () => void
+canvas-flow.js:275:23,287:5: (fn: ) => () => void
+canvas-flow.js:275:23,287:21: () => void
+canvas-flow.js:275:33-34: 
+canvas-flow.js:276:14,286:7: () => void
+canvas-flow.js:278:9-21: (intervalId?: number) => void
+canvas-flow.js:278:9-37: void
+canvas-flow.js:278:23-36: number
+canvas-flow.js:279:9-11: 
+canvas-flow.js:279:9-18: 
+canvas-flow.js:279:9-26: 
+canvas-flow.js:280:13: 
+canvas-flow.js:280:17-18: 
+canvas-flow.js:280:17-20: 
+canvas-flow.js:283:13-18: [class: Object]
+canvas-flow.js:283:13-28: Object
+canvas-flow.js:283:13-37: () => string
+canvas-flow.js:283:13-45: string
+canvas-flow.js:283:44: 
+canvas-flow.js:283:50-68: string
+canvas-flow.js:284:11-50: number
+canvas-flow.js:284:28-38: (callback: any, ms?: number, ...args: Array<any>) => number
+canvas-flow.js:284:28-50: number
+canvas-flow.js:284:40: 
+canvas-flow.js:284:43-46: number
+canvas-flow.js:284:43-49: number
+canvas-flow.js:284:48-49: number
+canvas-flow.js:287:8-16: () => void
+canvas-flow.js:287:8-20: 
+canvas-flow.js:287:18-19: string
+canvas-flow.js:289:5-9: HTMLElement
+canvas-flow.js:289:5-29: Node
+canvas-flow.js:289:23-28: HTMLDivElement

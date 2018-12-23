@@ -1,0 +1,3285 @@
+isomer-flow.js:5:1,38:1: [class: Canvas]
+isomer-flow.js:6:15-18: HTMLElement
+isomer-flow.js:7:5-8: Canvas
+isomer-flow.js:7:5-20: HTMLElement
+isomer-flow.js:7:17-20: HTMLElement
+isomer-flow.js:8:5-8: Canvas
+isomer-flow.js:8:5-41: 
+isomer-flow.js:8:16-24: HTMLElement
+isomer-flow.js:8:16-41: 
+isomer-flow.js:8:37-40: string
+isomer-flow.js:10:5-8: Canvas
+isomer-flow.js:10:5-27: 
+isomer-flow.js:10:18-21: HTMLElement
+isomer-flow.js:10:18-27: 
+isomer-flow.js:11:5-8: Canvas
+isomer-flow.js:11:5-29: 
+isomer-flow.js:11:19-22: HTMLElement
+isomer-flow.js:11:19-29: 
+isomer-flow.js:15:5-8: Canvas
+isomer-flow.js:15:5-12: 
+isomer-flow.js:15:5-53: 
+isomer-flow.js:15:24: number
+isomer-flow.js:15:27: number
+isomer-flow.js:15:30-33: Canvas
+isomer-flow.js:15:30-39: 
+isomer-flow.js:15:42-45: Canvas
+isomer-flow.js:15:42-52: 
+isomer-flow.js:18:8-13: 
+isomer-flow.js:18:16-20: 
+isomer-flow.js:19:5-8: Canvas
+isomer-flow.js:19:5-12: 
+isomer-flow.js:19:5-24: 
+isomer-flow.js:20:5-8: Canvas
+isomer-flow.js:20:5-12: 
+isomer-flow.js:20:5-45: 
+isomer-flow.js:20:21-26: 
+isomer-flow.js:20:21-29: 
+isomer-flow.js:20:21-31: 
+isomer-flow.js:20:28: number
+isomer-flow.js:20:34-39: 
+isomer-flow.js:20:34-42: 
+isomer-flow.js:20:34-44: 
+isomer-flow.js:20:41: number
+isomer-flow.js:22:14: number
+isomer-flow.js:22:18: number
+isomer-flow.js:22:21: number
+isomer-flow.js:22:21-37: boolean
+isomer-flow.js:22:25-30: 
+isomer-flow.js:22:25-37: 
+isomer-flow.js:22:40-42: number
+isomer-flow.js:23:7-10: Canvas
+isomer-flow.js:23:7-14: 
+isomer-flow.js:23:7-47: 
+isomer-flow.js:23:23-28: 
+isomer-flow.js:23:23-31: 
+isomer-flow.js:23:23-33: 
+isomer-flow.js:23:30: number
+isomer-flow.js:23:36-41: 
+isomer-flow.js:23:36-44: 
+isomer-flow.js:23:36-46: 
+isomer-flow.js:23:43: number
+isomer-flow.js:26:5-8: Canvas
+isomer-flow.js:26:5-12: 
+isomer-flow.js:26:5-24: 
+isomer-flow.js:29:5-8: Canvas
+isomer-flow.js:29:5-12: 
+isomer-flow.js:29:5-19: 
+isomer-flow.js:31:5-8: Canvas
+isomer-flow.js:31:5-12: 
+isomer-flow.js:31:5-34: 
+isomer-flow.js:31:28-32: 
+isomer-flow.js:31:28-34: 
+isomer-flow.js:32:5-8: Canvas
+isomer-flow.js:32:5-12: 
+isomer-flow.js:32:5-61: 
+isomer-flow.js:32:26-29: Canvas
+isomer-flow.js:32:26-33: 
+isomer-flow.js:32:26-61: 
+isomer-flow.js:32:49-53: 
+isomer-flow.js:32:49-61: 
+isomer-flow.js:33:5-8: Canvas
+isomer-flow.js:33:5-12: 
+isomer-flow.js:33:5-21: 
+isomer-flow.js:34:5-8: Canvas
+isomer-flow.js:34:5-12: 
+isomer-flow.js:34:5-19: 
+isomer-flow.js:35:5-8: Canvas
+isomer-flow.js:35:5-12: 
+isomer-flow.js:35:5-22: 
+isomer-flow.js:51:1,170:1: [class: Color]
+isomer-flow.js:52:15: number
+isomer-flow.js:52:18: number
+isomer-flow.js:52:21: number
+isomer-flow.js:52:24: number | void
+isomer-flow.js:53:5-8: Color
+isomer-flow.js:53:5-29: number
+isomer-flow.js:53:14-21: (string: mixed, radix?: number) => number
+isomer-flow.js:53:14-29: number
+isomer-flow.js:53:23: number
+isomer-flow.js:53:23-28: number
+isomer-flow.js:53:28: number
+isomer-flow.js:54:5-8: Color
+isomer-flow.js:54:5-29: number
+isomer-flow.js:54:14-21: (string: mixed, radix?: number) => number
+isomer-flow.js:54:14-29: number
+isomer-flow.js:54:23: number
+isomer-flow.js:54:23-28: number
+isomer-flow.js:54:28: number
+isomer-flow.js:55:5-8: Color
+isomer-flow.js:55:5-29: number
+isomer-flow.js:55:14-21: (string: mixed, radix?: number) => number
+isomer-flow.js:55:14-29: number
+isomer-flow.js:55:23: number
+isomer-flow.js:55:23-28: number
+isomer-flow.js:55:28: number
+isomer-flow.js:56:5-8: Color
+isomer-flow.js:56:5-57: number
+isomer-flow.js:56:14-23: (string: mixed) => number
+isomer-flow.js:56:14-57: number
+isomer-flow.js:56:26-29: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:56:26-44: number
+isomer-flow.js:56:26-50: number
+isomer-flow.js:56:26-55: number
+isomer-flow.js:56:37: number | void
+isomer-flow.js:56:37-43: number
+isomer-flow.js:56:41-43: number
+isomer-flow.js:56:48-50: number
+isomer-flow.js:56:55: number
+isomer-flow.js:58:5-8: Color
+isomer-flow.js:58:5-18: void
+isomer-flow.js:63:9-11: 
+isomer-flow.js:63:16-19: Color
+isomer-flow.js:63:16-21: 
+isomer-flow.js:63:16-27: number
+isomer-flow.js:63:16-33: number
+isomer-flow.js:63:16-48: number
+isomer-flow.js:63:16-57: 
+isomer-flow.js:63:16-71: 
+isomer-flow.js:63:25-27: number
+isomer-flow.js:63:31-33: number
+isomer-flow.js:63:37-40: Color
+isomer-flow.js:63:37-42: 
+isomer-flow.js:63:37-48: number
+isomer-flow.js:63:46-48: number
+isomer-flow.js:63:52-55: Color
+isomer-flow.js:63:52-57: 
+isomer-flow.js:63:69-70: number
+isomer-flow.js:65:9-11: 
+isomer-flow.js:65:9-18: 
+isomer-flow.js:65:9-22: boolean
+isomer-flow.js:65:22: number
+isomer-flow.js:66:7-57: 
+isomer-flow.js:66:13-41: Array<>
+isomer-flow.js:66:13-51: string
+isomer-flow.js:66:13-57: 
+isomer-flow.js:66:23: number
+isomer-flow.js:66:23-36: number
+isomer-flow.js:66:23-40: number
+isomer-flow.js:66:27-29: 
+isomer-flow.js:66:27-36: 
+isomer-flow.js:66:40: number
+isomer-flow.js:66:48-50: string
+isomer-flow.js:66:55-57: 
+isomer-flow.js:69:12-14: string
+isomer-flow.js:69:12-20: 
+isomer-flow.js:69:18-20: 
+isomer-flow.js:77:11-20: number
+isomer-flow.js:77:23-32: 
+isomer-flow.js:78:5-55: 
+isomer-flow.js:78:18-27: 
+isomer-flow.js:78:18-55: 
+isomer-flow.js:78:32-55: Color
+isomer-flow.js:78:36-40: [class: Color]
+isomer-flow.js:78:42-44: number
+isomer-flow.js:78:47-49: number
+isomer-flow.js:78:52-54: number
+isomer-flow.js:80:9-16: Color
+isomer-flow.js:80:20,85:5: Color
+isomer-flow.js:80:24-28: [class: Color]
+isomer-flow.js:81:7-35: number
+isomer-flow.js:81:8-17: 
+isomer-flow.js:81:8-19: 
+isomer-flow.js:81:8-25: number
+isomer-flow.js:81:23-25: number
+isomer-flow.js:81:30-33: Color
+isomer-flow.js:81:30-35: 
+isomer-flow.js:82:7-35: number
+isomer-flow.js:82:8-17: 
+isomer-flow.js:82:8-19: 
+isomer-flow.js:82:8-25: number
+isomer-flow.js:82:23-25: number
+isomer-flow.js:82:30-33: Color
+isomer-flow.js:82:30-35: 
+isomer-flow.js:83:7-35: number
+isomer-flow.js:83:8-17: 
+isomer-flow.js:83:8-19: 
+isomer-flow.js:83:8-25: number
+isomer-flow.js:83:23-25: number
+isomer-flow.js:83:30-33: Color
+isomer-flow.js:83:30-35: 
+isomer-flow.js:84:7-10: Color
+isomer-flow.js:84:7-12: 
+isomer-flow.js:87:5-12: Color
+isomer-flow.js:87:5-53: number
+isomer-flow.js:87:18-21: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:87:18-53: number
+isomer-flow.js:87:27-34: Color
+isomer-flow.js:87:27-36: 
+isomer-flow.js:87:27-49: 
+isomer-flow.js:87:40-49: number
+isomer-flow.js:87:52: number
+isomer-flow.js:89:5-12: Color
+isomer-flow.js:89:5-22: void
+isomer-flow.js:90:12-19: Color
+isomer-flow.js:100:9: number
+isomer-flow.js:100:13-16: Color
+isomer-flow.js:100:13-18: 
+isomer-flow.js:100:13-24: number
+isomer-flow.js:100:22-24: number
+isomer-flow.js:101:9: number
+isomer-flow.js:101:13-16: Color
+isomer-flow.js:101:13-18: 
+isomer-flow.js:101:13-24: number
+isomer-flow.js:101:22-24: number
+isomer-flow.js:102:9: number
+isomer-flow.js:102:13-16: Color
+isomer-flow.js:102:13-18: 
+isomer-flow.js:102:13-24: number
+isomer-flow.js:102:22-24: number
+isomer-flow.js:104:9-11: number
+isomer-flow.js:104:15-18: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:104:15-31: number
+isomer-flow.js:104:24: number
+isomer-flow.js:104:27: number
+isomer-flow.js:104:30: number
+isomer-flow.js:105:9-11: number
+isomer-flow.js:105:15-18: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:105:15-31: number
+isomer-flow.js:105:24: number
+isomer-flow.js:105:27: number
+isomer-flow.js:105:30: number
+isomer-flow.js:107:9: number
+isomer-flow.js:107:12: number
+isomer-flow.js:107:15: number
+isomer-flow.js:107:19-33: number
+isomer-flow.js:107:20-22: number
+isomer-flow.js:107:20-28: number
+isomer-flow.js:107:26-28: number
+isomer-flow.js:107:33: number
+isomer-flow.js:109:9-11: number
+isomer-flow.js:109:17-19: number
+isomer-flow.js:110:7-15: number
+isomer-flow.js:110:11-15: number
+isomer-flow.js:110:15: number
+isomer-flow.js:112:11: number
+isomer-flow.js:112:15-17: number
+isomer-flow.js:112:15-23: number
+isomer-flow.js:112:21-23: number
+isomer-flow.js:113:7-57: number
+isomer-flow.js:113:11: number
+isomer-flow.js:113:11-17: boolean
+isomer-flow.js:113:11-57: number
+isomer-flow.js:113:15-17: number
+isomer-flow.js:113:21: number
+isomer-flow.js:113:21-39: number
+isomer-flow.js:113:26: number
+isomer-flow.js:113:26-32: number
+isomer-flow.js:113:26-38: number
+isomer-flow.js:113:30-32: number
+isomer-flow.js:113:36-38: number
+isomer-flow.js:113:43: number
+isomer-flow.js:113:43-57: number
+isomer-flow.js:113:48-50: number
+isomer-flow.js:113:48-56: number
+isomer-flow.js:113:54-56: number
+isomer-flow.js:114:15-17: number
+isomer-flow.js:115:14: number
+isomer-flow.js:115:17-49: number
+isomer-flow.js:115:21-31: number
+isomer-flow.js:115:21-49: number
+isomer-flow.js:115:22: number
+isomer-flow.js:115:22-26: number
+isomer-flow.js:115:26: number
+isomer-flow.js:115:31: number
+isomer-flow.js:115:36: number
+isomer-flow.js:115:36-40: boolean
+isomer-flow.js:115:36-48: number
+isomer-flow.js:115:40: number
+isomer-flow.js:115:44: number
+isomer-flow.js:115:48: number
+isomer-flow.js:116:14: number
+isomer-flow.js:116:17-35: number
+isomer-flow.js:116:21-31: number
+isomer-flow.js:116:21-35: number
+isomer-flow.js:116:22: number
+isomer-flow.js:116:22-26: number
+isomer-flow.js:116:26: number
+isomer-flow.js:116:31: number
+isomer-flow.js:116:35: number
+isomer-flow.js:117:14: number
+isomer-flow.js:117:17-35: number
+isomer-flow.js:117:21-31: number
+isomer-flow.js:117:21-35: number
+isomer-flow.js:117:22: number
+isomer-flow.js:117:22-26: number
+isomer-flow.js:117:26: number
+isomer-flow.js:117:31: number
+isomer-flow.js:117:35: number
+isomer-flow.js:120:7-12: number | void
+isomer-flow.js:120:12: number
+isomer-flow.js:123:5-8: Color
+isomer-flow.js:123:5-14: number
+isomer-flow.js:123:14: number
+isomer-flow.js:124:5-8: Color
+isomer-flow.js:124:5-14: number
+isomer-flow.js:124:14: number
+isomer-flow.js:125:5-8: Color
+isomer-flow.js:125:5-14: number
+isomer-flow.js:125:14: number
+isomer-flow.js:135:9: number
+isomer-flow.js:135:12: number
+isomer-flow.js:135:15: number
+isomer-flow.js:136:9: 
+isomer-flow.js:136:13-16: Color
+isomer-flow.js:136:13-18: 
+isomer-flow.js:137:9: 
+isomer-flow.js:137:13-16: Color
+isomer-flow.js:137:13-18: 
+isomer-flow.js:138:9: 
+isomer-flow.js:138:13-16: Color
+isomer-flow.js:138:13-18: 
+isomer-flow.js:140:9: 
+isomer-flow.js:140:15: number
+isomer-flow.js:141:7-19: 
+isomer-flow.js:141:11-19: 
+isomer-flow.js:141:15-19: 
+isomer-flow.js:141:19: 
+isomer-flow.js:143:11: number
+isomer-flow.js:143:15: 
+isomer-flow.js:143:15-21: boolean
+isomer-flow.js:143:15-51: number
+isomer-flow.js:143:19-21: number
+isomer-flow.js:143:25: 
+isomer-flow.js:143:25-35: number
+isomer-flow.js:143:30: number
+isomer-flow.js:143:30-34: 
+isomer-flow.js:143:34: 
+isomer-flow.js:143:39: 
+isomer-flow.js:143:39-43: 
+isomer-flow.js:143:39-51: number
+isomer-flow.js:143:43: 
+isomer-flow.js:143:47: 
+isomer-flow.js:143:47-51: number
+isomer-flow.js:143:51: 
+isomer-flow.js:144:11: number
+isomer-flow.js:144:15: number
+isomer-flow.js:144:15-19: number
+isomer-flow.js:144:15-23: number
+isomer-flow.js:144:19: 
+isomer-flow.js:144:23: number
+isomer-flow.js:145:7-40: number
+isomer-flow.js:145:11-14: Color
+isomer-flow.js:145:11-40: number
+isomer-flow.js:145:25: number
+isomer-flow.js:145:28: number
+isomer-flow.js:145:31: 
+isomer-flow.js:145:31-39: 
+isomer-flow.js:145:35: number
+isomer-flow.js:145:35-39: number
+isomer-flow.js:145:39: number
+isomer-flow.js:146:7-32: number
+isomer-flow.js:146:11-14: Color
+isomer-flow.js:146:11-32: number
+isomer-flow.js:146:25: number
+isomer-flow.js:146:28: number
+isomer-flow.js:146:31: 
+isomer-flow.js:147:7-40: number
+isomer-flow.js:147:11-14: Color
+isomer-flow.js:147:11-40: number
+isomer-flow.js:147:25: number
+isomer-flow.js:147:28: number
+isomer-flow.js:147:31: 
+isomer-flow.js:147:31-39: number
+isomer-flow.js:147:35: number
+isomer-flow.js:147:35-39: number
+isomer-flow.js:147:39: number
+isomer-flow.js:150:5-8: Color
+isomer-flow.js:150:5-30: number
+isomer-flow.js:150:14-21: (string: mixed, radix?: number) => number
+isomer-flow.js:150:14-30: number
+isomer-flow.js:150:23: number
+isomer-flow.js:150:23-29: number
+isomer-flow.js:150:27-29: number
+isomer-flow.js:151:5-8: Color
+isomer-flow.js:151:5-30: number
+isomer-flow.js:151:14-21: (string: mixed, radix?: number) => number
+isomer-flow.js:151:14-30: number
+isomer-flow.js:151:23: number
+isomer-flow.js:151:23-29: number
+isomer-flow.js:151:27-29: number
+isomer-flow.js:152:5-8: Color
+isomer-flow.js:152:5-30: number
+isomer-flow.js:152:14-21: (string: mixed, radix?: number) => number
+isomer-flow.js:152:14-30: number
+isomer-flow.js:152:23: number
+isomer-flow.js:152:23-29: number
+isomer-flow.js:152:27-29: number
+isomer-flow.js:161:12: number
+isomer-flow.js:161:15: number
+isomer-flow.js:161:18: number
+isomer-flow.js:162:9: number
+isomer-flow.js:162:9-13: boolean
+isomer-flow.js:162:13: number
+isomer-flow.js:162:16-21: number
+isomer-flow.js:162:21: number
+isomer-flow.js:163:9: number
+isomer-flow.js:163:9-13: boolean
+isomer-flow.js:163:13: number
+isomer-flow.js:163:16-21: number
+isomer-flow.js:163:21: number
+isomer-flow.js:164:9: number
+isomer-flow.js:164:9-17: boolean
+isomer-flow.js:164:13: number
+isomer-flow.js:164:13-17: number
+isomer-flow.js:164:17: number
+isomer-flow.js:164:27: number
+isomer-flow.js:164:27-45: number
+isomer-flow.js:164:31-41: number
+isomer-flow.js:164:31-45: number
+isomer-flow.js:164:32: number
+isomer-flow.js:164:32-36: number
+isomer-flow.js:164:36: number
+isomer-flow.js:164:41: number
+isomer-flow.js:164:45: number
+isomer-flow.js:165:9: number
+isomer-flow.js:165:9-17: boolean
+isomer-flow.js:165:13: number
+isomer-flow.js:165:13-17: number
+isomer-flow.js:165:17: number
+isomer-flow.js:165:27: number
+isomer-flow.js:166:9: number
+isomer-flow.js:166:9-17: boolean
+isomer-flow.js:166:13: number
+isomer-flow.js:166:13-17: number
+isomer-flow.js:166:17: number
+isomer-flow.js:166:27: number
+isomer-flow.js:166:27-55: number
+isomer-flow.js:166:31-51: number
+isomer-flow.js:166:31-55: number
+isomer-flow.js:166:32: number
+isomer-flow.js:166:32-36: number
+isomer-flow.js:166:36: number
+isomer-flow.js:166:42: number
+isomer-flow.js:166:42-46: number
+isomer-flow.js:166:42-50: number
+isomer-flow.js:166:46: number
+isomer-flow.js:166:50: number
+isomer-flow.js:166:55: number
+isomer-flow.js:167:12: number
+isomer-flow.js:183:1,353:1: [class: Path]
+isomer-flow.js:184:15-20: void | [Point, Point, Point, Point] | [, , ] | Array<> | [, Point, Point, Point] | [, , , ] | [Point, Point, Point] | Point
+isomer-flow.js:185:9-14: [class: Object]
+isomer-flow.js:185:9-24: Object
+isomer-flow.js:185:9-33: () => string
+isomer-flow.js:185:9-46: string
+isomer-flow.js:185:40-45: void | [Point, Point, Point, Point] | [, , ] | Array<> | [, Point, Point, Point] | [, , , ] | [Point, Point, Point] | Point
+isomer-flow.js:185:52-67: string
+isomer-flow.js:186:7-10: Path
+isomer-flow.js:186:7-26: void | [Point, Point, Point, Point] | [, , ] | Array<> | [, Point, Point, Point] | [, , , ] | [Point, Point, Point] | Point
+isomer-flow.js:186:21-26: void | [Point, Point, Point, Point] | [, , ] | Array<> | [, Point, Point, Point] | [, , , ] | [Point, Point, Point] | Point
+isomer-flow.js:188:7-10: Path
+isomer-flow.js:188:7-57: Array<>
+isomer-flow.js:188:21-25: Array<T>
+isomer-flow.js:188:21-35: Array
+isomer-flow.js:188:21-41: (start?: number, end?: number) => Array<>
+isomer-flow.js:188:21-57: Array<>
+isomer-flow.js:188:48-56: any
+isomer-flow.js:196:8-12: Point
+isomer-flow.js:197:5-8: Path
+isomer-flow.js:197:5-15: 
+isomer-flow.js:197:5-27: 
+isomer-flow.js:197:22-26: Point
+isomer-flow.js:205:9-14: Array<>
+isomer-flow.js:205:18-22: Array<T>
+isomer-flow.js:205:18-32: Array
+isomer-flow.js:205:18-38: (start?: number, end?: number) => Array<>
+isomer-flow.js:205:18-56: Array<>
+isomer-flow.js:205:45-48: Path
+isomer-flow.js:205:45-55: 
+isomer-flow.js:207:12-37: Path
+isomer-flow.js:207:16-19: [class: Path]
+isomer-flow.js:207:21-26: Array<>
+isomer-flow.js:207:21-36: Array<>
+isomer-flow.js:217:9-12: 
+isomer-flow.js:217:16-24: any
+isomer-flow.js:219:12,221:7: Path
+isomer-flow.js:219:16-19: [class: Path]
+isomer-flow.js:219:21-24: Path
+isomer-flow.js:219:21-31: 
+isomer-flow.js:219:21,221:6: 
+isomer-flow.js:219:37,221:5: (point: ) => 
+isomer-flow.js:219:46-50: 
+isomer-flow.js:220:14-18: 
+isomer-flow.js:220:14-28: 
+isomer-flow.js:220:14-47: 
+isomer-flow.js:220:36-40: 
+isomer-flow.js:220:43-46: 
+isomer-flow.js:230:9-12: 
+isomer-flow.js:230:16-24: any
+isomer-flow.js:232:12,234:7: Path
+isomer-flow.js:232:16-19: [class: Path]
+isomer-flow.js:232:21-24: Path
+isomer-flow.js:232:21-31: 
+isomer-flow.js:232:21,234:6: 
+isomer-flow.js:232:37,234:5: (point: ) => 
+isomer-flow.js:232:46-50: 
+isomer-flow.js:233:14-18: 
+isomer-flow.js:233:14-26: 
+isomer-flow.js:233:14-45: 
+isomer-flow.js:233:34-38: 
+isomer-flow.js:233:41-44: 
+isomer-flow.js:243:9-12: 
+isomer-flow.js:243:16-24: any
+isomer-flow.js:245:12,247:7: Path
+isomer-flow.js:245:16-19: [class: Path]
+isomer-flow.js:245:21-24: Path
+isomer-flow.js:245:21-31: 
+isomer-flow.js:245:21,247:6: 
+isomer-flow.js:245:37,247:5: (point: ) => 
+isomer-flow.js:245:46-50: 
+isomer-flow.js:246:14-18: 
+isomer-flow.js:246:14-26: 
+isomer-flow.js:246:14-45: 
+isomer-flow.js:246:34-38: 
+isomer-flow.js:246:41-44: 
+isomer-flow.js:256:9-12: 
+isomer-flow.js:256:16-24: any
+isomer-flow.js:258:12,260:7: Path
+isomer-flow.js:258:16-19: [class: Path]
+isomer-flow.js:258:21-24: Path
+isomer-flow.js:258:21-31: 
+isomer-flow.js:258:21,260:6: 
+isomer-flow.js:258:37,260:5: (point: ) => 
+isomer-flow.js:258:46-50: 
+isomer-flow.js:259:14-18: 
+isomer-flow.js:259:14-26: 
+isomer-flow.js:259:14-45: 
+isomer-flow.js:259:34-38: 
+isomer-flow.js:259:41-44: 
+isomer-flow.js:270:9-12: 
+isomer-flow.js:270:16-24: any
+isomer-flow.js:272:12,274:7: Path
+isomer-flow.js:272:16-19: [class: Path]
+isomer-flow.js:272:21-24: Path
+isomer-flow.js:272:21-31: 
+isomer-flow.js:272:21,274:6: 
+isomer-flow.js:272:37,274:5: (point: ) => 
+isomer-flow.js:272:46-50: 
+isomer-flow.js:273:14-18: 
+isomer-flow.js:273:14-24: 
+isomer-flow.js:273:14-43: 
+isomer-flow.js:273:32-36: 
+isomer-flow.js:273:39-42: 
+isomer-flow.js:283:9: number
+isomer-flow.js:283:12-16: number
+isomer-flow.js:283:20: number
+isomer-flow.js:284:10-14: number
+isomer-flow.js:284:14: number
+isomer-flow.js:284:17: number
+isomer-flow.js:284:17-38: boolean
+isomer-flow.js:284:21-24: Path
+isomer-flow.js:284:21-31: 
+isomer-flow.js:284:21-38: 
+isomer-flow.js:284:41-43: number
+isomer-flow.js:285:7-37: number
+isomer-flow.js:285:16-19: Path
+isomer-flow.js:285:16-26: 
+isomer-flow.js:285:16-29: 
+isomer-flow.js:285:16-37: 
+isomer-flow.js:285:28: number
+isomer-flow.js:288:12-16: number
+isomer-flow.js:288:12-44: number
+isomer-flow.js:288:21-24: Path
+isomer-flow.js:288:21-31: 
+isomer-flow.js:288:21-43: 
+isomer-flow.js:288:43: number
+isomer-flow.js:299:20-25: 
+isomer-flow.js:299:28-32: number
+isomer-flow.js:299:35-40: number
+isomer-flow.js:300:9-13: number
+isomer-flow.js:300:19-27: void
+isomer-flow.js:300:30-38: number
+isomer-flow.js:300:38: number
+isomer-flow.js:301:9-14: number
+isomer-flow.js:301:20-28: void
+isomer-flow.js:301:31-40: number
+isomer-flow.js:301:40: number
+isomer-flow.js:303:9-12: Path
+isomer-flow.js:303:16,308:6: Path
+isomer-flow.js:303:20-23: [class: Path]
+isomer-flow.js:303:25,308:5: [, Point, Point, Point]
+isomer-flow.js:304:7-12: 
+isomer-flow.js:305:7-53: Point
+isomer-flow.js:305:11-15: [class: Point]
+isomer-flow.js:305:17-22: 
+isomer-flow.js:305:17-24: 
+isomer-flow.js:305:17-32: 
+isomer-flow.js:305:28-32: number
+isomer-flow.js:305:35-40: 
+isomer-flow.js:305:35-42: 
+isomer-flow.js:305:45-50: 
+isomer-flow.js:305:45-52: 
+isomer-flow.js:306:7-62: Point
+isomer-flow.js:306:11-15: [class: Point]
+isomer-flow.js:306:17-22: 
+isomer-flow.js:306:17-24: 
+isomer-flow.js:306:17-32: 
+isomer-flow.js:306:28-32: number
+isomer-flow.js:306:35-40: 
+isomer-flow.js:306:35-42: 
+isomer-flow.js:306:35-51: 
+isomer-flow.js:306:46-51: number
+isomer-flow.js:306:54-59: 
+isomer-flow.js:306:54-61: 
+isomer-flow.js:307:7-54: Point
+isomer-flow.js:307:11-15: [class: Point]
+isomer-flow.js:307:17-22: 
+isomer-flow.js:307:17-24: 
+isomer-flow.js:307:27-32: 
+isomer-flow.js:307:27-34: 
+isomer-flow.js:307:27-43: 
+isomer-flow.js:307:38-43: number
+isomer-flow.js:307:46-51: 
+isomer-flow.js:307:46-53: 
+isomer-flow.js:310:12-15: Path
+isomer-flow.js:317:17-22: Point
+isomer-flow.js:317:25-30: number
+isomer-flow.js:317:33-40: number | void
+isomer-flow.js:318:5-29: number
+isomer-flow.js:318:16-23: number | void
+isomer-flow.js:318:16-29: number
+isomer-flow.js:318:28-29: number
+isomer-flow.js:319:9: number
+isomer-flow.js:319:12-15: Path
+isomer-flow.js:319:19-28: Path
+isomer-flow.js:319:23-26: [class: Path]
+isomer-flow.js:321:10-14: number
+isomer-flow.js:321:14: number
+isomer-flow.js:321:17: number
+isomer-flow.js:321:17-28: boolean
+isomer-flow.js:321:21-28: number
+isomer-flow.js:321:31-33: number
+isomer-flow.js:322:7-10: Path
+isomer-flow.js:322:7,325:11: void
+isomer-flow.js:322:17,325:10: Point
+isomer-flow.js:322:21-25: [class: Point]
+isomer-flow.js:323:9-14: number
+isomer-flow.js:323:9-53: number
+isomer-flow.js:323:18-21: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:323:18-53: number
+isomer-flow.js:323:27: number
+isomer-flow.js:323:27-31: number
+isomer-flow.js:323:27-41: number
+isomer-flow.js:323:27-52: number
+isomer-flow.js:323:31: number
+isomer-flow.js:323:35-38: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:323:35-41: number
+isomer-flow.js:323:45-52: number
+isomer-flow.js:324:9-14: number
+isomer-flow.js:324:9-53: number
+isomer-flow.js:324:18-21: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:324:18-53: number
+isomer-flow.js:324:27: number
+isomer-flow.js:324:27-31: number
+isomer-flow.js:324:27-41: number
+isomer-flow.js:324:27-52: number
+isomer-flow.js:324:31: number
+isomer-flow.js:324:35-38: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:324:35-41: number
+isomer-flow.js:324:45-52: number
+isomer-flow.js:325:9: number
+isomer-flow.js:328:12-15: Path
+isomer-flow.js:328:12-55: Path
+isomer-flow.js:328:27-32: Point
+isomer-flow.js:328:27-34: 
+isomer-flow.js:328:37-42: Point
+isomer-flow.js:328:37-44: 
+isomer-flow.js:328:47-52: Point
+isomer-flow.js:328:47-54: 
+isomer-flow.js:338:15-20: 
+isomer-flow.js:338:23-33: number
+isomer-flow.js:338:36-46: number
+isomer-flow.js:338:49-54: number
+isomer-flow.js:339:9: number
+isomer-flow.js:339:12: number
+isomer-flow.js:339:15-18: Path
+isomer-flow.js:339:22-31: Path
+isomer-flow.js:339:26-29: [class: Path]
+isomer-flow.js:341:10-14: number
+isomer-flow.js:341:14: number
+isomer-flow.js:341:17: number
+isomer-flow.js:341:17-30: boolean
+isomer-flow.js:341:21-26: number
+isomer-flow.js:341:21-30: number
+isomer-flow.js:341:30: number
+isomer-flow.js:341:33-35: number
+isomer-flow.js:342:7-51: number
+isomer-flow.js:342:11-51: number
+isomer-flow.js:342:12: number
+isomer-flow.js:342:12-16: number
+isomer-flow.js:342:16: number
+isomer-flow.js:342:22: number
+isomer-flow.js:342:27-37: number
+isomer-flow.js:342:41-51: number
+isomer-flow.js:344:7-10: Path
+isomer-flow.js:344:7,347:11: void
+isomer-flow.js:344:17,347:10: Point
+isomer-flow.js:344:21-25: [class: Point]
+isomer-flow.js:345:9: number
+isomer-flow.js:345:9-42: number
+isomer-flow.js:345:13-16: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:345:13-42: number
+isomer-flow.js:345:22: number
+isomer-flow.js:345:22-32: number
+isomer-flow.js:345:22-41: number
+isomer-flow.js:345:26-29: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:345:26-32: number
+isomer-flow.js:345:36-41: number
+isomer-flow.js:346:9: number
+isomer-flow.js:346:9-42: number
+isomer-flow.js:346:13-16: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:346:13-42: number
+isomer-flow.js:346:22: number
+isomer-flow.js:346:22-32: number
+isomer-flow.js:346:22-41: number
+isomer-flow.js:346:26-29: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:346:26-32: number
+isomer-flow.js:346:36-41: number
+isomer-flow.js:347:9: number
+isomer-flow.js:350:12-15: Path
+isomer-flow.js:350:12-55: Path
+isomer-flow.js:350:27-32: 
+isomer-flow.js:350:27-34: 
+isomer-flow.js:350:37-42: 
+isomer-flow.js:350:37-44: 
+isomer-flow.js:350:47-52: 
+isomer-flow.js:350:47-54: 
+isomer-flow.js:362:1,474:1: [class: Point]
+isomer-flow.js:363:15: number
+isomer-flow.js:363:18: number
+isomer-flow.js:363:21: number | void
+isomer-flow.js:364:9-12: Point
+isomer-flow.js:364:25-29: [class: Point]
+isomer-flow.js:365:7-10: Point
+isomer-flow.js:365:7-46: number
+isomer-flow.js:365:16-46: number
+isomer-flow.js:365:24: number
+isomer-flow.js:365:42: number
+isomer-flow.js:365:46: number
+isomer-flow.js:366:7-10: Point
+isomer-flow.js:366:7-46: number
+isomer-flow.js:366:16-46: number
+isomer-flow.js:366:24: number
+isomer-flow.js:366:42: number
+isomer-flow.js:366:46: number
+isomer-flow.js:367:7-10: Point
+isomer-flow.js:367:7-46: number
+isomer-flow.js:367:16-46: number
+isomer-flow.js:367:24: number | void
+isomer-flow.js:367:42: number
+isomer-flow.js:367:46: number
+isomer-flow.js:369:14-31: Point
+isomer-flow.js:369:18-22: [class: Point]
+isomer-flow.js:369:24: number
+isomer-flow.js:369:27: number
+isomer-flow.js:369:30: number | void
+isomer-flow.js:377:13-14: number
+isomer-flow.js:377:17-18: number
+isomer-flow.js:377:21-22: number | void
+isomer-flow.js:379:5-42: number
+isomer-flow.js:379:10-42: number
+isomer-flow.js:379:18-19: number
+isomer-flow.js:379:37-38: number
+isomer-flow.js:379:42: number
+isomer-flow.js:380:5-42: number
+isomer-flow.js:380:10-42: number
+isomer-flow.js:380:18-19: number
+isomer-flow.js:380:37-38: number
+isomer-flow.js:380:42: number
+isomer-flow.js:381:5-42: number
+isomer-flow.js:381:10-42: number
+isomer-flow.js:381:18-19: number | void
+isomer-flow.js:381:37-38: number
+isomer-flow.js:381:42: number
+isomer-flow.js:383:12,386:18: Point
+isomer-flow.js:383:16-20: [class: Point]
+isomer-flow.js:384:7-10: Point
+isomer-flow.js:384:7-12: 
+isomer-flow.js:384:7-17: 
+isomer-flow.js:384:16-17: number
+isomer-flow.js:385:7-10: Point
+isomer-flow.js:385:7-12: 
+isomer-flow.js:385:7-17: 
+isomer-flow.js:385:16-17: number
+isomer-flow.js:386:7-10: Point
+isomer-flow.js:386:7-12: 
+isomer-flow.js:386:7-17: 
+isomer-flow.js:386:16-17: number
+isomer-flow.js:393:9-14: 
+isomer-flow.js:393:17-18: 
+isomer-flow.js:393:21-22: 
+isomer-flow.js:393:25-26: number
+isomer-flow.js:394:9: Point
+isomer-flow.js:394:13-16: Point
+isomer-flow.js:394:13-59: Point
+isomer-flow.js:394:28-36: 
+isomer-flow.js:394:29-34: 
+isomer-flow.js:394:29-36: 
+isomer-flow.js:394:39-47: 
+isomer-flow.js:394:40-45: 
+isomer-flow.js:394:40-47: 
+isomer-flow.js:394:50-58: 
+isomer-flow.js:394:51-56: 
+isomer-flow.js:394:51-58: 
+isomer-flow.js:396:9-10: 
+isomer-flow.js:396:16-24: void
+isomer-flow.js:396:29-30: number
+isomer-flow.js:396:36-44: void
+isomer-flow.js:398:7-18: 
+isomer-flow.js:398:12-18: 
+isomer-flow.js:398:17-18: 
+isomer-flow.js:401:7-44: number
+isomer-flow.js:401:12-44: number
+isomer-flow.js:401:20-21: number
+isomer-flow.js:401:39-40: number
+isomer-flow.js:401:44: number
+isomer-flow.js:404:5: Point
+isomer-flow.js:404:5-7: 
+isomer-flow.js:404:5-13: 
+isomer-flow.js:404:12-13: 
+isomer-flow.js:405:5: Point
+isomer-flow.js:405:5-7: 
+isomer-flow.js:405:5-13: 
+isomer-flow.js:405:12-13: 
+isomer-flow.js:406:5: Point
+isomer-flow.js:406:5-7: 
+isomer-flow.js:406:5-13: 
+isomer-flow.js:406:12-13: number
+isomer-flow.js:408:12: Point
+isomer-flow.js:408:12-52: Point
+isomer-flow.js:408:24-29: 
+isomer-flow.js:408:24-31: 
+isomer-flow.js:408:34-39: 
+isomer-flow.js:408:34-41: 
+isomer-flow.js:408:44-49: 
+isomer-flow.js:408:44-51: 
+isomer-flow.js:414:11-16: 
+isomer-flow.js:414:19-23: 
+isomer-flow.js:415:9: Point
+isomer-flow.js:415:13-16: Point
+isomer-flow.js:415:13-59: Point
+isomer-flow.js:415:28-36: 
+isomer-flow.js:415:29-34: 
+isomer-flow.js:415:29-36: 
+isomer-flow.js:415:39-47: 
+isomer-flow.js:415:40-45: 
+isomer-flow.js:415:40-47: 
+isomer-flow.js:415:50-58: 
+isomer-flow.js:415:51-56: 
+isomer-flow.js:415:51-58: 
+isomer-flow.js:417:9: number
+isomer-flow.js:417:13: Point
+isomer-flow.js:417:13-15: 
+isomer-flow.js:417:13-33: number
+isomer-flow.js:417:13-57: number
+isomer-flow.js:417:19-22: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:417:19-33: number
+isomer-flow.js:417:28-32: 
+isomer-flow.js:417:37: Point
+isomer-flow.js:417:37-39: 
+isomer-flow.js:417:37-57: number
+isomer-flow.js:417:43-46: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:417:43-57: number
+isomer-flow.js:417:52-56: 
+isomer-flow.js:418:9: number
+isomer-flow.js:418:13: Point
+isomer-flow.js:418:13-15: 
+isomer-flow.js:418:13-33: number
+isomer-flow.js:418:13-57: number
+isomer-flow.js:418:19-22: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:418:19-33: number
+isomer-flow.js:418:28-32: 
+isomer-flow.js:418:37: Point
+isomer-flow.js:418:37-39: 
+isomer-flow.js:418:37-57: number
+isomer-flow.js:418:43-46: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:418:43-57: number
+isomer-flow.js:418:52-56: 
+isomer-flow.js:419:5: Point
+isomer-flow.js:419:5-11: number
+isomer-flow.js:419:11: number
+isomer-flow.js:420:5: Point
+isomer-flow.js:420:5-11: number
+isomer-flow.js:420:11: number
+isomer-flow.js:422:12: Point
+isomer-flow.js:422:12-52: Point
+isomer-flow.js:422:24-29: 
+isomer-flow.js:422:24-31: 
+isomer-flow.js:422:34-39: 
+isomer-flow.js:422:34-41: 
+isomer-flow.js:422:44-49: 
+isomer-flow.js:422:44-51: 
+isomer-flow.js:428:11-16: 
+isomer-flow.js:428:19-23: 
+isomer-flow.js:429:9: Point
+isomer-flow.js:429:13-16: Point
+isomer-flow.js:429:13-59: Point
+isomer-flow.js:429:28-36: 
+isomer-flow.js:429:29-34: 
+isomer-flow.js:429:29-36: 
+isomer-flow.js:429:39-47: 
+isomer-flow.js:429:40-45: 
+isomer-flow.js:429:40-47: 
+isomer-flow.js:429:50-58: 
+isomer-flow.js:429:51-56: 
+isomer-flow.js:429:51-58: 
+isomer-flow.js:431:9: number
+isomer-flow.js:431:13: Point
+isomer-flow.js:431:13-15: 
+isomer-flow.js:431:13-33: number
+isomer-flow.js:431:13-57: number
+isomer-flow.js:431:19-22: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:431:19-33: number
+isomer-flow.js:431:28-32: 
+isomer-flow.js:431:37: Point
+isomer-flow.js:431:37-39: 
+isomer-flow.js:431:37-57: number
+isomer-flow.js:431:43-46: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:431:43-57: number
+isomer-flow.js:431:52-56: 
+isomer-flow.js:432:9: number
+isomer-flow.js:432:13: Point
+isomer-flow.js:432:13-15: 
+isomer-flow.js:432:13-33: number
+isomer-flow.js:432:13-57: number
+isomer-flow.js:432:19-22: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:432:19-33: number
+isomer-flow.js:432:28-32: 
+isomer-flow.js:432:37: Point
+isomer-flow.js:432:37-39: 
+isomer-flow.js:432:37-57: number
+isomer-flow.js:432:43-46: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:432:43-57: number
+isomer-flow.js:432:52-56: 
+isomer-flow.js:433:5: Point
+isomer-flow.js:433:5-11: number
+isomer-flow.js:433:11: number
+isomer-flow.js:434:5: Point
+isomer-flow.js:434:5-11: number
+isomer-flow.js:434:11: number
+isomer-flow.js:436:12: Point
+isomer-flow.js:436:12-52: Point
+isomer-flow.js:436:24-29: 
+isomer-flow.js:436:24-31: 
+isomer-flow.js:436:34-39: 
+isomer-flow.js:436:34-41: 
+isomer-flow.js:436:44-49: 
+isomer-flow.js:436:44-51: 
+isomer-flow.js:442:11-16: 
+isomer-flow.js:442:19-23: 
+isomer-flow.js:443:9: Point
+isomer-flow.js:443:13-16: Point
+isomer-flow.js:443:13-59: Point
+isomer-flow.js:443:28-36: 
+isomer-flow.js:443:29-34: 
+isomer-flow.js:443:29-36: 
+isomer-flow.js:443:39-47: 
+isomer-flow.js:443:40-45: 
+isomer-flow.js:443:40-47: 
+isomer-flow.js:443:50-58: 
+isomer-flow.js:443:51-56: 
+isomer-flow.js:443:51-58: 
+isomer-flow.js:445:9: number
+isomer-flow.js:445:13: Point
+isomer-flow.js:445:13-15: 
+isomer-flow.js:445:13-33: number
+isomer-flow.js:445:13-57: number
+isomer-flow.js:445:19-22: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:445:19-33: number
+isomer-flow.js:445:28-32: 
+isomer-flow.js:445:37: Point
+isomer-flow.js:445:37-39: 
+isomer-flow.js:445:37-57: number
+isomer-flow.js:445:43-46: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:445:43-57: number
+isomer-flow.js:445:52-56: 
+isomer-flow.js:446:9: number
+isomer-flow.js:446:13: Point
+isomer-flow.js:446:13-15: 
+isomer-flow.js:446:13-33: number
+isomer-flow.js:446:13-57: number
+isomer-flow.js:446:19-22: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:446:19-33: number
+isomer-flow.js:446:28-32: 
+isomer-flow.js:446:37: Point
+isomer-flow.js:446:37-39: 
+isomer-flow.js:446:37-57: number
+isomer-flow.js:446:43-46: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:446:43-57: number
+isomer-flow.js:446:52-56: 
+isomer-flow.js:447:5: Point
+isomer-flow.js:447:5-11: number
+isomer-flow.js:447:11: number
+isomer-flow.js:448:5: Point
+isomer-flow.js:448:5-11: number
+isomer-flow.js:448:11: number
+isomer-flow.js:450:12: Point
+isomer-flow.js:450:12-52: Point
+isomer-flow.js:450:24-29: 
+isomer-flow.js:450:24-31: 
+isomer-flow.js:450:34-39: 
+isomer-flow.js:450:34-41: 
+isomer-flow.js:450:44-49: 
+isomer-flow.js:450:44-51: 
+isomer-flow.js:459:12-15: Point
+isomer-flow.js:459:12-17: 
+isomer-flow.js:459:12-26: 
+isomer-flow.js:459:12-39: number
+isomer-flow.js:459:21-24: Point
+isomer-flow.js:459:21-26: 
+isomer-flow.js:459:30: number
+isomer-flow.js:459:30-39: number
+isomer-flow.js:459:34-37: Point
+isomer-flow.js:459:34-39: 
+isomer-flow.js:466:19-20: 
+isomer-flow.js:466:23-24: 
+isomer-flow.js:467:9-10: number
+isomer-flow.js:467:14-15: 
+isomer-flow.js:467:14-17: 
+isomer-flow.js:467:14-24: number
+isomer-flow.js:467:21-22: 
+isomer-flow.js:467:21-24: 
+isomer-flow.js:468:9-10: number
+isomer-flow.js:468:14-15: 
+isomer-flow.js:468:14-17: 
+isomer-flow.js:468:14-24: number
+isomer-flow.js:468:21-22: 
+isomer-flow.js:468:21-24: 
+isomer-flow.js:469:9-10: number
+isomer-flow.js:469:14-15: 
+isomer-flow.js:469:14-17: 
+isomer-flow.js:469:14-24: number
+isomer-flow.js:469:21-22: 
+isomer-flow.js:469:21-24: 
+isomer-flow.js:471:12-15: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:471:12-49: number
+isomer-flow.js:471:22-23: number
+isomer-flow.js:471:22-28: number
+isomer-flow.js:471:22-38: number
+isomer-flow.js:471:22-48: number
+isomer-flow.js:471:27-28: number
+isomer-flow.js:471:32-33: number
+isomer-flow.js:471:32-38: number
+isomer-flow.js:471:37-38: number
+isomer-flow.js:471:42-43: number
+isomer-flow.js:471:42-48: number
+isomer-flow.js:471:47-48: number
+isomer-flow.js:476:1-5: [class: Point]
+isomer-flow.js:476:1-33: Point
+isomer-flow.js:476:16-33: Point
+isomer-flow.js:476:20-24: [class: Point]
+isomer-flow.js:476:26: number
+isomer-flow.js:476:29: number
+isomer-flow.js:476:32: number
+isomer-flow.js:484:5-8: 
+isomer-flow.js:484:12-28: 
+isomer-flow.js:485:5-9: 
+isomer-flow.js:485:13-30: 
+isomer-flow.js:492:1,711:1: [class: Shape]
+isomer-flow.js:493:15-19: void
+isomer-flow.js:494:9-14: [class: Object]
+isomer-flow.js:494:9-24: Object
+isomer-flow.js:494:9-33: () => string
+isomer-flow.js:494:9-45: string
+isomer-flow.js:494:40-44: void
+isomer-flow.js:494:51-66: string
+isomer-flow.js:495:7-10: Shape
+isomer-flow.js:495:7-24: void
+isomer-flow.js:495:20-24: void
+isomer-flow.js:497:7-10: Shape
+isomer-flow.js:497:7-56: Array<>
+isomer-flow.js:497:20-24: Array<T>
+isomer-flow.js:497:20-34: Array
+isomer-flow.js:497:20-40: (start?: number, end?: number) => Array<>
+isomer-flow.js:497:20-56: Array<>
+isomer-flow.js:497:47-55: any
+isomer-flow.js:504:8-11: Path
+isomer-flow.js:505:5-8: Shape
+isomer-flow.js:505:5-14: 
+isomer-flow.js:505:5-25: 
+isomer-flow.js:505:21-24: Path
+isomer-flow.js:515:9-12: 
+isomer-flow.js:515:16-24: any
+isomer-flow.js:517:12,519:7: Shape
+isomer-flow.js:517:16-20: [class: Shape]
+isomer-flow.js:517:22-25: Shape
+isomer-flow.js:517:22-31: 
+isomer-flow.js:517:22,519:6: 
+isomer-flow.js:517:37,519:5: (path: ) => 
+isomer-flow.js:517:46-49: 
+isomer-flow.js:518:14-17: 
+isomer-flow.js:518:14-27: 
+isomer-flow.js:518:14-45: 
+isomer-flow.js:518:35-38: 
+isomer-flow.js:518:41-44: 
+isomer-flow.js:528:9-12: 
+isomer-flow.js:528:16-24: any
+isomer-flow.js:530:12,532:7: Shape
+isomer-flow.js:530:16-20: [class: Shape]
+isomer-flow.js:530:22-25: Shape
+isomer-flow.js:530:22-31: 
+isomer-flow.js:530:22,532:6: 
+isomer-flow.js:530:37,532:5: (path: ) => 
+isomer-flow.js:530:46-49: 
+isomer-flow.js:531:14-17: 
+isomer-flow.js:531:14-25: 
+isomer-flow.js:531:14-43: 
+isomer-flow.js:531:33-36: 
+isomer-flow.js:531:39-42: 
+isomer-flow.js:541:9-12: 
+isomer-flow.js:541:16-24: any
+isomer-flow.js:543:12,545:7: Shape
+isomer-flow.js:543:16-20: [class: Shape]
+isomer-flow.js:543:22-25: Shape
+isomer-flow.js:543:22-31: 
+isomer-flow.js:543:22,545:6: 
+isomer-flow.js:543:37,545:5: (path: ) => 
+isomer-flow.js:543:46-49: 
+isomer-flow.js:544:14-17: 
+isomer-flow.js:544:14-25: 
+isomer-flow.js:544:14-43: 
+isomer-flow.js:544:33-36: 
+isomer-flow.js:544:39-42: 
+isomer-flow.js:554:9-12: 
+isomer-flow.js:554:16-24: any
+isomer-flow.js:556:12,558:7: Shape
+isomer-flow.js:556:16-20: [class: Shape]
+isomer-flow.js:556:22-25: Shape
+isomer-flow.js:556:22-31: 
+isomer-flow.js:556:22,558:6: 
+isomer-flow.js:556:37,558:5: (path: ) => 
+isomer-flow.js:556:46-49: 
+isomer-flow.js:557:14-17: 
+isomer-flow.js:557:14-25: 
+isomer-flow.js:557:14-43: 
+isomer-flow.js:557:33-36: 
+isomer-flow.js:557:39-42: 
+isomer-flow.js:567:9-12: 
+isomer-flow.js:567:16-24: any
+isomer-flow.js:569:12,571:7: Shape
+isomer-flow.js:569:16-20: [class: Shape]
+isomer-flow.js:569:22-25: Shape
+isomer-flow.js:569:22-31: 
+isomer-flow.js:569:22,571:6: 
+isomer-flow.js:569:37,571:5: (path: ) => 
+isomer-flow.js:569:46-49: 
+isomer-flow.js:570:14-17: 
+isomer-flow.js:570:14-23: 
+isomer-flow.js:570:14-41: 
+isomer-flow.js:570:31-34: 
+isomer-flow.js:570:37-40: 
+isomer-flow.js:580:9-13: 
+isomer-flow.js:580:17-20: Shape
+isomer-flow.js:580:17-26: 
+isomer-flow.js:580:17-34: 
+isomer-flow.js:586:12-16: 
+isomer-flow.js:586:12,588:6: 
+isomer-flow.js:586:23,588:5: (pathA: , pathB: ) => number
+isomer-flow.js:586:32-36: 
+isomer-flow.js:586:39-43: 
+isomer-flow.js:587:14-18: 
+isomer-flow.js:587:14-26: 
+isomer-flow.js:587:14-42: number
+isomer-flow.js:587:30-34: 
+isomer-flow.js:587:30-42: 
+isomer-flow.js:596:18-21: Path
+isomer-flow.js:596:24-29: number | void
+isomer-flow.js:597:5-54: number
+isomer-flow.js:597:14-54: number
+isomer-flow.js:597:22-27: number | void
+isomer-flow.js:597:45-50: number
+isomer-flow.js:597:54: number
+isomer-flow.js:599:9: number
+isomer-flow.js:599:12-18: Path
+isomer-flow.js:599:22-25: Path
+isomer-flow.js:599:22-49: Path
+isomer-flow.js:599:37: number
+isomer-flow.js:599:40: number
+isomer-flow.js:599:43-48: number
+isomer-flow.js:600:9-13: Shape
+isomer-flow.js:600:17-27: Shape
+isomer-flow.js:600:21-25: [class: Shape]
+isomer-flow.js:603:5-9: Shape
+isomer-flow.js:603:5-30: void
+isomer-flow.js:603:16-19: Path
+isomer-flow.js:603:16-29: Path
+isomer-flow.js:604:5-9: Shape
+isomer-flow.js:604:5-23: void
+isomer-flow.js:604:16-22: Path
+isomer-flow.js:607:10-14: number
+isomer-flow.js:607:14: number
+isomer-flow.js:607:17: number
+isomer-flow.js:607:17-38: boolean
+isomer-flow.js:607:21-24: Path
+isomer-flow.js:607:21-31: 
+isomer-flow.js:607:21-38: 
+isomer-flow.js:607:41-43: number
+isomer-flow.js:608:7-11: Shape
+isomer-flow.js:608:7,613:9: void
+isomer-flow.js:608:18,613:8: Path
+isomer-flow.js:608:22-25: [class: Path]
+isomer-flow.js:608:27,613:7: [, , , ]
+isomer-flow.js:609:9-15: Path
+isomer-flow.js:609:9-22: 
+isomer-flow.js:609:9-25: 
+isomer-flow.js:609:24: number
+isomer-flow.js:610:9-12: Path
+isomer-flow.js:610:9-19: 
+isomer-flow.js:610:9-22: 
+isomer-flow.js:610:21: number
+isomer-flow.js:611:9-12: Path
+isomer-flow.js:611:9-19: 
+isomer-flow.js:611:9-49: 
+isomer-flow.js:611:21-48: number
+isomer-flow.js:611:22: number
+isomer-flow.js:611:22-26: number
+isomer-flow.js:611:26: number
+isomer-flow.js:611:31-34: Path
+isomer-flow.js:611:31-41: 
+isomer-flow.js:611:31-48: 
+isomer-flow.js:612:9-15: Path
+isomer-flow.js:612:9-22: 
+isomer-flow.js:612:9-55: 
+isomer-flow.js:612:24-54: number
+isomer-flow.js:612:25: number
+isomer-flow.js:612:25-29: number
+isomer-flow.js:612:29: number
+isomer-flow.js:612:34-40: Path
+isomer-flow.js:612:34-47: 
+isomer-flow.js:612:34-54: 
+isomer-flow.js:616:12-16: Shape
+isomer-flow.js:627:16-21: Point
+isomer-flow.js:627:24-25: number
+isomer-flow.js:627:28-29: number
+isomer-flow.js:627:32-33: number
+isomer-flow.js:628:5-42: number
+isomer-flow.js:628:10-42: number
+isomer-flow.js:628:18-19: number
+isomer-flow.js:628:37-38: number
+isomer-flow.js:628:42: number
+isomer-flow.js:629:5-42: number
+isomer-flow.js:629:10-42: number
+isomer-flow.js:629:18-19: number
+isomer-flow.js:629:37-38: number
+isomer-flow.js:629:42: number
+isomer-flow.js:630:5-42: number
+isomer-flow.js:630:10-42: number
+isomer-flow.js:630:18-19: number
+isomer-flow.js:630:37-38: number
+isomer-flow.js:630:42: number
+isomer-flow.js:633:9-13: Shape
+isomer-flow.js:633:17-27: Shape
+isomer-flow.js:633:21-25: [class: Shape]
+isomer-flow.js:636:9-13: Path
+isomer-flow.js:636:17,641:6: Path
+isomer-flow.js:636:21-24: [class: Path]
+isomer-flow.js:636:26,641:5: [Point, Point, Point, Point]
+isomer-flow.js:637:7-12: Point
+isomer-flow.js:638:7-50: Point
+isomer-flow.js:638:11-15: [class: Point]
+isomer-flow.js:638:17-22: Point
+isomer-flow.js:638:17-24: 
+isomer-flow.js:638:17-29: 
+isomer-flow.js:638:28-29: number
+isomer-flow.js:638:32-37: Point
+isomer-flow.js:638:32-39: 
+isomer-flow.js:638:42-47: Point
+isomer-flow.js:638:42-49: 
+isomer-flow.js:639:7-55: Point
+isomer-flow.js:639:11-15: [class: Point]
+isomer-flow.js:639:17-22: Point
+isomer-flow.js:639:17-24: 
+isomer-flow.js:639:17-29: 
+isomer-flow.js:639:28-29: number
+isomer-flow.js:639:32-37: Point
+isomer-flow.js:639:32-39: 
+isomer-flow.js:639:42-47: Point
+isomer-flow.js:639:42-49: 
+isomer-flow.js:639:42-54: 
+isomer-flow.js:639:53-54: number
+isomer-flow.js:640:7-50: Point
+isomer-flow.js:640:11-15: [class: Point]
+isomer-flow.js:640:17-22: Point
+isomer-flow.js:640:17-24: 
+isomer-flow.js:640:27-32: Point
+isomer-flow.js:640:27-34: 
+isomer-flow.js:640:37-42: Point
+isomer-flow.js:640:37-44: 
+isomer-flow.js:640:37-49: 
+isomer-flow.js:640:48-49: number
+isomer-flow.js:644:5-9: Shape
+isomer-flow.js:644:5-21: void
+isomer-flow.js:644:16-20: Path
+isomer-flow.js:645:5-9: Shape
+isomer-flow.js:645:5-51: void
+isomer-flow.js:645:16-20: Path
+isomer-flow.js:645:16-30: Path
+isomer-flow.js:645:16-50: Path
+isomer-flow.js:645:42: number
+isomer-flow.js:645:45-46: number
+isomer-flow.js:645:49: number
+isomer-flow.js:648:9-13: Path
+isomer-flow.js:648:17,653:6: Path
+isomer-flow.js:648:21-24: [class: Path]
+isomer-flow.js:648:26,653:5: [Point, Point, Point, Point]
+isomer-flow.js:649:7-12: Point
+isomer-flow.js:650:7-50: Point
+isomer-flow.js:650:11-15: [class: Point]
+isomer-flow.js:650:17-22: Point
+isomer-flow.js:650:17-24: 
+isomer-flow.js:650:27-32: Point
+isomer-flow.js:650:27-34: 
+isomer-flow.js:650:37-42: Point
+isomer-flow.js:650:37-44: 
+isomer-flow.js:650:37-49: 
+isomer-flow.js:650:48-49: number
+isomer-flow.js:651:7-55: Point
+isomer-flow.js:651:11-15: [class: Point]
+isomer-flow.js:651:17-22: Point
+isomer-flow.js:651:17-24: 
+isomer-flow.js:651:27-32: Point
+isomer-flow.js:651:27-34: 
+isomer-flow.js:651:27-39: 
+isomer-flow.js:651:38-39: number
+isomer-flow.js:651:42-47: Point
+isomer-flow.js:651:42-49: 
+isomer-flow.js:651:42-54: 
+isomer-flow.js:651:53-54: number
+isomer-flow.js:652:7-50: Point
+isomer-flow.js:652:11-15: [class: Point]
+isomer-flow.js:652:17-22: Point
+isomer-flow.js:652:17-24: 
+isomer-flow.js:652:27-32: Point
+isomer-flow.js:652:27-34: 
+isomer-flow.js:652:27-39: 
+isomer-flow.js:652:38-39: number
+isomer-flow.js:652:42-47: Point
+isomer-flow.js:652:42-49: 
+isomer-flow.js:654:5-9: Shape
+isomer-flow.js:654:5-21: void
+isomer-flow.js:654:16-20: Path
+isomer-flow.js:655:5-9: Shape
+isomer-flow.js:655:5-51: void
+isomer-flow.js:655:16-20: Path
+isomer-flow.js:655:16-30: Path
+isomer-flow.js:655:16-50: Path
+isomer-flow.js:655:42-43: number
+isomer-flow.js:655:46: number
+isomer-flow.js:655:49: number
+isomer-flow.js:658:9-13: Path
+isomer-flow.js:658:17,663:6: Path
+isomer-flow.js:658:21-24: [class: Path]
+isomer-flow.js:658:26,663:5: [Point, Point, Point, Point]
+isomer-flow.js:659:7-12: Point
+isomer-flow.js:660:7-50: Point
+isomer-flow.js:660:11-15: [class: Point]
+isomer-flow.js:660:17-22: Point
+isomer-flow.js:660:17-24: 
+isomer-flow.js:660:17-29: 
+isomer-flow.js:660:28-29: number
+isomer-flow.js:660:32-37: Point
+isomer-flow.js:660:32-39: 
+isomer-flow.js:660:42-47: Point
+isomer-flow.js:660:42-49: 
+isomer-flow.js:661:7-55: Point
+isomer-flow.js:661:11-15: [class: Point]
+isomer-flow.js:661:17-22: Point
+isomer-flow.js:661:17-24: 
+isomer-flow.js:661:17-29: 
+isomer-flow.js:661:28-29: number
+isomer-flow.js:661:32-37: Point
+isomer-flow.js:661:32-39: 
+isomer-flow.js:661:32-44: 
+isomer-flow.js:661:43-44: number
+isomer-flow.js:661:47-52: Point
+isomer-flow.js:661:47-54: 
+isomer-flow.js:662:7-50: Point
+isomer-flow.js:662:11-15: [class: Point]
+isomer-flow.js:662:17-22: Point
+isomer-flow.js:662:17-24: 
+isomer-flow.js:662:27-32: Point
+isomer-flow.js:662:27-34: 
+isomer-flow.js:662:27-39: 
+isomer-flow.js:662:38-39: number
+isomer-flow.js:662:42-47: Point
+isomer-flow.js:662:42-49: 
+isomer-flow.js:665:5-9: Shape
+isomer-flow.js:665:5-31: void
+isomer-flow.js:665:16-20: Path
+isomer-flow.js:665:16-30: Path
+isomer-flow.js:666:5-9: Shape
+isomer-flow.js:666:5-41: void
+isomer-flow.js:666:16-20: Path
+isomer-flow.js:666:16-40: Path
+isomer-flow.js:666:32: number
+isomer-flow.js:666:35: number
+isomer-flow.js:666:38-39: number
+isomer-flow.js:668:12-16: Shape
+isomer-flow.js:672:18-23: Point
+isomer-flow.js:672:26-27: number | void
+isomer-flow.js:672:30-31: number | void
+isomer-flow.js:672:34-35: number | void
+isomer-flow.js:673:5-42: number
+isomer-flow.js:673:10-42: number
+isomer-flow.js:673:18-19: number | void
+isomer-flow.js:673:37-38: number
+isomer-flow.js:673:42: number
+isomer-flow.js:674:5-42: number
+isomer-flow.js:674:10-42: number
+isomer-flow.js:674:18-19: number | void
+isomer-flow.js:674:37-38: number
+isomer-flow.js:674:42: number
+isomer-flow.js:675:5-42: number
+isomer-flow.js:675:10-42: number
+isomer-flow.js:675:18-19: number | void
+isomer-flow.js:675:37-38: number
+isomer-flow.js:675:42: number
+isomer-flow.js:677:9-15: Shape
+isomer-flow.js:677:19-29: Shape
+isomer-flow.js:677:23-27: [class: Shape]
+isomer-flow.js:680:9-13: Path
+isomer-flow.js:680:17,684:6: Path
+isomer-flow.js:680:21-24: [class: Path]
+isomer-flow.js:680:26,684:5: [Point, Point, Point]
+isomer-flow.js:681:7-12: Point
+isomer-flow.js:682:7-50: Point
+isomer-flow.js:682:11-15: [class: Point]
+isomer-flow.js:682:17-22: Point
+isomer-flow.js:682:17-24: 
+isomer-flow.js:682:17-29: 
+isomer-flow.js:682:28-29: number
+isomer-flow.js:682:32-37: Point
+isomer-flow.js:682:32-39: 
+isomer-flow.js:682:42-47: Point
+isomer-flow.js:682:42-49: 
+isomer-flow.js:683:7-68: Point
+isomer-flow.js:683:11-15: [class: Point]
+isomer-flow.js:683:17-22: Point
+isomer-flow.js:683:17-24: 
+isomer-flow.js:683:17-33: 
+isomer-flow.js:683:28-29: number
+isomer-flow.js:683:28-33: number
+isomer-flow.js:683:33: number
+isomer-flow.js:683:36-41: Point
+isomer-flow.js:683:36-43: 
+isomer-flow.js:683:36-52: 
+isomer-flow.js:683:47-48: number
+isomer-flow.js:683:47-52: number
+isomer-flow.js:683:52: number
+isomer-flow.js:683:55-60: Point
+isomer-flow.js:683:55-62: 
+isomer-flow.js:683:55-67: 
+isomer-flow.js:683:66-67: number
+isomer-flow.js:686:5-11: Shape
+isomer-flow.js:686:5-23: void
+isomer-flow.js:686:18-22: Path
+isomer-flow.js:687:5-11: Shape
+isomer-flow.js:687:5-74: void
+isomer-flow.js:687:18-22: Path
+isomer-flow.js:687:18-73: Path
+isomer-flow.js:687:32-37: Point
+isomer-flow.js:687:32-63: Point
+isomer-flow.js:687:49-50: number
+isomer-flow.js:687:49-54: number
+isomer-flow.js:687:54: number
+isomer-flow.js:687:57-58: number
+isomer-flow.js:687:57-62: number
+isomer-flow.js:687:62: number
+isomer-flow.js:687:66-69: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:687:66-72: number
+isomer-flow.js:690:9-13: Path
+isomer-flow.js:690:17,694:6: Path
+isomer-flow.js:690:21-24: [class: Path]
+isomer-flow.js:690:26,694:5: [Point, Point, Point]
+isomer-flow.js:691:7-12: Point
+isomer-flow.js:692:7-68: Point
+isomer-flow.js:692:11-15: [class: Point]
+isomer-flow.js:692:17-22: Point
+isomer-flow.js:692:17-24: 
+isomer-flow.js:692:17-33: 
+isomer-flow.js:692:28-29: number
+isomer-flow.js:692:28-33: number
+isomer-flow.js:692:33: number
+isomer-flow.js:692:36-41: Point
+isomer-flow.js:692:36-43: 
+isomer-flow.js:692:36-52: 
+isomer-flow.js:692:47-48: number
+isomer-flow.js:692:47-52: number
+isomer-flow.js:692:52: number
+isomer-flow.js:692:55-60: Point
+isomer-flow.js:692:55-62: 
+isomer-flow.js:692:55-67: 
+isomer-flow.js:692:66-67: number
+isomer-flow.js:693:7-50: Point
+isomer-flow.js:693:11-15: [class: Point]
+isomer-flow.js:693:17-22: Point
+isomer-flow.js:693:17-24: 
+isomer-flow.js:693:27-32: Point
+isomer-flow.js:693:27-34: 
+isomer-flow.js:693:27-39: 
+isomer-flow.js:693:38-39: number
+isomer-flow.js:693:42-47: Point
+isomer-flow.js:693:42-49: 
+isomer-flow.js:695:5-11: Shape
+isomer-flow.js:695:5-23: void
+isomer-flow.js:695:18-22: Path
+isomer-flow.js:696:5-11: Shape
+isomer-flow.js:696:5-74: void
+isomer-flow.js:696:18-22: Path
+isomer-flow.js:696:18-73: Path
+isomer-flow.js:696:32-37: Point
+isomer-flow.js:696:32-63: Point
+isomer-flow.js:696:49-50: number
+isomer-flow.js:696:49-54: number
+isomer-flow.js:696:54: number
+isomer-flow.js:696:57-58: number
+isomer-flow.js:696:57-62: number
+isomer-flow.js:696:62: number
+isomer-flow.js:696:66-69: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:696:66-72: number
+isomer-flow.js:698:12-18: Shape
+isomer-flow.js:702:19-24: Point
+isomer-flow.js:702:27-32: number
+isomer-flow.js:702:35-42: number | void
+isomer-flow.js:702:45-50: number | void
+isomer-flow.js:703:5-54: number
+isomer-flow.js:703:14-54: number
+isomer-flow.js:703:22-27: number
+isomer-flow.js:703:45-50: number
+isomer-flow.js:703:54: number
+isomer-flow.js:705:9-14: Path
+isomer-flow.js:705:18-21: [class: Path]
+isomer-flow.js:705:18-54: Path
+isomer-flow.js:705:30-35: Point
+isomer-flow.js:705:38-43: number
+isomer-flow.js:705:46-53: number | void
+isomer-flow.js:706:9-16: Shape
+isomer-flow.js:706:20-24: [class: Shape]
+isomer-flow.js:706:20-48: Shape
+isomer-flow.js:706:34-39: Path
+isomer-flow.js:706:42-47: number | void
+isomer-flow.js:708:12-19: Shape
+isomer-flow.js:719:1,760:1: [class: Vector]
+isomer-flow.js:720:15: number
+isomer-flow.js:720:18: number
+isomer-flow.js:720:21: number
+isomer-flow.js:721:5-8: Vector
+isomer-flow.js:721:5-44: number
+isomer-flow.js:721:14-44: number
+isomer-flow.js:721:22: number
+isomer-flow.js:721:40: number
+isomer-flow.js:721:44: number
+isomer-flow.js:722:5-8: Vector
+isomer-flow.js:722:5-44: number
+isomer-flow.js:722:14-44: number
+isomer-flow.js:722:22: number
+isomer-flow.js:722:40: number
+isomer-flow.js:722:44: number
+isomer-flow.js:723:5-8: Vector
+isomer-flow.js:723:5-44: number
+isomer-flow.js:723:14-44: number
+isomer-flow.js:723:22: number
+isomer-flow.js:723:40: number
+isomer-flow.js:723:44: number
+isomer-flow.js:729:24-25: 
+isomer-flow.js:729:28-29: 
+isomer-flow.js:730:12-60: Vector
+isomer-flow.js:730:16-21: [class: Vector]
+isomer-flow.js:730:23-24: 
+isomer-flow.js:730:23-26: 
+isomer-flow.js:730:23-33: number
+isomer-flow.js:730:30-31: 
+isomer-flow.js:730:30-33: 
+isomer-flow.js:730:36-37: 
+isomer-flow.js:730:36-39: 
+isomer-flow.js:730:36-46: number
+isomer-flow.js:730:43-44: 
+isomer-flow.js:730:43-46: 
+isomer-flow.js:730:49-50: 
+isomer-flow.js:730:49-52: 
+isomer-flow.js:730:49-59: number
+isomer-flow.js:730:56-57: 
+isomer-flow.js:730:56-59: 
+isomer-flow.js:733:23-24: Vector
+isomer-flow.js:733:27-28: Vector
+isomer-flow.js:734:9: number
+isomer-flow.js:734:13-14: Vector
+isomer-flow.js:734:13-16: 
+isomer-flow.js:734:13-23: number
+isomer-flow.js:734:13-37: number
+isomer-flow.js:734:20-21: Vector
+isomer-flow.js:734:20-23: 
+isomer-flow.js:734:27-28: Vector
+isomer-flow.js:734:27-30: 
+isomer-flow.js:734:27-37: number
+isomer-flow.js:734:34-35: Vector
+isomer-flow.js:734:34-37: 
+isomer-flow.js:735:9: number
+isomer-flow.js:735:13-14: number
+isomer-flow.js:735:13-44: number
+isomer-flow.js:735:14: number
+isomer-flow.js:735:19-20: Vector
+isomer-flow.js:735:19-22: 
+isomer-flow.js:735:19-29: number
+isomer-flow.js:735:19-43: number
+isomer-flow.js:735:26-27: Vector
+isomer-flow.js:735:26-29: 
+isomer-flow.js:735:33-34: Vector
+isomer-flow.js:735:33-36: 
+isomer-flow.js:735:33-43: number
+isomer-flow.js:735:40-41: Vector
+isomer-flow.js:735:40-43: 
+isomer-flow.js:736:9: number
+isomer-flow.js:736:13-14: Vector
+isomer-flow.js:736:13-16: 
+isomer-flow.js:736:13-23: number
+isomer-flow.js:736:13-37: number
+isomer-flow.js:736:20-21: Vector
+isomer-flow.js:736:20-23: 
+isomer-flow.js:736:27-28: Vector
+isomer-flow.js:736:27-30: 
+isomer-flow.js:736:27-37: number
+isomer-flow.js:736:34-35: Vector
+isomer-flow.js:736:34-37: 
+isomer-flow.js:738:12-30: Vector
+isomer-flow.js:738:16-21: [class: Vector]
+isomer-flow.js:738:23: number
+isomer-flow.js:738:26: number
+isomer-flow.js:738:29: number
+isomer-flow.js:741:21-22: Vector
+isomer-flow.js:741:25-26: 
+isomer-flow.js:742:12-13: Vector
+isomer-flow.js:742:12-15: 
+isomer-flow.js:742:12-22: number
+isomer-flow.js:742:12-36: number
+isomer-flow.js:742:12-50: number
+isomer-flow.js:742:19-20: 
+isomer-flow.js:742:19-22: 
+isomer-flow.js:742:26-27: Vector
+isomer-flow.js:742:26-29: 
+isomer-flow.js:742:26-36: number
+isomer-flow.js:742:33-34: 
+isomer-flow.js:742:33-36: 
+isomer-flow.js:742:40-41: Vector
+isomer-flow.js:742:40-43: 
+isomer-flow.js:742:40-50: number
+isomer-flow.js:742:47-48: 
+isomer-flow.js:742:47-50: 
+isomer-flow.js:746:12-15: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:746:12-73: number
+isomer-flow.js:746:22-25: Vector
+isomer-flow.js:746:22-27: 
+isomer-flow.js:746:22-36: number
+isomer-flow.js:746:22-54: number
+isomer-flow.js:746:22-72: number
+isomer-flow.js:746:31-34: Vector
+isomer-flow.js:746:31-36: 
+isomer-flow.js:746:40-43: Vector
+isomer-flow.js:746:40-45: 
+isomer-flow.js:746:40-54: number
+isomer-flow.js:746:49-52: Vector
+isomer-flow.js:746:49-54: 
+isomer-flow.js:746:58-61: Vector
+isomer-flow.js:746:58-63: 
+isomer-flow.js:746:58-72: number
+isomer-flow.js:746:67-70: Vector
+isomer-flow.js:746:67-72: 
+isomer-flow.js:750:9-17: number
+isomer-flow.js:750:21-24: Vector
+isomer-flow.js:750:21-36: number
+isomer-flow.js:754:9-17: number
+isomer-flow.js:754:23: number
+isomer-flow.js:755:14-32: Vector
+isomer-flow.js:755:18-23: [class: Vector]
+isomer-flow.js:755:25: number
+isomer-flow.js:755:28: number
+isomer-flow.js:755:31: number
+isomer-flow.js:757:12-81: Vector
+isomer-flow.js:757:16-21: [class: Vector]
+isomer-flow.js:757:23-26: Vector
+isomer-flow.js:757:23-28: 
+isomer-flow.js:757:23-40: number
+isomer-flow.js:757:32-40: number
+isomer-flow.js:757:43-46: Vector
+isomer-flow.js:757:43-48: 
+isomer-flow.js:757:43-60: number
+isomer-flow.js:757:52-60: number
+isomer-flow.js:757:63-66: Vector
+isomer-flow.js:757:63-68: 
+isomer-flow.js:757:63-80: number
+isomer-flow.js:757:72-80: number
+isomer-flow.js:781:1,900:1: [class: Isomer]
+isomer-flow.js:782:15-22: HTMLElement
+isomer-flow.js:782:25-31: void | {}
+isomer-flow.js:783:5-27: {}
+isomer-flow.js:783:15-21: void | {}
+isomer-flow.js:783:15-27: {}
+isomer-flow.js:783:26-27: {}
+isomer-flow.js:785:5-8: Isomer
+isomer-flow.js:785:5-38: Canvas
+isomer-flow.js:785:19-38: Canvas
+isomer-flow.js:785:23-28: [class: Canvas]
+isomer-flow.js:785:30-37: HTMLElement
+isomer-flow.js:786:5-8: Isomer
+isomer-flow.js:786:5-28: number
+isomer-flow.js:786:18-21: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:786:18-24: number
+isomer-flow.js:786:18-28: number
+isomer-flow.js:786:28: number
+isomer-flow.js:788:5-8: Isomer
+isomer-flow.js:788:5-36: 
+isomer-flow.js:788:18-24: {}
+isomer-flow.js:788:18-36: 
+isomer-flow.js:788:35-36: number
+isomer-flow.js:790:5-8: Isomer
+isomer-flow.js:790:5-35: void
+isomer-flow.js:792:5-8: Isomer
+isomer-flow.js:792:5-59: 
+isomer-flow.js:792:20-26: {}
+isomer-flow.js:792:20-59: 
+isomer-flow.js:792:39-42: Isomer
+isomer-flow.js:792:39-49: 
+isomer-flow.js:792:39-55: 
+isomer-flow.js:792:39-59: number
+isomer-flow.js:792:59: number
+isomer-flow.js:793:5-8: Isomer
+isomer-flow.js:793:5-62: 
+isomer-flow.js:793:20-26: {}
+isomer-flow.js:793:20-62: 
+isomer-flow.js:793:39-42: Isomer
+isomer-flow.js:793:39-49: 
+isomer-flow.js:793:39-56: 
+isomer-flow.js:793:39-62: number
+isomer-flow.js:793:60-62: number
+isomer-flow.js:801:5-8: Isomer
+isomer-flow.js:801:5-70: 
+isomer-flow.js:801:26-32: {}
+isomer-flow.js:801:26-70: 
+isomer-flow.js:801:51-70: Vector
+isomer-flow.js:801:55-60: [class: Vector]
+isomer-flow.js:801:62: number
+isomer-flow.js:801:65-66: number
+isomer-flow.js:801:66: number
+isomer-flow.js:801:69: number
+isomer-flow.js:802:5-8: Isomer
+isomer-flow.js:802:5-52: 
+isomer-flow.js:802:23-40: 
+isomer-flow.js:802:23-52: 
+isomer-flow.js:807:5-8: Isomer
+isomer-flow.js:807:5-31: number
+isomer-flow.js:807:28-31: number
+isomer-flow.js:808:5-8: Isomer
+isomer-flow.js:808:5-68: 
+isomer-flow.js:808:23-29: {}
+isomer-flow.js:808:23-68: 
+isomer-flow.js:808:45-68: Color
+isomer-flow.js:808:49-53: [class: Color]
+isomer-flow.js:808:55-57: number
+isomer-flow.js:808:60-62: number
+isomer-flow.js:808:65-67: number
+isomer-flow.js:814:20: 
+isomer-flow.js:814:23: 
+isomer-flow.js:814:26: 
+isomer-flow.js:815:5-8: Isomer
+isomer-flow.js:815:5-44: Vector
+isomer-flow.js:815:26-44: Vector
+isomer-flow.js:815:30-35: [class: Vector]
+isomer-flow.js:815:37: 
+isomer-flow.js:815:40: 
+isomer-flow.js:815:43: 
+isomer-flow.js:816:5-8: Isomer
+isomer-flow.js:816:5-52: Vector
+isomer-flow.js:816:23-40: Vector
+isomer-flow.js:816:23-52: Vector
+isomer-flow.js:819:19-23: 
+isomer-flow.js:825:9-12: Point
+isomer-flow.js:825:16,826:61: Point
+isomer-flow.js:825:20-24: [class: Point]
+isomer-flow.js:825:26-30: 
+isomer-flow.js:825:26-32: 
+isomer-flow.js:825:26-60: number
+isomer-flow.js:825:36-39: Isomer
+isomer-flow.js:825:36-54: 
+isomer-flow.js:825:36-57: 
+isomer-flow.js:825:36-60: 
+isomer-flow.js:825:56: number
+isomer-flow.js:825:59: number
+isomer-flow.js:826:26-30: 
+isomer-flow.js:826:26-32: 
+isomer-flow.js:826:26-60: number
+isomer-flow.js:826:36-39: Isomer
+isomer-flow.js:826:36-54: 
+isomer-flow.js:826:36-57: 
+isomer-flow.js:826:36-60: 
+isomer-flow.js:826:56: number
+isomer-flow.js:826:59: number
+isomer-flow.js:828:9-12: Point
+isomer-flow.js:828:16,829:61: Point
+isomer-flow.js:828:20-24: [class: Point]
+isomer-flow.js:828:26-30: 
+isomer-flow.js:828:26-32: 
+isomer-flow.js:828:26-60: number
+isomer-flow.js:828:36-39: Isomer
+isomer-flow.js:828:36-54: 
+isomer-flow.js:828:36-57: 
+isomer-flow.js:828:36-60: 
+isomer-flow.js:828:56: number
+isomer-flow.js:828:59: number
+isomer-flow.js:829:26-30: 
+isomer-flow.js:829:26-32: 
+isomer-flow.js:829:26-60: number
+isomer-flow.js:829:36-39: Isomer
+isomer-flow.js:829:36-54: 
+isomer-flow.js:829:36-57: 
+isomer-flow.js:829:36-60: 
+isomer-flow.js:829:56: number
+isomer-flow.js:829:59: number
+isomer-flow.js:831:9: 
+isomer-flow.js:831:13-16: Isomer
+isomer-flow.js:831:13-24: 
+isomer-flow.js:831:13-33: 
+isomer-flow.js:831:13-42: 
+isomer-flow.js:831:28-31: Point
+isomer-flow.js:831:28-33: 
+isomer-flow.js:831:37-40: Point
+isomer-flow.js:831:37-42: 
+isomer-flow.js:832:9: number
+isomer-flow.js:832:13-16: Isomer
+isomer-flow.js:832:13-24: 
+isomer-flow.js:832:13-33: number
+isomer-flow.js:832:13-42: number
+isomer-flow.js:832:13-67: number
+isomer-flow.js:832:28-31: Point
+isomer-flow.js:832:28-33: 
+isomer-flow.js:832:37-40: Point
+isomer-flow.js:832:37-42: 
+isomer-flow.js:832:47-51: 
+isomer-flow.js:832:47-53: 
+isomer-flow.js:832:47-66: number
+isomer-flow.js:832:57-60: Isomer
+isomer-flow.js:832:57-66: 
+isomer-flow.js:833:12-26: Point
+isomer-flow.js:833:16-20: [class: Point]
+isomer-flow.js:833:22: 
+isomer-flow.js:833:25: number
+isomer-flow.js:842:7-10: Path | Shape
+isomer-flow.js:842:13-21: void | Color
+isomer-flow.js:843:9-14: [class: Object]
+isomer-flow.js:843:9-24: Object
+isomer-flow.js:843:9-33: () => string
+isomer-flow.js:843:9-44: string
+isomer-flow.js:843:40-43: Path | Shape
+isomer-flow.js:843:49-64: string
+isomer-flow.js:844:16: number
+isomer-flow.js:844:20: number
+isomer-flow.js:844:23: number
+isomer-flow.js:844:23-37: boolean
+isomer-flow.js:844:27-30: Path | Shape
+isomer-flow.js:844:27-37: 
+isomer-flow.js:844:40-42: number
+isomer-flow.js:845:9-12: Isomer
+isomer-flow.js:845:9-36: void
+isomer-flow.js:845:18-21: Path | Shape
+isomer-flow.js:845:18-24: 
+isomer-flow.js:845:23: number
+isomer-flow.js:845:27-35: void | Color
+isomer-flow.js:847:16-19: Path | Shape
+isomer-flow.js:847:32-35: [class: Path]
+isomer-flow.js:848:7-10: Isomer
+isomer-flow.js:848:7-36: void
+isomer-flow.js:848:21-24: Path
+isomer-flow.js:848:27-35: void | Color
+isomer-flow.js:849:16-19: Shape
+isomer-flow.js:849:32-36: [class: Shape]
+isomer-flow.js:851:11-15: 
+isomer-flow.js:851:19-22: Shape
+isomer-flow.js:851:19-37: 
+isomer-flow.js:853:16: number
+isomer-flow.js:853:20: number
+isomer-flow.js:853:23: number
+isomer-flow.js:853:23-38: boolean
+isomer-flow.js:853:27-31: 
+isomer-flow.js:853:27-38: 
+isomer-flow.js:853:41-43: number
+isomer-flow.js:854:9-12: Isomer
+isomer-flow.js:854:9-42: void
+isomer-flow.js:854:23-27: 
+isomer-flow.js:854:23-30: 
+isomer-flow.js:854:29: number
+isomer-flow.js:854:33-41: void | Color
+isomer-flow.js:863:12-15: Path
+isomer-flow.js:863:18-26: void | Color
+isomer-flow.js:865:5-53: Color
+isomer-flow.js:865:17-25: void | Color
+isomer-flow.js:865:17-53: Color
+isomer-flow.js:865:30-53: Color
+isomer-flow.js:865:34-38: [class: Color]
+isomer-flow.js:865:40-42: number
+isomer-flow.js:865:45-47: number
+isomer-flow.js:865:50-52: number
+isomer-flow.js:868:9-10: Vector
+isomer-flow.js:868:14-19: [class: Vector]
+isomer-flow.js:868:14-65: Vector
+isomer-flow.js:868:35-38: Path
+isomer-flow.js:868:35-45: 
+isomer-flow.js:868:35-48: 
+isomer-flow.js:868:47: number
+isomer-flow.js:868:51-54: Path
+isomer-flow.js:868:51-61: 
+isomer-flow.js:868:51-64: 
+isomer-flow.js:868:63: number
+isomer-flow.js:869:9-10: Vector
+isomer-flow.js:869:14-19: [class: Vector]
+isomer-flow.js:869:14-65: Vector
+isomer-flow.js:869:35-38: Path
+isomer-flow.js:869:35-45: 
+isomer-flow.js:869:35-48: 
+isomer-flow.js:869:47: number
+isomer-flow.js:869:51-54: Path
+isomer-flow.js:869:51-61: 
+isomer-flow.js:869:51-64: 
+isomer-flow.js:869:63: number
+isomer-flow.js:871:9-14: Vector
+isomer-flow.js:871:18-23: [class: Vector]
+isomer-flow.js:871:18-44: Vector
+isomer-flow.js:871:18-56: Vector
+isomer-flow.js:871:38-39: Vector
+isomer-flow.js:871:42-43: Vector
+isomer-flow.js:877:9-18: number
+isomer-flow.js:877:22-27: [class: Vector]
+isomer-flow.js:877:22-63: number
+isomer-flow.js:877:40-45: Vector
+isomer-flow.js:877:48-51: Isomer
+isomer-flow.js:877:48-62: 
+isomer-flow.js:878:9-13: Color
+isomer-flow.js:878:17-25: Color
+isomer-flow.js:878:17-85: Color
+isomer-flow.js:878:35-44: number
+isomer-flow.js:878:35-67: number
+isomer-flow.js:878:48-51: Isomer
+isomer-flow.js:878:48-67: 
+isomer-flow.js:878:70-73: Isomer
+isomer-flow.js:878:70-84: 
+isomer-flow.js:880:5-8: Isomer
+isomer-flow.js:880:5-15: 
+isomer-flow.js:880:5-77: 
+isomer-flow.js:880:22-25: Path
+isomer-flow.js:880:22-32: 
+isomer-flow.js:880:22-69: 
+isomer-flow.js:880:38-41: Isomer
+isomer-flow.js:880:38-57: (point: ) => Point
+isomer-flow.js:880:38-68: (_: ) => Point
+isomer-flow.js:880:64-67: Isomer
+isomer-flow.js:880:72-76: Color
+isomer-flow.js:888:5-8: Isomer
+isomer-flow.js:888:5,897:5: [[number, number], [number, number]]
+isomer-flow.js:888:27,897:5: [[number, number], [number, number]]
+isomer-flow.js:889:7,892:7: [number, number]
+isomer-flow.js:890:9-12: Isomer
+isomer-flow.js:890:9-18: 
+isomer-flow.js:890:9-41: number
+isomer-flow.js:890:22-25: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:890:22-41: number
+isomer-flow.js:890:31-34: Isomer
+isomer-flow.js:890:31-40: 
+isomer-flow.js:891:9-12: Isomer
+isomer-flow.js:891:9-18: 
+isomer-flow.js:891:9-41: number
+isomer-flow.js:891:22-25: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:891:22-41: number
+isomer-flow.js:891:31-34: Isomer
+isomer-flow.js:891:31-40: 
+isomer-flow.js:893:7,896:7: [number, number]
+isomer-flow.js:894:9-12: Isomer
+isomer-flow.js:894:9-18: 
+isomer-flow.js:894:9-51: number
+isomer-flow.js:894:22-25: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:894:22-51: number
+isomer-flow.js:894:31-34: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:894:31-37: number
+isomer-flow.js:894:31-50: number
+isomer-flow.js:894:41-44: Isomer
+isomer-flow.js:894:41-50: 
+isomer-flow.js:895:9-12: Isomer
+isomer-flow.js:895:9-18: 
+isomer-flow.js:895:9-51: number
+isomer-flow.js:895:22-25: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:895:22-51: number
+isomer-flow.js:895:31-34: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:895:31-37: number
+isomer-flow.js:895:31-50: number
+isomer-flow.js:895:41-44: Isomer
+isomer-flow.js:895:41-50: 
+isomer-flow.js:903:1-6: [class: Isomer]
+isomer-flow.js:903:1-22: [class: Canvas]
+isomer-flow.js:903:17-22: [class: Canvas]
+isomer-flow.js:904:1-6: [class: Isomer]
+isomer-flow.js:904:1-20: [class: Color]
+isomer-flow.js:904:16-20: [class: Color]
+isomer-flow.js:905:1-6: [class: Isomer]
+isomer-flow.js:905:1-18: [class: Path]
+isomer-flow.js:905:15-18: [class: Path]
+isomer-flow.js:906:1-6: [class: Isomer]
+isomer-flow.js:906:1-20: [class: Point]
+isomer-flow.js:906:16-20: [class: Point]
+isomer-flow.js:907:1-6: [class: Isomer]
+isomer-flow.js:907:1-20: [class: Shape]
+isomer-flow.js:907:16-20: [class: Shape]
+isomer-flow.js:908:1-6: [class: Isomer]
+isomer-flow.js:908:1-22: [class: Vector]
+isomer-flow.js:908:17-22: [class: Vector]
+isomer-flow.js:917:5-7: Isomer
+isomer-flow.js:917:11-55: Isomer
+isomer-flow.js:917:15-20: [class: Isomer]
+isomer-flow.js:917:22-29: Document
+isomer-flow.js:917:22-54: HTMLElement
+isomer-flow.js:917:46-53: string
+isomer-flow.js:918:5-9: 
+isomer-flow.js:918:13-18: [class: Isomer]
+isomer-flow.js:918:13-24: 
+isomer-flow.js:919:5-8: 
+isomer-flow.js:919:12-17: [class: Isomer]
+isomer-flow.js:919:12-22: 
+isomer-flow.js:920:5-9: 
+isomer-flow.js:920:13-18: [class: Isomer]
+isomer-flow.js:920:13-24: 
+isomer-flow.js:921:5-9: 
+isomer-flow.js:921:13-18: [class: Isomer]
+isomer-flow.js:921:13-24: 
+isomer-flow.js:923:10-18: () => void
+isomer-flow.js:925:10-15: (origin: Point) => Shape
+isomer-flow.js:925:17-22: Point
+isomer-flow.js:926:7-16: number
+isomer-flow.js:926:20-21: number
+isomer-flow.js:929:7-12: Path
+isomer-flow.js:929:16-31: Path
+isomer-flow.js:929:20-23: [class: Path]
+isomer-flow.js:929:25-30: Point
+isomer-flow.js:930:7-11: Array<Path>
+isomer-flow.js:930:15-16: Array<Path>
+isomer-flow.js:930:19: number
+isomer-flow.js:933:7-12: Shape
+isomer-flow.js:933:16-26: Shape
+isomer-flow.js:933:20-24: [class: Shape]
+isomer-flow.js:935:8-12: number
+isomer-flow.js:935:12: number
+isomer-flow.js:935:15: number
+isomer-flow.js:935:15-28: boolean
+isomer-flow.js:935:19-28: number
+isomer-flow.js:935:31-33: number
+isomer-flow.js:942:9-18: Point
+isomer-flow.js:942:22-27: Point
+isomer-flow.js:942:22-78: Point
+isomer-flow.js:942:39: number
+isomer-flow.js:942:42: number
+isomer-flow.js:942:42-55: number
+isomer-flow.js:942:46-55: number
+isomer-flow.js:942:58-77: number
+isomer-flow.js:942:59: number
+isomer-flow.js:942:59-63: number
+isomer-flow.js:942:63: number
+isomer-flow.js:942:68-77: number
+isomer-flow.js:944:5-9: Array<Path>
+isomer-flow.js:944:5,949:7: number
+isomer-flow.js:944:16,949:6: Path
+isomer-flow.js:944:20-23: [class: Path]
+isomer-flow.js:944:25,949:5: [Point, Point, Point, Point]
+isomer-flow.js:945:7-16: Point
+isomer-flow.js:946:7-16: Point
+isomer-flow.js:946:7-49: Point
+isomer-flow.js:946:28: number
+isomer-flow.js:946:31: number
+isomer-flow.js:946:34-35: number
+isomer-flow.js:946:34-48: number
+isomer-flow.js:946:35: number
+isomer-flow.js:946:39-48: number
+isomer-flow.js:947:7-16: Point
+isomer-flow.js:947:7-49: Point
+isomer-flow.js:947:28: number
+isomer-flow.js:947:31: number
+isomer-flow.js:947:34-35: number
+isomer-flow.js:947:34-48: number
+isomer-flow.js:947:35: number
+isomer-flow.js:947:39-48: number
+isomer-flow.js:948:7-16: Point
+isomer-flow.js:948:7-35: Point
+isomer-flow.js:948:28: number
+isomer-flow.js:948:31: number
+isomer-flow.js:948:34: number
+isomer-flow.js:951:5-9: Array<Path>
+isomer-flow.js:951:5,956:7: number
+isomer-flow.js:951:16,956:6: Path
+isomer-flow.js:951:20-23: [class: Path]
+isomer-flow.js:951:25,956:5: [Point, Point, Point, Point]
+isomer-flow.js:952:7-16: Point
+isomer-flow.js:953:7-16: Point
+isomer-flow.js:953:7-35: Point
+isomer-flow.js:953:28: number
+isomer-flow.js:953:31: number
+isomer-flow.js:953:34: number
+isomer-flow.js:954:7-16: Point
+isomer-flow.js:954:7-48: Point
+isomer-flow.js:954:28: number
+isomer-flow.js:954:31: number
+isomer-flow.js:954:31-44: number
+isomer-flow.js:954:35-44: number
+isomer-flow.js:954:47: number
+isomer-flow.js:955:7-16: Point
+isomer-flow.js:955:7-48: Point
+isomer-flow.js:955:28: number
+isomer-flow.js:955:31: number
+isomer-flow.js:955:31-44: number
+isomer-flow.js:955:35-44: number
+isomer-flow.js:955:47: number
+isomer-flow.js:958:5-10: Path
+isomer-flow.js:958:5-27: void
+isomer-flow.js:958:17-26: Point
+isomer-flow.js:959:5-10: Path
+isomer-flow.js:959:5-59: void
+isomer-flow.js:959:17-26: Point
+isomer-flow.js:959:17-58: Point
+isomer-flow.js:959:38: number
+isomer-flow.js:959:41: number
+isomer-flow.js:959:41-54: number
+isomer-flow.js:959:45-54: number
+isomer-flow.js:959:57: number
+isomer-flow.js:962:3-8: Path
+isomer-flow.js:962:3-40: void
+isomer-flow.js:962:15-20: Point
+isomer-flow.js:962:15-39: Point
+isomer-flow.js:962:32: number
+isomer-flow.js:962:35: number
+isomer-flow.js:962:38: number
+isomer-flow.js:965:8-12: number
+isomer-flow.js:965:12: number
+isomer-flow.js:965:15: number
+isomer-flow.js:965:15-30: boolean
+isomer-flow.js:965:19-23: Array<Path>
+isomer-flow.js:965:19-30: number
+isomer-flow.js:965:33-35: number
+isomer-flow.js:966:5-10: Shape
+isomer-flow.js:966:5-25: void
+isomer-flow.js:966:17-21: Array<Path>
+isomer-flow.js:966:17-24: Path
+isomer-flow.js:966:23: number
+isomer-flow.js:968:3-8: Shape
+isomer-flow.js:968:3-21: void
+isomer-flow.js:968:15-20: Path
+isomer-flow.js:969:3-8: Shape
+isomer-flow.js:969:3-50: void
+isomer-flow.js:969:15-20: Path
+isomer-flow.js:969:15-30: Path
+isomer-flow.js:969:15-49: Path
+isomer-flow.js:969:42: number
+isomer-flow.js:969:45: number
+isomer-flow.js:969:48: number
+isomer-flow.js:971:10-15: Shape
+isomer-flow.js:974:10-13: (origin: Point) => Shape
+isomer-flow.js:974:15-20: Point
+isomer-flow.js:975:7-10: Shape
+isomer-flow.js:975:14-24: Shape
+isomer-flow.js:975:18-22: [class: Shape]
+isomer-flow.js:977:3-6: Shape
+isomer-flow.js:977:3-74: 
+isomer-flow.js:977:16-19: Shape
+isomer-flow.js:977:16-25: 
+isomer-flow.js:977:16-74: 
+isomer-flow.js:977:34-38: [class: Shape]
+isomer-flow.js:977:34-67: Shape
+isomer-flow.js:977:34-73: 
+isomer-flow.js:977:46-50: [class: Point]
+isomer-flow.js:977:46-57: 
+isomer-flow.js:977:60: number
+isomer-flow.js:977:63: number
+isomer-flow.js:977:66: number
+isomer-flow.js:978:3-6: Shape
+isomer-flow.js:978:3-80: 
+isomer-flow.js:978:16-25: 
+isomer-flow.js:978:16-80: 
+isomer-flow.js:978:34-38: [class: Shape]
+isomer-flow.js:978:34-73: Shape
+isomer-flow.js:978:34-79: 
+isomer-flow.js:978:46-63: Point
+isomer-flow.js:978:50-54: [class: Point]
+isomer-flow.js:978:56: number
+isomer-flow.js:978:59: number
+isomer-flow.js:978:62: number
+isomer-flow.js:978:66: number
+isomer-flow.js:978:69: number
+isomer-flow.js:978:72: number
+isomer-flow.js:979:3-6: Shape
+isomer-flow.js:979:3-81: 
+isomer-flow.js:979:16-25: 
+isomer-flow.js:979:16-81: 
+isomer-flow.js:979:34-38: [class: Shape]
+isomer-flow.js:979:34-74: Shape
+isomer-flow.js:979:34-80: 
+isomer-flow.js:979:46-64: Point
+isomer-flow.js:979:50-54: [class: Point]
+isomer-flow.js:979:56: number
+isomer-flow.js:979:59: number
+isomer-flow.js:979:62-63: number
+isomer-flow.js:979:63: number
+isomer-flow.js:979:67: number
+isomer-flow.js:979:70: number
+isomer-flow.js:979:73: number
+isomer-flow.js:981:3-6: Shape
+isomer-flow.js:981:3,986:5: void
+isomer-flow.js:981:13,986:4: Path
+isomer-flow.js:981:17-20: [class: Path]
+isomer-flow.js:981:22,986:3: [Point, Point, Point, Point]
+isomer-flow.js:982:5-22: Point
+isomer-flow.js:982:9-13: [class: Point]
+isomer-flow.js:982:15: number
+isomer-flow.js:982:18: number
+isomer-flow.js:982:21: number
+isomer-flow.js:983:5-22: Point
+isomer-flow.js:983:9-13: [class: Point]
+isomer-flow.js:983:15: number
+isomer-flow.js:983:18: number
+isomer-flow.js:983:21: number
+isomer-flow.js:984:5-22: Point
+isomer-flow.js:984:9-13: [class: Point]
+isomer-flow.js:984:15: number
+isomer-flow.js:984:18: number
+isomer-flow.js:984:21: number
+isomer-flow.js:985:5-22: Point
+isomer-flow.js:985:9-13: [class: Point]
+isomer-flow.js:985:15: number
+isomer-flow.js:985:18: number
+isomer-flow.js:985:21: number
+isomer-flow.js:988:3-6: Shape
+isomer-flow.js:988:3,993:5: void
+isomer-flow.js:988:13,993:4: Path
+isomer-flow.js:988:17-20: [class: Path]
+isomer-flow.js:988:22,993:3: [Point, Point, Point, Point]
+isomer-flow.js:989:5-22: Point
+isomer-flow.js:989:9-13: [class: Point]
+isomer-flow.js:989:15: number
+isomer-flow.js:989:18: number
+isomer-flow.js:989:21: number
+isomer-flow.js:990:5-22: Point
+isomer-flow.js:990:9-13: [class: Point]
+isomer-flow.js:990:15: number
+isomer-flow.js:990:18: number
+isomer-flow.js:990:21: number
+isomer-flow.js:991:5-22: Point
+isomer-flow.js:991:9-13: [class: Point]
+isomer-flow.js:991:15: number
+isomer-flow.js:991:18: number
+isomer-flow.js:991:21: number
+isomer-flow.js:992:5-22: Point
+isomer-flow.js:992:9-13: [class: Point]
+isomer-flow.js:992:15: number
+isomer-flow.js:992:18: number
+isomer-flow.js:992:21: number
+isomer-flow.js:995:10-13: Shape
+isomer-flow.js:995:10-38: Shape
+isomer-flow.js:995:10-65: Shape
+isomer-flow.js:995:10-105: Shape
+isomer-flow.js:995:21-25: [class: Point]
+isomer-flow.js:995:21-32: 
+isomer-flow.js:995:35: number
+isomer-flow.js:995:35-37: number
+isomer-flow.js:995:37: number
+isomer-flow.js:995:50-53: number
+isomer-flow.js:995:51-53: number
+isomer-flow.js:995:56-59: number
+isomer-flow.js:995:62-64: number
+isomer-flow.js:995:77-82: Point
+isomer-flow.js:995:77-84: 
+isomer-flow.js:995:87-92: Point
+isomer-flow.js:995:87-94: 
+isomer-flow.js:995:97-102: Point
+isomer-flow.js:995:97-104: 
+isomer-flow.js:998:10-20: () => Color
+isomer-flow.js:999:10,1002:34: Color
+isomer-flow.js:999:14-18: [class: Color]
+isomer-flow.js:1000:5-12: (string: mixed, radix?: number) => number
+isomer-flow.js:1000:5-33: number
+isomer-flow.js:1000:14-17: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:1000:14-26: number
+isomer-flow.js:1000:14-32: number
+isomer-flow.js:1000:30-32: number
+isomer-flow.js:1001:5-12: (string: mixed, radix?: number) => number
+isomer-flow.js:1001:5-33: number
+isomer-flow.js:1001:14-17: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:1001:14-26: number
+isomer-flow.js:1001:14-32: number
+isomer-flow.js:1001:30-32: number
+isomer-flow.js:1002:5-12: (string: mixed, radix?: number) => number
+isomer-flow.js:1002:5-33: number
+isomer-flow.js:1002:14-17: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:1002:14-26: number
+isomer-flow.js:1002:14-32: number
+isomer-flow.js:1002:30-32: number
+isomer-flow.js:1005:1-9: () => void
+isomer-flow.js:1005:1,1033:1: () => void
+isomer-flow.js:1005:11-26: string
+isomer-flow.js:1005:31,1033:1: () => void
+isomer-flow.js:1006:3-5: Isomer
+isomer-flow.js:1006:3-51: void
+isomer-flow.js:1006:11-15: [class: Shape]
+isomer-flow.js:1006:11-50: Shape
+isomer-flow.js:1006:23-40: Point
+isomer-flow.js:1006:27-31: [class: Point]
+isomer-flow.js:1006:33: number
+isomer-flow.js:1006:36: number
+isomer-flow.js:1006:39: number
+isomer-flow.js:1006:43: number
+isomer-flow.js:1006:46: number
+isomer-flow.js:1006:49: number
+isomer-flow.js:1007:3-5: Isomer
+isomer-flow.js:1007:3-51: void
+isomer-flow.js:1007:11-15: [class: Shape]
+isomer-flow.js:1007:11-50: Shape
+isomer-flow.js:1007:23-40: Point
+isomer-flow.js:1007:27-31: [class: Point]
+isomer-flow.js:1007:33: number
+isomer-flow.js:1007:36: number
+isomer-flow.js:1007:39: number
+isomer-flow.js:1007:43: number
+isomer-flow.js:1007:46: number
+isomer-flow.js:1007:49: number
+isomer-flow.js:1008:3-5: Isomer
+isomer-flow.js:1008:3-52: void
+isomer-flow.js:1008:11-15: [class: Shape]
+isomer-flow.js:1008:11-51: Shape
+isomer-flow.js:1008:23-41: Point
+isomer-flow.js:1008:27-31: [class: Point]
+isomer-flow.js:1008:33-34: number
+isomer-flow.js:1008:34: number
+isomer-flow.js:1008:37: number
+isomer-flow.js:1008:40: number
+isomer-flow.js:1008:44: number
+isomer-flow.js:1008:47: number
+isomer-flow.js:1008:50: number
+isomer-flow.js:1010:3-5: Isomer
+isomer-flow.js:1010:3-38: void
+isomer-flow.js:1010:11-16: (origin: Point) => Shape
+isomer-flow.js:1010:11-37: Shape
+isomer-flow.js:1010:18-36: Point
+isomer-flow.js:1010:22-26: [class: Point]
+isomer-flow.js:1010:28-29: number
+isomer-flow.js:1010:29: number
+isomer-flow.js:1010:32: number
+isomer-flow.js:1010:35: number
+isomer-flow.js:1011:3-5: Isomer
+isomer-flow.js:1011:3-83: void
+isomer-flow.js:1011:11-16: (origin: Point) => Shape
+isomer-flow.js:1011:11-36: Shape
+isomer-flow.js:1011:11-82: Shape
+isomer-flow.js:1011:18-35: Point
+isomer-flow.js:1011:22-26: [class: Point]
+isomer-flow.js:1011:28: number
+isomer-flow.js:1011:31: number
+isomer-flow.js:1011:34: number
+isomer-flow.js:1011:46-67: Point
+isomer-flow.js:1011:50-54: [class: Point]
+isomer-flow.js:1011:56-58: number
+isomer-flow.js:1011:61-63: number
+isomer-flow.js:1011:66: number
+isomer-flow.js:1011:70-77: number
+isomer-flow.js:1011:70-81: number
+isomer-flow.js:1011:71-74: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:1011:71-77: number
+isomer-flow.js:1011:81: number
+isomer-flow.js:1013:3-5: Isomer
+isomer-flow.js:1013:3-51: void
+isomer-flow.js:1013:11-15: [class: Shape]
+isomer-flow.js:1013:11-50: Shape
+isomer-flow.js:1013:23-40: Point
+isomer-flow.js:1013:27-31: [class: Point]
+isomer-flow.js:1013:33: number
+isomer-flow.js:1013:36: number
+isomer-flow.js:1013:39: number
+isomer-flow.js:1013:43: number
+isomer-flow.js:1013:46: number
+isomer-flow.js:1013:49: number
+isomer-flow.js:1014:3-5: Isomer
+isomer-flow.js:1014:3-51: void
+isomer-flow.js:1014:11-15: [class: Shape]
+isomer-flow.js:1014:11-50: Shape
+isomer-flow.js:1014:23-40: Point
+isomer-flow.js:1014:27-31: [class: Point]
+isomer-flow.js:1014:33: number
+isomer-flow.js:1014:36: number
+isomer-flow.js:1014:39: number
+isomer-flow.js:1014:43: number
+isomer-flow.js:1014:46: number
+isomer-flow.js:1014:49: number
+isomer-flow.js:1016:3-5: Isomer
+isomer-flow.js:1016:3-83: void
+isomer-flow.js:1016:11-16: (origin: Point) => Shape
+isomer-flow.js:1016:11-36: Shape
+isomer-flow.js:1016:11-82: Shape
+isomer-flow.js:1016:18-35: Point
+isomer-flow.js:1016:22-26: [class: Point]
+isomer-flow.js:1016:28: number
+isomer-flow.js:1016:31: number
+isomer-flow.js:1016:34: number
+isomer-flow.js:1016:46-67: Point
+isomer-flow.js:1016:50-54: [class: Point]
+isomer-flow.js:1016:56-58: number
+isomer-flow.js:1016:61-63: number
+isomer-flow.js:1016:66: number
+isomer-flow.js:1016:70-77: number
+isomer-flow.js:1016:70-81: number
+isomer-flow.js:1016:71-74: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:1016:71-77: number
+isomer-flow.js:1016:81: number
+isomer-flow.js:1018:3-5: Isomer
+isomer-flow.js:1018:3,1020:27: void
+isomer-flow.js:1018:11-15: [class: Shape]
+isomer-flow.js:1018:11-43: Shape
+isomer-flow.js:1018:11,1019:35: Shape
+isomer-flow.js:1018:25-42: Point
+isomer-flow.js:1018:29-33: [class: Point]
+isomer-flow.js:1018:35: number
+isomer-flow.js:1018:38: number
+isomer-flow.js:1018:41: number
+isomer-flow.js:1019:12-29: Point
+isomer-flow.js:1019:16-20: [class: Point]
+isomer-flow.js:1019:22: number
+isomer-flow.js:1019:25: number
+isomer-flow.js:1019:28: number
+isomer-flow.js:1019:32-34: number
+isomer-flow.js:1020:5-26: Color
+isomer-flow.js:1020:9-13: [class: Color]
+isomer-flow.js:1020:15-17: number
+isomer-flow.js:1020:20-22: number
+isomer-flow.js:1020:25: number
+isomer-flow.js:1021:3-5: Isomer
+isomer-flow.js:1021:3,1023:27: void
+isomer-flow.js:1021:11-15: [class: Shape]
+isomer-flow.js:1021:11-43: Shape
+isomer-flow.js:1021:11,1022:35: Shape
+isomer-flow.js:1021:25-42: Point
+isomer-flow.js:1021:29-33: [class: Point]
+isomer-flow.js:1021:35: number
+isomer-flow.js:1021:38: number
+isomer-flow.js:1021:41: number
+isomer-flow.js:1022:12-29: Point
+isomer-flow.js:1022:16-20: [class: Point]
+isomer-flow.js:1022:22: number
+isomer-flow.js:1022:25: number
+isomer-flow.js:1022:28: number
+isomer-flow.js:1022:32-34: number
+isomer-flow.js:1023:5-26: Color
+isomer-flow.js:1023:9-13: [class: Color]
+isomer-flow.js:1023:15-17: number
+isomer-flow.js:1023:20: number
+isomer-flow.js:1023:23-25: number
+isomer-flow.js:1024:3-5: Isomer
+isomer-flow.js:1024:3,1026:27: void
+isomer-flow.js:1024:11-15: [class: Shape]
+isomer-flow.js:1024:11-43: Shape
+isomer-flow.js:1024:11,1025:35: Shape
+isomer-flow.js:1024:25-42: Point
+isomer-flow.js:1024:29-33: [class: Point]
+isomer-flow.js:1024:35: number
+isomer-flow.js:1024:38: number
+isomer-flow.js:1024:41: number
+isomer-flow.js:1025:12-29: Point
+isomer-flow.js:1025:16-20: [class: Point]
+isomer-flow.js:1025:22: number
+isomer-flow.js:1025:25: number
+isomer-flow.js:1025:28: number
+isomer-flow.js:1025:32-34: number
+isomer-flow.js:1026:5-26: Color
+isomer-flow.js:1026:9-13: [class: Color]
+isomer-flow.js:1026:15: number
+isomer-flow.js:1026:18-20: number
+isomer-flow.js:1026:23-25: number
+isomer-flow.js:1027:3-5: Isomer
+isomer-flow.js:1027:3,1029:27: void
+isomer-flow.js:1027:11-15: [class: Shape]
+isomer-flow.js:1027:11-43: Shape
+isomer-flow.js:1027:11,1028:35: Shape
+isomer-flow.js:1027:25-42: Point
+isomer-flow.js:1027:29-33: [class: Point]
+isomer-flow.js:1027:35: number
+isomer-flow.js:1027:38: number
+isomer-flow.js:1027:41: number
+isomer-flow.js:1028:12-29: Point
+isomer-flow.js:1028:16-20: [class: Point]
+isomer-flow.js:1028:22: number
+isomer-flow.js:1028:25: number
+isomer-flow.js:1028:28: number
+isomer-flow.js:1028:32-34: number
+isomer-flow.js:1029:5-26: Color
+isomer-flow.js:1029:9-13: [class: Color]
+isomer-flow.js:1029:15-16: number
+isomer-flow.js:1029:19-21: number
+isomer-flow.js:1029:24-25: number
+isomer-flow.js:1031:3-5: Isomer
+isomer-flow.js:1031:3-76: void
+isomer-flow.js:1031:11-15: [class: Shape]
+isomer-flow.js:1031:11-52: Shape
+isomer-flow.js:1031:23-40: Point
+isomer-flow.js:1031:27-31: [class: Point]
+isomer-flow.js:1031:33: number
+isomer-flow.js:1031:36: number
+isomer-flow.js:1031:39: number
+isomer-flow.js:1031:43: number
+isomer-flow.js:1031:46: number
+isomer-flow.js:1031:49-51: number
+isomer-flow.js:1031:55-75: Color
+isomer-flow.js:1031:59-63: [class: Color]
+isomer-flow.js:1031:65-66: number
+isomer-flow.js:1031:69-70: number
+isomer-flow.js:1031:73-74: number
+isomer-flow.js:1032:3-5: Isomer
+isomer-flow.js:1032:3-61: void
+isomer-flow.js:1032:11-14: (origin: Point) => Shape
+isomer-flow.js:1032:11-36: Shape
+isomer-flow.js:1032:16-35: Point
+isomer-flow.js:1032:20-24: [class: Point]
+isomer-flow.js:1032:26: number
+isomer-flow.js:1032:29: number
+isomer-flow.js:1032:32-34: number
+isomer-flow.js:1032:39-60: Color
+isomer-flow.js:1032:43-47: [class: Color]
+isomer-flow.js:1032:49: number
+isomer-flow.js:1032:52-54: number
+isomer-flow.js:1032:57-59: number
+isomer-flow.js:1035:1-9: () => void
+isomer-flow.js:1035:1,1045:1: () => void
+isomer-flow.js:1035:11-23: string
+isomer-flow.js:1035:28,1045:1: () => void
+isomer-flow.js:1036:7-10: Shape
+isomer-flow.js:1036:14-18: [class: Shape]
+isomer-flow.js:1036:14-50: Shape
+isomer-flow.js:1036:26-40: Point
+isomer-flow.js:1036:30-34: [class: Point]
+isomer-flow.js:1036:36: number
+isomer-flow.js:1036:39: number
+isomer-flow.js:1036:43: number
+isomer-flow.js:1036:46: number
+isomer-flow.js:1036:49: number
+isomer-flow.js:1038:12: number
+isomer-flow.js:1038:16: number
+isomer-flow.js:1038:19: number
+isomer-flow.js:1038:19-24: boolean
+isomer-flow.js:1038:23-24: number
+isomer-flow.js:1038:27-29: number
+isomer-flow.js:1039:5-7: Isomer
+isomer-flow.js:1039:5,1043:25: void
+isomer-flow.js:1039:13-16: Shape
+isomer-flow.js:1039:13,1040:58: Shape
+isomer-flow.js:1039:13,1041:27: Shape
+isomer-flow.js:1039:13,1042:52: Shape
+isomer-flow.js:1040:14-32: Point
+isomer-flow.js:1040:18-22: [class: Point]
+isomer-flow.js:1040:24-26: number
+isomer-flow.js:1040:29-31: number
+isomer-flow.js:1040:35-36: number
+isomer-flow.js:1040:35-42: number
+isomer-flow.js:1040:40: number
+isomer-flow.js:1040:40-42: number
+isomer-flow.js:1040:42: number
+isomer-flow.js:1040:45-46: number
+isomer-flow.js:1040:45-52: number
+isomer-flow.js:1040:50: number
+isomer-flow.js:1040:50-52: number
+isomer-flow.js:1040:52: number
+isomer-flow.js:1040:55: number
+isomer-flow.js:1040:55-57: number
+isomer-flow.js:1040:57: number
+isomer-flow.js:1041:18: number
+isomer-flow.js:1041:21: number
+isomer-flow.js:1041:24: number
+isomer-flow.js:1041:24-26: number
+isomer-flow.js:1041:26: number
+isomer-flow.js:1042:16-34: Point
+isomer-flow.js:1042:20-24: [class: Point]
+isomer-flow.js:1042:26-28: number
+isomer-flow.js:1042:31-33: number
+isomer-flow.js:1042:37-44: number
+isomer-flow.js:1042:37-47: number
+isomer-flow.js:1042:37-51: number
+isomer-flow.js:1042:38-41: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:1042:38-44: number
+isomer-flow.js:1042:46-47: number
+isomer-flow.js:1042:51: number
+isomer-flow.js:1043:12-22: () => Color
+isomer-flow.js:1043:12-24: Color
+isomer-flow.js:1047:1-9: () => void
+isomer-flow.js:1047:1,1055:1: () => void
+isomer-flow.js:1047:11-24: string
+isomer-flow.js:1047:29,1055:1: () => void
+isomer-flow.js:1048:7: Shape
+isomer-flow.js:1048:11-15: [class: Shape]
+isomer-flow.js:1048:11,1052:10: Shape
+isomer-flow.js:1048:11,1052:33: Shape
+isomer-flow.js:1048:25,1052:4: Path
+isomer-flow.js:1048:29-32: [class: Path]
+isomer-flow.js:1048:34,1052:3: [, , ]
+isomer-flow.js:1049:5-9: [class: Point]
+isomer-flow.js:1049:5-18: 
+isomer-flow.js:1049:11: number
+isomer-flow.js:1049:14: number
+isomer-flow.js:1049:17: number
+isomer-flow.js:1050:5-9: [class: Point]
+isomer-flow.js:1050:5-18: 
+isomer-flow.js:1050:11: number
+isomer-flow.js:1050:14: number
+isomer-flow.js:1050:17: number
+isomer-flow.js:1051:5-9: [class: Point]
+isomer-flow.js:1051:5-18: 
+isomer-flow.js:1051:11: number
+isomer-flow.js:1051:14: number
+isomer-flow.js:1051:17: number
+isomer-flow.js:1052:7-9: number
+isomer-flow.js:1052:18-22: [class: Point]
+isomer-flow.js:1052:18-29: 
+isomer-flow.js:1052:32: number
+isomer-flow.js:1054:3-5: Isomer
+isomer-flow.js:1054:3-36: void
+isomer-flow.js:1054:11: Shape
+isomer-flow.js:1054:14-35: Color
+isomer-flow.js:1054:18-22: [class: Color]
+isomer-flow.js:1054:24-25: number
+isomer-flow.js:1054:28-30: number
+isomer-flow.js:1054:33-34: number
+isomer-flow.js:1057:1-9: () => void
+isomer-flow.js:1057:1,1064:1: () => void
+isomer-flow.js:1057:11-25: string
+isomer-flow.js:1057:30,1064:1: () => void
+isomer-flow.js:1058:3-5: Isomer
+isomer-flow.js:1058:3-48: void
+isomer-flow.js:1058:11-15: [class: Shape]
+isomer-flow.js:1058:11-47: Shape
+isomer-flow.js:1058:26-43: Point
+isomer-flow.js:1058:30-34: [class: Point]
+isomer-flow.js:1058:36: number
+isomer-flow.js:1058:39: number
+isomer-flow.js:1058:42: number
+isomer-flow.js:1058:46: number
+isomer-flow.js:1059:3-5: Isomer
+isomer-flow.js:1059:3-74: void
+isomer-flow.js:1059:11-15: [class: Shape]
+isomer-flow.js:1059:11-58: Shape
+isomer-flow.js:1059:26-45: Point
+isomer-flow.js:1059:30-34: [class: Point]
+isomer-flow.js:1059:36-37: number
+isomer-flow.js:1059:40-41: number
+isomer-flow.js:1059:44: number
+isomer-flow.js:1059:48-50: number
+isomer-flow.js:1059:53-54: number
+isomer-flow.js:1059:57: number
+isomer-flow.js:1059:61-71: () => Color
+isomer-flow.js:1059:61-73: Color
+isomer-flow.js:1060:3-5: Isomer
+isomer-flow.js:1060:3-74: void
+isomer-flow.js:1060:11-15: [class: Shape]
+isomer-flow.js:1060:11-58: Shape
+isomer-flow.js:1060:26-43: Point
+isomer-flow.js:1060:30-34: [class: Point]
+isomer-flow.js:1060:36: number
+isomer-flow.js:1060:39: number
+isomer-flow.js:1060:42: number
+isomer-flow.js:1060:46-49: number
+isomer-flow.js:1060:52-53: number
+isomer-flow.js:1060:56-57: number
+isomer-flow.js:1060:61-71: () => Color
+isomer-flow.js:1060:61-73: Color
+isomer-flow.js:1061:3-5: Isomer
+isomer-flow.js:1061:3-74: void
+isomer-flow.js:1061:11-15: [class: Shape]
+isomer-flow.js:1061:11-58: Shape
+isomer-flow.js:1061:26-45: Point
+isomer-flow.js:1061:30-34: [class: Point]
+isomer-flow.js:1061:36-38: number
+isomer-flow.js:1061:41: number
+isomer-flow.js:1061:44: number
+isomer-flow.js:1061:48-50: number
+isomer-flow.js:1061:53-54: number
+isomer-flow.js:1061:57: number
+isomer-flow.js:1061:61-71: () => Color
+isomer-flow.js:1061:61-73: Color
+isomer-flow.js:1062:3-5: Isomer
+isomer-flow.js:1062:3-73: void
+isomer-flow.js:1062:11-15: [class: Shape]
+isomer-flow.js:1062:11-57: Shape
+isomer-flow.js:1062:26-44: Point
+isomer-flow.js:1062:30-34: [class: Point]
+isomer-flow.js:1062:36-37: number
+isomer-flow.js:1062:40: number
+isomer-flow.js:1062:43: number
+isomer-flow.js:1062:47-49: number
+isomer-flow.js:1062:52-53: number
+isomer-flow.js:1062:56: number
+isomer-flow.js:1062:60-70: () => Color
+isomer-flow.js:1062:60-72: Color
+isomer-flow.js:1063:3-5: Isomer
+isomer-flow.js:1063:3-70: void
+isomer-flow.js:1063:11-15: [class: Shape]
+isomer-flow.js:1063:11-54: Shape
+isomer-flow.js:1063:26-43: Point
+isomer-flow.js:1063:30-34: [class: Point]
+isomer-flow.js:1063:36: number
+isomer-flow.js:1063:39: number
+isomer-flow.js:1063:42: number
+isomer-flow.js:1063:46: number
+isomer-flow.js:1063:49-50: number
+isomer-flow.js:1063:53: number
+isomer-flow.js:1063:57-67: () => Color
+isomer-flow.js:1063:57-69: Color
+isomer-flow.js:1066:1-9: () => void
+isomer-flow.js:1066:1,1068:1: () => void
+isomer-flow.js:1066:11-21: string
+isomer-flow.js:1066:26,1068:1: () => void
+isomer-flow.js:1067:3-5: Isomer
+isomer-flow.js:1067:3-91: void
+isomer-flow.js:1067:11-15: [class: Shape]
+isomer-flow.js:1067:11-90: Shape
+isomer-flow.js:1067:25-28: [class: Path]
+isomer-flow.js:1067:25-56: Path
+isomer-flow.js:1067:25-89: Path
+isomer-flow.js:1067:35-39: [class: Point]
+isomer-flow.js:1067:35-46: 
+isomer-flow.js:1067:49: number
+isomer-flow.js:1067:52: number
+isomer-flow.js:1067:55: number
+isomer-flow.js:1067:66-70: [class: Point]
+isomer-flow.js:1067:66-77: 
+isomer-flow.js:1067:80-83: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:1067:80-86: number
+isomer-flow.js:1067:80-88: number
+isomer-flow.js:1067:88: number
+isomer-flow.js:1070:1-9: () => void
+isomer-flow.js:1070:1,1075:1: () => void
+isomer-flow.js:1070:11-21: string
+isomer-flow.js:1070:26,1075:1: () => void
+isomer-flow.js:1071:3-5: Isomer
+isomer-flow.js:1071:3-72: void
+isomer-flow.js:1071:11-15: [class: Shape]
+isomer-flow.js:1071:11-47: Shape
+isomer-flow.js:1071:23-37: Point
+isomer-flow.js:1071:27-31: [class: Point]
+isomer-flow.js:1071:33: number
+isomer-flow.js:1071:36: number
+isomer-flow.js:1071:40: number
+isomer-flow.js:1071:43: number
+isomer-flow.js:1071:46: number
+isomer-flow.js:1071:50-71: Color
+isomer-flow.js:1071:54-58: [class: Color]
+isomer-flow.js:1071:60: number
+isomer-flow.js:1071:63-65: number
+isomer-flow.js:1071:68-70: number
+isomer-flow.js:1072:3-5: Isomer
+isomer-flow.js:1072:3-74: void
+isomer-flow.js:1072:11-15: [class: Shape]
+isomer-flow.js:1072:11-49: Shape
+isomer-flow.js:1072:23-37: Point
+isomer-flow.js:1072:27-31: [class: Point]
+isomer-flow.js:1072:33: number
+isomer-flow.js:1072:36: number
+isomer-flow.js:1072:40: number
+isomer-flow.js:1072:43: number
+isomer-flow.js:1072:46-48: number
+isomer-flow.js:1072:52-73: Color
+isomer-flow.js:1072:56-60: [class: Color]
+isomer-flow.js:1072:62-63: number
+isomer-flow.js:1072:66-67: number
+isomer-flow.js:1072:70-72: number
+isomer-flow.js:1073:3-5: Isomer
+isomer-flow.js:1073:3-72: void
+isomer-flow.js:1073:11-15: [class: Shape]
+isomer-flow.js:1073:11-47: Shape
+isomer-flow.js:1073:23-37: Point
+isomer-flow.js:1073:27-31: [class: Point]
+isomer-flow.js:1073:33: number
+isomer-flow.js:1073:36: number
+isomer-flow.js:1073:40: number
+isomer-flow.js:1073:43: number
+isomer-flow.js:1073:46: number
+isomer-flow.js:1073:50-71: Color
+isomer-flow.js:1073:54-58: [class: Color]
+isomer-flow.js:1073:60-61: number
+isomer-flow.js:1073:64-66: number
+isomer-flow.js:1073:69-70: number
+isomer-flow.js:1074:3-5: Isomer
+isomer-flow.js:1074:3-74: void
+isomer-flow.js:1074:11-15: [class: Shape]
+isomer-flow.js:1074:11-49: Shape
+isomer-flow.js:1074:23-37: Point
+isomer-flow.js:1074:27-31: [class: Point]
+isomer-flow.js:1074:33: number
+isomer-flow.js:1074:36: number
+isomer-flow.js:1074:40: number
+isomer-flow.js:1074:43: number
+isomer-flow.js:1074:46-48: number
+isomer-flow.js:1074:52-73: Color
+isomer-flow.js:1074:56-60: [class: Color]
+isomer-flow.js:1074:62-64: number
+isomer-flow.js:1074:67-68: number
+isomer-flow.js:1074:71-72: number
+isomer-flow.js:1077:1-9: () => void
+isomer-flow.js:1077:1,1084:1: () => void
+isomer-flow.js:1077:11-21: string
+isomer-flow.js:1077:26,1084:1: () => void
+isomer-flow.js:1078:3-5: Isomer
+isomer-flow.js:1078:3-41: Color
+isomer-flow.js:1078:20-41: Color
+isomer-flow.js:1078:24-28: [class: Color]
+isomer-flow.js:1078:30-32: number
+isomer-flow.js:1078:35-36: number
+isomer-flow.js:1078:39-40: number
+isomer-flow.js:1079:3-5: Isomer
+isomer-flow.js:1079:3-72: void
+isomer-flow.js:1079:11-15: [class: Shape]
+isomer-flow.js:1079:11-47: Shape
+isomer-flow.js:1079:23-37: Point
+isomer-flow.js:1079:27-31: [class: Point]
+isomer-flow.js:1079:33: number
+isomer-flow.js:1079:36: number
+isomer-flow.js:1079:40: number
+isomer-flow.js:1079:43: number
+isomer-flow.js:1079:46: number
+isomer-flow.js:1079:50-71: Color
+isomer-flow.js:1079:54-58: [class: Color]
+isomer-flow.js:1079:60: number
+isomer-flow.js:1079:63-65: number
+isomer-flow.js:1079:68-70: number
+isomer-flow.js:1080:3-5: Isomer
+isomer-flow.js:1080:3-74: void
+isomer-flow.js:1080:11-15: [class: Shape]
+isomer-flow.js:1080:11-49: Shape
+isomer-flow.js:1080:23-37: Point
+isomer-flow.js:1080:27-31: [class: Point]
+isomer-flow.js:1080:33: number
+isomer-flow.js:1080:36: number
+isomer-flow.js:1080:40: number
+isomer-flow.js:1080:43: number
+isomer-flow.js:1080:46-48: number
+isomer-flow.js:1080:52-73: Color
+isomer-flow.js:1080:56-60: [class: Color]
+isomer-flow.js:1080:62-63: number
+isomer-flow.js:1080:66-67: number
+isomer-flow.js:1080:70-72: number
+isomer-flow.js:1081:3-5: Isomer
+isomer-flow.js:1081:3-72: void
+isomer-flow.js:1081:11-15: [class: Shape]
+isomer-flow.js:1081:11-47: Shape
+isomer-flow.js:1081:23-37: Point
+isomer-flow.js:1081:27-31: [class: Point]
+isomer-flow.js:1081:33: number
+isomer-flow.js:1081:36: number
+isomer-flow.js:1081:40: number
+isomer-flow.js:1081:43: number
+isomer-flow.js:1081:46: number
+isomer-flow.js:1081:50-71: Color
+isomer-flow.js:1081:54-58: [class: Color]
+isomer-flow.js:1081:60-61: number
+isomer-flow.js:1081:64-66: number
+isomer-flow.js:1081:69-70: number
+isomer-flow.js:1082:3-5: Isomer
+isomer-flow.js:1082:3-74: void
+isomer-flow.js:1082:11-15: [class: Shape]
+isomer-flow.js:1082:11-49: Shape
+isomer-flow.js:1082:23-37: Point
+isomer-flow.js:1082:27-31: [class: Point]
+isomer-flow.js:1082:33: number
+isomer-flow.js:1082:36: number
+isomer-flow.js:1082:40: number
+isomer-flow.js:1082:43: number
+isomer-flow.js:1082:46-48: number
+isomer-flow.js:1082:52-73: Color
+isomer-flow.js:1082:56-60: [class: Color]
+isomer-flow.js:1082:62-64: number
+isomer-flow.js:1082:67-68: number
+isomer-flow.js:1082:71-72: number
+isomer-flow.js:1083:3-5: Isomer
+isomer-flow.js:1083:3-43: Color
+isomer-flow.js:1083:20-43: Color
+isomer-flow.js:1083:24-28: [class: Color]
+isomer-flow.js:1083:30-32: number
+isomer-flow.js:1083:35-37: number
+isomer-flow.js:1083:40-42: number
+isomer-flow.js:1086:1-9: () => void
+isomer-flow.js:1086:1,1093:1: () => void
+isomer-flow.js:1086:11-33: string
+isomer-flow.js:1086:38,1093:1: () => void
+isomer-flow.js:1087:7-18: number
+isomer-flow.js:1087:22-25: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:1087:22-34: number
+isomer-flow.js:1089:3-5: Isomer
+isomer-flow.js:1089:3-86: void
+isomer-flow.js:1089:11-15: [class: Shape]
+isomer-flow.js:1089:11-47: Shape
+isomer-flow.js:1089:23-37: Point
+isomer-flow.js:1089:27-31: [class: Point]
+isomer-flow.js:1089:33: number
+isomer-flow.js:1089:36: number
+isomer-flow.js:1089:40: number
+isomer-flow.js:1089:43: number
+isomer-flow.js:1089:46: number
+isomer-flow.js:1089:50-85: Color
+isomer-flow.js:1089:54-58: [class: Color]
+isomer-flow.js:1089:60: number
+isomer-flow.js:1089:63-65: number
+isomer-flow.js:1089:68-70: number
+isomer-flow.js:1089:73-84: number
+isomer-flow.js:1090:3-5: Isomer
+isomer-flow.js:1090:3-88: void
+isomer-flow.js:1090:11-15: [class: Shape]
+isomer-flow.js:1090:11-49: Shape
+isomer-flow.js:1090:23-37: Point
+isomer-flow.js:1090:27-31: [class: Point]
+isomer-flow.js:1090:33: number
+isomer-flow.js:1090:36: number
+isomer-flow.js:1090:40: number
+isomer-flow.js:1090:43: number
+isomer-flow.js:1090:46-48: number
+isomer-flow.js:1090:52-87: Color
+isomer-flow.js:1090:56-60: [class: Color]
+isomer-flow.js:1090:62-63: number
+isomer-flow.js:1090:66-67: number
+isomer-flow.js:1090:70-72: number
+isomer-flow.js:1090:75-86: number
+isomer-flow.js:1091:3-5: Isomer
+isomer-flow.js:1091:3-86: void
+isomer-flow.js:1091:11-15: [class: Shape]
+isomer-flow.js:1091:11-47: Shape
+isomer-flow.js:1091:23-37: Point
+isomer-flow.js:1091:27-31: [class: Point]
+isomer-flow.js:1091:33: number
+isomer-flow.js:1091:36: number
+isomer-flow.js:1091:40: number
+isomer-flow.js:1091:43: number
+isomer-flow.js:1091:46: number
+isomer-flow.js:1091:50-85: Color
+isomer-flow.js:1091:54-58: [class: Color]
+isomer-flow.js:1091:60-61: number
+isomer-flow.js:1091:64-66: number
+isomer-flow.js:1091:69-70: number
+isomer-flow.js:1091:73-84: number
+isomer-flow.js:1092:3-5: Isomer
+isomer-flow.js:1092:3-88: void
+isomer-flow.js:1092:11-15: [class: Shape]
+isomer-flow.js:1092:11-49: Shape
+isomer-flow.js:1092:23-37: Point
+isomer-flow.js:1092:27-31: [class: Point]
+isomer-flow.js:1092:33: number
+isomer-flow.js:1092:36: number
+isomer-flow.js:1092:40: number
+isomer-flow.js:1092:43: number
+isomer-flow.js:1092:46-48: number
+isomer-flow.js:1092:52-87: Color
+isomer-flow.js:1092:56-60: [class: Color]
+isomer-flow.js:1092:62-64: number
+isomer-flow.js:1092:67-68: number
+isomer-flow.js:1092:71-72: number
+isomer-flow.js:1092:75-86: number
+isomer-flow.js:1095:1-9: () => void
+isomer-flow.js:1095:1,1104:1: () => void
+isomer-flow.js:1095:11-33: string
+isomer-flow.js:1095:38,1104:1: () => void
+isomer-flow.js:1096:7-18: number
+isomer-flow.js:1096:22-25: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:1096:22-34: number
+isomer-flow.js:1098:3-5: Isomer
+isomer-flow.js:1098:3-41: Color
+isomer-flow.js:1098:20-41: Color
+isomer-flow.js:1098:24-28: [class: Color]
+isomer-flow.js:1098:30-32: number
+isomer-flow.js:1098:35-36: number
+isomer-flow.js:1098:39-40: number
+isomer-flow.js:1099:3-5: Isomer
+isomer-flow.js:1099:3-86: void
+isomer-flow.js:1099:11-15: [class: Shape]
+isomer-flow.js:1099:11-47: Shape
+isomer-flow.js:1099:23-37: Point
+isomer-flow.js:1099:27-31: [class: Point]
+isomer-flow.js:1099:33: number
+isomer-flow.js:1099:36: number
+isomer-flow.js:1099:40: number
+isomer-flow.js:1099:43: number
+isomer-flow.js:1099:46: number
+isomer-flow.js:1099:50-85: Color
+isomer-flow.js:1099:54-58: [class: Color]
+isomer-flow.js:1099:60: number
+isomer-flow.js:1099:63-65: number
+isomer-flow.js:1099:68-70: number
+isomer-flow.js:1099:73-84: number
+isomer-flow.js:1100:3-5: Isomer
+isomer-flow.js:1100:3-88: void
+isomer-flow.js:1100:11-15: [class: Shape]
+isomer-flow.js:1100:11-49: Shape
+isomer-flow.js:1100:23-37: Point
+isomer-flow.js:1100:27-31: [class: Point]
+isomer-flow.js:1100:33: number
+isomer-flow.js:1100:36: number
+isomer-flow.js:1100:40: number
+isomer-flow.js:1100:43: number
+isomer-flow.js:1100:46-48: number
+isomer-flow.js:1100:52-87: Color
+isomer-flow.js:1100:56-60: [class: Color]
+isomer-flow.js:1100:62-63: number
+isomer-flow.js:1100:66-67: number
+isomer-flow.js:1100:70-72: number
+isomer-flow.js:1100:75-86: number
+isomer-flow.js:1101:3-5: Isomer
+isomer-flow.js:1101:3-86: void
+isomer-flow.js:1101:11-15: [class: Shape]
+isomer-flow.js:1101:11-47: Shape
+isomer-flow.js:1101:23-37: Point
+isomer-flow.js:1101:27-31: [class: Point]
+isomer-flow.js:1101:33: number
+isomer-flow.js:1101:36: number
+isomer-flow.js:1101:40: number
+isomer-flow.js:1101:43: number
+isomer-flow.js:1101:46: number
+isomer-flow.js:1101:50-85: Color
+isomer-flow.js:1101:54-58: [class: Color]
+isomer-flow.js:1101:60-61: number
+isomer-flow.js:1101:64-66: number
+isomer-flow.js:1101:69-70: number
+isomer-flow.js:1101:73-84: number
+isomer-flow.js:1102:3-5: Isomer
+isomer-flow.js:1102:3-88: void
+isomer-flow.js:1102:11-15: [class: Shape]
+isomer-flow.js:1102:11-49: Shape
+isomer-flow.js:1102:23-37: Point
+isomer-flow.js:1102:27-31: [class: Point]
+isomer-flow.js:1102:33: number
+isomer-flow.js:1102:36: number
+isomer-flow.js:1102:40: number
+isomer-flow.js:1102:43: number
+isomer-flow.js:1102:46-48: number
+isomer-flow.js:1102:52-87: Color
+isomer-flow.js:1102:56-60: [class: Color]
+isomer-flow.js:1102:62-64: number
+isomer-flow.js:1102:67-68: number
+isomer-flow.js:1102:71-72: number
+isomer-flow.js:1102:75-86: number
+isomer-flow.js:1103:3-5: Isomer
+isomer-flow.js:1103:3-43: Color
+isomer-flow.js:1103:20-43: Color
+isomer-flow.js:1103:24-28: [class: Color]
+isomer-flow.js:1103:30-32: number
+isomer-flow.js:1103:35-37: number
+isomer-flow.js:1103:40-42: number
+isomer-flow.js:1106:1-9: () => void
+isomer-flow.js:1106:1,1135:1: () => () => void
+isomer-flow.js:1106:11-25: string
+isomer-flow.js:1106:30,1135:1: () => () => void
+isomer-flow.js:1107:7-10: Shape
+isomer-flow.js:1107:14-18: [class: Shape]
+isomer-flow.js:1107:14-50: Shape
+isomer-flow.js:1107:26-40: Point
+isomer-flow.js:1107:30-34: [class: Point]
+isomer-flow.js:1107:36: number
+isomer-flow.js:1107:39: number
+isomer-flow.js:1107:43: number
+isomer-flow.js:1107:46: number
+isomer-flow.js:1107:49: number
+isomer-flow.js:1108:7-11: number
+isomer-flow.js:1108:15: number
+isomer-flow.js:1110:10,1134:3: () => void
+isomer-flow.js:1112:5-7: Isomer
+isomer-flow.js:1112:5-86: void
+isomer-flow.js:1112:13-17: [class: Shape]
+isomer-flow.js:1112:13-59: Shape
+isomer-flow.js:1112:25-45: Point
+isomer-flow.js:1112:29-33: [class: Point]
+isomer-flow.js:1112:35: number
+isomer-flow.js:1112:38: number
+isomer-flow.js:1112:41-44: number
+isomer-flow.js:1112:42-44: number
+isomer-flow.js:1112:48-49: number
+isomer-flow.js:1112:52-53: number
+isomer-flow.js:1112:56-58: number
+isomer-flow.js:1112:62-85: Color
+isomer-flow.js:1112:66-70: [class: Color]
+isomer-flow.js:1112:72-74: number
+isomer-flow.js:1112:77-79: number
+isomer-flow.js:1112:82-84: number
+isomer-flow.js:1115:14: number
+isomer-flow.js:1115:18: number
+isomer-flow.js:1115:21: number
+isomer-flow.js:1115:21-25: boolean
+isomer-flow.js:1115:25: number
+isomer-flow.js:1115:28-30: number
+isomer-flow.js:1116:7-9: Isomer
+isomer-flow.js:1116:7,1119:45: void
+isomer-flow.js:1116:15-18: Shape
+isomer-flow.js:1116:15,1117:31: Shape
+isomer-flow.js:1116:15,1118:71: Shape
+isomer-flow.js:1117:20: number
+isomer-flow.js:1117:20-24: number
+isomer-flow.js:1117:24: number
+isomer-flow.js:1117:27: number
+isomer-flow.js:1117:30: number
+isomer-flow.js:1118:18-41: Point
+isomer-flow.js:1118:22-26: [class: Point]
+isomer-flow.js:1118:28-30: number
+isomer-flow.js:1118:33-35: number
+isomer-flow.js:1118:38-40: number
+isomer-flow.js:1118:44-51: number
+isomer-flow.js:1118:44-54: number
+isomer-flow.js:1118:44-62: number
+isomer-flow.js:1118:44-70: number
+isomer-flow.js:1118:45-48: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:1118:45-51: number
+isomer-flow.js:1118:53-54: number
+isomer-flow.js:1118:59: number
+isomer-flow.js:1118:59-61: number
+isomer-flow.js:1118:61: number
+isomer-flow.js:1118:66-70: number
+isomer-flow.js:1119:11-44: Color
+isomer-flow.js:1119:15-19: [class: Color]
+isomer-flow.js:1119:21-23: number
+isomer-flow.js:1119:21-32: number
+isomer-flow.js:1119:27: number
+isomer-flow.js:1119:27-32: number
+isomer-flow.js:1119:31-32: number
+isomer-flow.js:1119:35: number
+isomer-flow.js:1119:38: number
+isomer-flow.js:1119:41-43: number
+isomer-flow.js:1121:14: number
+isomer-flow.js:1121:18: number
+isomer-flow.js:1121:21: number
+isomer-flow.js:1121:21-25: boolean
+isomer-flow.js:1121:25: number
+isomer-flow.js:1121:28-30: number
+isomer-flow.js:1122:7-9: Isomer
+isomer-flow.js:1122:7,1125:45: void
+isomer-flow.js:1122:15-18: Shape
+isomer-flow.js:1122:15,1123:31: Shape
+isomer-flow.js:1122:15,1124:70: Shape
+isomer-flow.js:1123:20: number
+isomer-flow.js:1123:23: number
+isomer-flow.js:1123:23-27: number
+isomer-flow.js:1123:27: number
+isomer-flow.js:1123:30: number
+isomer-flow.js:1124:18-41: Point
+isomer-flow.js:1124:22-26: [class: Point]
+isomer-flow.js:1124:28-30: number
+isomer-flow.js:1124:33-35: number
+isomer-flow.js:1124:38-40: number
+isomer-flow.js:1124:44-51: number
+isomer-flow.js:1124:44-53: number
+isomer-flow.js:1124:44-61: number
+isomer-flow.js:1124:44-69: number
+isomer-flow.js:1124:45-48: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:1124:45-51: number
+isomer-flow.js:1124:53: number
+isomer-flow.js:1124:58: number
+isomer-flow.js:1124:58-60: number
+isomer-flow.js:1124:60: number
+isomer-flow.js:1124:65-69: number
+isomer-flow.js:1125:11-44: Color
+isomer-flow.js:1125:15-19: [class: Color]
+isomer-flow.js:1125:21: number
+isomer-flow.js:1125:24-26: number
+isomer-flow.js:1125:24-35: number
+isomer-flow.js:1125:30: number
+isomer-flow.js:1125:30-35: number
+isomer-flow.js:1125:34-35: number
+isomer-flow.js:1125:38: number
+isomer-flow.js:1125:41-43: number
+isomer-flow.js:1127:14: number
+isomer-flow.js:1127:18: number
+isomer-flow.js:1127:21: number
+isomer-flow.js:1127:21-25: boolean
+isomer-flow.js:1127:25: number
+isomer-flow.js:1127:28-30: number
+isomer-flow.js:1128:7-9: Isomer
+isomer-flow.js:1128:7,1131:45: void
+isomer-flow.js:1128:15-18: Shape
+isomer-flow.js:1128:15,1129:31: Shape
+isomer-flow.js:1128:15,1130:61: Shape
+isomer-flow.js:1129:20: number
+isomer-flow.js:1129:23: number
+isomer-flow.js:1129:26: number
+isomer-flow.js:1129:26-30: number
+isomer-flow.js:1129:30: number
+isomer-flow.js:1130:18-36: Point
+isomer-flow.js:1130:22-26: [class: Point]
+isomer-flow.js:1130:28-30: number
+isomer-flow.js:1130:33-35: number
+isomer-flow.js:1130:39-46: number
+isomer-flow.js:1130:39-48: number
+isomer-flow.js:1130:39-52: number
+isomer-flow.js:1130:39-60: number
+isomer-flow.js:1130:40-43: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:1130:40-46: number
+isomer-flow.js:1130:48: number
+isomer-flow.js:1130:52: number
+isomer-flow.js:1130:56-60: number
+isomer-flow.js:1131:11-44: Color
+isomer-flow.js:1131:15-19: [class: Color]
+isomer-flow.js:1131:21: number
+isomer-flow.js:1131:24: number
+isomer-flow.js:1131:27-29: number
+isomer-flow.js:1131:27-38: number
+isomer-flow.js:1131:33: number
+isomer-flow.js:1131:33-38: number
+isomer-flow.js:1131:37-38: number
+isomer-flow.js:1131:41-43: number
+isomer-flow.js:1133:5-29: number
+isomer-flow.js:1133:14: number
+isomer-flow.js:1133:14-24: number
+isomer-flow.js:1133:14-29: number
+isomer-flow.js:1133:18-21: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+isomer-flow.js:1133:18-24: number
+isomer-flow.js:1133:28-29: number
+isomer-flow.js:1140:2,1166:1: () => void
+isomer-flow.js:1140:2,1166:4: void
+isomer-flow.js:1141:7-8: string
+isomer-flow.js:1142:7-11: HTMLElement
+isomer-flow.js:1142:15-22: Document
+isomer-flow.js:1142:15-48: HTMLElement
+isomer-flow.js:1142:39-47: string
+isomer-flow.js:1143:7-12: HTMLDivElement
+isomer-flow.js:1144:7-20: number
+isomer-flow.js:1146:14-22: () => void
+isomer-flow.js:1147:5-42: HTMLDivElement
+isomer-flow.js:1147:14-21: Document
+isomer-flow.js:1147:14-42: HTMLDivElement
+isomer-flow.js:1147:37-41: string
+isomer-flow.js:1148:5-10: HTMLDivElement
+isomer-flow.js:1148:5-20: DOMTokenList
+isomer-flow.js:1148:5-36: void
+isomer-flow.js:1148:26-35: string
+isomer-flow.js:1149:5-10: HTMLDivElement
+isomer-flow.js:1149:5-25: string
+isomer-flow.js:1149:24-25: string
+isomer-flow.js:1150:5-10: HTMLDivElement
+isomer-flow.js:1150:5,1162:21: () => void
+isomer-flow.js:1150:23,1162:5: (fn: ) => () => void
+isomer-flow.js:1150:23,1162:21: () => void
+isomer-flow.js:1150:33-34: 
+isomer-flow.js:1151:14,1161:7: () => void
+isomer-flow.js:1153:9-21: (intervalId?: number) => void
+isomer-flow.js:1153:9-37: void
+isomer-flow.js:1153:23-36: number
+isomer-flow.js:1154:9-11: Isomer
+isomer-flow.js:1154:9-18: 
+isomer-flow.js:1154:9-26: 
+isomer-flow.js:1155:13: 
+isomer-flow.js:1155:17-18: 
+isomer-flow.js:1155:17-20: 
+isomer-flow.js:1158:13-18: [class: Object]
+isomer-flow.js:1158:13-28: Object
+isomer-flow.js:1158:13-37: () => string
+isomer-flow.js:1158:13-45: string
+isomer-flow.js:1158:44: 
+isomer-flow.js:1158:50-68: string
+isomer-flow.js:1159:11-50: number
+isomer-flow.js:1159:28-38: (callback: any, ms?: number, ...args: Array<any>) => number
+isomer-flow.js:1159:28-50: number
+isomer-flow.js:1159:40: 
+isomer-flow.js:1159:43-46: number
+isomer-flow.js:1159:43-49: number
+isomer-flow.js:1159:48-49: number
+isomer-flow.js:1162:8-16: () => void
+isomer-flow.js:1162:8-20: 
+isomer-flow.js:1162:18-19: string
+isomer-flow.js:1164:5-9: HTMLElement
+isomer-flow.js:1164:5-29: Node
+isomer-flow.js:1164:23-28: HTMLDivElement

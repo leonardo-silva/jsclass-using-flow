@@ -1,0 +1,1581 @@
+point-flow.js:1:1,113:1: [class: Point]
+point-flow.js:2:15: number
+point-flow.js:2:18: number
+point-flow.js:2:21: number | void
+point-flow.js:3:9-12: Point
+point-flow.js:3:25-29: [class: Point]
+point-flow.js:4:7-10: Point
+point-flow.js:4:7-46: number
+point-flow.js:4:16-46: number
+point-flow.js:4:24: number
+point-flow.js:4:42: number
+point-flow.js:4:46: number
+point-flow.js:5:7-10: Point
+point-flow.js:5:7-46: number
+point-flow.js:5:16-46: number
+point-flow.js:5:24: number
+point-flow.js:5:42: number
+point-flow.js:5:46: number
+point-flow.js:6:7-10: Point
+point-flow.js:6:7-46: number
+point-flow.js:6:16-46: number
+point-flow.js:6:24: number | void
+point-flow.js:6:42: number
+point-flow.js:6:46: number
+point-flow.js:8:14-31: Point
+point-flow.js:8:18-22: [class: Point]
+point-flow.js:8:24: number
+point-flow.js:8:27: number
+point-flow.js:8:30: number | void
+point-flow.js:16:13-14: number
+point-flow.js:16:17-18: number
+point-flow.js:16:21-22: number
+point-flow.js:18:5-42: number
+point-flow.js:18:10-42: number
+point-flow.js:18:18-19: number
+point-flow.js:18:37-38: number
+point-flow.js:18:42: number
+point-flow.js:19:5-42: number
+point-flow.js:19:10-42: number
+point-flow.js:19:18-19: number
+point-flow.js:19:37-38: number
+point-flow.js:19:42: number
+point-flow.js:20:5-42: number
+point-flow.js:20:10-42: number
+point-flow.js:20:18-19: number
+point-flow.js:20:37-38: number
+point-flow.js:20:42: number
+point-flow.js:22:12,25:18: Point
+point-flow.js:22:16-20: [class: Point]
+point-flow.js:23:7-10: Point
+point-flow.js:23:7-12: 
+point-flow.js:23:7-17: 
+point-flow.js:23:16-17: number
+point-flow.js:24:7-10: Point
+point-flow.js:24:7-12: 
+point-flow.js:24:7-17: 
+point-flow.js:24:16-17: number
+point-flow.js:25:7-10: Point
+point-flow.js:25:7-12: 
+point-flow.js:25:7-17: 
+point-flow.js:25:16-17: number
+point-flow.js:32:9-14: 
+point-flow.js:32:17-18: 
+point-flow.js:32:21-22: 
+point-flow.js:32:25-26: number
+point-flow.js:33:9: Point
+point-flow.js:33:13-16: Point
+point-flow.js:33:13-59: Point
+point-flow.js:33:28-36: 
+point-flow.js:33:29-34: 
+point-flow.js:33:29-36: 
+point-flow.js:33:39-47: 
+point-flow.js:33:40-45: 
+point-flow.js:33:40-47: 
+point-flow.js:33:50-58: 
+point-flow.js:33:51-56: 
+point-flow.js:33:51-58: 
+point-flow.js:35:9-10: 
+point-flow.js:35:16-24: void
+point-flow.js:35:29-30: number
+point-flow.js:35:36-44: void
+point-flow.js:37:7-18: 
+point-flow.js:37:12-18: 
+point-flow.js:37:17-18: 
+point-flow.js:40:7-44: number
+point-flow.js:40:12-44: number
+point-flow.js:40:20-21: number
+point-flow.js:40:39-40: number
+point-flow.js:40:44: number
+point-flow.js:43:5: Point
+point-flow.js:43:5-7: 
+point-flow.js:43:5-13: 
+point-flow.js:43:12-13: 
+point-flow.js:44:5: Point
+point-flow.js:44:5-7: 
+point-flow.js:44:5-13: 
+point-flow.js:44:12-13: 
+point-flow.js:45:5: Point
+point-flow.js:45:5-7: 
+point-flow.js:45:5-13: 
+point-flow.js:45:12-13: number
+point-flow.js:47:12: Point
+point-flow.js:47:12-52: Point
+point-flow.js:47:24-29: 
+point-flow.js:47:24-31: 
+point-flow.js:47:34-39: 
+point-flow.js:47:34-41: 
+point-flow.js:47:44-49: 
+point-flow.js:47:44-51: 
+point-flow.js:53:11-16: 
+point-flow.js:53:19-23: 
+point-flow.js:54:9: Point
+point-flow.js:54:13-16: Point
+point-flow.js:54:13-59: Point
+point-flow.js:54:28-36: 
+point-flow.js:54:29-34: 
+point-flow.js:54:29-36: 
+point-flow.js:54:39-47: 
+point-flow.js:54:40-45: 
+point-flow.js:54:40-47: 
+point-flow.js:54:50-58: 
+point-flow.js:54:51-56: 
+point-flow.js:54:51-58: 
+point-flow.js:56:9: number
+point-flow.js:56:13: Point
+point-flow.js:56:13-15: 
+point-flow.js:56:13-33: number
+point-flow.js:56:13-57: number
+point-flow.js:56:19-22: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:56:19-33: number
+point-flow.js:56:28-32: 
+point-flow.js:56:37: Point
+point-flow.js:56:37-39: 
+point-flow.js:56:37-57: number
+point-flow.js:56:43-46: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:56:43-57: number
+point-flow.js:56:52-56: 
+point-flow.js:57:9: number
+point-flow.js:57:13: Point
+point-flow.js:57:13-15: 
+point-flow.js:57:13-33: number
+point-flow.js:57:13-57: number
+point-flow.js:57:19-22: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:57:19-33: number
+point-flow.js:57:28-32: 
+point-flow.js:57:37: Point
+point-flow.js:57:37-39: 
+point-flow.js:57:37-57: number
+point-flow.js:57:43-46: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:57:43-57: number
+point-flow.js:57:52-56: 
+point-flow.js:58:5: Point
+point-flow.js:58:5-11: number
+point-flow.js:58:11: number
+point-flow.js:59:5: Point
+point-flow.js:59:5-11: number
+point-flow.js:59:11: number
+point-flow.js:61:12: Point
+point-flow.js:61:12-52: Point
+point-flow.js:61:24-29: 
+point-flow.js:61:24-31: 
+point-flow.js:61:34-39: 
+point-flow.js:61:34-41: 
+point-flow.js:61:44-49: 
+point-flow.js:61:44-51: 
+point-flow.js:67:11-16: 
+point-flow.js:67:19-23: 
+point-flow.js:68:9: Point
+point-flow.js:68:13-16: Point
+point-flow.js:68:13-59: Point
+point-flow.js:68:28-36: 
+point-flow.js:68:29-34: 
+point-flow.js:68:29-36: 
+point-flow.js:68:39-47: 
+point-flow.js:68:40-45: 
+point-flow.js:68:40-47: 
+point-flow.js:68:50-58: 
+point-flow.js:68:51-56: 
+point-flow.js:68:51-58: 
+point-flow.js:70:9: number
+point-flow.js:70:13: Point
+point-flow.js:70:13-15: 
+point-flow.js:70:13-33: number
+point-flow.js:70:13-57: number
+point-flow.js:70:19-22: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:70:19-33: number
+point-flow.js:70:28-32: 
+point-flow.js:70:37: Point
+point-flow.js:70:37-39: 
+point-flow.js:70:37-57: number
+point-flow.js:70:43-46: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:70:43-57: number
+point-flow.js:70:52-56: 
+point-flow.js:71:9: number
+point-flow.js:71:13: Point
+point-flow.js:71:13-15: 
+point-flow.js:71:13-33: number
+point-flow.js:71:13-57: number
+point-flow.js:71:19-22: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:71:19-33: number
+point-flow.js:71:28-32: 
+point-flow.js:71:37: Point
+point-flow.js:71:37-39: 
+point-flow.js:71:37-57: number
+point-flow.js:71:43-46: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:71:43-57: number
+point-flow.js:71:52-56: 
+point-flow.js:72:5: Point
+point-flow.js:72:5-11: number
+point-flow.js:72:11: number
+point-flow.js:73:5: Point
+point-flow.js:73:5-11: number
+point-flow.js:73:11: number
+point-flow.js:75:12: Point
+point-flow.js:75:12-52: Point
+point-flow.js:75:24-29: 
+point-flow.js:75:24-31: 
+point-flow.js:75:34-39: 
+point-flow.js:75:34-41: 
+point-flow.js:75:44-49: 
+point-flow.js:75:44-51: 
+point-flow.js:81:11-16: 
+point-flow.js:81:19-23: 
+point-flow.js:82:9: Point
+point-flow.js:82:13-16: Point
+point-flow.js:82:13-59: Point
+point-flow.js:82:28-36: 
+point-flow.js:82:29-34: 
+point-flow.js:82:29-36: 
+point-flow.js:82:39-47: 
+point-flow.js:82:40-45: 
+point-flow.js:82:40-47: 
+point-flow.js:82:50-58: 
+point-flow.js:82:51-56: 
+point-flow.js:82:51-58: 
+point-flow.js:84:9: number
+point-flow.js:84:13: Point
+point-flow.js:84:13-15: 
+point-flow.js:84:13-33: number
+point-flow.js:84:13-57: number
+point-flow.js:84:19-22: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:84:19-33: number
+point-flow.js:84:28-32: 
+point-flow.js:84:37: Point
+point-flow.js:84:37-39: 
+point-flow.js:84:37-57: number
+point-flow.js:84:43-46: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:84:43-57: number
+point-flow.js:84:52-56: 
+point-flow.js:85:9: number
+point-flow.js:85:13: Point
+point-flow.js:85:13-15: 
+point-flow.js:85:13-33: number
+point-flow.js:85:13-57: number
+point-flow.js:85:19-22: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:85:19-33: number
+point-flow.js:85:28-32: 
+point-flow.js:85:37: Point
+point-flow.js:85:37-39: 
+point-flow.js:85:37-57: number
+point-flow.js:85:43-46: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:85:43-57: number
+point-flow.js:85:52-56: 
+point-flow.js:86:5: Point
+point-flow.js:86:5-11: number
+point-flow.js:86:11: number
+point-flow.js:87:5: Point
+point-flow.js:87:5-11: number
+point-flow.js:87:11: number
+point-flow.js:89:12: Point
+point-flow.js:89:12-52: Point
+point-flow.js:89:24-29: 
+point-flow.js:89:24-31: 
+point-flow.js:89:34-39: 
+point-flow.js:89:34-41: 
+point-flow.js:89:44-49: 
+point-flow.js:89:44-51: 
+point-flow.js:98:12-15: Point
+point-flow.js:98:12-17: 
+point-flow.js:98:12-26: 
+point-flow.js:98:12-39: number
+point-flow.js:98:21-24: Point
+point-flow.js:98:21-26: 
+point-flow.js:98:30: number
+point-flow.js:98:30-39: number
+point-flow.js:98:34-37: Point
+point-flow.js:98:34-39: 
+point-flow.js:105:19-20: 
+point-flow.js:105:23-24: 
+point-flow.js:106:9-10: number
+point-flow.js:106:14-15: 
+point-flow.js:106:14-17: 
+point-flow.js:106:14-24: number
+point-flow.js:106:21-22: 
+point-flow.js:106:21-24: 
+point-flow.js:107:9-10: number
+point-flow.js:107:14-15: 
+point-flow.js:107:14-17: 
+point-flow.js:107:14-24: number
+point-flow.js:107:21-22: 
+point-flow.js:107:21-24: 
+point-flow.js:108:9-10: number
+point-flow.js:108:14-15: 
+point-flow.js:108:14-17: 
+point-flow.js:108:14-24: number
+point-flow.js:108:21-22: 
+point-flow.js:108:21-24: 
+point-flow.js:110:12-15: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:110:12-49: number
+point-flow.js:110:22-23: number
+point-flow.js:110:22-28: number
+point-flow.js:110:22-38: number
+point-flow.js:110:22-48: number
+point-flow.js:110:27-28: number
+point-flow.js:110:32-33: number
+point-flow.js:110:32-38: number
+point-flow.js:110:37-38: number
+point-flow.js:110:42-43: number
+point-flow.js:110:42-48: number
+point-flow.js:110:47-48: number
+point-flow.js:115:1-5: [class: Point]
+point-flow.js:115:1-33: Point
+point-flow.js:115:16-33: Point
+point-flow.js:115:20-24: [class: Point]
+point-flow.js:115:26: number
+point-flow.js:115:29: number
+point-flow.js:115:32: number
+point-flow.js:124:5-7: 
+point-flow.js:124:11-55: 
+point-flow.js:124:15-20: 
+point-flow.js:124:22-29: Document
+point-flow.js:124:22-54: HTMLElement
+point-flow.js:124:46-53: string
+point-flow.js:125:5-9: 
+point-flow.js:125:13-18: 
+point-flow.js:125:13-24: 
+point-flow.js:126:5-8: 
+point-flow.js:126:12-17: 
+point-flow.js:126:12-22: 
+point-flow.js:127:5-9: 
+point-flow.js:127:13-18: 
+point-flow.js:127:13-24: 
+point-flow.js:128:5-9: 
+point-flow.js:128:13-18: 
+point-flow.js:128:13-24: 
+point-flow.js:130:10-18: () => void
+point-flow.js:132:10-15: (origin: Point) => 
+point-flow.js:132:17-22: Point
+point-flow.js:133:7-16: number
+point-flow.js:133:20-21: number
+point-flow.js:136:7-12: 
+point-flow.js:136:16-31: 
+point-flow.js:136:20-23: 
+point-flow.js:136:25-30: Point
+point-flow.js:137:7-11: Array<>
+point-flow.js:137:15-16: Array<>
+point-flow.js:137:19: number
+point-flow.js:140:7-12: 
+point-flow.js:140:16-26: 
+point-flow.js:140:20-24: 
+point-flow.js:142:8-12: number
+point-flow.js:142:12: number
+point-flow.js:142:15: number
+point-flow.js:142:15-28: boolean
+point-flow.js:142:19-28: number
+point-flow.js:142:31-33: number
+point-flow.js:149:9-18: Point
+point-flow.js:149:22-27: Point
+point-flow.js:149:22-78: Point
+point-flow.js:149:39: number
+point-flow.js:149:42: number
+point-flow.js:149:42-55: number
+point-flow.js:149:46-55: number
+point-flow.js:149:58-77: number
+point-flow.js:149:59: number
+point-flow.js:149:59-63: number
+point-flow.js:149:63: number
+point-flow.js:149:68-77: number
+point-flow.js:151:5-9: Array<>
+point-flow.js:151:5,156:7: number
+point-flow.js:151:16,156:6: 
+point-flow.js:151:20-23: 
+point-flow.js:151:25,156:5: [Point, Point, Point, Point]
+point-flow.js:152:7-16: Point
+point-flow.js:153:7-16: Point
+point-flow.js:153:7-49: Point
+point-flow.js:153:28: number
+point-flow.js:153:31: number
+point-flow.js:153:34-35: number
+point-flow.js:153:34-48: number
+point-flow.js:153:35: number
+point-flow.js:153:39-48: number
+point-flow.js:154:7-16: Point
+point-flow.js:154:7-49: Point
+point-flow.js:154:28: number
+point-flow.js:154:31: number
+point-flow.js:154:34-35: number
+point-flow.js:154:34-48: number
+point-flow.js:154:35: number
+point-flow.js:154:39-48: number
+point-flow.js:155:7-16: Point
+point-flow.js:155:7-35: Point
+point-flow.js:155:28: number
+point-flow.js:155:31: number
+point-flow.js:155:34: number
+point-flow.js:158:5-9: Array<>
+point-flow.js:158:5,163:7: number
+point-flow.js:158:16,163:6: 
+point-flow.js:158:20-23: 
+point-flow.js:158:25,163:5: [Point, Point, Point, Point]
+point-flow.js:159:7-16: Point
+point-flow.js:160:7-16: Point
+point-flow.js:160:7-35: Point
+point-flow.js:160:28: number
+point-flow.js:160:31: number
+point-flow.js:160:34: number
+point-flow.js:161:7-16: Point
+point-flow.js:161:7-48: Point
+point-flow.js:161:28: number
+point-flow.js:161:31: number
+point-flow.js:161:31-44: number
+point-flow.js:161:35-44: number
+point-flow.js:161:47: number
+point-flow.js:162:7-16: Point
+point-flow.js:162:7-48: Point
+point-flow.js:162:28: number
+point-flow.js:162:31: number
+point-flow.js:162:31-44: number
+point-flow.js:162:35-44: number
+point-flow.js:162:47: number
+point-flow.js:165:5-10: 
+point-flow.js:165:5-27: 
+point-flow.js:165:17-26: Point
+point-flow.js:166:5-10: 
+point-flow.js:166:5-59: 
+point-flow.js:166:17-26: Point
+point-flow.js:166:17-58: Point
+point-flow.js:166:38: number
+point-flow.js:166:41: number
+point-flow.js:166:41-54: number
+point-flow.js:166:45-54: number
+point-flow.js:166:57: number
+point-flow.js:169:3-8: 
+point-flow.js:169:3-40: 
+point-flow.js:169:15-20: Point
+point-flow.js:169:15-39: Point
+point-flow.js:169:32: number
+point-flow.js:169:35: number
+point-flow.js:169:38: number
+point-flow.js:172:8-12: number
+point-flow.js:172:12: number
+point-flow.js:172:15: number
+point-flow.js:172:15-30: boolean
+point-flow.js:172:19-23: Array<>
+point-flow.js:172:19-30: number
+point-flow.js:172:33-35: number
+point-flow.js:173:5-10: 
+point-flow.js:173:5-25: 
+point-flow.js:173:17-21: Array<>
+point-flow.js:173:17-24: 
+point-flow.js:173:23: number
+point-flow.js:175:3-8: 
+point-flow.js:175:3-21: 
+point-flow.js:175:15-20: 
+point-flow.js:176:3-8: 
+point-flow.js:176:3-50: 
+point-flow.js:176:15-20: 
+point-flow.js:176:15-30: 
+point-flow.js:176:15-49: 
+point-flow.js:176:42: number
+point-flow.js:176:45: number
+point-flow.js:176:48: number
+point-flow.js:178:10-15: 
+point-flow.js:181:10-13: (origin: Point) => 
+point-flow.js:181:15-20: Point
+point-flow.js:182:7-10: 
+point-flow.js:182:14-24: 
+point-flow.js:182:18-22: 
+point-flow.js:184:3-6: 
+point-flow.js:184:3-74: 
+point-flow.js:184:16-19: 
+point-flow.js:184:16-25: 
+point-flow.js:184:16-74: 
+point-flow.js:184:34-38: 
+point-flow.js:184:34-67: 
+point-flow.js:184:34-73: 
+point-flow.js:184:46-50: [class: Point]
+point-flow.js:184:46-57: 
+point-flow.js:184:60: number
+point-flow.js:184:63: number
+point-flow.js:184:66: number
+point-flow.js:185:3-6: 
+point-flow.js:185:3-80: 
+point-flow.js:185:16-25: 
+point-flow.js:185:16-80: 
+point-flow.js:185:34-38: 
+point-flow.js:185:34-73: 
+point-flow.js:185:34-79: 
+point-flow.js:185:46-63: Point
+point-flow.js:185:50-54: [class: Point]
+point-flow.js:185:56: number
+point-flow.js:185:59: number
+point-flow.js:185:62: number
+point-flow.js:185:66: number
+point-flow.js:185:69: number
+point-flow.js:185:72: number
+point-flow.js:186:3-6: 
+point-flow.js:186:3-81: 
+point-flow.js:186:16-25: 
+point-flow.js:186:16-81: 
+point-flow.js:186:34-38: 
+point-flow.js:186:34-74: 
+point-flow.js:186:34-80: 
+point-flow.js:186:46-64: Point
+point-flow.js:186:50-54: [class: Point]
+point-flow.js:186:56: number
+point-flow.js:186:59: number
+point-flow.js:186:62-63: number
+point-flow.js:186:63: number
+point-flow.js:186:67: number
+point-flow.js:186:70: number
+point-flow.js:186:73: number
+point-flow.js:188:3-6: 
+point-flow.js:188:3,193:5: 
+point-flow.js:188:13,193:4: 
+point-flow.js:188:17-20: 
+point-flow.js:188:22,193:3: [Point, Point, Point, Point]
+point-flow.js:189:5-22: Point
+point-flow.js:189:9-13: [class: Point]
+point-flow.js:189:15: number
+point-flow.js:189:18: number
+point-flow.js:189:21: number
+point-flow.js:190:5-22: Point
+point-flow.js:190:9-13: [class: Point]
+point-flow.js:190:15: number
+point-flow.js:190:18: number
+point-flow.js:190:21: number
+point-flow.js:191:5-22: Point
+point-flow.js:191:9-13: [class: Point]
+point-flow.js:191:15: number
+point-flow.js:191:18: number
+point-flow.js:191:21: number
+point-flow.js:192:5-22: Point
+point-flow.js:192:9-13: [class: Point]
+point-flow.js:192:15: number
+point-flow.js:192:18: number
+point-flow.js:192:21: number
+point-flow.js:195:3-6: 
+point-flow.js:195:3,200:5: 
+point-flow.js:195:13,200:4: 
+point-flow.js:195:17-20: 
+point-flow.js:195:22,200:3: [Point, Point, Point, Point]
+point-flow.js:196:5-22: Point
+point-flow.js:196:9-13: [class: Point]
+point-flow.js:196:15: number
+point-flow.js:196:18: number
+point-flow.js:196:21: number
+point-flow.js:197:5-22: Point
+point-flow.js:197:9-13: [class: Point]
+point-flow.js:197:15: number
+point-flow.js:197:18: number
+point-flow.js:197:21: number
+point-flow.js:198:5-22: Point
+point-flow.js:198:9-13: [class: Point]
+point-flow.js:198:15: number
+point-flow.js:198:18: number
+point-flow.js:198:21: number
+point-flow.js:199:5-22: Point
+point-flow.js:199:9-13: [class: Point]
+point-flow.js:199:15: number
+point-flow.js:199:18: number
+point-flow.js:199:21: number
+point-flow.js:202:10-13: 
+point-flow.js:202:10-38: 
+point-flow.js:202:10-65: 
+point-flow.js:202:10-105: 
+point-flow.js:202:21-25: [class: Point]
+point-flow.js:202:21-32: 
+point-flow.js:202:35: number
+point-flow.js:202:35-37: number
+point-flow.js:202:37: number
+point-flow.js:202:50-53: number
+point-flow.js:202:51-53: number
+point-flow.js:202:56-59: number
+point-flow.js:202:62-64: number
+point-flow.js:202:77-82: Point
+point-flow.js:202:77-84: 
+point-flow.js:202:87-92: Point
+point-flow.js:202:87-94: 
+point-flow.js:202:97-102: Point
+point-flow.js:202:97-104: 
+point-flow.js:205:10-20: () => 
+point-flow.js:206:10,209:34: 
+point-flow.js:206:14-18: 
+point-flow.js:207:5-12: (string: mixed, radix?: number) => number
+point-flow.js:207:5-33: number
+point-flow.js:207:14-17: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:207:14-26: number
+point-flow.js:207:14-32: number
+point-flow.js:207:30-32: number
+point-flow.js:208:5-12: (string: mixed, radix?: number) => number
+point-flow.js:208:5-33: number
+point-flow.js:208:14-17: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:208:14-26: number
+point-flow.js:208:14-32: number
+point-flow.js:208:30-32: number
+point-flow.js:209:5-12: (string: mixed, radix?: number) => number
+point-flow.js:209:5-33: number
+point-flow.js:209:14-17: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:209:14-26: number
+point-flow.js:209:14-32: number
+point-flow.js:209:30-32: number
+point-flow.js:212:1-9: () => void
+point-flow.js:212:1,240:1: () => void
+point-flow.js:212:11-26: string
+point-flow.js:212:31,240:1: () => void
+point-flow.js:213:3-5: 
+point-flow.js:213:3-51: 
+point-flow.js:213:11-15: 
+point-flow.js:213:11-50: 
+point-flow.js:213:23-40: Point
+point-flow.js:213:27-31: [class: Point]
+point-flow.js:213:33: number
+point-flow.js:213:36: number
+point-flow.js:213:39: number
+point-flow.js:213:43: number
+point-flow.js:213:46: number
+point-flow.js:213:49: number
+point-flow.js:214:3-5: 
+point-flow.js:214:3-51: 
+point-flow.js:214:11-15: 
+point-flow.js:214:11-50: 
+point-flow.js:214:23-40: Point
+point-flow.js:214:27-31: [class: Point]
+point-flow.js:214:33: number
+point-flow.js:214:36: number
+point-flow.js:214:39: number
+point-flow.js:214:43: number
+point-flow.js:214:46: number
+point-flow.js:214:49: number
+point-flow.js:215:3-5: 
+point-flow.js:215:3-52: 
+point-flow.js:215:11-15: 
+point-flow.js:215:11-51: 
+point-flow.js:215:23-41: Point
+point-flow.js:215:27-31: [class: Point]
+point-flow.js:215:33-34: number
+point-flow.js:215:34: number
+point-flow.js:215:37: number
+point-flow.js:215:40: number
+point-flow.js:215:44: number
+point-flow.js:215:47: number
+point-flow.js:215:50: number
+point-flow.js:217:3-5: 
+point-flow.js:217:3-38: 
+point-flow.js:217:11-16: (origin: Point) => 
+point-flow.js:217:11-37: 
+point-flow.js:217:18-36: Point
+point-flow.js:217:22-26: [class: Point]
+point-flow.js:217:28-29: number
+point-flow.js:217:29: number
+point-flow.js:217:32: number
+point-flow.js:217:35: number
+point-flow.js:218:3-5: 
+point-flow.js:218:3-83: 
+point-flow.js:218:11-16: (origin: Point) => 
+point-flow.js:218:11-36: 
+point-flow.js:218:11-82: 
+point-flow.js:218:18-35: Point
+point-flow.js:218:22-26: [class: Point]
+point-flow.js:218:28: number
+point-flow.js:218:31: number
+point-flow.js:218:34: number
+point-flow.js:218:46-67: Point
+point-flow.js:218:50-54: [class: Point]
+point-flow.js:218:56-58: number
+point-flow.js:218:61-63: number
+point-flow.js:218:66: number
+point-flow.js:218:70-77: number
+point-flow.js:218:70-81: number
+point-flow.js:218:71-74: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:218:71-77: number
+point-flow.js:218:81: number
+point-flow.js:220:3-5: 
+point-flow.js:220:3-51: 
+point-flow.js:220:11-15: 
+point-flow.js:220:11-50: 
+point-flow.js:220:23-40: Point
+point-flow.js:220:27-31: [class: Point]
+point-flow.js:220:33: number
+point-flow.js:220:36: number
+point-flow.js:220:39: number
+point-flow.js:220:43: number
+point-flow.js:220:46: number
+point-flow.js:220:49: number
+point-flow.js:221:3-5: 
+point-flow.js:221:3-51: 
+point-flow.js:221:11-15: 
+point-flow.js:221:11-50: 
+point-flow.js:221:23-40: Point
+point-flow.js:221:27-31: [class: Point]
+point-flow.js:221:33: number
+point-flow.js:221:36: number
+point-flow.js:221:39: number
+point-flow.js:221:43: number
+point-flow.js:221:46: number
+point-flow.js:221:49: number
+point-flow.js:223:3-5: 
+point-flow.js:223:3-83: 
+point-flow.js:223:11-16: (origin: Point) => 
+point-flow.js:223:11-36: 
+point-flow.js:223:11-82: 
+point-flow.js:223:18-35: Point
+point-flow.js:223:22-26: [class: Point]
+point-flow.js:223:28: number
+point-flow.js:223:31: number
+point-flow.js:223:34: number
+point-flow.js:223:46-67: Point
+point-flow.js:223:50-54: [class: Point]
+point-flow.js:223:56-58: number
+point-flow.js:223:61-63: number
+point-flow.js:223:66: number
+point-flow.js:223:70-77: number
+point-flow.js:223:70-81: number
+point-flow.js:223:71-74: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:223:71-77: number
+point-flow.js:223:81: number
+point-flow.js:225:3-5: 
+point-flow.js:225:3,227:27: 
+point-flow.js:225:11-15: 
+point-flow.js:225:11-43: 
+point-flow.js:225:11,226:35: 
+point-flow.js:225:25-42: Point
+point-flow.js:225:29-33: [class: Point]
+point-flow.js:225:35: number
+point-flow.js:225:38: number
+point-flow.js:225:41: number
+point-flow.js:226:12-29: Point
+point-flow.js:226:16-20: [class: Point]
+point-flow.js:226:22: number
+point-flow.js:226:25: number
+point-flow.js:226:28: number
+point-flow.js:226:32-34: number
+point-flow.js:227:5-26: 
+point-flow.js:227:9-13: 
+point-flow.js:227:15-17: number
+point-flow.js:227:20-22: number
+point-flow.js:227:25: number
+point-flow.js:228:3-5: 
+point-flow.js:228:3,230:27: 
+point-flow.js:228:11-15: 
+point-flow.js:228:11-43: 
+point-flow.js:228:11,229:35: 
+point-flow.js:228:25-42: Point
+point-flow.js:228:29-33: [class: Point]
+point-flow.js:228:35: number
+point-flow.js:228:38: number
+point-flow.js:228:41: number
+point-flow.js:229:12-29: Point
+point-flow.js:229:16-20: [class: Point]
+point-flow.js:229:22: number
+point-flow.js:229:25: number
+point-flow.js:229:28: number
+point-flow.js:229:32-34: number
+point-flow.js:230:5-26: 
+point-flow.js:230:9-13: 
+point-flow.js:230:15-17: number
+point-flow.js:230:20: number
+point-flow.js:230:23-25: number
+point-flow.js:231:3-5: 
+point-flow.js:231:3,233:27: 
+point-flow.js:231:11-15: 
+point-flow.js:231:11-43: 
+point-flow.js:231:11,232:35: 
+point-flow.js:231:25-42: Point
+point-flow.js:231:29-33: [class: Point]
+point-flow.js:231:35: number
+point-flow.js:231:38: number
+point-flow.js:231:41: number
+point-flow.js:232:12-29: Point
+point-flow.js:232:16-20: [class: Point]
+point-flow.js:232:22: number
+point-flow.js:232:25: number
+point-flow.js:232:28: number
+point-flow.js:232:32-34: number
+point-flow.js:233:5-26: 
+point-flow.js:233:9-13: 
+point-flow.js:233:15: number
+point-flow.js:233:18-20: number
+point-flow.js:233:23-25: number
+point-flow.js:234:3-5: 
+point-flow.js:234:3,236:27: 
+point-flow.js:234:11-15: 
+point-flow.js:234:11-43: 
+point-flow.js:234:11,235:35: 
+point-flow.js:234:25-42: Point
+point-flow.js:234:29-33: [class: Point]
+point-flow.js:234:35: number
+point-flow.js:234:38: number
+point-flow.js:234:41: number
+point-flow.js:235:12-29: Point
+point-flow.js:235:16-20: [class: Point]
+point-flow.js:235:22: number
+point-flow.js:235:25: number
+point-flow.js:235:28: number
+point-flow.js:235:32-34: number
+point-flow.js:236:5-26: 
+point-flow.js:236:9-13: 
+point-flow.js:236:15-16: number
+point-flow.js:236:19-21: number
+point-flow.js:236:24-25: number
+point-flow.js:238:3-5: 
+point-flow.js:238:3-76: 
+point-flow.js:238:11-15: 
+point-flow.js:238:11-52: 
+point-flow.js:238:23-40: Point
+point-flow.js:238:27-31: [class: Point]
+point-flow.js:238:33: number
+point-flow.js:238:36: number
+point-flow.js:238:39: number
+point-flow.js:238:43: number
+point-flow.js:238:46: number
+point-flow.js:238:49-51: number
+point-flow.js:238:55-75: 
+point-flow.js:238:59-63: 
+point-flow.js:238:65-66: number
+point-flow.js:238:69-70: number
+point-flow.js:238:73-74: number
+point-flow.js:239:3-5: 
+point-flow.js:239:3-61: 
+point-flow.js:239:11-14: (origin: Point) => 
+point-flow.js:239:11-36: 
+point-flow.js:239:16-35: Point
+point-flow.js:239:20-24: [class: Point]
+point-flow.js:239:26: number
+point-flow.js:239:29: number
+point-flow.js:239:32-34: number
+point-flow.js:239:39-60: 
+point-flow.js:239:43-47: 
+point-flow.js:239:49: number
+point-flow.js:239:52-54: number
+point-flow.js:239:57-59: number
+point-flow.js:242:1-9: () => void
+point-flow.js:242:1,252:1: () => void
+point-flow.js:242:11-23: string
+point-flow.js:242:28,252:1: () => void
+point-flow.js:243:7-10: 
+point-flow.js:243:14-18: 
+point-flow.js:243:14-50: 
+point-flow.js:243:26-40: Point
+point-flow.js:243:30-34: [class: Point]
+point-flow.js:243:36: number
+point-flow.js:243:39: number
+point-flow.js:243:43: number
+point-flow.js:243:46: number
+point-flow.js:243:49: number
+point-flow.js:245:12: number
+point-flow.js:245:16: number
+point-flow.js:245:19: number
+point-flow.js:245:19-24: boolean
+point-flow.js:245:23-24: number
+point-flow.js:245:27-29: number
+point-flow.js:246:5-7: 
+point-flow.js:246:5,250:25: 
+point-flow.js:246:13-16: 
+point-flow.js:246:13,247:58: 
+point-flow.js:246:13,248:27: 
+point-flow.js:246:13,249:52: 
+point-flow.js:247:14-32: Point
+point-flow.js:247:18-22: [class: Point]
+point-flow.js:247:24-26: number
+point-flow.js:247:29-31: number
+point-flow.js:247:35-36: number
+point-flow.js:247:35-42: number
+point-flow.js:247:40: number
+point-flow.js:247:40-42: number
+point-flow.js:247:42: number
+point-flow.js:247:45-46: number
+point-flow.js:247:45-52: number
+point-flow.js:247:50: number
+point-flow.js:247:50-52: number
+point-flow.js:247:52: number
+point-flow.js:247:55: number
+point-flow.js:247:55-57: number
+point-flow.js:247:57: number
+point-flow.js:248:18: number
+point-flow.js:248:21: number
+point-flow.js:248:24: number
+point-flow.js:248:24-26: number
+point-flow.js:248:26: number
+point-flow.js:249:16-34: Point
+point-flow.js:249:20-24: [class: Point]
+point-flow.js:249:26-28: number
+point-flow.js:249:31-33: number
+point-flow.js:249:37-44: number
+point-flow.js:249:37-47: number
+point-flow.js:249:37-51: number
+point-flow.js:249:38-41: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:249:38-44: number
+point-flow.js:249:46-47: number
+point-flow.js:249:51: number
+point-flow.js:250:12-22: () => 
+point-flow.js:250:12-24: 
+point-flow.js:254:1-9: () => void
+point-flow.js:254:1,262:1: () => void
+point-flow.js:254:11-24: string
+point-flow.js:254:29,262:1: () => void
+point-flow.js:255:7: 
+point-flow.js:255:11-15: 
+point-flow.js:255:11,259:10: 
+point-flow.js:255:11,259:33: 
+point-flow.js:255:25,259:4: 
+point-flow.js:255:29-32: 
+point-flow.js:255:34,259:3: [, , ]
+point-flow.js:256:5-9: [class: Point]
+point-flow.js:256:5-18: 
+point-flow.js:256:11: number
+point-flow.js:256:14: number
+point-flow.js:256:17: number
+point-flow.js:257:5-9: [class: Point]
+point-flow.js:257:5-18: 
+point-flow.js:257:11: number
+point-flow.js:257:14: number
+point-flow.js:257:17: number
+point-flow.js:258:5-9: [class: Point]
+point-flow.js:258:5-18: 
+point-flow.js:258:11: number
+point-flow.js:258:14: number
+point-flow.js:258:17: number
+point-flow.js:259:7-9: number
+point-flow.js:259:18-22: [class: Point]
+point-flow.js:259:18-29: 
+point-flow.js:259:32: number
+point-flow.js:261:3-5: 
+point-flow.js:261:3-36: 
+point-flow.js:261:11: 
+point-flow.js:261:14-35: 
+point-flow.js:261:18-22: 
+point-flow.js:261:24-25: number
+point-flow.js:261:28-30: number
+point-flow.js:261:33-34: number
+point-flow.js:264:1-9: () => void
+point-flow.js:264:1,271:1: () => void
+point-flow.js:264:11-25: string
+point-flow.js:264:30,271:1: () => void
+point-flow.js:265:3-5: 
+point-flow.js:265:3-48: 
+point-flow.js:265:11-15: 
+point-flow.js:265:11-47: 
+point-flow.js:265:26-43: Point
+point-flow.js:265:30-34: [class: Point]
+point-flow.js:265:36: number
+point-flow.js:265:39: number
+point-flow.js:265:42: number
+point-flow.js:265:46: number
+point-flow.js:266:3-5: 
+point-flow.js:266:3-74: 
+point-flow.js:266:11-15: 
+point-flow.js:266:11-58: 
+point-flow.js:266:26-45: Point
+point-flow.js:266:30-34: [class: Point]
+point-flow.js:266:36-37: number
+point-flow.js:266:40-41: number
+point-flow.js:266:44: number
+point-flow.js:266:48-50: number
+point-flow.js:266:53-54: number
+point-flow.js:266:57: number
+point-flow.js:266:61-71: () => 
+point-flow.js:266:61-73: 
+point-flow.js:267:3-5: 
+point-flow.js:267:3-74: 
+point-flow.js:267:11-15: 
+point-flow.js:267:11-58: 
+point-flow.js:267:26-43: Point
+point-flow.js:267:30-34: [class: Point]
+point-flow.js:267:36: number
+point-flow.js:267:39: number
+point-flow.js:267:42: number
+point-flow.js:267:46-49: number
+point-flow.js:267:52-53: number
+point-flow.js:267:56-57: number
+point-flow.js:267:61-71: () => 
+point-flow.js:267:61-73: 
+point-flow.js:268:3-5: 
+point-flow.js:268:3-74: 
+point-flow.js:268:11-15: 
+point-flow.js:268:11-58: 
+point-flow.js:268:26-45: Point
+point-flow.js:268:30-34: [class: Point]
+point-flow.js:268:36-38: number
+point-flow.js:268:41: number
+point-flow.js:268:44: number
+point-flow.js:268:48-50: number
+point-flow.js:268:53-54: number
+point-flow.js:268:57: number
+point-flow.js:268:61-71: () => 
+point-flow.js:268:61-73: 
+point-flow.js:269:3-5: 
+point-flow.js:269:3-73: 
+point-flow.js:269:11-15: 
+point-flow.js:269:11-57: 
+point-flow.js:269:26-44: Point
+point-flow.js:269:30-34: [class: Point]
+point-flow.js:269:36-37: number
+point-flow.js:269:40: number
+point-flow.js:269:43: number
+point-flow.js:269:47-49: number
+point-flow.js:269:52-53: number
+point-flow.js:269:56: number
+point-flow.js:269:60-70: () => 
+point-flow.js:269:60-72: 
+point-flow.js:270:3-5: 
+point-flow.js:270:3-70: 
+point-flow.js:270:11-15: 
+point-flow.js:270:11-54: 
+point-flow.js:270:26-43: Point
+point-flow.js:270:30-34: [class: Point]
+point-flow.js:270:36: number
+point-flow.js:270:39: number
+point-flow.js:270:42: number
+point-flow.js:270:46: number
+point-flow.js:270:49-50: number
+point-flow.js:270:53: number
+point-flow.js:270:57-67: () => 
+point-flow.js:270:57-69: 
+point-flow.js:273:1-9: () => void
+point-flow.js:273:1,275:1: () => void
+point-flow.js:273:11-21: string
+point-flow.js:273:26,275:1: () => void
+point-flow.js:274:3-5: 
+point-flow.js:274:3-91: 
+point-flow.js:274:11-15: 
+point-flow.js:274:11-90: 
+point-flow.js:274:25-28: 
+point-flow.js:274:25-56: 
+point-flow.js:274:25-89: 
+point-flow.js:274:35-39: [class: Point]
+point-flow.js:274:35-46: 
+point-flow.js:274:49: number
+point-flow.js:274:52: number
+point-flow.js:274:55: number
+point-flow.js:274:66-70: [class: Point]
+point-flow.js:274:66-77: 
+point-flow.js:274:80-83: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:274:80-86: number
+point-flow.js:274:80-88: number
+point-flow.js:274:88: number
+point-flow.js:277:1-9: () => void
+point-flow.js:277:1,282:1: () => void
+point-flow.js:277:11-21: string
+point-flow.js:277:26,282:1: () => void
+point-flow.js:278:3-5: 
+point-flow.js:278:3-72: 
+point-flow.js:278:11-15: 
+point-flow.js:278:11-47: 
+point-flow.js:278:23-37: Point
+point-flow.js:278:27-31: [class: Point]
+point-flow.js:278:33: number
+point-flow.js:278:36: number
+point-flow.js:278:40: number
+point-flow.js:278:43: number
+point-flow.js:278:46: number
+point-flow.js:278:50-71: 
+point-flow.js:278:54-58: 
+point-flow.js:278:60: number
+point-flow.js:278:63-65: number
+point-flow.js:278:68-70: number
+point-flow.js:279:3-5: 
+point-flow.js:279:3-74: 
+point-flow.js:279:11-15: 
+point-flow.js:279:11-49: 
+point-flow.js:279:23-37: Point
+point-flow.js:279:27-31: [class: Point]
+point-flow.js:279:33: number
+point-flow.js:279:36: number
+point-flow.js:279:40: number
+point-flow.js:279:43: number
+point-flow.js:279:46-48: number
+point-flow.js:279:52-73: 
+point-flow.js:279:56-60: 
+point-flow.js:279:62-63: number
+point-flow.js:279:66-67: number
+point-flow.js:279:70-72: number
+point-flow.js:280:3-5: 
+point-flow.js:280:3-72: 
+point-flow.js:280:11-15: 
+point-flow.js:280:11-47: 
+point-flow.js:280:23-37: Point
+point-flow.js:280:27-31: [class: Point]
+point-flow.js:280:33: number
+point-flow.js:280:36: number
+point-flow.js:280:40: number
+point-flow.js:280:43: number
+point-flow.js:280:46: number
+point-flow.js:280:50-71: 
+point-flow.js:280:54-58: 
+point-flow.js:280:60-61: number
+point-flow.js:280:64-66: number
+point-flow.js:280:69-70: number
+point-flow.js:281:3-5: 
+point-flow.js:281:3-74: 
+point-flow.js:281:11-15: 
+point-flow.js:281:11-49: 
+point-flow.js:281:23-37: Point
+point-flow.js:281:27-31: [class: Point]
+point-flow.js:281:33: number
+point-flow.js:281:36: number
+point-flow.js:281:40: number
+point-flow.js:281:43: number
+point-flow.js:281:46-48: number
+point-flow.js:281:52-73: 
+point-flow.js:281:56-60: 
+point-flow.js:281:62-64: number
+point-flow.js:281:67-68: number
+point-flow.js:281:71-72: number
+point-flow.js:284:1-9: () => void
+point-flow.js:284:1,291:1: () => void
+point-flow.js:284:11-21: string
+point-flow.js:284:26,291:1: () => void
+point-flow.js:285:3-5: 
+point-flow.js:285:3-41: 
+point-flow.js:285:20-41: 
+point-flow.js:285:24-28: 
+point-flow.js:285:30-32: number
+point-flow.js:285:35-36: number
+point-flow.js:285:39-40: number
+point-flow.js:286:3-5: 
+point-flow.js:286:3-72: 
+point-flow.js:286:11-15: 
+point-flow.js:286:11-47: 
+point-flow.js:286:23-37: Point
+point-flow.js:286:27-31: [class: Point]
+point-flow.js:286:33: number
+point-flow.js:286:36: number
+point-flow.js:286:40: number
+point-flow.js:286:43: number
+point-flow.js:286:46: number
+point-flow.js:286:50-71: 
+point-flow.js:286:54-58: 
+point-flow.js:286:60: number
+point-flow.js:286:63-65: number
+point-flow.js:286:68-70: number
+point-flow.js:287:3-5: 
+point-flow.js:287:3-74: 
+point-flow.js:287:11-15: 
+point-flow.js:287:11-49: 
+point-flow.js:287:23-37: Point
+point-flow.js:287:27-31: [class: Point]
+point-flow.js:287:33: number
+point-flow.js:287:36: number
+point-flow.js:287:40: number
+point-flow.js:287:43: number
+point-flow.js:287:46-48: number
+point-flow.js:287:52-73: 
+point-flow.js:287:56-60: 
+point-flow.js:287:62-63: number
+point-flow.js:287:66-67: number
+point-flow.js:287:70-72: number
+point-flow.js:288:3-5: 
+point-flow.js:288:3-72: 
+point-flow.js:288:11-15: 
+point-flow.js:288:11-47: 
+point-flow.js:288:23-37: Point
+point-flow.js:288:27-31: [class: Point]
+point-flow.js:288:33: number
+point-flow.js:288:36: number
+point-flow.js:288:40: number
+point-flow.js:288:43: number
+point-flow.js:288:46: number
+point-flow.js:288:50-71: 
+point-flow.js:288:54-58: 
+point-flow.js:288:60-61: number
+point-flow.js:288:64-66: number
+point-flow.js:288:69-70: number
+point-flow.js:289:3-5: 
+point-flow.js:289:3-74: 
+point-flow.js:289:11-15: 
+point-flow.js:289:11-49: 
+point-flow.js:289:23-37: Point
+point-flow.js:289:27-31: [class: Point]
+point-flow.js:289:33: number
+point-flow.js:289:36: number
+point-flow.js:289:40: number
+point-flow.js:289:43: number
+point-flow.js:289:46-48: number
+point-flow.js:289:52-73: 
+point-flow.js:289:56-60: 
+point-flow.js:289:62-64: number
+point-flow.js:289:67-68: number
+point-flow.js:289:71-72: number
+point-flow.js:290:3-5: 
+point-flow.js:290:3-43: 
+point-flow.js:290:20-43: 
+point-flow.js:290:24-28: 
+point-flow.js:290:30-32: number
+point-flow.js:290:35-37: number
+point-flow.js:290:40-42: number
+point-flow.js:293:1-9: () => void
+point-flow.js:293:1,300:1: () => void
+point-flow.js:293:11-33: string
+point-flow.js:293:38,300:1: () => void
+point-flow.js:294:7-18: number
+point-flow.js:294:22-25: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:294:22-34: number
+point-flow.js:296:3-5: 
+point-flow.js:296:3-86: 
+point-flow.js:296:11-15: 
+point-flow.js:296:11-47: 
+point-flow.js:296:23-37: Point
+point-flow.js:296:27-31: [class: Point]
+point-flow.js:296:33: number
+point-flow.js:296:36: number
+point-flow.js:296:40: number
+point-flow.js:296:43: number
+point-flow.js:296:46: number
+point-flow.js:296:50-85: 
+point-flow.js:296:54-58: 
+point-flow.js:296:60: number
+point-flow.js:296:63-65: number
+point-flow.js:296:68-70: number
+point-flow.js:296:73-84: number
+point-flow.js:297:3-5: 
+point-flow.js:297:3-88: 
+point-flow.js:297:11-15: 
+point-flow.js:297:11-49: 
+point-flow.js:297:23-37: Point
+point-flow.js:297:27-31: [class: Point]
+point-flow.js:297:33: number
+point-flow.js:297:36: number
+point-flow.js:297:40: number
+point-flow.js:297:43: number
+point-flow.js:297:46-48: number
+point-flow.js:297:52-87: 
+point-flow.js:297:56-60: 
+point-flow.js:297:62-63: number
+point-flow.js:297:66-67: number
+point-flow.js:297:70-72: number
+point-flow.js:297:75-86: number
+point-flow.js:298:3-5: 
+point-flow.js:298:3-86: 
+point-flow.js:298:11-15: 
+point-flow.js:298:11-47: 
+point-flow.js:298:23-37: Point
+point-flow.js:298:27-31: [class: Point]
+point-flow.js:298:33: number
+point-flow.js:298:36: number
+point-flow.js:298:40: number
+point-flow.js:298:43: number
+point-flow.js:298:46: number
+point-flow.js:298:50-85: 
+point-flow.js:298:54-58: 
+point-flow.js:298:60-61: number
+point-flow.js:298:64-66: number
+point-flow.js:298:69-70: number
+point-flow.js:298:73-84: number
+point-flow.js:299:3-5: 
+point-flow.js:299:3-88: 
+point-flow.js:299:11-15: 
+point-flow.js:299:11-49: 
+point-flow.js:299:23-37: Point
+point-flow.js:299:27-31: [class: Point]
+point-flow.js:299:33: number
+point-flow.js:299:36: number
+point-flow.js:299:40: number
+point-flow.js:299:43: number
+point-flow.js:299:46-48: number
+point-flow.js:299:52-87: 
+point-flow.js:299:56-60: 
+point-flow.js:299:62-64: number
+point-flow.js:299:67-68: number
+point-flow.js:299:71-72: number
+point-flow.js:299:75-86: number
+point-flow.js:302:1-9: () => void
+point-flow.js:302:1,311:1: () => void
+point-flow.js:302:11-33: string
+point-flow.js:302:38,311:1: () => void
+point-flow.js:303:7-18: number
+point-flow.js:303:22-25: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:303:22-34: number
+point-flow.js:305:3-5: 
+point-flow.js:305:3-41: 
+point-flow.js:305:20-41: 
+point-flow.js:305:24-28: 
+point-flow.js:305:30-32: number
+point-flow.js:305:35-36: number
+point-flow.js:305:39-40: number
+point-flow.js:306:3-5: 
+point-flow.js:306:3-86: 
+point-flow.js:306:11-15: 
+point-flow.js:306:11-47: 
+point-flow.js:306:23-37: Point
+point-flow.js:306:27-31: [class: Point]
+point-flow.js:306:33: number
+point-flow.js:306:36: number
+point-flow.js:306:40: number
+point-flow.js:306:43: number
+point-flow.js:306:46: number
+point-flow.js:306:50-85: 
+point-flow.js:306:54-58: 
+point-flow.js:306:60: number
+point-flow.js:306:63-65: number
+point-flow.js:306:68-70: number
+point-flow.js:306:73-84: number
+point-flow.js:307:3-5: 
+point-flow.js:307:3-88: 
+point-flow.js:307:11-15: 
+point-flow.js:307:11-49: 
+point-flow.js:307:23-37: Point
+point-flow.js:307:27-31: [class: Point]
+point-flow.js:307:33: number
+point-flow.js:307:36: number
+point-flow.js:307:40: number
+point-flow.js:307:43: number
+point-flow.js:307:46-48: number
+point-flow.js:307:52-87: 
+point-flow.js:307:56-60: 
+point-flow.js:307:62-63: number
+point-flow.js:307:66-67: number
+point-flow.js:307:70-72: number
+point-flow.js:307:75-86: number
+point-flow.js:308:3-5: 
+point-flow.js:308:3-86: 
+point-flow.js:308:11-15: 
+point-flow.js:308:11-47: 
+point-flow.js:308:23-37: Point
+point-flow.js:308:27-31: [class: Point]
+point-flow.js:308:33: number
+point-flow.js:308:36: number
+point-flow.js:308:40: number
+point-flow.js:308:43: number
+point-flow.js:308:46: number
+point-flow.js:308:50-85: 
+point-flow.js:308:54-58: 
+point-flow.js:308:60-61: number
+point-flow.js:308:64-66: number
+point-flow.js:308:69-70: number
+point-flow.js:308:73-84: number
+point-flow.js:309:3-5: 
+point-flow.js:309:3-88: 
+point-flow.js:309:11-15: 
+point-flow.js:309:11-49: 
+point-flow.js:309:23-37: Point
+point-flow.js:309:27-31: [class: Point]
+point-flow.js:309:33: number
+point-flow.js:309:36: number
+point-flow.js:309:40: number
+point-flow.js:309:43: number
+point-flow.js:309:46-48: number
+point-flow.js:309:52-87: 
+point-flow.js:309:56-60: 
+point-flow.js:309:62-64: number
+point-flow.js:309:67-68: number
+point-flow.js:309:71-72: number
+point-flow.js:309:75-86: number
+point-flow.js:310:3-5: 
+point-flow.js:310:3-43: 
+point-flow.js:310:20-43: 
+point-flow.js:310:24-28: 
+point-flow.js:310:30-32: number
+point-flow.js:310:35-37: number
+point-flow.js:310:40-42: number
+point-flow.js:313:1-9: () => void
+point-flow.js:313:1,342:1: () => () => void
+point-flow.js:313:11-25: string
+point-flow.js:313:30,342:1: () => () => void
+point-flow.js:314:7-10: 
+point-flow.js:314:14-18: 
+point-flow.js:314:14-50: 
+point-flow.js:314:26-40: Point
+point-flow.js:314:30-34: [class: Point]
+point-flow.js:314:36: number
+point-flow.js:314:39: number
+point-flow.js:314:43: number
+point-flow.js:314:46: number
+point-flow.js:314:49: number
+point-flow.js:315:7-11: number
+point-flow.js:315:15: number
+point-flow.js:317:10,341:3: () => void
+point-flow.js:319:5-7: 
+point-flow.js:319:5-86: 
+point-flow.js:319:13-17: 
+point-flow.js:319:13-59: 
+point-flow.js:319:25-45: Point
+point-flow.js:319:29-33: [class: Point]
+point-flow.js:319:35: number
+point-flow.js:319:38: number
+point-flow.js:319:41-44: number
+point-flow.js:319:42-44: number
+point-flow.js:319:48-49: number
+point-flow.js:319:52-53: number
+point-flow.js:319:56-58: number
+point-flow.js:319:62-85: 
+point-flow.js:319:66-70: 
+point-flow.js:319:72-74: number
+point-flow.js:319:77-79: number
+point-flow.js:319:82-84: number
+point-flow.js:322:14: number
+point-flow.js:322:18: number
+point-flow.js:322:21: number
+point-flow.js:322:21-25: boolean
+point-flow.js:322:25: number
+point-flow.js:322:28-30: number
+point-flow.js:323:7-9: 
+point-flow.js:323:7,326:45: 
+point-flow.js:323:15-18: 
+point-flow.js:323:15,324:31: 
+point-flow.js:323:15,325:71: 
+point-flow.js:324:20: number
+point-flow.js:324:20-24: number
+point-flow.js:324:24: number
+point-flow.js:324:27: number
+point-flow.js:324:30: number
+point-flow.js:325:18-41: Point
+point-flow.js:325:22-26: [class: Point]
+point-flow.js:325:28-30: number
+point-flow.js:325:33-35: number
+point-flow.js:325:38-40: number
+point-flow.js:325:44-51: number
+point-flow.js:325:44-54: number
+point-flow.js:325:44-62: number
+point-flow.js:325:44-70: number
+point-flow.js:325:45-48: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:325:45-51: number
+point-flow.js:325:53-54: number
+point-flow.js:325:59: number
+point-flow.js:325:59-61: number
+point-flow.js:325:61: number
+point-flow.js:325:66-70: number
+point-flow.js:326:11-44: 
+point-flow.js:326:15-19: 
+point-flow.js:326:21-23: number
+point-flow.js:326:21-32: number
+point-flow.js:326:27: number
+point-flow.js:326:27-32: number
+point-flow.js:326:31-32: number
+point-flow.js:326:35: number
+point-flow.js:326:38: number
+point-flow.js:326:41-43: number
+point-flow.js:328:14: number
+point-flow.js:328:18: number
+point-flow.js:328:21: number
+point-flow.js:328:21-25: boolean
+point-flow.js:328:25: number
+point-flow.js:328:28-30: number
+point-flow.js:329:7-9: 
+point-flow.js:329:7,332:45: 
+point-flow.js:329:15-18: 
+point-flow.js:329:15,330:31: 
+point-flow.js:329:15,331:70: 
+point-flow.js:330:20: number
+point-flow.js:330:23: number
+point-flow.js:330:23-27: number
+point-flow.js:330:27: number
+point-flow.js:330:30: number
+point-flow.js:331:18-41: Point
+point-flow.js:331:22-26: [class: Point]
+point-flow.js:331:28-30: number
+point-flow.js:331:33-35: number
+point-flow.js:331:38-40: number
+point-flow.js:331:44-51: number
+point-flow.js:331:44-53: number
+point-flow.js:331:44-61: number
+point-flow.js:331:44-69: number
+point-flow.js:331:45-48: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:331:45-51: number
+point-flow.js:331:53: number
+point-flow.js:331:58: number
+point-flow.js:331:58-60: number
+point-flow.js:331:60: number
+point-flow.js:331:65-69: number
+point-flow.js:332:11-44: 
+point-flow.js:332:15-19: 
+point-flow.js:332:21: number
+point-flow.js:332:24-26: number
+point-flow.js:332:24-35: number
+point-flow.js:332:30: number
+point-flow.js:332:30-35: number
+point-flow.js:332:34-35: number
+point-flow.js:332:38: number
+point-flow.js:332:41-43: number
+point-flow.js:334:14: number
+point-flow.js:334:18: number
+point-flow.js:334:21: number
+point-flow.js:334:21-25: boolean
+point-flow.js:334:25: number
+point-flow.js:334:28-30: number
+point-flow.js:335:7-9: 
+point-flow.js:335:7,338:45: 
+point-flow.js:335:15-18: 
+point-flow.js:335:15,336:31: 
+point-flow.js:335:15,337:61: 
+point-flow.js:336:20: number
+point-flow.js:336:23: number
+point-flow.js:336:26: number
+point-flow.js:336:26-30: number
+point-flow.js:336:30: number
+point-flow.js:337:18-36: Point
+point-flow.js:337:22-26: [class: Point]
+point-flow.js:337:28-30: number
+point-flow.js:337:33-35: number
+point-flow.js:337:39-46: number
+point-flow.js:337:39-48: number
+point-flow.js:337:39-52: number
+point-flow.js:337:39-60: number
+point-flow.js:337:40-43: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:337:40-46: number
+point-flow.js:337:48: number
+point-flow.js:337:52: number
+point-flow.js:337:56-60: number
+point-flow.js:338:11-44: 
+point-flow.js:338:15-19: 
+point-flow.js:338:21: number
+point-flow.js:338:24: number
+point-flow.js:338:27-29: number
+point-flow.js:338:27-38: number
+point-flow.js:338:33: number
+point-flow.js:338:33-38: number
+point-flow.js:338:37-38: number
+point-flow.js:338:41-43: number
+point-flow.js:340:5-29: number
+point-flow.js:340:14: number
+point-flow.js:340:14-24: number
+point-flow.js:340:14-29: number
+point-flow.js:340:18-21: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+point-flow.js:340:18-24: number
+point-flow.js:340:28-29: number
+point-flow.js:347:2,373:1: () => void
+point-flow.js:347:2,373:4: void
+point-flow.js:348:7-8: string
+point-flow.js:349:7-11: HTMLElement
+point-flow.js:349:15-22: Document
+point-flow.js:349:15-48: HTMLElement
+point-flow.js:349:39-47: string
+point-flow.js:350:7-12: HTMLDivElement
+point-flow.js:351:7-20: number
+point-flow.js:353:14-22: () => void
+point-flow.js:354:5-42: HTMLDivElement
+point-flow.js:354:14-21: Document
+point-flow.js:354:14-42: HTMLDivElement
+point-flow.js:354:37-41: string
+point-flow.js:355:5-10: HTMLDivElement
+point-flow.js:355:5-20: DOMTokenList
+point-flow.js:355:5-36: void
+point-flow.js:355:26-35: string
+point-flow.js:356:5-10: HTMLDivElement
+point-flow.js:356:5-25: string
+point-flow.js:356:24-25: string
+point-flow.js:357:5-10: HTMLDivElement
+point-flow.js:357:5,369:21: () => void
+point-flow.js:357:23,369:5: (fn: ) => () => void
+point-flow.js:357:23,369:21: () => void
+point-flow.js:357:33-34: 
+point-flow.js:358:14,368:7: () => void
+point-flow.js:360:9-21: (intervalId?: number) => void
+point-flow.js:360:9-37: void
+point-flow.js:360:23-36: number
+point-flow.js:361:9-11: 
+point-flow.js:361:9-18: 
+point-flow.js:361:9-26: 
+point-flow.js:362:13: 
+point-flow.js:362:17-18: 
+point-flow.js:362:17-20: 
+point-flow.js:365:13-18: [class: Object]
+point-flow.js:365:13-28: Object
+point-flow.js:365:13-37: () => string
+point-flow.js:365:13-45: string
+point-flow.js:365:44: 
+point-flow.js:365:50-68: string
+point-flow.js:366:11-50: number
+point-flow.js:366:28-38: (callback: any, ms?: number, ...args: Array<any>) => number
+point-flow.js:366:28-50: number
+point-flow.js:366:40: 
+point-flow.js:366:43-46: number
+point-flow.js:366:43-49: number
+point-flow.js:366:48-49: number
+point-flow.js:369:8-16: () => void
+point-flow.js:369:8-20: 
+point-flow.js:369:18-19: string
+point-flow.js:371:5-9: HTMLElement
+point-flow.js:371:5-29: Node
+point-flow.js:371:23-28: HTMLDivElement

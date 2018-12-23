@@ -1,0 +1,1624 @@
+color-flow.js:6:1,125:1: [class: Color]
+color-flow.js:7:15: number
+color-flow.js:7:18: number
+color-flow.js:7:21: number
+color-flow.js:7:24: number | void
+color-flow.js:8:5-8: Color
+color-flow.js:8:5-29: number
+color-flow.js:8:14-21: (string: mixed, radix?: number) => number
+color-flow.js:8:14-29: number
+color-flow.js:8:23: number
+color-flow.js:8:23-28: number
+color-flow.js:8:28: number
+color-flow.js:9:5-8: Color
+color-flow.js:9:5-29: number
+color-flow.js:9:14-21: (string: mixed, radix?: number) => number
+color-flow.js:9:14-29: number
+color-flow.js:9:23: number
+color-flow.js:9:23-28: number
+color-flow.js:9:28: number
+color-flow.js:10:5-8: Color
+color-flow.js:10:5-29: number
+color-flow.js:10:14-21: (string: mixed, radix?: number) => number
+color-flow.js:10:14-29: number
+color-flow.js:10:23: number
+color-flow.js:10:23-28: number
+color-flow.js:10:28: number
+color-flow.js:11:5-8: Color
+color-flow.js:11:5-57: number
+color-flow.js:11:14-23: (string: mixed) => number
+color-flow.js:11:14-57: number
+color-flow.js:11:26-29: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+color-flow.js:11:26-44: number
+color-flow.js:11:26-50: number
+color-flow.js:11:26-55: number
+color-flow.js:11:37: number | void
+color-flow.js:11:37-43: number
+color-flow.js:11:41-43: number
+color-flow.js:11:48-50: number
+color-flow.js:11:55: number
+color-flow.js:13:5-8: Color
+color-flow.js:13:5-18: void
+color-flow.js:18:9-11: 
+color-flow.js:18:16-19: Color
+color-flow.js:18:16-21: 
+color-flow.js:18:16-27: number
+color-flow.js:18:16-33: number
+color-flow.js:18:16-48: number
+color-flow.js:18:16-57: 
+color-flow.js:18:16-71: 
+color-flow.js:18:25-27: number
+color-flow.js:18:31-33: number
+color-flow.js:18:37-40: Color
+color-flow.js:18:37-42: 
+color-flow.js:18:37-48: number
+color-flow.js:18:46-48: number
+color-flow.js:18:52-55: Color
+color-flow.js:18:52-57: 
+color-flow.js:18:69-70: number
+color-flow.js:20:9-11: 
+color-flow.js:20:9-18: 
+color-flow.js:20:9-22: boolean
+color-flow.js:20:22: number
+color-flow.js:21:7-57: 
+color-flow.js:21:13-41: Array<>
+color-flow.js:21:13-51: string
+color-flow.js:21:13-57: 
+color-flow.js:21:23: number
+color-flow.js:21:23-36: number
+color-flow.js:21:23-40: number
+color-flow.js:21:27-29: 
+color-flow.js:21:27-36: 
+color-flow.js:21:40: number
+color-flow.js:21:48-50: string
+color-flow.js:21:55-57: 
+color-flow.js:24:12-14: string
+color-flow.js:24:12-20: 
+color-flow.js:24:18-20: 
+color-flow.js:32:11-20: 
+color-flow.js:32:23-32: 
+color-flow.js:33:5-55: 
+color-flow.js:33:18-27: 
+color-flow.js:33:18-55: 
+color-flow.js:33:32-55: Color
+color-flow.js:33:36-40: [class: Color]
+color-flow.js:33:42-44: number
+color-flow.js:33:47-49: number
+color-flow.js:33:52-54: number
+color-flow.js:35:9-16: Color
+color-flow.js:35:20,40:5: Color
+color-flow.js:35:24-28: [class: Color]
+color-flow.js:36:7-35: number
+color-flow.js:36:8-17: 
+color-flow.js:36:8-19: 
+color-flow.js:36:8-25: number
+color-flow.js:36:23-25: number
+color-flow.js:36:30-33: Color
+color-flow.js:36:30-35: 
+color-flow.js:37:7-35: number
+color-flow.js:37:8-17: 
+color-flow.js:37:8-19: 
+color-flow.js:37:8-25: number
+color-flow.js:37:23-25: number
+color-flow.js:37:30-33: Color
+color-flow.js:37:30-35: 
+color-flow.js:38:7-35: number
+color-flow.js:38:8-17: 
+color-flow.js:38:8-19: 
+color-flow.js:38:8-25: number
+color-flow.js:38:23-25: number
+color-flow.js:38:30-33: Color
+color-flow.js:38:30-35: 
+color-flow.js:39:7-10: Color
+color-flow.js:39:7-12: 
+color-flow.js:42:5-12: Color
+color-flow.js:42:5-53: number
+color-flow.js:42:18-21: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+color-flow.js:42:18-53: number
+color-flow.js:42:27-34: Color
+color-flow.js:42:27-36: 
+color-flow.js:42:27-49: 
+color-flow.js:42:40-49: 
+color-flow.js:42:52: number
+color-flow.js:44:5-12: Color
+color-flow.js:44:5-22: void
+color-flow.js:45:12-19: Color
+color-flow.js:55:9: number
+color-flow.js:55:13-16: Color
+color-flow.js:55:13-18: 
+color-flow.js:55:13-24: number
+color-flow.js:55:22-24: number
+color-flow.js:56:9: number
+color-flow.js:56:13-16: Color
+color-flow.js:56:13-18: 
+color-flow.js:56:13-24: number
+color-flow.js:56:22-24: number
+color-flow.js:57:9: number
+color-flow.js:57:13-16: Color
+color-flow.js:57:13-18: 
+color-flow.js:57:13-24: number
+color-flow.js:57:22-24: number
+color-flow.js:59:9-11: number
+color-flow.js:59:15-18: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+color-flow.js:59:15-31: number
+color-flow.js:59:24: number
+color-flow.js:59:27: number
+color-flow.js:59:30: number
+color-flow.js:60:9-11: number
+color-flow.js:60:15-18: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+color-flow.js:60:15-31: number
+color-flow.js:60:24: number
+color-flow.js:60:27: number
+color-flow.js:60:30: number
+color-flow.js:62:9: number
+color-flow.js:62:12: number
+color-flow.js:62:15: number
+color-flow.js:62:19-33: number
+color-flow.js:62:20-22: number
+color-flow.js:62:20-28: number
+color-flow.js:62:26-28: number
+color-flow.js:62:33: number
+color-flow.js:64:9-11: number
+color-flow.js:64:17-19: number
+color-flow.js:65:7-15: number
+color-flow.js:65:11-15: number
+color-flow.js:65:15: number
+color-flow.js:67:11: number
+color-flow.js:67:15-17: number
+color-flow.js:67:15-23: number
+color-flow.js:67:21-23: number
+color-flow.js:68:7-57: number
+color-flow.js:68:11: number
+color-flow.js:68:11-17: boolean
+color-flow.js:68:11-57: number
+color-flow.js:68:15-17: number
+color-flow.js:68:21: number
+color-flow.js:68:21-39: number
+color-flow.js:68:26: number
+color-flow.js:68:26-32: number
+color-flow.js:68:26-38: number
+color-flow.js:68:30-32: number
+color-flow.js:68:36-38: number
+color-flow.js:68:43: number
+color-flow.js:68:43-57: number
+color-flow.js:68:48-50: number
+color-flow.js:68:48-56: number
+color-flow.js:68:54-56: number
+color-flow.js:69:15-17: number
+color-flow.js:70:14: number
+color-flow.js:70:17-49: number
+color-flow.js:70:21-31: number
+color-flow.js:70:21-49: number
+color-flow.js:70:22: number
+color-flow.js:70:22-26: number
+color-flow.js:70:26: number
+color-flow.js:70:31: number
+color-flow.js:70:36: number
+color-flow.js:70:36-40: boolean
+color-flow.js:70:36-48: number
+color-flow.js:70:40: number
+color-flow.js:70:44: number
+color-flow.js:70:48: number
+color-flow.js:71:14: number
+color-flow.js:71:17-35: number
+color-flow.js:71:21-31: number
+color-flow.js:71:21-35: number
+color-flow.js:71:22: number
+color-flow.js:71:22-26: number
+color-flow.js:71:26: number
+color-flow.js:71:31: number
+color-flow.js:71:35: number
+color-flow.js:72:14: number
+color-flow.js:72:17-35: number
+color-flow.js:72:21-31: number
+color-flow.js:72:21-35: number
+color-flow.js:72:22: number
+color-flow.js:72:22-26: number
+color-flow.js:72:26: number
+color-flow.js:72:31: number
+color-flow.js:72:35: number
+color-flow.js:75:7-12: number | void
+color-flow.js:75:12: number
+color-flow.js:78:5-8: Color
+color-flow.js:78:5-14: number
+color-flow.js:78:14: number
+color-flow.js:79:5-8: Color
+color-flow.js:79:5-14: number
+color-flow.js:79:14: number
+color-flow.js:80:5-8: Color
+color-flow.js:80:5-14: number
+color-flow.js:80:14: number
+color-flow.js:90:9: number
+color-flow.js:90:12: number
+color-flow.js:90:15: number
+color-flow.js:91:9: 
+color-flow.js:91:13-16: Color
+color-flow.js:91:13-18: 
+color-flow.js:92:9: 
+color-flow.js:92:13-16: Color
+color-flow.js:92:13-18: 
+color-flow.js:93:9: 
+color-flow.js:93:13-16: Color
+color-flow.js:93:13-18: 
+color-flow.js:95:9: 
+color-flow.js:95:15: number
+color-flow.js:96:7-19: 
+color-flow.js:96:11-19: 
+color-flow.js:96:15-19: 
+color-flow.js:96:19: 
+color-flow.js:98:11: number
+color-flow.js:98:15: 
+color-flow.js:98:15-21: boolean
+color-flow.js:98:15-51: number
+color-flow.js:98:19-21: number
+color-flow.js:98:25: 
+color-flow.js:98:25-35: number
+color-flow.js:98:30: number
+color-flow.js:98:30-34: 
+color-flow.js:98:34: 
+color-flow.js:98:39: 
+color-flow.js:98:39-43: 
+color-flow.js:98:39-51: number
+color-flow.js:98:43: 
+color-flow.js:98:47: 
+color-flow.js:98:47-51: number
+color-flow.js:98:51: 
+color-flow.js:99:11: number
+color-flow.js:99:15: number
+color-flow.js:99:15-19: number
+color-flow.js:99:15-23: number
+color-flow.js:99:19: 
+color-flow.js:99:23: number
+color-flow.js:100:7-40: number
+color-flow.js:100:11-14: Color
+color-flow.js:100:11-40: number
+color-flow.js:100:25: number
+color-flow.js:100:28: number
+color-flow.js:100:31: 
+color-flow.js:100:31-39: 
+color-flow.js:100:35: number
+color-flow.js:100:35-39: number
+color-flow.js:100:39: number
+color-flow.js:101:7-32: number
+color-flow.js:101:11-14: Color
+color-flow.js:101:11-32: number
+color-flow.js:101:25: number
+color-flow.js:101:28: number
+color-flow.js:101:31: 
+color-flow.js:102:7-40: number
+color-flow.js:102:11-14: Color
+color-flow.js:102:11-40: number
+color-flow.js:102:25: number
+color-flow.js:102:28: number
+color-flow.js:102:31: 
+color-flow.js:102:31-39: number
+color-flow.js:102:35: number
+color-flow.js:102:35-39: number
+color-flow.js:102:39: number
+color-flow.js:105:5-8: Color
+color-flow.js:105:5-30: number
+color-flow.js:105:14-21: (string: mixed, radix?: number) => number
+color-flow.js:105:14-30: number
+color-flow.js:105:23: number
+color-flow.js:105:23-29: number
+color-flow.js:105:27-29: number
+color-flow.js:106:5-8: Color
+color-flow.js:106:5-30: number
+color-flow.js:106:14-21: (string: mixed, radix?: number) => number
+color-flow.js:106:14-30: number
+color-flow.js:106:23: number
+color-flow.js:106:23-29: number
+color-flow.js:106:27-29: number
+color-flow.js:107:5-8: Color
+color-flow.js:107:5-30: number
+color-flow.js:107:14-21: (string: mixed, radix?: number) => number
+color-flow.js:107:14-30: number
+color-flow.js:107:23: number
+color-flow.js:107:23-29: number
+color-flow.js:107:27-29: number
+color-flow.js:116:12: number
+color-flow.js:116:15: number
+color-flow.js:116:18: number
+color-flow.js:117:9: number
+color-flow.js:117:9-13: boolean
+color-flow.js:117:13: number
+color-flow.js:117:16-21: number
+color-flow.js:117:21: number
+color-flow.js:118:9: number
+color-flow.js:118:9-13: boolean
+color-flow.js:118:13: number
+color-flow.js:118:16-21: number
+color-flow.js:118:21: number
+color-flow.js:119:9: number
+color-flow.js:119:9-17: boolean
+color-flow.js:119:13: number
+color-flow.js:119:13-17: number
+color-flow.js:119:17: number
+color-flow.js:119:27: number
+color-flow.js:119:27-45: number
+color-flow.js:119:31-41: number
+color-flow.js:119:31-45: number
+color-flow.js:119:32: number
+color-flow.js:119:32-36: number
+color-flow.js:119:36: number
+color-flow.js:119:41: number
+color-flow.js:119:45: number
+color-flow.js:120:9: number
+color-flow.js:120:9-17: boolean
+color-flow.js:120:13: number
+color-flow.js:120:13-17: number
+color-flow.js:120:17: number
+color-flow.js:120:27: number
+color-flow.js:121:9: number
+color-flow.js:121:9-17: boolean
+color-flow.js:121:13: number
+color-flow.js:121:13-17: number
+color-flow.js:121:17: number
+color-flow.js:121:27: number
+color-flow.js:121:27-55: number
+color-flow.js:121:31-51: number
+color-flow.js:121:31-55: number
+color-flow.js:121:32: number
+color-flow.js:121:32-36: number
+color-flow.js:121:36: number
+color-flow.js:121:42: number
+color-flow.js:121:42-46: number
+color-flow.js:121:42-50: number
+color-flow.js:121:46: number
+color-flow.js:121:50: number
+color-flow.js:121:55: number
+color-flow.js:122:12: number
+color-flow.js:133:5-7: 
+color-flow.js:133:11-55: 
+color-flow.js:133:15-20: 
+color-flow.js:133:22-29: Document
+color-flow.js:133:22-54: HTMLElement
+color-flow.js:133:46-53: string
+color-flow.js:134:5-9: 
+color-flow.js:134:13-18: 
+color-flow.js:134:13-24: 
+color-flow.js:135:5-8: 
+color-flow.js:135:12-17: 
+color-flow.js:135:12-22: 
+color-flow.js:136:5-9: 
+color-flow.js:136:13-18: 
+color-flow.js:136:13-24: 
+color-flow.js:137:5-9: 
+color-flow.js:137:13-18: 
+color-flow.js:137:13-24: 
+color-flow.js:139:10-18: () => void
+color-flow.js:141:10-15: (origin: ) => 
+color-flow.js:141:17-22: 
+color-flow.js:142:7-16: number
+color-flow.js:142:20-21: number
+color-flow.js:145:7-12: 
+color-flow.js:145:16-31: 
+color-flow.js:145:20-23: 
+color-flow.js:145:25-30: 
+color-flow.js:146:7-11: Array<>
+color-flow.js:146:15-16: Array<>
+color-flow.js:146:19: number
+color-flow.js:149:7-12: 
+color-flow.js:149:16-26: 
+color-flow.js:149:20-24: 
+color-flow.js:151:8-12: number
+color-flow.js:151:12: number
+color-flow.js:151:15: number
+color-flow.js:151:15-28: boolean
+color-flow.js:151:19-28: number
+color-flow.js:151:31-33: number
+color-flow.js:158:9-18: 
+color-flow.js:158:22-27: 
+color-flow.js:158:22-78: 
+color-flow.js:158:39: number
+color-flow.js:158:42: number
+color-flow.js:158:42-55: number
+color-flow.js:158:46-55: number
+color-flow.js:158:58-77: number
+color-flow.js:158:59: number
+color-flow.js:158:59-63: number
+color-flow.js:158:63: number
+color-flow.js:158:68-77: number
+color-flow.js:160:5-9: Array<>
+color-flow.js:160:5,165:7: number
+color-flow.js:160:16,165:6: 
+color-flow.js:160:20-23: 
+color-flow.js:160:25,165:5: [, , , ]
+color-flow.js:161:7-16: 
+color-flow.js:162:7-16: 
+color-flow.js:162:7-49: 
+color-flow.js:162:28: number
+color-flow.js:162:31: number
+color-flow.js:162:34-35: number
+color-flow.js:162:34-48: number
+color-flow.js:162:35: number
+color-flow.js:162:39-48: number
+color-flow.js:163:7-16: 
+color-flow.js:163:7-49: 
+color-flow.js:163:28: number
+color-flow.js:163:31: number
+color-flow.js:163:34-35: number
+color-flow.js:163:34-48: number
+color-flow.js:163:35: number
+color-flow.js:163:39-48: number
+color-flow.js:164:7-16: 
+color-flow.js:164:7-35: 
+color-flow.js:164:28: number
+color-flow.js:164:31: number
+color-flow.js:164:34: number
+color-flow.js:167:5-9: Array<>
+color-flow.js:167:5,172:7: number
+color-flow.js:167:16,172:6: 
+color-flow.js:167:20-23: 
+color-flow.js:167:25,172:5: [, , , ]
+color-flow.js:168:7-16: 
+color-flow.js:169:7-16: 
+color-flow.js:169:7-35: 
+color-flow.js:169:28: number
+color-flow.js:169:31: number
+color-flow.js:169:34: number
+color-flow.js:170:7-16: 
+color-flow.js:170:7-48: 
+color-flow.js:170:28: number
+color-flow.js:170:31: number
+color-flow.js:170:31-44: number
+color-flow.js:170:35-44: number
+color-flow.js:170:47: number
+color-flow.js:171:7-16: 
+color-flow.js:171:7-48: 
+color-flow.js:171:28: number
+color-flow.js:171:31: number
+color-flow.js:171:31-44: number
+color-flow.js:171:35-44: number
+color-flow.js:171:47: number
+color-flow.js:174:5-10: 
+color-flow.js:174:5-27: 
+color-flow.js:174:17-26: 
+color-flow.js:175:5-10: 
+color-flow.js:175:5-59: 
+color-flow.js:175:17-26: 
+color-flow.js:175:17-58: 
+color-flow.js:175:38: number
+color-flow.js:175:41: number
+color-flow.js:175:41-54: number
+color-flow.js:175:45-54: number
+color-flow.js:175:57: number
+color-flow.js:178:3-8: 
+color-flow.js:178:3-40: 
+color-flow.js:178:15-20: 
+color-flow.js:178:15-39: 
+color-flow.js:178:32: number
+color-flow.js:178:35: number
+color-flow.js:178:38: number
+color-flow.js:181:8-12: number
+color-flow.js:181:12: number
+color-flow.js:181:15: number
+color-flow.js:181:15-30: boolean
+color-flow.js:181:19-23: Array<>
+color-flow.js:181:19-30: number
+color-flow.js:181:33-35: number
+color-flow.js:182:5-10: 
+color-flow.js:182:5-25: 
+color-flow.js:182:17-21: Array<>
+color-flow.js:182:17-24: 
+color-flow.js:182:23: number
+color-flow.js:184:3-8: 
+color-flow.js:184:3-21: 
+color-flow.js:184:15-20: 
+color-flow.js:185:3-8: 
+color-flow.js:185:3-50: 
+color-flow.js:185:15-20: 
+color-flow.js:185:15-30: 
+color-flow.js:185:15-49: 
+color-flow.js:185:42: number
+color-flow.js:185:45: number
+color-flow.js:185:48: number
+color-flow.js:187:10-15: 
+color-flow.js:190:10-13: (origin: ) => 
+color-flow.js:190:15-20: 
+color-flow.js:191:7-10: 
+color-flow.js:191:14-24: 
+color-flow.js:191:18-22: 
+color-flow.js:193:3-6: 
+color-flow.js:193:3-74: 
+color-flow.js:193:16-19: 
+color-flow.js:193:16-25: 
+color-flow.js:193:16-74: 
+color-flow.js:193:34-38: 
+color-flow.js:193:34-67: 
+color-flow.js:193:34-73: 
+color-flow.js:193:46-50: 
+color-flow.js:193:46-57: 
+color-flow.js:193:60: number
+color-flow.js:193:63: number
+color-flow.js:193:66: number
+color-flow.js:194:3-6: 
+color-flow.js:194:3-80: 
+color-flow.js:194:16-25: 
+color-flow.js:194:16-80: 
+color-flow.js:194:34-38: 
+color-flow.js:194:34-73: 
+color-flow.js:194:34-79: 
+color-flow.js:194:46-63: 
+color-flow.js:194:50-54: 
+color-flow.js:194:56: number
+color-flow.js:194:59: number
+color-flow.js:194:62: number
+color-flow.js:194:66: number
+color-flow.js:194:69: number
+color-flow.js:194:72: number
+color-flow.js:195:3-6: 
+color-flow.js:195:3-81: 
+color-flow.js:195:16-25: 
+color-flow.js:195:16-81: 
+color-flow.js:195:34-38: 
+color-flow.js:195:34-74: 
+color-flow.js:195:34-80: 
+color-flow.js:195:46-64: 
+color-flow.js:195:50-54: 
+color-flow.js:195:56: number
+color-flow.js:195:59: number
+color-flow.js:195:62-63: number
+color-flow.js:195:63: number
+color-flow.js:195:67: number
+color-flow.js:195:70: number
+color-flow.js:195:73: number
+color-flow.js:197:3-6: 
+color-flow.js:197:3,202:5: 
+color-flow.js:197:13,202:4: 
+color-flow.js:197:17-20: 
+color-flow.js:197:22,202:3: [, , , ]
+color-flow.js:198:5-22: 
+color-flow.js:198:9-13: 
+color-flow.js:198:15: number
+color-flow.js:198:18: number
+color-flow.js:198:21: number
+color-flow.js:199:5-22: 
+color-flow.js:199:9-13: 
+color-flow.js:199:15: number
+color-flow.js:199:18: number
+color-flow.js:199:21: number
+color-flow.js:200:5-22: 
+color-flow.js:200:9-13: 
+color-flow.js:200:15: number
+color-flow.js:200:18: number
+color-flow.js:200:21: number
+color-flow.js:201:5-22: 
+color-flow.js:201:9-13: 
+color-flow.js:201:15: number
+color-flow.js:201:18: number
+color-flow.js:201:21: number
+color-flow.js:204:3-6: 
+color-flow.js:204:3,209:5: 
+color-flow.js:204:13,209:4: 
+color-flow.js:204:17-20: 
+color-flow.js:204:22,209:3: [, , , ]
+color-flow.js:205:5-22: 
+color-flow.js:205:9-13: 
+color-flow.js:205:15: number
+color-flow.js:205:18: number
+color-flow.js:205:21: number
+color-flow.js:206:5-22: 
+color-flow.js:206:9-13: 
+color-flow.js:206:15: number
+color-flow.js:206:18: number
+color-flow.js:206:21: number
+color-flow.js:207:5-22: 
+color-flow.js:207:9-13: 
+color-flow.js:207:15: number
+color-flow.js:207:18: number
+color-flow.js:207:21: number
+color-flow.js:208:5-22: 
+color-flow.js:208:9-13: 
+color-flow.js:208:15: number
+color-flow.js:208:18: number
+color-flow.js:208:21: number
+color-flow.js:211:10-13: 
+color-flow.js:211:10-38: 
+color-flow.js:211:10-65: 
+color-flow.js:211:10-105: 
+color-flow.js:211:21-25: 
+color-flow.js:211:21-32: 
+color-flow.js:211:35: number
+color-flow.js:211:35-37: number
+color-flow.js:211:37: number
+color-flow.js:211:50-53: number
+color-flow.js:211:51-53: number
+color-flow.js:211:56-59: number
+color-flow.js:211:62-64: number
+color-flow.js:211:77-82: 
+color-flow.js:211:77-84: 
+color-flow.js:211:87-92: 
+color-flow.js:211:87-94: 
+color-flow.js:211:97-102: 
+color-flow.js:211:97-104: 
+color-flow.js:214:10-20: () => Color
+color-flow.js:215:10,218:34: Color
+color-flow.js:215:14-18: [class: Color]
+color-flow.js:216:5-12: (string: mixed, radix?: number) => number
+color-flow.js:216:5-33: number
+color-flow.js:216:14-17: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+color-flow.js:216:14-26: number
+color-flow.js:216:14-32: number
+color-flow.js:216:30-32: number
+color-flow.js:217:5-12: (string: mixed, radix?: number) => number
+color-flow.js:217:5-33: number
+color-flow.js:217:14-17: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+color-flow.js:217:14-26: number
+color-flow.js:217:14-32: number
+color-flow.js:217:30-32: number
+color-flow.js:218:5-12: (string: mixed, radix?: number) => number
+color-flow.js:218:5-33: number
+color-flow.js:218:14-17: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+color-flow.js:218:14-26: number
+color-flow.js:218:14-32: number
+color-flow.js:218:30-32: number
+color-flow.js:221:1-9: () => void
+color-flow.js:221:1,249:1: () => void
+color-flow.js:221:11-26: string
+color-flow.js:221:31,249:1: () => void
+color-flow.js:222:3-5: 
+color-flow.js:222:3-51: 
+color-flow.js:222:11-15: 
+color-flow.js:222:11-50: 
+color-flow.js:222:23-40: 
+color-flow.js:222:27-31: 
+color-flow.js:222:33: number
+color-flow.js:222:36: number
+color-flow.js:222:39: number
+color-flow.js:222:43: number
+color-flow.js:222:46: number
+color-flow.js:222:49: number
+color-flow.js:223:3-5: 
+color-flow.js:223:3-51: 
+color-flow.js:223:11-15: 
+color-flow.js:223:11-50: 
+color-flow.js:223:23-40: 
+color-flow.js:223:27-31: 
+color-flow.js:223:33: number
+color-flow.js:223:36: number
+color-flow.js:223:39: number
+color-flow.js:223:43: number
+color-flow.js:223:46: number
+color-flow.js:223:49: number
+color-flow.js:224:3-5: 
+color-flow.js:224:3-52: 
+color-flow.js:224:11-15: 
+color-flow.js:224:11-51: 
+color-flow.js:224:23-41: 
+color-flow.js:224:27-31: 
+color-flow.js:224:33-34: number
+color-flow.js:224:34: number
+color-flow.js:224:37: number
+color-flow.js:224:40: number
+color-flow.js:224:44: number
+color-flow.js:224:47: number
+color-flow.js:224:50: number
+color-flow.js:226:3-5: 
+color-flow.js:226:3-38: 
+color-flow.js:226:11-16: (origin: ) => 
+color-flow.js:226:11-37: 
+color-flow.js:226:18-36: 
+color-flow.js:226:22-26: 
+color-flow.js:226:28-29: number
+color-flow.js:226:29: number
+color-flow.js:226:32: number
+color-flow.js:226:35: number
+color-flow.js:227:3-5: 
+color-flow.js:227:3-83: 
+color-flow.js:227:11-16: (origin: ) => 
+color-flow.js:227:11-36: 
+color-flow.js:227:11-82: 
+color-flow.js:227:18-35: 
+color-flow.js:227:22-26: 
+color-flow.js:227:28: number
+color-flow.js:227:31: number
+color-flow.js:227:34: number
+color-flow.js:227:46-67: 
+color-flow.js:227:50-54: 
+color-flow.js:227:56-58: number
+color-flow.js:227:61-63: number
+color-flow.js:227:66: number
+color-flow.js:227:70-77: number
+color-flow.js:227:70-81: number
+color-flow.js:227:71-74: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+color-flow.js:227:71-77: number
+color-flow.js:227:81: number
+color-flow.js:229:3-5: 
+color-flow.js:229:3-51: 
+color-flow.js:229:11-15: 
+color-flow.js:229:11-50: 
+color-flow.js:229:23-40: 
+color-flow.js:229:27-31: 
+color-flow.js:229:33: number
+color-flow.js:229:36: number
+color-flow.js:229:39: number
+color-flow.js:229:43: number
+color-flow.js:229:46: number
+color-flow.js:229:49: number
+color-flow.js:230:3-5: 
+color-flow.js:230:3-51: 
+color-flow.js:230:11-15: 
+color-flow.js:230:11-50: 
+color-flow.js:230:23-40: 
+color-flow.js:230:27-31: 
+color-flow.js:230:33: number
+color-flow.js:230:36: number
+color-flow.js:230:39: number
+color-flow.js:230:43: number
+color-flow.js:230:46: number
+color-flow.js:230:49: number
+color-flow.js:232:3-5: 
+color-flow.js:232:3-83: 
+color-flow.js:232:11-16: (origin: ) => 
+color-flow.js:232:11-36: 
+color-flow.js:232:11-82: 
+color-flow.js:232:18-35: 
+color-flow.js:232:22-26: 
+color-flow.js:232:28: number
+color-flow.js:232:31: number
+color-flow.js:232:34: number
+color-flow.js:232:46-67: 
+color-flow.js:232:50-54: 
+color-flow.js:232:56-58: number
+color-flow.js:232:61-63: number
+color-flow.js:232:66: number
+color-flow.js:232:70-77: number
+color-flow.js:232:70-81: number
+color-flow.js:232:71-74: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+color-flow.js:232:71-77: number
+color-flow.js:232:81: number
+color-flow.js:234:3-5: 
+color-flow.js:234:3,236:27: 
+color-flow.js:234:11-15: 
+color-flow.js:234:11-43: 
+color-flow.js:234:11,235:35: 
+color-flow.js:234:25-42: 
+color-flow.js:234:29-33: 
+color-flow.js:234:35: number
+color-flow.js:234:38: number
+color-flow.js:234:41: number
+color-flow.js:235:12-29: 
+color-flow.js:235:16-20: 
+color-flow.js:235:22: number
+color-flow.js:235:25: number
+color-flow.js:235:28: number
+color-flow.js:235:32-34: number
+color-flow.js:236:5-26: Color
+color-flow.js:236:9-13: [class: Color]
+color-flow.js:236:15-17: number
+color-flow.js:236:20-22: number
+color-flow.js:236:25: number
+color-flow.js:237:3-5: 
+color-flow.js:237:3,239:27: 
+color-flow.js:237:11-15: 
+color-flow.js:237:11-43: 
+color-flow.js:237:11,238:35: 
+color-flow.js:237:25-42: 
+color-flow.js:237:29-33: 
+color-flow.js:237:35: number
+color-flow.js:237:38: number
+color-flow.js:237:41: number
+color-flow.js:238:12-29: 
+color-flow.js:238:16-20: 
+color-flow.js:238:22: number
+color-flow.js:238:25: number
+color-flow.js:238:28: number
+color-flow.js:238:32-34: number
+color-flow.js:239:5-26: Color
+color-flow.js:239:9-13: [class: Color]
+color-flow.js:239:15-17: number
+color-flow.js:239:20: number
+color-flow.js:239:23-25: number
+color-flow.js:240:3-5: 
+color-flow.js:240:3,242:27: 
+color-flow.js:240:11-15: 
+color-flow.js:240:11-43: 
+color-flow.js:240:11,241:35: 
+color-flow.js:240:25-42: 
+color-flow.js:240:29-33: 
+color-flow.js:240:35: number
+color-flow.js:240:38: number
+color-flow.js:240:41: number
+color-flow.js:241:12-29: 
+color-flow.js:241:16-20: 
+color-flow.js:241:22: number
+color-flow.js:241:25: number
+color-flow.js:241:28: number
+color-flow.js:241:32-34: number
+color-flow.js:242:5-26: Color
+color-flow.js:242:9-13: [class: Color]
+color-flow.js:242:15: number
+color-flow.js:242:18-20: number
+color-flow.js:242:23-25: number
+color-flow.js:243:3-5: 
+color-flow.js:243:3,245:27: 
+color-flow.js:243:11-15: 
+color-flow.js:243:11-43: 
+color-flow.js:243:11,244:35: 
+color-flow.js:243:25-42: 
+color-flow.js:243:29-33: 
+color-flow.js:243:35: number
+color-flow.js:243:38: number
+color-flow.js:243:41: number
+color-flow.js:244:12-29: 
+color-flow.js:244:16-20: 
+color-flow.js:244:22: number
+color-flow.js:244:25: number
+color-flow.js:244:28: number
+color-flow.js:244:32-34: number
+color-flow.js:245:5-26: Color
+color-flow.js:245:9-13: [class: Color]
+color-flow.js:245:15-16: number
+color-flow.js:245:19-21: number
+color-flow.js:245:24-25: number
+color-flow.js:247:3-5: 
+color-flow.js:247:3-76: 
+color-flow.js:247:11-15: 
+color-flow.js:247:11-52: 
+color-flow.js:247:23-40: 
+color-flow.js:247:27-31: 
+color-flow.js:247:33: number
+color-flow.js:247:36: number
+color-flow.js:247:39: number
+color-flow.js:247:43: number
+color-flow.js:247:46: number
+color-flow.js:247:49-51: number
+color-flow.js:247:55-75: Color
+color-flow.js:247:59-63: [class: Color]
+color-flow.js:247:65-66: number
+color-flow.js:247:69-70: number
+color-flow.js:247:73-74: number
+color-flow.js:248:3-5: 
+color-flow.js:248:3-61: 
+color-flow.js:248:11-14: (origin: ) => 
+color-flow.js:248:11-36: 
+color-flow.js:248:16-35: 
+color-flow.js:248:20-24: 
+color-flow.js:248:26: number
+color-flow.js:248:29: number
+color-flow.js:248:32-34: number
+color-flow.js:248:39-60: Color
+color-flow.js:248:43-47: [class: Color]
+color-flow.js:248:49: number
+color-flow.js:248:52-54: number
+color-flow.js:248:57-59: number
+color-flow.js:251:1-9: () => void
+color-flow.js:251:1,261:1: () => void
+color-flow.js:251:11-23: string
+color-flow.js:251:28,261:1: () => void
+color-flow.js:252:7-10: 
+color-flow.js:252:14-18: 
+color-flow.js:252:14-50: 
+color-flow.js:252:26-40: 
+color-flow.js:252:30-34: 
+color-flow.js:252:36: number
+color-flow.js:252:39: number
+color-flow.js:252:43: number
+color-flow.js:252:46: number
+color-flow.js:252:49: number
+color-flow.js:254:12: number
+color-flow.js:254:16: number
+color-flow.js:254:19: number
+color-flow.js:254:19-24: boolean
+color-flow.js:254:23-24: number
+color-flow.js:254:27-29: number
+color-flow.js:255:5-7: 
+color-flow.js:255:5,259:25: 
+color-flow.js:255:13-16: 
+color-flow.js:255:13,256:58: 
+color-flow.js:255:13,257:27: 
+color-flow.js:255:13,258:52: 
+color-flow.js:256:14-32: 
+color-flow.js:256:18-22: 
+color-flow.js:256:24-26: number
+color-flow.js:256:29-31: number
+color-flow.js:256:35-36: number
+color-flow.js:256:35-42: number
+color-flow.js:256:40: number
+color-flow.js:256:40-42: number
+color-flow.js:256:42: number
+color-flow.js:256:45-46: number
+color-flow.js:256:45-52: number
+color-flow.js:256:50: number
+color-flow.js:256:50-52: number
+color-flow.js:256:52: number
+color-flow.js:256:55: number
+color-flow.js:256:55-57: number
+color-flow.js:256:57: number
+color-flow.js:257:18: number
+color-flow.js:257:21: number
+color-flow.js:257:24: number
+color-flow.js:257:24-26: number
+color-flow.js:257:26: number
+color-flow.js:258:16-34: 
+color-flow.js:258:20-24: 
+color-flow.js:258:26-28: number
+color-flow.js:258:31-33: number
+color-flow.js:258:37-44: number
+color-flow.js:258:37-47: number
+color-flow.js:258:37-51: number
+color-flow.js:258:38-41: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+color-flow.js:258:38-44: number
+color-flow.js:258:46-47: number
+color-flow.js:258:51: number
+color-flow.js:259:12-22: () => Color
+color-flow.js:259:12-24: Color
+color-flow.js:263:1-9: () => void
+color-flow.js:263:1,271:1: () => void
+color-flow.js:263:11-24: string
+color-flow.js:263:29,271:1: () => void
+color-flow.js:264:7: 
+color-flow.js:264:11-15: 
+color-flow.js:264:11,268:10: 
+color-flow.js:264:11,268:33: 
+color-flow.js:264:25,268:4: 
+color-flow.js:264:29-32: 
+color-flow.js:264:34,268:3: [, , ]
+color-flow.js:265:5-9: 
+color-flow.js:265:5-18: 
+color-flow.js:265:11: number
+color-flow.js:265:14: number
+color-flow.js:265:17: number
+color-flow.js:266:5-9: 
+color-flow.js:266:5-18: 
+color-flow.js:266:11: number
+color-flow.js:266:14: number
+color-flow.js:266:17: number
+color-flow.js:267:5-9: 
+color-flow.js:267:5-18: 
+color-flow.js:267:11: number
+color-flow.js:267:14: number
+color-flow.js:267:17: number
+color-flow.js:268:7-9: number
+color-flow.js:268:18-22: 
+color-flow.js:268:18-29: 
+color-flow.js:268:32: number
+color-flow.js:270:3-5: 
+color-flow.js:270:3-36: 
+color-flow.js:270:11: 
+color-flow.js:270:14-35: Color
+color-flow.js:270:18-22: [class: Color]
+color-flow.js:270:24-25: number
+color-flow.js:270:28-30: number
+color-flow.js:270:33-34: number
+color-flow.js:273:1-9: () => void
+color-flow.js:273:1,280:1: () => void
+color-flow.js:273:11-25: string
+color-flow.js:273:30,280:1: () => void
+color-flow.js:274:3-5: 
+color-flow.js:274:3-48: 
+color-flow.js:274:11-15: 
+color-flow.js:274:11-47: 
+color-flow.js:274:26-43: 
+color-flow.js:274:30-34: 
+color-flow.js:274:36: number
+color-flow.js:274:39: number
+color-flow.js:274:42: number
+color-flow.js:274:46: number
+color-flow.js:275:3-5: 
+color-flow.js:275:3-74: 
+color-flow.js:275:11-15: 
+color-flow.js:275:11-58: 
+color-flow.js:275:26-45: 
+color-flow.js:275:30-34: 
+color-flow.js:275:36-37: number
+color-flow.js:275:40-41: number
+color-flow.js:275:44: number
+color-flow.js:275:48-50: number
+color-flow.js:275:53-54: number
+color-flow.js:275:57: number
+color-flow.js:275:61-71: () => Color
+color-flow.js:275:61-73: Color
+color-flow.js:276:3-5: 
+color-flow.js:276:3-74: 
+color-flow.js:276:11-15: 
+color-flow.js:276:11-58: 
+color-flow.js:276:26-43: 
+color-flow.js:276:30-34: 
+color-flow.js:276:36: number
+color-flow.js:276:39: number
+color-flow.js:276:42: number
+color-flow.js:276:46-49: number
+color-flow.js:276:52-53: number
+color-flow.js:276:56-57: number
+color-flow.js:276:61-71: () => Color
+color-flow.js:276:61-73: Color
+color-flow.js:277:3-5: 
+color-flow.js:277:3-74: 
+color-flow.js:277:11-15: 
+color-flow.js:277:11-58: 
+color-flow.js:277:26-45: 
+color-flow.js:277:30-34: 
+color-flow.js:277:36-38: number
+color-flow.js:277:41: number
+color-flow.js:277:44: number
+color-flow.js:277:48-50: number
+color-flow.js:277:53-54: number
+color-flow.js:277:57: number
+color-flow.js:277:61-71: () => Color
+color-flow.js:277:61-73: Color
+color-flow.js:278:3-5: 
+color-flow.js:278:3-73: 
+color-flow.js:278:11-15: 
+color-flow.js:278:11-57: 
+color-flow.js:278:26-44: 
+color-flow.js:278:30-34: 
+color-flow.js:278:36-37: number
+color-flow.js:278:40: number
+color-flow.js:278:43: number
+color-flow.js:278:47-49: number
+color-flow.js:278:52-53: number
+color-flow.js:278:56: number
+color-flow.js:278:60-70: () => Color
+color-flow.js:278:60-72: Color
+color-flow.js:279:3-5: 
+color-flow.js:279:3-70: 
+color-flow.js:279:11-15: 
+color-flow.js:279:11-54: 
+color-flow.js:279:26-43: 
+color-flow.js:279:30-34: 
+color-flow.js:279:36: number
+color-flow.js:279:39: number
+color-flow.js:279:42: number
+color-flow.js:279:46: number
+color-flow.js:279:49-50: number
+color-flow.js:279:53: number
+color-flow.js:279:57-67: () => Color
+color-flow.js:279:57-69: Color
+color-flow.js:282:1-9: () => void
+color-flow.js:282:1,284:1: () => void
+color-flow.js:282:11-21: string
+color-flow.js:282:26,284:1: () => void
+color-flow.js:283:3-5: 
+color-flow.js:283:3-91: 
+color-flow.js:283:11-15: 
+color-flow.js:283:11-90: 
+color-flow.js:283:25-28: 
+color-flow.js:283:25-56: 
+color-flow.js:283:25-89: 
+color-flow.js:283:35-39: 
+color-flow.js:283:35-46: 
+color-flow.js:283:49: number
+color-flow.js:283:52: number
+color-flow.js:283:55: number
+color-flow.js:283:66-70: 
+color-flow.js:283:66-77: 
+color-flow.js:283:80-83: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+color-flow.js:283:80-86: number
+color-flow.js:283:80-88: number
+color-flow.js:283:88: number
+color-flow.js:286:1-9: () => void
+color-flow.js:286:1,291:1: () => void
+color-flow.js:286:11-21: string
+color-flow.js:286:26,291:1: () => void
+color-flow.js:287:3-5: 
+color-flow.js:287:3-72: 
+color-flow.js:287:11-15: 
+color-flow.js:287:11-47: 
+color-flow.js:287:23-37: 
+color-flow.js:287:27-31: 
+color-flow.js:287:33: number
+color-flow.js:287:36: number
+color-flow.js:287:40: number
+color-flow.js:287:43: number
+color-flow.js:287:46: number
+color-flow.js:287:50-71: Color
+color-flow.js:287:54-58: [class: Color]
+color-flow.js:287:60: number
+color-flow.js:287:63-65: number
+color-flow.js:287:68-70: number
+color-flow.js:288:3-5: 
+color-flow.js:288:3-74: 
+color-flow.js:288:11-15: 
+color-flow.js:288:11-49: 
+color-flow.js:288:23-37: 
+color-flow.js:288:27-31: 
+color-flow.js:288:33: number
+color-flow.js:288:36: number
+color-flow.js:288:40: number
+color-flow.js:288:43: number
+color-flow.js:288:46-48: number
+color-flow.js:288:52-73: Color
+color-flow.js:288:56-60: [class: Color]
+color-flow.js:288:62-63: number
+color-flow.js:288:66-67: number
+color-flow.js:288:70-72: number
+color-flow.js:289:3-5: 
+color-flow.js:289:3-72: 
+color-flow.js:289:11-15: 
+color-flow.js:289:11-47: 
+color-flow.js:289:23-37: 
+color-flow.js:289:27-31: 
+color-flow.js:289:33: number
+color-flow.js:289:36: number
+color-flow.js:289:40: number
+color-flow.js:289:43: number
+color-flow.js:289:46: number
+color-flow.js:289:50-71: Color
+color-flow.js:289:54-58: [class: Color]
+color-flow.js:289:60-61: number
+color-flow.js:289:64-66: number
+color-flow.js:289:69-70: number
+color-flow.js:290:3-5: 
+color-flow.js:290:3-74: 
+color-flow.js:290:11-15: 
+color-flow.js:290:11-49: 
+color-flow.js:290:23-37: 
+color-flow.js:290:27-31: 
+color-flow.js:290:33: number
+color-flow.js:290:36: number
+color-flow.js:290:40: number
+color-flow.js:290:43: number
+color-flow.js:290:46-48: number
+color-flow.js:290:52-73: Color
+color-flow.js:290:56-60: [class: Color]
+color-flow.js:290:62-64: number
+color-flow.js:290:67-68: number
+color-flow.js:290:71-72: number
+color-flow.js:293:1-9: () => void
+color-flow.js:293:1,300:1: () => void
+color-flow.js:293:11-21: string
+color-flow.js:293:26,300:1: () => void
+color-flow.js:294:3-5: 
+color-flow.js:294:3-41: Color
+color-flow.js:294:20-41: Color
+color-flow.js:294:24-28: [class: Color]
+color-flow.js:294:30-32: number
+color-flow.js:294:35-36: number
+color-flow.js:294:39-40: number
+color-flow.js:295:3-5: 
+color-flow.js:295:3-72: 
+color-flow.js:295:11-15: 
+color-flow.js:295:11-47: 
+color-flow.js:295:23-37: 
+color-flow.js:295:27-31: 
+color-flow.js:295:33: number
+color-flow.js:295:36: number
+color-flow.js:295:40: number
+color-flow.js:295:43: number
+color-flow.js:295:46: number
+color-flow.js:295:50-71: Color
+color-flow.js:295:54-58: [class: Color]
+color-flow.js:295:60: number
+color-flow.js:295:63-65: number
+color-flow.js:295:68-70: number
+color-flow.js:296:3-5: 
+color-flow.js:296:3-74: 
+color-flow.js:296:11-15: 
+color-flow.js:296:11-49: 
+color-flow.js:296:23-37: 
+color-flow.js:296:27-31: 
+color-flow.js:296:33: number
+color-flow.js:296:36: number
+color-flow.js:296:40: number
+color-flow.js:296:43: number
+color-flow.js:296:46-48: number
+color-flow.js:296:52-73: Color
+color-flow.js:296:56-60: [class: Color]
+color-flow.js:296:62-63: number
+color-flow.js:296:66-67: number
+color-flow.js:296:70-72: number
+color-flow.js:297:3-5: 
+color-flow.js:297:3-72: 
+color-flow.js:297:11-15: 
+color-flow.js:297:11-47: 
+color-flow.js:297:23-37: 
+color-flow.js:297:27-31: 
+color-flow.js:297:33: number
+color-flow.js:297:36: number
+color-flow.js:297:40: number
+color-flow.js:297:43: number
+color-flow.js:297:46: number
+color-flow.js:297:50-71: Color
+color-flow.js:297:54-58: [class: Color]
+color-flow.js:297:60-61: number
+color-flow.js:297:64-66: number
+color-flow.js:297:69-70: number
+color-flow.js:298:3-5: 
+color-flow.js:298:3-74: 
+color-flow.js:298:11-15: 
+color-flow.js:298:11-49: 
+color-flow.js:298:23-37: 
+color-flow.js:298:27-31: 
+color-flow.js:298:33: number
+color-flow.js:298:36: number
+color-flow.js:298:40: number
+color-flow.js:298:43: number
+color-flow.js:298:46-48: number
+color-flow.js:298:52-73: Color
+color-flow.js:298:56-60: [class: Color]
+color-flow.js:298:62-64: number
+color-flow.js:298:67-68: number
+color-flow.js:298:71-72: number
+color-flow.js:299:3-5: 
+color-flow.js:299:3-43: Color
+color-flow.js:299:20-43: Color
+color-flow.js:299:24-28: [class: Color]
+color-flow.js:299:30-32: number
+color-flow.js:299:35-37: number
+color-flow.js:299:40-42: number
+color-flow.js:302:1-9: () => void
+color-flow.js:302:1,309:1: () => void
+color-flow.js:302:11-33: string
+color-flow.js:302:38,309:1: () => void
+color-flow.js:303:7-18: number
+color-flow.js:303:22-25: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+color-flow.js:303:22-34: number
+color-flow.js:305:3-5: 
+color-flow.js:305:3-86: 
+color-flow.js:305:11-15: 
+color-flow.js:305:11-47: 
+color-flow.js:305:23-37: 
+color-flow.js:305:27-31: 
+color-flow.js:305:33: number
+color-flow.js:305:36: number
+color-flow.js:305:40: number
+color-flow.js:305:43: number
+color-flow.js:305:46: number
+color-flow.js:305:50-85: Color
+color-flow.js:305:54-58: [class: Color]
+color-flow.js:305:60: number
+color-flow.js:305:63-65: number
+color-flow.js:305:68-70: number
+color-flow.js:305:73-84: number
+color-flow.js:306:3-5: 
+color-flow.js:306:3-88: 
+color-flow.js:306:11-15: 
+color-flow.js:306:11-49: 
+color-flow.js:306:23-37: 
+color-flow.js:306:27-31: 
+color-flow.js:306:33: number
+color-flow.js:306:36: number
+color-flow.js:306:40: number
+color-flow.js:306:43: number
+color-flow.js:306:46-48: number
+color-flow.js:306:52-87: Color
+color-flow.js:306:56-60: [class: Color]
+color-flow.js:306:62-63: number
+color-flow.js:306:66-67: number
+color-flow.js:306:70-72: number
+color-flow.js:306:75-86: number
+color-flow.js:307:3-5: 
+color-flow.js:307:3-86: 
+color-flow.js:307:11-15: 
+color-flow.js:307:11-47: 
+color-flow.js:307:23-37: 
+color-flow.js:307:27-31: 
+color-flow.js:307:33: number
+color-flow.js:307:36: number
+color-flow.js:307:40: number
+color-flow.js:307:43: number
+color-flow.js:307:46: number
+color-flow.js:307:50-85: Color
+color-flow.js:307:54-58: [class: Color]
+color-flow.js:307:60-61: number
+color-flow.js:307:64-66: number
+color-flow.js:307:69-70: number
+color-flow.js:307:73-84: number
+color-flow.js:308:3-5: 
+color-flow.js:308:3-88: 
+color-flow.js:308:11-15: 
+color-flow.js:308:11-49: 
+color-flow.js:308:23-37: 
+color-flow.js:308:27-31: 
+color-flow.js:308:33: number
+color-flow.js:308:36: number
+color-flow.js:308:40: number
+color-flow.js:308:43: number
+color-flow.js:308:46-48: number
+color-flow.js:308:52-87: Color
+color-flow.js:308:56-60: [class: Color]
+color-flow.js:308:62-64: number
+color-flow.js:308:67-68: number
+color-flow.js:308:71-72: number
+color-flow.js:308:75-86: number
+color-flow.js:311:1-9: () => void
+color-flow.js:311:1,320:1: () => void
+color-flow.js:311:11-33: string
+color-flow.js:311:38,320:1: () => void
+color-flow.js:312:7-18: number
+color-flow.js:312:22-25: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+color-flow.js:312:22-34: number
+color-flow.js:314:3-5: 
+color-flow.js:314:3-41: Color
+color-flow.js:314:20-41: Color
+color-flow.js:314:24-28: [class: Color]
+color-flow.js:314:30-32: number
+color-flow.js:314:35-36: number
+color-flow.js:314:39-40: number
+color-flow.js:315:3-5: 
+color-flow.js:315:3-86: 
+color-flow.js:315:11-15: 
+color-flow.js:315:11-47: 
+color-flow.js:315:23-37: 
+color-flow.js:315:27-31: 
+color-flow.js:315:33: number
+color-flow.js:315:36: number
+color-flow.js:315:40: number
+color-flow.js:315:43: number
+color-flow.js:315:46: number
+color-flow.js:315:50-85: Color
+color-flow.js:315:54-58: [class: Color]
+color-flow.js:315:60: number
+color-flow.js:315:63-65: number
+color-flow.js:315:68-70: number
+color-flow.js:315:73-84: number
+color-flow.js:316:3-5: 
+color-flow.js:316:3-88: 
+color-flow.js:316:11-15: 
+color-flow.js:316:11-49: 
+color-flow.js:316:23-37: 
+color-flow.js:316:27-31: 
+color-flow.js:316:33: number
+color-flow.js:316:36: number
+color-flow.js:316:40: number
+color-flow.js:316:43: number
+color-flow.js:316:46-48: number
+color-flow.js:316:52-87: Color
+color-flow.js:316:56-60: [class: Color]
+color-flow.js:316:62-63: number
+color-flow.js:316:66-67: number
+color-flow.js:316:70-72: number
+color-flow.js:316:75-86: number
+color-flow.js:317:3-5: 
+color-flow.js:317:3-86: 
+color-flow.js:317:11-15: 
+color-flow.js:317:11-47: 
+color-flow.js:317:23-37: 
+color-flow.js:317:27-31: 
+color-flow.js:317:33: number
+color-flow.js:317:36: number
+color-flow.js:317:40: number
+color-flow.js:317:43: number
+color-flow.js:317:46: number
+color-flow.js:317:50-85: Color
+color-flow.js:317:54-58: [class: Color]
+color-flow.js:317:60-61: number
+color-flow.js:317:64-66: number
+color-flow.js:317:69-70: number
+color-flow.js:317:73-84: number
+color-flow.js:318:3-5: 
+color-flow.js:318:3-88: 
+color-flow.js:318:11-15: 
+color-flow.js:318:11-49: 
+color-flow.js:318:23-37: 
+color-flow.js:318:27-31: 
+color-flow.js:318:33: number
+color-flow.js:318:36: number
+color-flow.js:318:40: number
+color-flow.js:318:43: number
+color-flow.js:318:46-48: number
+color-flow.js:318:52-87: Color
+color-flow.js:318:56-60: [class: Color]
+color-flow.js:318:62-64: number
+color-flow.js:318:67-68: number
+color-flow.js:318:71-72: number
+color-flow.js:318:75-86: number
+color-flow.js:319:3-5: 
+color-flow.js:319:3-43: Color
+color-flow.js:319:20-43: Color
+color-flow.js:319:24-28: [class: Color]
+color-flow.js:319:30-32: number
+color-flow.js:319:35-37: number
+color-flow.js:319:40-42: number
+color-flow.js:322:1-9: () => void
+color-flow.js:322:1,351:1: () => () => void
+color-flow.js:322:11-25: string
+color-flow.js:322:30,351:1: () => () => void
+color-flow.js:323:7-10: 
+color-flow.js:323:14-18: 
+color-flow.js:323:14-50: 
+color-flow.js:323:26-40: 
+color-flow.js:323:30-34: 
+color-flow.js:323:36: number
+color-flow.js:323:39: number
+color-flow.js:323:43: number
+color-flow.js:323:46: number
+color-flow.js:323:49: number
+color-flow.js:324:7-11: number
+color-flow.js:324:15: number
+color-flow.js:326:10,350:3: () => void
+color-flow.js:328:5-7: 
+color-flow.js:328:5-86: 
+color-flow.js:328:13-17: 
+color-flow.js:328:13-59: 
+color-flow.js:328:25-45: 
+color-flow.js:328:29-33: 
+color-flow.js:328:35: number
+color-flow.js:328:38: number
+color-flow.js:328:41-44: number
+color-flow.js:328:42-44: number
+color-flow.js:328:48-49: number
+color-flow.js:328:52-53: number
+color-flow.js:328:56-58: number
+color-flow.js:328:62-85: Color
+color-flow.js:328:66-70: [class: Color]
+color-flow.js:328:72-74: number
+color-flow.js:328:77-79: number
+color-flow.js:328:82-84: number
+color-flow.js:331:14: number
+color-flow.js:331:18: number
+color-flow.js:331:21: number
+color-flow.js:331:21-25: boolean
+color-flow.js:331:25: number
+color-flow.js:331:28-30: number
+color-flow.js:332:7-9: 
+color-flow.js:332:7,335:45: 
+color-flow.js:332:15-18: 
+color-flow.js:332:15,333:31: 
+color-flow.js:332:15,334:71: 
+color-flow.js:333:20: number
+color-flow.js:333:20-24: number
+color-flow.js:333:24: number
+color-flow.js:333:27: number
+color-flow.js:333:30: number
+color-flow.js:334:18-41: 
+color-flow.js:334:22-26: 
+color-flow.js:334:28-30: number
+color-flow.js:334:33-35: number
+color-flow.js:334:38-40: number
+color-flow.js:334:44-51: number
+color-flow.js:334:44-54: number
+color-flow.js:334:44-62: number
+color-flow.js:334:44-70: number
+color-flow.js:334:45-48: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+color-flow.js:334:45-51: number
+color-flow.js:334:53-54: number
+color-flow.js:334:59: number
+color-flow.js:334:59-61: number
+color-flow.js:334:61: number
+color-flow.js:334:66-70: number
+color-flow.js:335:11-44: Color
+color-flow.js:335:15-19: [class: Color]
+color-flow.js:335:21-23: number
+color-flow.js:335:21-32: number
+color-flow.js:335:27: number
+color-flow.js:335:27-32: number
+color-flow.js:335:31-32: number
+color-flow.js:335:35: number
+color-flow.js:335:38: number
+color-flow.js:335:41-43: number
+color-flow.js:337:14: number
+color-flow.js:337:18: number
+color-flow.js:337:21: number
+color-flow.js:337:21-25: boolean
+color-flow.js:337:25: number
+color-flow.js:337:28-30: number
+color-flow.js:338:7-9: 
+color-flow.js:338:7,341:45: 
+color-flow.js:338:15-18: 
+color-flow.js:338:15,339:31: 
+color-flow.js:338:15,340:70: 
+color-flow.js:339:20: number
+color-flow.js:339:23: number
+color-flow.js:339:23-27: number
+color-flow.js:339:27: number
+color-flow.js:339:30: number
+color-flow.js:340:18-41: 
+color-flow.js:340:22-26: 
+color-flow.js:340:28-30: number
+color-flow.js:340:33-35: number
+color-flow.js:340:38-40: number
+color-flow.js:340:44-51: number
+color-flow.js:340:44-53: number
+color-flow.js:340:44-61: number
+color-flow.js:340:44-69: number
+color-flow.js:340:45-48: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+color-flow.js:340:45-51: number
+color-flow.js:340:53: number
+color-flow.js:340:58: number
+color-flow.js:340:58-60: number
+color-flow.js:340:60: number
+color-flow.js:340:65-69: number
+color-flow.js:341:11-44: Color
+color-flow.js:341:15-19: [class: Color]
+color-flow.js:341:21: number
+color-flow.js:341:24-26: number
+color-flow.js:341:24-35: number
+color-flow.js:341:30: number
+color-flow.js:341:30-35: number
+color-flow.js:341:34-35: number
+color-flow.js:341:38: number
+color-flow.js:341:41-43: number
+color-flow.js:343:14: number
+color-flow.js:343:18: number
+color-flow.js:343:21: number
+color-flow.js:343:21-25: boolean
+color-flow.js:343:25: number
+color-flow.js:343:28-30: number
+color-flow.js:344:7-9: 
+color-flow.js:344:7,347:45: 
+color-flow.js:344:15-18: 
+color-flow.js:344:15,345:31: 
+color-flow.js:344:15,346:61: 
+color-flow.js:345:20: number
+color-flow.js:345:23: number
+color-flow.js:345:26: number
+color-flow.js:345:26-30: number
+color-flow.js:345:30: number
+color-flow.js:346:18-36: 
+color-flow.js:346:22-26: 
+color-flow.js:346:28-30: number
+color-flow.js:346:33-35: number
+color-flow.js:346:39-46: number
+color-flow.js:346:39-48: number
+color-flow.js:346:39-52: number
+color-flow.js:346:39-60: number
+color-flow.js:346:40-43: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+color-flow.js:346:40-46: number
+color-flow.js:346:48: number
+color-flow.js:346:52: number
+color-flow.js:346:56-60: number
+color-flow.js:347:11-44: Color
+color-flow.js:347:15-19: [class: Color]
+color-flow.js:347:21: number
+color-flow.js:347:24: number
+color-flow.js:347:27-29: number
+color-flow.js:347:27-38: number
+color-flow.js:347:33: number
+color-flow.js:347:33-38: number
+color-flow.js:347:37-38: number
+color-flow.js:347:41-43: number
+color-flow.js:349:5-29: number
+color-flow.js:349:14: number
+color-flow.js:349:14-24: number
+color-flow.js:349:14-29: number
+color-flow.js:349:18-21: {E: number, LN10: number, LN2: number, LOG10E: number, LOG2E: number, PI: number, SQRT1_2: number, SQRT2: number, abs: (x: number) => number, acos: (x: number) => number, acosh: (x: number) => number, asin: (x: number) => number, asinh: (x: number) => number, atan: (x: number) => number, atan2: (y: number, x: number) => number, atanh: (x: number) => number, cbrt: (x: number) => number, ceil: (x: number) => number, clz32: (x: number) => number, cos: (x: number) => number, cosh: (x: number) => number, exp: (x: number) => number, expm1: (x: number) => number, floor: (x: number) => number, fround: (x: number) => number, hypot: (...values: Array<number>) => number, imul: (y: number, x: number) => number, log: (x: number) => number, log10: (x: number) => number, log1p: (x: number) => number, log2: (x: number) => number, max: (...values: Array<number>) => number, min: (...values: Array<number>) => number, pow: (x: number, y: number) => number, random: () => number, round: (x: number) => number, sign: (x: number) => number, sin: (x: number) => number, sinh: (x: number) => number, sqrt: (x: number) => number, tan: (x: number) => number, tanh: (x: number) => number, trunc: (x: number) => number}
+color-flow.js:349:18-24: number
+color-flow.js:349:28-29: number
+color-flow.js:356:2,382:1: () => void
+color-flow.js:356:2,382:4: void
+color-flow.js:357:7-8: string
+color-flow.js:358:7-11: HTMLElement
+color-flow.js:358:15-22: Document
+color-flow.js:358:15-48: HTMLElement
+color-flow.js:358:39-47: string
+color-flow.js:359:7-12: HTMLDivElement
+color-flow.js:360:7-20: number
+color-flow.js:362:14-22: () => void
+color-flow.js:363:5-42: HTMLDivElement
+color-flow.js:363:14-21: Document
+color-flow.js:363:14-42: HTMLDivElement
+color-flow.js:363:37-41: string
+color-flow.js:364:5-10: HTMLDivElement
+color-flow.js:364:5-20: DOMTokenList
+color-flow.js:364:5-36: void
+color-flow.js:364:26-35: string
+color-flow.js:365:5-10: HTMLDivElement
+color-flow.js:365:5-25: string
+color-flow.js:365:24-25: string
+color-flow.js:366:5-10: HTMLDivElement
+color-flow.js:366:5,378:21: () => void
+color-flow.js:366:23,378:5: (fn: ) => () => void
+color-flow.js:366:23,378:21: () => void
+color-flow.js:366:33-34: 
+color-flow.js:367:14,377:7: () => void
+color-flow.js:369:9-21: (intervalId?: number) => void
+color-flow.js:369:9-37: void
+color-flow.js:369:23-36: number
+color-flow.js:370:9-11: 
+color-flow.js:370:9-18: 
+color-flow.js:370:9-26: 
+color-flow.js:371:13: 
+color-flow.js:371:17-18: 
+color-flow.js:371:17-20: 
+color-flow.js:374:13-18: [class: Object]
+color-flow.js:374:13-28: Object
+color-flow.js:374:13-37: () => string
+color-flow.js:374:13-45: string
+color-flow.js:374:44: 
+color-flow.js:374:50-68: string
+color-flow.js:375:11-50: number
+color-flow.js:375:28-38: (callback: any, ms?: number, ...args: Array<any>) => number
+color-flow.js:375:28-50: number
+color-flow.js:375:40: 
+color-flow.js:375:43-46: number
+color-flow.js:375:43-49: number
+color-flow.js:375:48-49: number
+color-flow.js:378:8-16: () => void
+color-flow.js:378:8-20: 
+color-flow.js:378:18-19: string
+color-flow.js:380:5-9: HTMLElement
+color-flow.js:380:5-29: Node
+color-flow.js:380:23-28: HTMLDivElement
