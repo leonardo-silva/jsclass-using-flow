@@ -364,8 +364,7 @@ In this section, we describe the usage of a static type checker (Facebook's Flow
 
 Figure~\ref{fig:proposed-approach} presents an overview of this methodology. Given a JavaScript application, we infer the dependencies as described next.
 
-%we perform the following steps. 
-%Figure~\ref{fig:proposed-approach} presents an overview of this methodology. 
+% I used the site draw-io to create the flow chart of figure \label{fig:proposed-approach}
 \begin{figure}[ht]
 	\centering
 	\captionsetup{justification=centering}
@@ -380,9 +379,19 @@ Figure~\ref{fig:proposed-approach} presents an overview of this methodology. Giv
 
 \vspace{1.5 mm}
 
-\noindent \textit{Bundle together code in \aspas{import} statements.}
+\noindent \textit{Bundle together code in \aspas{import} statements.} We bundle together files that depend on each other and use it as input for the type inferencer tool. 
 
-Flow is a very active open source project, with more than 390 contributors, 4,800 commits, and almost 13K stars (data collected in August 2017).\footnote{\url{https://github.com/facebook/flow}} We execute Flow passing the application's source code and tests as input. In this case, the tests are important to determine some of the types involved in class instantiations and method calls, like in the association showed in code (2) of Figure~\ref{fig:example-associations}. \ugh{In that example}\ab{Which one? Figure 5?}, it is not possible to establish the association between classes \mcode{Z} and \mcode{X} without the object instantiation in line 12. Usually, these kind of object instantiation is only present outside the respective class implementation, \emph{e.g.},~ in a test code. By contrast, the class identification (step 1) is based only on the source files, without the tests, to avoid false positives for classes that are not part of application's source code. 
+\vspace{1.5 mm}
+
+\noindent \textit{Add related tests.} We infer types passing the application's source code and tests as input. In this case, the tests are important to determine some of the types involved in class instantiations and method calls, like in the association showed in code (2) of Figure~\ref{fig:example-associations}.
+
+\vspace{1.5 mm}
+
+\noindent \textit{Rename duplicated class names and their references.} After bundling together the necessary files, \emph{i.e.}, related classes an tests, we look for duplicated class names in order to eliminate any ambiguity during the type inference process.  
+
+\vspace{1.5 mm}
+
+\noindent \textit{Use Flow to infer types.} Flow is a very active open source project, with more than 390 contributors, 4,800 commits, and almost 13K stars (data collected in August 2017).\footnote{\url{https://github.com/facebook/flow}} We execute Flow passing the application's source code and tests as input. In this case, the tests are important to determine some of the types involved in class instantiations and method calls, like in the association showed in code (2) of Figure~\ref{fig:example-associations}. \ugh{In that example}\ab{Which one? Figure 5?}, it is not possible to establish the association between classes \mcode{Z} and \mcode{X} without the object instantiation in line 12. Usually, these kind of object instantiation is only present outside the respective class implementation, \emph{e.g.},~ in a test code. By contrast, the class identification (step 1) is based only on the source files, without the tests, to avoid false positives for classes that are not part of application's source code. 
 
 The output produced by Flow is a text file that contains the coordinates (line, column) for every element of the source code (variable, function, object, etc), and their respective types. Figure \ref{fig:example-flow-point} shows the emulation of a simple class \mcode{Point} (code on the left) and the correspondent Flow's output (text on the right). We can see that there is a function in line 1 of the output file, denoted by the arrow (\aspas{=$>$}), whose name is located in line 4 of the file \mcode{Point.js}, between columns 10 and 14. This function has two arguments (\mcode{x} and \mcode{y}) of type \mcode{number} and returns \mcode{void}. Every time the keyword \mcode{this} is used, Flow infers the structure of the object that it represents as its type. For example, the structure of the object \mcode{this} that appears in lines 5 and 6 of the legacy code is \mcode{\{x:number, y:number\}} (see lines 4 and 7 of Flow's output file). In this case, the inferred object represents the attributes of \mcode{Point}. In other words, when a reference to an emulated class is found, Flow infers the structure of the object that represents the class as its type. 
 %The same is valid for methods when their invocations are found. 
