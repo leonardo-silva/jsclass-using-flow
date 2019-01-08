@@ -590,17 +590,17 @@ Table~\ref{tab:dataset} presents the main characteristics of the three TypeScrip
 	\label{tab:dataset}
 \end{table}
 
-As an example of a class in TypeScript, Listing~\ref{lst_typescript_inversifyjs} shows part of the implementation of class \mcode{QueryString} in {\sc inversifyjs}. We can see explicit type annotations in attributes (line 2), which are used to infer associations, and in parameters (lines 4 and 7), which are used to infer \textit{uses} relations, when building the oracle of class dependencies used in this chapter. 
+Listing~\ref{lst_typescript_inversifyjs} shows a simple class-based example in TypeScript. We can see explicit type annotations in attributes (line 2), which are used to infer associations, and in parameters (lines 4 and 7), which are used to infer \textit{uses} relations, when building the oracle of class dependencies used in this chapter. 
 
 \begin{lstlisting}[caption=Example of class in TypeScript, label=lst_typescript_inversifyjs, emph={[2]string,boolean},emphstyle={[2]\ttfamily\bfseries\color{darkgreen}}]
-class QueryableString {
-	private str: string;
+class Greeter {
+	private greeting: string;
 
-	constructor(str:string) {
-		this.str = str;
+	constructor(message: string) {
+		this.greeting = message;
 	}
-	public startsWith (searchString: string): boolean {
-		...
+	public greet(): string {
+		return "Hello, " + this.greeting;
 	}
 }  
 \end{lstlisting} 
