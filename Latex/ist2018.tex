@@ -14,6 +14,8 @@
 \usepackage{multirow}
 \usepackage{ifthen}
 
+\usepackage{comment}
+
 \usepackage{amsbsy}
 \usepackage{amssymb}
 \usepackage{color}
@@ -569,26 +571,29 @@ In this section, we detail the design of a study proposed to evaluate the usage 
 For our study, we need systems that emulate classes in legacy JavaScript in order to find the dependencies between these classes. We also need an oracle of class dependencies to measure the accuracy of the types inferred by Flow. For these reasons, we use TypeScript open-source projects to build this oracle and minimize possible bias. TypeScript is an extension of JavaScript that offers classes, interfaces, and a gradual type system~\cite{nance2014}. Therefore, by parsing and extracting explicit types in TypeScript programs, class-to-class dependencies can be found and added to an oracle. Before performing our analyses, TypeScript code is \textit{transpiled}\footnote{A transpiler is a source-to-source compiler. Transpilers are used, for example, to convert from TypeScript to JavaScript, in order to guarantee compatibility with existing browsers and runtime tools.} to vanilla JavaScript. The automatically generated code contains all constructor functions and methods, along with their dependencies, implemented according to JavaScript ES5 syntax. The strategy of using TypeScript projects to build an oracle is also adopted by Rostami \emph{et al.} \cite{rostami2016} in their work to detect constructor functions in JavaScript and by Silva \emph{et al.}~\cite{sanerera2017} in their preliminary study that evaluates the use of Flow as a type checker.
 %, and by Silva \emph{et al.} \cite{sanerera2017} in their study to identify dependencies between classes in legacy JavaScript code. 
 
-Table~\ref{tab:dataset} presents the main characteristics of the three TypeScript projects in our dataset, including version number, size (LOC), number of classes, number of dependencies, and number of dependencies that are class associations. {\sc inversifyjs}\footnote{\url{https://github.com/inversify/InversifyJS}} is a lightweight inversion of control container for TypeScript and JavaScript applications. {\sc satellizer}\footnote{\url{https://github.com/sahat/satellizer}} is an end-to-end token-based authentication module for \mcode{AngularJS} with built-in support to different service providers. {\sc xstream}\footnote{\url{http://staltz.com/xstream/}} is a fast functional reactive stream library for JavaScript. {\sc inversifyjs} and {\sc satellizer} are also used by Silva \emph{et al.}~\cite{sanerera2017} in their study.
+Table~\ref{tab:dataset} presents the main characteristics of the three TypeScript projects in our dataset, including version number, size (LOC), number of classes, number of dependencies of type \aspas{uses}, number of class associations, and the total of dependencies. The information about the dependencies can be obtained directly by analyzing the TypeScript code, which has explicit types. {\sc inversifyjs}\footnote{\url{https://github.com/inversify/InversifyJS}} is a lightweight inversion of control container for TypeScript and JavaScript applications. {\sc satellizer}\footnote{\url{https://github.com/sahat/satellizer}} is an end-to-end token-based authentication module for \mcode{AngularJS} with built-in support to different service providers. {\sc xstream}\footnote{\url{http://staltz.com/xstream/}} is a fast functional reactive stream library for JavaScript. {\sc inversifyjs} and {\sc satellizer} are also used by Silva \emph{et al.}~\cite{sanerera2017} in their study.
 
-\begin{table}[htbp]
-	%\scriptsize
-	\footnotesize
+
+\begin{table}[!ht]
+	\scriptsize	
 	\centering
 	\caption{\textsc{Characteristics of the analyzed systems}}
-	\begin{tabular}{lcrrrr}
+	\tabcolsep=0.11cm
+	\begin{tabular}{lrrr|ccc}
 		\toprule
-		System            & Version &  LOC  & \# Classes & \# Class     & \# Class  \\
-		&         &       &            & Dependencies & Associations   \\
+		\multicolumn{4}{c|}{\textbf{Systems}} & \multicolumn{3}{c}{\textbf{Dependencies}}  \\
+		Name & Version & LOC & Classes & Of type \aspas{uses} & Associations & TOTAL  \\
 		\midrule
-		{\sc inversifyjs} &   2.0.1 & 1,527 &         20 &          184 &           26 \\  
-		{\sc satellizer}  &  0.15.5 &   990 &         11 &           46 &           20   \\
-		{\sc xstream}     &  11.0.0 & 1,737 &         25 &          124 &           44    \\
-		
+		{\sc inversifyjs} & 2.0.1   & 1,527 &         20 & 134 & 26 & 160  \\
+		{\sc satellizer}   & 0.15.5 &   990 &          11 & 19 & 20 & 39  \\
+		{\sc xstream}    &  11.0.0 & 1,737 &         25 & 80 &  44 & 124  \\
 		\bottomrule
 	\end{tabular}
 	\label{tab:dataset}
 \end{table}
+
+%\end{comment}
+
 
 Listing~\ref{lst_typescript_inversifyjs} shows a simple class-based example in TypeScript. We can see explicit type annotations in attributes (line 2), which are used to infer associations, and in parameters (lines 4 and 7), which are used to infer \textit{uses} relations, when building the oracle of class dependencies used in this chapter. 
 
