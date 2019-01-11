@@ -804,9 +804,9 @@ In this second research question, we expand the source code of classes implement
 				&  TP & FP &  FN &  Precision & Recall & TP & FP & FN & Precision & Recall  \\
 				\midrule 
 				
-				{\sc inversifyjs} & 159 &  0 & 25 &  100\% &  86\%  & 25 &  0 &  1 & 100\% &  96\%  \\
+				{\sc inversifyjs} & 138 &  0 & 22 &  100\% &  86\%  & 25 &  0 &  1 & 100\% &  96\%  \\
 				
-				{\sc satellizer}  &  37 &  0 &  9 &  100\% &  80\%  & 17 &  0 &  3 & 100\% &  85\%  \\
+				{\sc satellizer}   &  31 &  0 &  8  &  100\% &  80\%  & 17 &  0 &  3 & 100\% &  85\%  \\
 				
 				{\sc xstream}     & 121 &  0 &  3 &  100\% &  98\%  & 42 &  0 &  2 & 100\% &  95\%  \\
 				
@@ -989,7 +989,7 @@ Concluding our analysis of false negatives, Table \ref{tab:causesFNs} summarizes
 
 
 %:%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Study With Vanilla JavaScript Systems}
+\section{Finding Dependencies in Vanilla JavaScript Systems}
 \label{sec:study-design-vanilla}
 
 In this section, we detail the design of a study proposed to evaluate the usage of Flow to detect dependencies between classes in vanilla JavaScript systems. The idea is to verify the applicability of using Flow to detect class dependencies in code that is not automatically generated, like in the first study that used TypeScript transpiler to generate JavaScript legacy code. First, we present the dataset we use (Section \ref{sec:dataset-vanilla}). Then, we present the results in Section \ref{sec:results-vanilla}.
@@ -1031,12 +1031,12 @@ Table \ref{tab:results-vanilla} presents the number of associations, dependencie
 	\caption{Number of dependencies per system.}
 	\begin{tabular}{lrrr}
 		\toprule
-		System              & Associations & \aspas{uses}-Dependencies & Total    \\
+		System                & \aspas{uses}-Dependencies & Associations & Total    \\
 		\midrule
-		{\sc socket.io}     &            4 &                        29 &    33    \\  
-		{\sc isomer}        &           11 &                       273 &   284    \\  
-		{\sc algorithms.js} &           16 &                       309 &   325  \\  
-		{\sc pixi.js}       &              &                           &        \\ 
+		{\sc socket.io}     &                         29 &            4 &    33    \\  
+		{\sc isomer}         &                       273 &           11 &   284    \\  
+		{\sc algorithms.js} &                     309 &           16 &   325  \\  
+		{\sc pixi.js}            &                     790 &           69 &   859     \\ 
 		\bottomrule
 	\end{tabular}
 	\label{tab:results-vanilla}
