@@ -1019,25 +1019,67 @@ For our study, we need JavaScript systems that implement classes according to ES
 \end{table}
 
 
+\subsection{Results}
+\label{sec:results-vanilla}
+
+Table \ref{tab:results-vanilla} presents the number of associations, dependencies of type \aspas{uses}, and total, per system. In this case, unfortunately, we do not have an oracle that allows us to measure precision and recall. On the other hand, we can use these information about dependencies to better understand how these systems work, as we can see in Figure~\ref{fig:class-diagram}. This class diagram contains all classes of system XXX and their relationships. As we can see... 
+ 
+\begin{table}[hbp]
+	%\scriptsize
+	\footnotesize
+	\centering
+	\caption{Number of dependencies per system.}
+	\begin{tabular}{lrrr}
+		\toprule
+		System                & \aspas{uses}-Dependencies & Associations & Total    \\
+		\midrule
+		{\sc socket.io}     &                         29 &            4 &    33    \\  
+		{\sc isomer}         &                       273 &           11 &   284    \\  
+		{\sc algorithms.js} &                     309 &           16 &   325  \\  
+		{\sc pixi.js}            &                     790 &           69 &   859     \\ 
+		\bottomrule
+	\end{tabular}
+	\label{tab:results-vanilla}
+\end{table}
+
+
+\begin{figure}[h]
+	\centering
+	\captionsetup{justification=centering}
+	\includegraphics[width=3.4in]{fig/class-diagram-XXX.png}
+	\caption{Class Diagram with Dependencies between JavaScript Classes}
+	\label{fig:class-diagram}
+\end{figure}
+
+
+
 \subsection{Considerations}
 \label{sec:considerations-vanilla}
 
 In this section we describe some decisions we had to make during the extraction of dependencies from the JavaScript systems presented in Section~\ref{sec:dataset-vanilla}. Basically, we follow the same flowchart presented in Figure~\ref{fig:proposed-approach}. However, during the experiments with systems originally written in JS, instead of transpiled code, we had to deal with different programming styles that required some adaptations, as follows: 
 
-* Example of association in class Graphics:
+\vspace{2.0 mm}
+
+\noindent \textit{Associations with attributes of type Array.} When we have an attribute of type \textit{Array} whose elements are class instances, this attribute counts as one association only, independently of the number of elements it contains. Listing~\ref{lst_association_array} shows an example in the class \mcode{Graphics}, system {\sc pixi.js}, in which the attribute \mcode{graphicsData} (line 11) is an array that receives instances of \mcode{GraphicsData}. In our analysis, the number of elements in \mcode{graphicsData} do not matter and the attribute counts as one association.
+
+\begin{lstlisting}[caption=Example of association in class \mcode{Graphics} in system {\sc pixi.js}, label=lst_association_array, emph={[2]graphicsData},emphstyle={[2]\ttfamily\bfseries\color{darkgreen}}]
 const data = new GraphicsData(
-this.lineWidth,
-this.lineColor,
-this.lineAlpha,
-this.fillColor,
-this.fillAlpha,
-this.filling,
-shape
+  this.lineWidth,
+  this.lineColor,
+  this.lineAlpha,
+  this.fillColor,
+  this.fillAlpha,
+  this.filling,
+  shape
 );
-
+// Adding a class object in an attribute of type Array
 this.graphicsData.push(data);
-The field graphicsData is an array of type GraphicsData, and this is considered one association.		
 
+\end{lstlisting} 
+
+\vspace{1.0 mm}
+
+\begin{comment}
 * Exemple of dependency with more than one class in one same reference (multiple type).
 Graphics-flow.js:5324:13-17: Circle | Ellipse | Polygon | Rectangle | RoundedRectangle
 
@@ -1060,38 +1102,8 @@ this._glyphs.push(c);
 
 * we have some "private" function, like 'function uploadBaseTextures(prepare, item)' in file CanvasPrepare.js, which are implemented outside the body of the class only not to be exported to other files, meaning that they are private. In this study, we are considering the source could of these functions when looking for dependencies, because they are part of the class implementation.
 
+\end{comment}
 
-\subsection{Results}
-\label{sec:results-vanilla}
-
-Table \ref{tab:results-vanilla} presents the number of associations, dependencies of type \aspas{uses}, and total, per system. In this case, unfortunately, we do not have an oracle that allows us to measure precision and recall. On the other hand, we can use these information about dependencies to better understand how these systems work, as we can see in Figure~\ref{fig:class-diagram}. This class diagram contains all classes of system XXX and their relationships. As we can see... 
- 
-\begin{table}%[htbp]
-	%\scriptsize
-	\footnotesize
-	\centering
-	\caption{Number of dependencies per system.}
-	\begin{tabular}{lrrr}
-		\toprule
-		System                & \aspas{uses}-Dependencies & Associations & Total    \\
-		\midrule
-		{\sc socket.io}     &                         29 &            4 &    33    \\  
-		{\sc isomer}         &                       273 &           11 &   284    \\  
-		{\sc algorithms.js} &                     309 &           16 &   325  \\  
-		{\sc pixi.js}            &                     790 &           69 &   859     \\ 
-		\bottomrule
-	\end{tabular}
-	\label{tab:results-vanilla}
-\end{table}
-
-
-\begin{figure}[ht]
-	\centering
-	\captionsetup{justification=centering}
-	\includegraphics[width=3.4in]{fig/class-diagram-XXX.png}
-	\caption{Class Diagram with Dependencies between JavaScript Classes}
-	\label{fig:class-diagram}
-\end{figure}
 
 
 \section {Discussion and Lessons Learned}
