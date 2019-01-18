@@ -1079,10 +1079,12 @@ this.graphicsData.push(data);
 
 \vspace{1.0 mm}
 
-\begin{comment}
-* Exemple of dependency with more than one class in one same reference (multiple type).
-Graphics-flow.js:5324:13-17: Circle | Ellipse | Polygon | Rectangle | RoundedRectangle
+\noindent \textit{Multiple Types.} After applying Flow to infer types, we can see in Listing~\ref{lst_association_array} that the parameter \mcode{shape} (line 8) can assume any one of the following types:  \mcode{Circle} $\vert$ \mcode{Ellipse} $\vert$ \mcode{Polygon} $\vert$ \mcode{Rectangle} $\vert$ \mcode{RoundedRectangle}. In our analysis, it means that we have a \aspas{uses} dependency from class \mcode{Graphics} to each one of these possibilities.
 
+\vspace{2.0 mm}
+
+
+\begin{comment}
 * Inside AccessibilityManager.js, we have an import of multiple files using '*':
 import * as core from '../core';
 In this case, to know which classes from '../core' are been used, we have to 
