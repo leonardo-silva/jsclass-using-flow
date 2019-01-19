@@ -1081,25 +1081,30 @@ this.graphicsData.push(data);
 
 \noindent \textit{Multiple Types.} After applying Flow to infer types, we can see in Listing~\ref{lst_association_array} that the parameter \mcode{shape} (line 8) can assume any one of the following types:  \mcode{Circle} $\vert$ \mcode{Ellipse} $\vert$ \mcode{Polygon} $\vert$ \mcode{Rectangle} $\vert$ \mcode{RoundedRectangle}. In our analysis, it means that we have a \aspas{uses} dependency from class \mcode{Graphics} to each one of these possibilities.
 
-\vspace{2.0 mm}
+\vspace{2.5 mm}
+
+\noindent \textit{Using wildcards to import multiple files at once.} Listing~\ref{lst_import_wildcard} shows an example of an import statement that includes all files inside the indicated folder. In this case, to know which classes from \mcode{'../core'} are been used, we perform the following:
+
+\begin{lstlisting}[caption=Example of import statement using wildcard in class \mcode{AccessibilityManager} in system {\sc pixi.js}, label=lst_import_wildcard, emph={[2]graphicsData},emphstyle={[2]\ttfamily\bfseries\color{darkgreen}}]
+// Import statement
+import * as core from '../core';
+...
+// Using class 'CanvasRenderer' from package (folder) 'core'
+core.CanvasRenderer.registerPlugin('accessibility', AccessibilityManager);
+
+\end{lstlisting} 
+%* Inside AccessibilityManager.js, we have an import of multiple files using '*':
+% In this case, to know which classes from '../core' are been used, we have to 
+\begin{enumerate}
+	\item Look for the prefix \mcode{core} in the source code file \mcode{AccessibilityManager.js} , like the one in line 5.
+	\item Import the related classes, like class \mcode{CanvasRenderer} in line 5.
+	\item Eliminate the prefix. After, the code in line 5 will look like the following:  \mcode{CanvasRenderer.registerPlugin('accessibility',AccessibilityManager);}
+\end{enumerate}
+
+\vspace{2.5 mm}
 
 
 \begin{comment}
-* Inside AccessibilityManager.js, we have an import of multiple files using '*':
-import * as core from '../core';
-In this case, to know which classes from '../core' are been used, we have to 
-1) look for the prefix 'core', like in:
-core.WebGLRenderer.registerPlugin('accessibility', AccessibilityManager);
-core.CanvasRenderer.registerPlugin('accessibility', AccessibilityManager);
-2) Import the classes 
-3) Eliminate the prefix, like in:
-WebGLRenderer.registerPlugin('accessibility', AccessibilityManager);
-CanvasRenderer.registerPlugin('accessibility', AccessibilityManager);
-
-* The following case, inside BitmapText.js, represents an association:
-c = new Sprite(chars[i].texture);
-this._glyphs.push(c);
-
 * We have a problem with extra features (i.e. features added at runtime) because we do not evaluate its dependencies. Ex: class DisplayObject is "extended" in file cacheAsBitmap.js (CacheData-flow.js).
 
 * we have some "private" function, like 'function uploadBaseTextures(prepare, item)' in file CanvasPrepare.js, which are implemented outside the body of the class only not to be exported to other files, meaning that they are private. In this study, we are considering the source could of these functions when looking for dependencies, because they are part of the class implementation.
