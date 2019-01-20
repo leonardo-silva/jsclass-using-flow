@@ -1103,10 +1103,11 @@ core.CanvasRenderer.registerPlugin('accessibility', AccessibilityManager);
 
 \vspace{2.5 mm}
 
+\noindent \textit{Extra features.} We may miss eventual dependencies added by extra features (i.e. features added at runtime) when they are implemented in separated files. For example, class \mcode{DisplayObject}, in system {\sc pixi.js}, is \aspas{extended} in a file called \mcode{cacheAsBitmap.js}, which adds new methods to the class. In our analysis, we investigate the original implementation of the classes, although it would be possible to consider these extra features if necessary. Silva et al.~\cite{icsr2017} had already identified the presence of extra features in system {\sc pixi.js}. 
+%Ex: class DisplayObject is "extended" in file cacheAsBitmap.js (CacheData-flow.js).
+
 
 \begin{comment}
-* We have a problem with extra features (i.e. features added at runtime) because we do not evaluate its dependencies. Ex: class DisplayObject is "extended" in file cacheAsBitmap.js (CacheData-flow.js).
-
 * we have some "private" function, like 'function uploadBaseTextures(prepare, item)' in file CanvasPrepare.js, which are implemented outside the body of the class only not to be exported to other files, meaning that they are private. In this study, we are considering the source could of these functions when looking for dependencies, because they are part of the class implementation.
 
 \end{comment}
