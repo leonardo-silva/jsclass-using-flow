@@ -1056,7 +1056,8 @@ Table \ref{tab:results-vanilla} presents the number of associations, dependencie
 \subsection{Considerations}
 \label{sec:considerations-vanilla}
 
-In this section we describe some decisions we had to make during the extraction of dependencies from the JavaScript systems presented in Section~\ref{sec:dataset-vanilla}. Basically, we follow the same flowchart presented in Figure~\ref{fig:proposed-approach}. However, during the experiments with systems originally written in JS, instead of transpiled code, we had to deal with different programming styles that required some adaptations, as follows: 
+In this section we describe some decisions we had to make during the extraction of dependencies from the JavaScript systems presented in Section~\ref{sec:dataset-vanilla}. 
+%Basically, we follow the same flowchart presented in Figure~\ref{fig:proposed-approach}. However, during the experiments with systems originally written in JavaScript, instead of transpiled code, we had to deal with different programming styles that required some adaptations, as follows: 
 
 \vspace{2.0 mm}
 
@@ -1078,6 +1079,10 @@ this.graphicsData.push(data);
 \end{lstlisting} 
 
 \vspace{1.0 mm}
+
+In Section \ref{sec:rq3-recall-results}, Listing~\ref{lst_array_inversifyjs}, we showed an example in which Flow was not able to infer the types of the objects added in the attribute of type array. This is not the case of the code in Listing~\ref{lst_association_array}, in which the class association could be properly identified.
+
+\vspace{2.5 mm}
 
 \noindent \textit{Multiple Types.} After applying Flow to infer types, we can see in Listing~\ref{lst_association_array} that the parameter \mcode{shape} (line 8) can assume any one of the following types:  \mcode{Circle} $\vert$ \mcode{Ellipse} $\vert$ \mcode{Polygon} $\vert$ \mcode{Rectangle} $\vert$ \mcode{RoundedRectangle}. In our analysis, it means that we have a \aspas{uses} dependency from class \mcode{Graphics} to each one of these possibilities.
 
@@ -1107,19 +1112,18 @@ core.CanvasRenderer.registerPlugin('accessibility', AccessibilityManager);
 %Ex: class DisplayObject is "extended" in file cacheAsBitmap.js (CacheData-flow.js).
 
 
-\begin{comment}
-* we have some "private" function, like 'function uploadBaseTextures(prepare, item)' in file CanvasPrepare.js, which are implemented outside the body of the class only not to be exported to other files, meaning that they are private. In this study, we are considering the source could of these functions when looking for dependencies, because they are part of the class implementation.
-
-\end{comment}
+%*we have some global function, like 'function uploadBaseTextures(prepare, item)' in file CanvasPrepare.js, which are implemented outside the %body of the class only not to be exported to other files, meaning that they work as "private" functions. In this study, we are considering the source could of these functions when looking for dependencies, because they are part of the class implementation.
 
 
 
 \section {Discussion and Lessons Learned}
 \label{sec:discussion}
 
-We could not find any class-to-class dependencies when Flow is used in its default configuration, as in RQ \#1. The reason is that Flow cannot infer types for references across modules. In the analyzed systems, these modules are imported by calling the function \mcode{require}, which is part of \mcode{CommonJS} module specification. In these cases, the imported modules are assigned to variables for further use, as showed when investigating the first research question. As a result, the types of these variables are unknown. To overcome this problem, we decided to replace the variables that make reference to constructor functions implemented in other modules by the names of the respective constructor functions. To achieve this, we expanded the source code imported by the \mcode{require} statements, gathering the classes that depend on each other in the same module (file). This last approach achieved the best results for precision and recall. Finally, we manually analyzed and categorized all false negatives identified in our study, considering RQ \#2. 
+First, we conducted a study to evaluate the usage of Flow to detect dependencies between classes in legacy JavaScript systems. We could not find any class-to-class dependencies when Flow is used in its default configuration, as in RQ \#1. The reason is that Flow cannot infer types for references across modules. In the analyzed systems, these modules are imported by calling the function \mcode{require}, which is part of \mcode{CommonJS} module specification. In these cases, the imported modules are assigned to variables for further use, as showed when investigating the first research question. As a result, the types of these variables are unknown. To overcome this problem, we decided to replace the variables that make reference to constructor functions implemented in other modules by the names of the respective constructor functions. To achieve this, we expanded the source code imported by the \mcode{require} statements, gathering the classes that depend on each other in the same module (file). This last approach achieved the best results for precision and recall. Finally, we manually analyzed and categorized all false negatives identified in our study, considering RQ \#2. 
 
-It is known that, in both languages, TypeScript and JavaScript, it is possible to implement multiple classes in one file. In theses cases, we understand that the results would be the same for RQ \#1 and RQ \#2. However, in the three analyzed systems, we had each class implemented in a different file.
+It is known that, in both languages, TypeScript and JavaScript, it is possible to implement multiple classes in one file. In theses cases, we understand that the results would be the same for RQ \#1 and RQ \#2. However, in the analyzed systems, we had each class implemented in a different file.
+
+Then, in Section \ref{sec:study-design-vanilla}, we present a study proposed to evaluate the usage of Flow to detect dependencies in vanilla JavaScript systems. The idea is to verify the applicability of using Flow to detect class dependencies in code that is not automatically generated, like in the first study that used TypeScript transpiler to generate JavaScript legacy code. The dataset was composed of systems implemented according to ES6 class syntax to favor the use of name typing to infer types. Basically, we follow the same flowchart presented in Figure~\ref{fig:proposed-approach} to locate dependencies. However, during the experiments with systems originally written in JavaScript, instead of transpiled code, we had to deal with different programming styles that required some adaptations, as described in Section~\ref{sec:considerations-vanilla}. 
 
 Due to the dynamic nature of JavaScript, we hypothesize that it would be necessary to combine static and dynamic analysis to tackle the identified causes of false negatives, improving recall and providing more reliable information. However, it is known that dynamic analysis brings a new set of challenges to software engineers, such as code instrumentation and the need to set up and execute every program under analysis. Therefore, we conclude that the use of Flow to statically infer types and spot class-to-class dependencies in JavaScript legacy code can achieve an accuracy sufficient to support its usage by reverse engineering tools. However, we need to expand the source code in the \mcode{require} statements and to eliminate variable references to classes implemented in other files.
 
@@ -1129,7 +1133,7 @@ Due to the dynamic nature of JavaScript, we hypothesize that it would be necessa
 \section{Threats to Validity}
 \label{sec:threats}
 
-\noindent \textbf{External Validity.} We studied three open-source JavaScript / TypeScript systems. For this reason, our results might not represent all possible cases of class dependencies and associations. If other systems are considered, the effect of removing references to classes implemented in other modules can vary. To allow the replication of our study, the oracle along with the detected dependencies for the analyzed systems is available on-line.\footnote{We temporarily omitted this link in accordance with the double-blind submission}
+\noindent \textbf{External Validity.} We studied seven open-source JavaScript / TypeScript systems. For this reason, our results might not represent all possible cases of class dependencies and associations. If other systems are considered, the effect of removing references to classes implemented in other modules can vary. To allow the replication of our study, the oracle along with the detected dependencies for the analyzed systems is available on-line.\footnote{We temporarily omitted this link in accordance with the double-blind submission}
 %\footnote{\url{https://github.com/leonardo-silva/JSClassDependencies}} 
 
 Other external validity is related to the fact that we only address module dependencies that comply with \mcode{CommonJS}. We acknowledge that there are different strategies to incorporate modules into JavaScript programs, \emph{e.g.},~ global functions and AMD\footnote{\url{https://github.com/amdjs/amdjs-api/wiki/AMD}}, which also support modules.
@@ -1150,6 +1154,8 @@ Other external validity is related to the fact that we only address module depen
 
 Silva \emph{et al.} \cite{sanerera2017} originally introduced the idea of using Flow, a static type-checker for JavaScript, to infer class-to-class associations and dependencies of type \textit{uses} in legacy JavaScript code. They report a preliminary study on two open-source projects whose code is transpiled from TypeScript to JavaScript. They manually annotate import statements with type information in order to infer types for classes. Their results show that precision reaches 100\% in the two evaluated systems. However, recall is lower, ranging from 37\% to 51\% for dependencies and from 54\% to 85\% for associations, which is probably not sufficient to provide reliable reverse engineering tools to JavaScript developers. In this paper, we also use Flow to infer types that correspond to class references, but with a different strategy. We expand the source code in the \mcode{require} statements to eliminate variable references to class constructor functions implemented in other modules. We analyzed the same TypeScript systems they used in their study, {\sc inversifyjs} and {\sc satellizer}, plus another system called {\sc xstream}. Our results show that precision continues in 100\% in the three evaluated systems. Flow's recall increases, 80\% - 98\% for all dependencies and 85\% - 96\% for associations.
 
+Gao et al.~\cite{Gao2017} investigate the benefits of using static type systems, notably Facebook's Flow and Microsoft's TypeScript, to detect public bugs. For the analyzed systems, they select a fixed bug and check out the code just prior to the fix. They manually add type annotations to the buggy code and test whether Flow and TypeScript report an error. They then report the proportion of bugs on which these type systems reported an error. The conclusion is that both static type systems find an important percentage of public bugs: 15\% each. Moreover, they state that the use of such type systems can bring other benefits, such as facilitating code search/completion and serving as documentation.
+
 Rostami et al.~\cite{rostami2016} propose an alternative tool, called JSDeodorant, to detect constructor functions in legacy JavaScript systems. They first identify all object instantiations, even when there is no explicit object instantiation statement (\emph{e.g.,} the keyword \mcode{new}), and then link each instance to its constructor function. Finally, the identified constructors represent the emulated classes and the functions that belong to these constructors (inner functions) represent the methods.
 
 Cloutier et al.~\cite{wavi2016} present a reverse engineering tool, called WAVI, that uses static analysis and a filter-based mechanism to retrieve and document the structure of a Web
@@ -1166,9 +1172,9 @@ There are also tools and techniques that rely on execution traces to understand 
 
 In this paper, we evaluate the usage of Flow, a static type-checker for JavaScript, to infer class-to-class associations and dependencies of type \textit{uses} in legacy JavaScript code. We report a study on three open-source projects whose code is transpiled from TypeScript to JavaScript. We could not find any class-to-class dependencies when Flow is used in its default configuration, as in the first research question. After expanding the source code in the \mcode{require} statements to eliminate variable references to class constructor functions implemented in other modules, our results show that precision reaches 100\% in the evaluated systems. Flow's recall ranges from 80\% to 98\% for all dependencies and from 85\% to 96\% for associations. Finally, we manually analyzed and categorized all false negatives identified in our study. These false negatives are due to: (i) use of dependency injection (9 instances); (ii) absence of method invocation (8 instances); (iii) use of the object \mcode{arguments} (12 instances); and (iv) use of attributes of type \mcode{Array} (5 instances). The overall results suggest that this approach can be used to support the implementation of reverse engineering tools for JavaScript. 
 
-As future work, we plan to extend our study analyzing a larger set of JavaScript systems, including the investigation of systems whose native language is JavaScript. Moreover, we may improve recall by combining Flow (or other static analysis tool) with dynamic analysis. We can instrument JavaScript code to record execution traces using, for example, tools like Aran~\cite{aran-2015} or Jalangi~\cite{jalangi2013}. Finally, the class-to-class dependencies can also be used to compute software quality metrics for JavaScript, such as \textit{fanin}, \textit{fanout}, and other source code metrics~\cite{CK_metrics}.
+As future work, we plan to extend our study analyzing a larger set of JavaScript systems. Moreover, we may improve recall by combining Flow (or other static analysis tool) with dynamic analysis. We can instrument JavaScript code to record execution traces using, for example, tools like Aran~\cite{aran-2015} or Jalangi~\cite{jalangi2013}. Finally, the class-to-class dependencies can also be used to compute software quality metrics for JavaScript, such as \textit{fanin}, \textit{fanout}, and other source code metrics~\cite{CK_metrics}.
 
-
+% , including the investigation of systems whose native language is JavaScript
 
 \section*{References}
 
