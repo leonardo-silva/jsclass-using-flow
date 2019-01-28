@@ -564,10 +564,19 @@ In Section~\ref{sec:study-design} we present the design of a study that uses str
 \section{Evaluation Design}
 \label{sec:study-design}
 
-In this section, we detail the design of a study proposed to evaluate the usage of Flow to detect dependencies between classes in legacy JavaScript systems. First, we present the dataset and the oracle we use (Section \ref{sec:dataset-oracle}). Then, we present the research questions that guide this study (Section \ref{sec:rqs}).
+In this section, we detail the design of a study proposed to evaluate the usage of Flow to detect dependencies between classes in legacy JavaScript systems. First, we present the dataset and the oracle we use (Section \ref{subsec:dataset-oracle}). Then, we present the research questions that guide this study (Section \ref{subsec:rqs}).
+
+\subsection{Class-Diagram Scope Metrics}
+\label{subsec:metrics}
+
+Although many metrics have been proposed for measuring object-oriented software systems, there are only afew metrics for class diagrams~\cite{yi2004,genero2005}. Among the class-diagram scope metrics, we are using the following two metrics defined by In et al. 
+
+%In, P., Kim, S., Barry, M. (2003): UML-based object-oriented metrics for
+%architecture complexity analysis. Department of computer science, Texas
+%A&M University, 2003. http://faculty.cs.tamu.edu/hohin
 
 \subsection{Dataset and Oracle}
-\label{sec:dataset-oracle}
+\label{subsec:dataset-oracle}
 
 %\noindent \textit{Dataset and the oracle.} 
 For our study, we need systems that emulate classes in legacy JavaScript in order to find the dependencies between these classes. We also need an oracle of class dependencies to measure the accuracy of the types inferred by Flow. For these reasons, we use TypeScript open-source projects to build this oracle and minimize possible bias. TypeScript is an extension of JavaScript that offers classes, interfaces, and a gradual type system~\cite{nance2014}. Therefore, by parsing and extracting explicit types in TypeScript programs, class-to-class dependencies can be found and added to an oracle. Before performing our analyses, TypeScript code is \textit{transpiled}\footnote{A transpiler is a source-to-source compiler. Transpilers are used, for example, to convert from TypeScript to JavaScript, in order to guarantee compatibility with existing browsers and runtime tools.} to vanilla JavaScript. The automatically generated code contains all constructor functions and methods, along with their dependencies, implemented according to JavaScript ES5 syntax. The strategy of using TypeScript projects to build an oracle is also adopted by Rostami \emph{et al.} \cite{rostami2016} in their work to detect constructor functions in JavaScript and by Silva \emph{et al.}~\cite{sanerera2017} in their preliminary study that evaluates the use of Flow as a type checker.
@@ -670,7 +679,7 @@ Finally, it is important to mention that the TypeScript code is only used to pro
 \vspace{2.5 mm}
 
 \subsection{Research Questions}
-\label{sec:rqs}
+\label{subsec:rqs}
 
 \subsubsection*{RQ \#1 - What is the accuracy of Flow in detecting class-to-class dependencies?}
 \label{sec:rq1-accuracy}
