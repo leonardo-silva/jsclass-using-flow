@@ -569,7 +569,30 @@ In this section, we detail the design of a study proposed to evaluate the usage 
 \subsection{Class-Diagram Scope Metrics}
 \label{subsec:metrics}
 
-Although many metrics have been proposed for measuring object-oriented software systems, there are only afew metrics for class diagrams~\cite{yi2004,genero2005}. Among the class-diagram scope metrics, we are using the following two metrics defined by In et al. 
+Although many metrics have been proposed for measuring object-oriented software systems, there are only a
+few metrics for class diagrams~\cite{yi2004,genero2005}. These measures can be useful to predict class diagram external quality characteristics, such as maintainability~\cite{genero2002a, genero2005}. Genero et al.~\cite{genero2001, genero-phd-2002} defined a set of metrics to measure the structural complexity of a class diagram. Among these class-diagram scope metrics, we present the ones directly related to class-to-class dependencies:
+
+\begin{itemize}
+	\item \textit{NAssoc} - The total number of associations.
+	\item \textit{NAgg} - The total number of aggregation relationships within a classdiagram (each whole-part pair in an aggregation relationship).
+	\item \textit{NDep} - The total number of dependency relationships.
+	\item \textit{NGen} - The total number of generalization relationshipswithin a class diagram (each parent-child pair in ageneralisation relationship).
+	\item \textit{NgenH} - The total number of generalizations hierarchies in a classdiagram.
+\end{itemize} 
+%	\item \textit{NAssoc} - Association relationships. Representing the number of associations between classes.
+%\item \textit{NDep} - Dependency relationships. Representing the number of dependencies of type \aspas{uses} between classes.
+
+In this paper, we are collecting information about associations and dependencies of type \aspas{uses}. We are using NAssoc, for associations, and, since we do not measure aggregations separately, the \aspas{uses} dependencies include both: \textit{NAgg} and \textit{NDep}. Once generalizations are not included in our measures for \aspas{uses} dependencies, \textit{NGen} and \textit{NgenH} are not being used.  
+
+For the sake of simplicity, we are introducing a metric called \textit{NUsesDep}, which represents the sum of Genero's metrics \textit{NAgg} and \textit{NDep}.
+
+\vspace{2.5 mm}
+
+\[
+\textit{NUsesDep} = \textit{NAgg} + \textit{NDep}
+\]
+
+\vspace{3.0 mm}
 
 %In, P., Kim, S., Barry, M. (2003): UML-based object-oriented metrics for
 %architecture complexity analysis. Department of computer science, Texas
@@ -593,7 +616,7 @@ Table~\ref{tab:dataset} presents the main characteristics of the three TypeScrip
 	\begin{tabular}{lrrr|ccc}
 		\toprule
 		\multicolumn{4}{c|}{\textbf{Systems}} & \multicolumn{3}{c}{\textbf{Dependencies}}  \\
-		Name & Version & LOC & Classes & Of type \aspas{uses} & Associations & TOTAL  \\
+		Name & Version & LOC & Classes & \textit{NUsesDep} & \textit{NAssoc} & TOTAL  \\
 		\midrule
 		{\sc inversifyjs} & 2.0.1   & 1,527 &         20 & 134 & 26 & 160  \\
 		{\sc satellizer}   & 0.15.5 &   990 &          11 & 19 & 20 & 39  \\
@@ -1033,7 +1056,7 @@ For our study, we need JavaScript systems that implement classes according to ES
 \subsection{Results}
 \label{sec:results-vanilla}
 
-Table \ref{tab:results-vanilla} presents the number of associations, dependencies of type \aspas{uses}, and total, per system. In this case, unfortunately, we do not have an oracle that allows us to measure precision and recall. On the other hand, we can use these information about dependencies to better understand how these systems work, as we can see in Figure~\ref{fig:class-diagram}. This class diagram contains all classes of system XXX and their relationships. As we can see... 
+Table \ref{tab:results-vanilla} presents the number of associations (\textit{NAssoc}), dependencies of type \aspas{uses} (\textit{NUsesDep}), and total, per system. In this case, unfortunately, we do not have an oracle that allows us to measure precision and recall. On the other hand, we can use these information about dependencies to better understand how these systems work, as we can see in Figure~\ref{fig:class-diagram}. This class diagram contains all classes of system XXX and their relationships. As we can see... 
  
 \begin{table}[hbp]
 	%\scriptsize
@@ -1042,7 +1065,7 @@ Table \ref{tab:results-vanilla} presents the number of associations, dependencie
 	\caption{Number of dependencies per system.}
 	\begin{tabular}{lrrr}
 		\toprule
-		System                & \aspas{uses}-Dependencies & Associations & Total    \\
+		System                & \textit{NUsesDep} & \textit{NAssoc} & Total    \\
 		\midrule
 		{\sc socket.io}     &                         29 &            4 &    33    \\  
 		{\sc isomer}         &                       273 &           11 &   284    \\  
