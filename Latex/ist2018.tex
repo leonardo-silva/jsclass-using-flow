@@ -194,7 +194,8 @@ Silva \emph{et al.}~\cite{sanerera2017} presented a preliminary study to evaluat
 
 %Besides the improvement in the values of recall, our approach does not require the migration of the constructor functions to use the new syntax for classes, introduced by ES6, in order to produce the type annotations for classes, as described in their preliminary work~\cite{sanerera2017}. 
 
-The remainder of this paper is organized as follows. Section~\ref{sec:background} provides a background on class emulation in legacy JavaScript code, class dependencies, and type inference. Section~\ref{sec:approach} describes the methodology used to detect class-to-class dependencies in legacy JavaScript code. Section~\ref{sec:approach_es6} presents the benefits of name typing over structural typing when using Flow to infer types. Section~\ref{sec:study-design} describes the research questions that guide this work, along with the dataset and metrics used in our first study. We discuss answers to the proposed research questions in Section~\ref{sec:results} and explain the recall results in Section~\ref{sec:rq3-recall-results}. Section~\ref{sec:study-design-vanilla} demonstrates the application of our approach in a dataset of vanilla JavaScript systems. We present a discussion about the lessons learned in Section~\ref{sec:discussion}. Threats to validity are exposed in Section~\ref{sec:threats} and related work is presented in Section~\ref{sec:related-work}. We conclude by summarizing our findings and discussing future work in Section~\ref{sec:conclusion}.
+The remainder of this paper is organized as follows. Section~\ref{sec:background} provides a background on class emulation in legacy JavaScript code, class dependencies, and type inference. Section~\ref{sec:approach} describes the methodology used to detect class-to-class dependencies in legacy JavaScript code. Section~\ref{sec:approach_es6} presents the benefits of name typing over structural typing when using Flow to infer types. Section~\ref{sec:study-design} describes the research questions that guide this work, along with the dataset and metrics used in our first study. We discuss answers to the proposed research questions in Section~\ref{sec:results} and explain the recall results in Section~\ref{sec:rq3-recall-results}. Section~\ref{sec:study-design-vanilla} demonstrates the application of our approach in a dataset of vanilla JavaScript systems. Threats to validity are exposed in Section~\ref{sec:threats} and related work is presented in Section~\ref{sec:related-work}. We conclude by summarizing our findings and discussing future work in Section~\ref{sec:conclusion}.
+%We present a discussion about the lessons learned in Section~\ref{sec:discussion}. 
 
 
 \section{Background}
@@ -848,7 +849,12 @@ In this second research question, we expand the source code of classes implement
 				
 				{\sc xstream}     & 79 &  0 &  1 & 99\%  & 42 &  0 &  2 &  95\%  & 121 &  0 & 3 &  98\% \\
 				
+				\midrule
+				%\multirow{2}{*}\textbf{\hspace{5pt}System} & \multicolumn{12}{c}{\textit{NUsesDep}} \\
+				 \multicolumn{13}{c}{Precision is 100\% for all systems and metrics} \\
+
 				\bottomrule
+				%Precision is 100\% for all systems and metrics
 			\end{tabular}
 		\end{center}
 	\end{footnotesize}
@@ -869,7 +875,7 @@ We manually analyzed the source code to understand the cases in which the class-
 
 \vspace{0.3cm}
 
-\noindent \textit{Use of Dependency Injection (DI).} \mcode{AngularJS}\footnote{\url{https://angular.io/}} is a JavaScript-based front-end web application framework. One of its features is a built-in dependency injection (DI) subsystem provided as a service~\cite{lerner2013ng, angularjs-2015, miguel2017}. With this mechanism, instead of creating a dependency directly, developers can request this service using the directive \mcode{\$inject}, and then \mcode{AngularJS} answers providing the instance they need. Listing~\ref{lst_factory_angularjs_satellizer} shows part of the implementation of class \mcode{Interceptor} in {\sc satellizer}. The constructor function receives three parameters that represent instances of other classes (line 2). There is also a factory method that calls this constructor function (lines 6-9). However, Flow cannot establish the class-to-class dependencies in this case because the factory method is not called directly in the source code. Instead, developers use the DI mechanism setting the directive \mcode{\$inject} like is shown in Listing~\ref{lst_di_angularjs_satellizer}.
+\noindent \textit{Use of Dependency Injection (DI).} \mcode{AngularJS}\footnote{\url{https://angular.io/}} is a JavaScript-based front-end web application framework. One of its features is a built-in dependency injection (DI) subsystem provided as a service~\cite{lerner2013ng, angularjs-2015, miguel2017}. With this mechanism, instead of creating a dependency directly, developers can request this service using the directive \mcode{\$inject}, and then \mcode{AngularJS} answers providing the instance they need. Listing~\ref{lst_factory_angularjs_satellizer} shows part of the implementation of class \mcode{Interceptor} in {\sc satellizer}. The constructor function receives three parameters that represent instances of other classes (line 2). There is also a factory method that calls this constructor function (lines 7-10). However, Flow cannot establish the class-to-class dependencies in this case because the factory method is not called directly in the source code. Instead, developers use the DI mechanism setting the directive \mcode{\$inject} like is shown in Listing~\ref{lst_di_angularjs_satellizer}.
 
 \vspace{0.3cm}
 %\ab{The code below does not have the same font than previous code. Please check}
@@ -898,7 +904,7 @@ Interceptor.Factory.$inject =
 
 \end{lstlisting} 
 
-We found nine dependencies that could not be identified by Flow due to the use of dependency injection in {\sc satellizer}, including three associations and six dependencies of type \aspas{\textit{uses}}.
+We found eight dependencies that could not be identified by Flow due to the use of dependency injection in {\sc satellizer}, including three associations and five dependencies of type \aspas{\textit{uses}}.
 
 \vspace{0.3cm}
 
@@ -960,7 +966,7 @@ class Kernel {
 
 \end{lstlisting} 
 
-We found 12 dependencies of type \aspas{\textit{uses}} in {\sc inversifyjs} that are not identified by Flow because the methods make use of the \mcode{arguments} object. 
+We found 10 dependencies of type \aspas{\textit{uses}} in {\sc inversifyjs} that are not identified by Flow because the methods make use of the \mcode{arguments} object. 
 
 \vspace{0.3cm}
 
@@ -993,34 +999,34 @@ class Target  {
 }
 \end{lstlisting} 
 
-We found five cases in {\sc inversifyjs}, including one association and four dependencies of type \aspas{\textit{uses}}, and three cases in {\sc xstream}, including two associations and one dependency of type \aspas{\textit{uses}}, that could not be identified by Flow because the respective attribute is an instance of \mcode{Array}. 
+We found four cases in {\sc inversifyjs}, including one association and three dependencies of type \aspas{\textit{uses}}, and three cases in {\sc xstream}, including two associations and one dependency of type \aspas{\textit{uses}}, that could not be identified by Flow because the respective attribute is an instance of \mcode{Array}. 
 
 Concluding our analysis of false negatives, Table \ref{tab:causesFNs} summarizes all the identified causes along with the number of instances found in the analyzed systems. 
 
 \begin{table*}[ht]
 	\caption{\textsc{Classification of false negatives}}
-	\begin{footnotesize}
+	\begin{scriptsize}%{footnotesize}
 		\begin{center}
-			\begin{tabular}{p{4.0cm}|@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}|r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}}
+			\begin{tabular}{p{3.5cm}|@{\hspace{0.5mm}}@{\hspace{0.5mm}}r@{\hspace{0.5mm}}@{\hspace{0.5mm}}r@{\hspace{0.5mm}}@{\hspace{0.5mm}}r@{\hspace{0.5mm}}@{\hspace{0.5mm}}|r@{\hspace{0.5mm}}@{\hspace{0.5mm}}r@{\hspace{0.5mm}}@{\hspace{0.5mm}}r@{\hspace{0.5mm}}@{\hspace{0.5mm}}}
 				\toprule 
-				\multirow{2}{*}\textbf{\hspace{1pt}Causes of False Negatives} & \multicolumn{03}{c|}{All Dependencies} & \multicolumn{03}{c}{Associations} \\
+				\multirow{2}{*}\textbf{\hspace{1pt}Causes of False Negatives} & \multicolumn{03}{c|}{\aspas{uses} Dependencies} & \multicolumn{03}{c}{Associations} \\
 				\cmidrule(lrr){2-4}\cmidrule(lrr){5-7}
 				
 				&  {\sc inversifyjs} & {\sc satellizer} & {\sc xstream} & {\sc inversifyjs} & {\sc satellizer} & {\sc xstream} \\
 				\midrule 
 				
-				Use of Dependency Injection  & 0 &  9  & 0 & 0 &  3 & 0 \\
+				Use of Dependency Injection  & 0 &  5  & 0 & 0 &  3 & 0 \\
 				
-				Absence of method invocation &  8 &  0 & 0 & 0 &  0 & 0 \\
+				No method invocation &  8 &  0 & 0 & 0 &  0 & 0 \\
 				
-				Use of the object \mcode{arguments} &  12 & 0 & 0 & 0 &  0 & 0\\
+				Use of the object \mcode{arguments} &  10 & 0 & 0 & 0 &  0 & 0\\
 				
-				Attributes of type \mcode{Array} &  5 &  0 & 1 & 1 &  0 & 2\\
+				Attributes of type \mcode{Array} &  3 &  0 & 1 & 1 &  0 & 2\\
 				
 				\bottomrule
 			\end{tabular}
 		\end{center}
-	\end{footnotesize}
+	\end{scriptsize}
 	\label{tab:causesFNs}
 \end{table*}
 
@@ -1030,18 +1036,19 @@ Concluding our analysis of false negatives, Table \ref{tab:causesFNs} summarizes
 \section{Finding Dependencies in Vanilla JavaScript Systems}
 \label{sec:study-design-vanilla}
 
-In this section, we detail the design of a study proposed to evaluate the usage of Flow to detect dependencies between classes in vanilla JavaScript systems. The idea is to verify the applicability of using Flow to detect class dependencies in code that is not automatically generated, like in the first study that used TypeScript transpiler to generate JavaScript legacy code. First, we present the dataset we use (Section \ref{sec:dataset-vanilla}). Then, we present the results in Section \ref{sec:results-vanilla}.
+In this section, we detail the design of a study proposed to evaluate the usage of Flow to detect dependencies between classes in vanilla JavaScript systems. The idea is to verify the applicability of using Flow to detect class dependencies in code that is not automatically generated, like in the first study that used TypeScript transpiler to generate JavaScript legacy code. First, we present the dataset we use in Section \ref{sec:dataset-vanilla}. The results are shown in Section \ref{sec:results-vanilla} and we make some considerations in Section \ref{sec:considerations-vanilla}.
+
 
 \subsection{Dataset}
 \label{sec:dataset-vanilla}
 
-For our study, we need JavaScript systems that implement classes according to ES6 syntax in order to allow the use of name typing. For this reason, we use the dataset of JavaScript open-source projects that have been migrated to ES6 for the study presented in~\cite{icsr2017}. We filter systems that have more than 2 classes, since we focus in dependencies between classes. Table~\ref{tab:dataset-vanilla} presents the selected systems, including a brief description, checkout date, size (LOC), number of files, and number of classes (NOC). The selection includes well-known and widely used JavaScript systems, covering frameworks ({\sc socket.io}), graphic libraries ({\sc isomer}), rendering engines ({\sc pixi.js}), and data structures and algorithms ({\sc algorithms.js}). 
+For this study, we need systems originally implemented in JavaScript. We started analyzing legacy code, what implies in comparing class structures to locate dependencies. However, the use of structural typing becomes an obstacle when we move to larger systems. To favor the scalability of our approach, it would be important to be able to use name equivalence when looking for specific types (see Section~\ref{sec:approach_es6} for more details about name vs structural equivalence). For this reason, we use a dataset of JavaScript open-source projects that have been migrated to ES6 for the study presented in~\cite{icsr2017}. We filter systems that have more than 2 classes, since we focus in dependencies between classes. Table~\ref{tab:dataset-vanilla} presents the selected systems, including a brief description, checkout date, size (LOC), number of files, and number of classes. The selection includes well-known and widely used JavaScript systems, covering frameworks ({\sc socket.io}), graphic libraries ({\sc isomer}), rendering engines ({\sc pixi.js}), and data structures and algorithms ({\sc algorithms.js}). 
 
-\begin{table}%[htbp]
+\begin{table}[h]%[htbp]
 	%\scriptsize
 	\footnotesize
 	\centering
-	\caption{JavaScript systems ordered by the number of classes.}
+	\caption{Vanilla JavaScript systems ordered by the number of classes.}
 	\begin{tabular}{llcrrr}
 		\toprule
 		System              & Description                    & Checkout  & LOC    & Files & Classes   \\
@@ -1122,11 +1129,15 @@ In Section \ref{sec:rq3-recall-results}, Listing~\ref{lst_array_inversifyjs}, we
 
 \vspace{2.5 mm}
 
-\noindent \textit{Multiple Types.} After applying Flow to infer types, we can see in Listing~\ref{lst_association_array} that the parameter \mcode{shape} (line 8) can assume any one of the following types:  \mcode{Circle} $\vert$ \mcode{Ellipse} $\vert$ \mcode{Polygon} $\vert$ \mcode{Rectangle} $\vert$ \mcode{RoundedRectangle}. In our analysis, it means that we have a \aspas{uses} dependency from class \mcode{Graphics} to each one of these possibilities.
+\noindent \textit{Multiple Types.} Flow is able to infer multiples types for the same property when this property receives different types of objects during execution. For example, in Listing~\ref{lst_association_array}, the parameter \mcode{shape} (line 8) can assume any one of the following types:  \mcode{Circle} $\vert$ \mcode{Ellipse} $\vert$ \mcode{Polygon} $\vert$ \mcode{Rectangle} $\vert$ \mcode{RoundedRectangle}. In our analysis, it means that we have a \aspas{uses} dependency from class \mcode{Graphics} to each one of these possibilities.
+
+%After applying Flow to infer types, we can see in Listing~\ref{lst_association_array} that the parameter \mcode{shape} (line 8) can assume any one of the following types:  \mcode{Circle} $\vert$ \mcode{Ellipse} $\vert$ \mcode{Polygon} $\vert$ \mcode{Rectangle} $\vert$ \mcode{RoundedRectangle}. In our analysis, it means that we have a \aspas{uses} dependency from class \mcode{Graphics} to each one of these possibilities.
 
 \vspace{2.5 mm}
 
-\noindent \textit{Using wildcards to import multiple files at once.} Listing~\ref{lst_import_wildcard} shows an example of an import statement that includes all files inside the indicated folder. In this case, to know which classes from \mcode{'../core'} are been used, we perform the following:
+\noindent \textit{Using wildcards to import multiple files at once.} Listing~\ref{lst_import_wildcard} shows an example of an import statement that includes all files inside the indicated folder. In this case, to know which classes from folder \mcode{'../core'} are been used, we perform the following steps:
+
+\vspace{3.5 mm}
 
 \begin{lstlisting}[caption=Example of import statement using wildcard in class \mcode{AccessibilityManager} in system {\sc pixi.js}, label=lst_import_wildcard, emph={[2]graphicsData},emphstyle={[2]\ttfamily\bfseries\color{darkgreen}}]
 // Import statement
@@ -1136,28 +1147,30 @@ import * as core from '../core';
 core.CanvasRenderer.registerPlugin('accessibility', AccessibilityManager);
 
 \end{lstlisting} 
+
 %* Inside AccessibilityManager.js, we have an import of multiple files using '*':
 % In this case, to know which classes from '../core' are been used, we have to 
 \begin{enumerate}
-	\item Look for the prefix \mcode{core} in the source code file \mcode{AccessibilityManager.js} , like the one in line 5.
+	\item Look for occurences of the prefix \mcode{core} in the source code file, like the one in the beginning of line 5.
 	\item Import the related classes, like class \mcode{CanvasRenderer} in line 5.
-	\item Eliminate the prefix. After, the code in line 5 will look like the following:  \mcode{CanvasRenderer.registerPlugin('accessibility',AccessibilityManager);}
+	\item Eliminate the prefix. After this, the code in line 5 will look like the following:  \mcode{CanvasRenderer.registerPlugin('accessibility'},\\ \mcode{AccessibilityManager);}
 \end{enumerate}
 
 \vspace{2.5 mm}
 
-\noindent \textit{Extra features.} We may miss eventual dependencies added by extra features (i.e. features added at runtime) when they are implemented in separated files. For example, class \mcode{DisplayObject}, in system {\sc pixi.js}, is \aspas{extended} in a file called \mcode{cacheAsBitmap.js}, which adds new methods to the class. In our analysis, we investigate the original implementation of the classes, although it would be possible to consider these extra features if necessary. Silva et al.~\cite{icsr2017} had already identified the presence of extra features in system {\sc pixi.js}. 
+\noindent \textit{Extra features.} We may miss eventual dependencies added by extra features (i.e. features added at runtime) when they are implemented in separated files. For example, class \mcode{DisplayObject}, in system {\sc pixi.js}, is \aspas{extended} in a file called \mcode{cacheAsBitmap.js}, which adds new methods to the class. In our analysis, we investigate the original implementation of the classes, without these extra features, although it would be possible to consider them if necessary. Silva et al.~\cite{icsr2017} had already identified the presence of extra features in system {\sc pixi.js}. 
 %Ex: class DisplayObject is "extended" in file cacheAsBitmap.js (CacheData-flow.js).
 
 
 %*we have some global function, like 'function uploadBaseTextures(prepare, item)' in file CanvasPrepare.js, which are implemented outside the %body of the class only not to be exported to other files, meaning that they work as "private" functions. In this study, we are considering the source could of these functions when looking for dependencies, because they are part of the class implementation.
 
 
+\begin{comment}
 
 \section {Discussion and Lessons Learned}
 \label{sec:discussion}
 
-First, we conducted a study to evaluate the usage of Flow to detect dependencies between classes in legacy JavaScript systems. We could not find any class-to-class dependencies when Flow is used in its default configuration, as in RQ \#1. The reason is that Flow cannot infer types for references across modules. In the analyzed systems, these modules are imported by calling the function \mcode{require}, which is part of \mcode{CommonJS} module specification. In these cases, the imported modules are assigned to variables for further use, as showed when investigating the first research question. As a result, the types of these variables are unknown. To overcome this problem, we decided to replace the variables that make reference to constructor functions implemented in other modules by the names of the respective constructor functions. To achieve this, we expanded the source code imported by the \mcode{require} statements, gathering the classes that depend on each other in the same module (file). This last approach achieved the best results for precision and recall. Finally, we manually analyzed and categorized all false negatives identified in our study, considering RQ \#2. 
+We started by conducting a study to evaluate the usage of Flow to detect dependencies between classes in legacy JavaScript systems. We could not find any class-to-class dependencies when Flow is used in its default configuration, as in RQ \#1. The reason is that Flow cannot infer types for references across modules. In the analyzed systems, these modules were imported by calling the function \mcode{require}, which is part of \mcode{CommonJS} module specification. In these cases, the imported modules are assigned to variables for further use, as showed when investigating the first research question. As a result, the types of these variables are unknown. To overcome this problem, we decided to replace the variables that make reference to constructor functions implemented in other modules by the names of the respective constructor functions. To achieve this, we expanded the source code imported by the \mcode{require} statements, gathering the classes that depend on each other in the same module (file). This last approach achieved the best results for precision and recall. Finally, we manually analyzed and categorized all false negatives identified in our study, considering RQ \#2. 
 
 It is known that, in both languages, TypeScript and JavaScript, it is possible to implement multiple classes in one file. In theses cases, we understand that the results would be the same for RQ \#1 and RQ \#2. However, in the analyzed systems, we had each class implemented in a different file.
 
@@ -1165,6 +1178,7 @@ Then, in Section \ref{sec:study-design-vanilla}, we present a study proposed to 
 
 Due to the dynamic nature of JavaScript, we hypothesize that it would be necessary to combine static and dynamic analysis to tackle the identified causes of false negatives, improving recall and providing more reliable information. However, it is known that dynamic analysis brings a new set of challenges to software engineers, such as code instrumentation and the need to set up and execute every program under analysis. Therefore, we conclude that the use of Flow to statically infer types and spot class-to-class dependencies in JavaScript legacy code can achieve an accuracy sufficient to support its usage by reverse engineering tools. However, we need to expand the source code in the \mcode{require} statements and to eliminate variable references to classes implemented in other files.
 
+\end{comment}
 
 
 %:%%%%%%%%%%%%%%%%%%%%%%%%%
