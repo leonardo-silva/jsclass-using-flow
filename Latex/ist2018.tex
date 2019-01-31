@@ -190,11 +190,11 @@ Type inference is a known technique that identifies the type of variables using 
 	\label{fig:FutureClassDiagram}
 \end{figure*}
 
-Silva \emph{et al.}~\cite{sanerera2017} presented a preliminary study to evaluate the use of Facebook's Flow\footnote{\url{https://flow.org/}}, a static type checker, to retrieve class-to-class dependencies in legacy JavaScript systems. They performed a study using code with and without annotating the class import statements in two modular applications. They achieved 100\% precision in the two analyzed systems, and recall ranging from 37\% to 51\% for dependencies in general and from 54\% to 85\% for associations, using type annotations for classes. In this paper, we extend their approach by preprocessing the source code in the \mcode{require} statements to eliminate variable references to class constructor functions implemented in other modules, instead of using type annotations for classes. We analyze a set of systems transpiled from TypeScript to JavaScript and our results show that precision continues to be 100\%, and recall increases, reaching 98\% for all dependencies and 96\% for associations, in the evaluated systems. We manually analyze and categorize all false negatives identified in our study. The results suggest that: (i) inferencing types is key to extract inter-class dependencies in legacy JavaScript applications; (ii) Facebook's Flow represents a practical solution to extract dependencies from existing software and systems. Moreover, in a second study, we successfully identify class-to-class dependencies and associations on vanilla JavaScript projects by applying our approach. We find that the migration of legacy JavaScript code to the ES6 class syntax allows the use of name typing instead of structural typing, simplifying the type inference and, by consequence, the identification of class-to-class dependencies. 
+Silva \emph{et al.}~\cite{sanerera2017} presented a preliminary study to evaluate the use of Facebook's Flow\footnote{\url{https://flow.org/}}, a static type checker, to retrieve class-to-class dependencies in legacy JavaScript systems. They performed a study using code with and without annotating the class import statements in two modular applications. They achieved 100\% precision in the two analyzed systems, and recall ranging from 37\% to 51\% for dependencies in general and from 54\% to 85\% for associations, using type annotations for classes. In this paper, we extend their approach by preprocessing the source code in the \mcode{require} statements, eliminating variable references to class constructor functions implemented in other modules, instead of using type annotations for classes. We analyze a set of systems transpiled from TypeScript to JavaScript and our results show that precision continues to be 100\%, and recall increases, reaching 98\% for all dependencies and 96\% for associations, in the evaluated systems. We manually analyze and categorize all false negatives identified in our study. The results suggest that: (i) inferencing types is key to extract inter-class dependencies in legacy JavaScript applications; (ii) Facebook's Flow represents a practical solution to extract dependencies from existing software and systems. Moreover, in a second study, we successfully identify class-to-class dependencies and associations on vanilla JavaScript projects by applying our approach. We find that the migration of legacy JavaScript code to the ES6 class syntax allows the use of name typing instead of structural typing, simplifying the type inference and, by consequence, the identification of class-to-class dependencies. 
 
 %Besides the improvement in the values of recall, our approach does not require the migration of the constructor functions to use the new syntax for classes, introduced by ES6, in order to produce the type annotations for classes, as described in their preliminary work~\cite{sanerera2017}. 
 
-The remainder of this paper is organized as follows. Section~\ref{sec:background} provides a background on class emulation in legacy JavaScript code, class dependencies, and type inference. Section~\ref{sec:approach} describes the methodology used to detect class-to-class dependencies in legacy JavaScript code. Section~\ref{sec:approach_es6} presents the benefits of name typing over structural typing when using Flow to infer types. Section~\ref{sec:study-design} describes the research questions that guide this work, along with the dataset and metrics used in our first study. We discuss answers to the proposed research questions in the first study in Section~\ref{sec:results} and explain the recall results in Section~\ref{sec:rq3-recall-results}. Section~\ref{sec:study-design-vanilla} demonstrates the application of our approach in a dataset of vanilla JavaScript systems. We present a discussion about the lessons learned in Section~\ref{sec:discussion}. Threats to validity are exposed in Section~\ref{sec:threats} and related work is presented in Section~\ref{sec:related-work}. We conclude by summarizing our findings and discussing future work in Section~\ref{sec:conclusion}.
+The remainder of this paper is organized as follows. Section~\ref{sec:background} provides a background on class emulation in legacy JavaScript code, class dependencies, and type inference. Section~\ref{sec:approach} describes the methodology used to detect class-to-class dependencies in legacy JavaScript code. Section~\ref{sec:approach_es6} presents the benefits of name typing over structural typing when using Flow to infer types. Section~\ref{sec:study-design} describes the research questions that guide this work, along with the dataset and metrics used in our first study. We discuss answers to the proposed research questions in Section~\ref{sec:results} and explain the recall results in Section~\ref{sec:rq3-recall-results}. Section~\ref{sec:study-design-vanilla} demonstrates the application of our approach in a dataset of vanilla JavaScript systems. We present a discussion about the lessons learned in Section~\ref{sec:discussion}. Threats to validity are exposed in Section~\ref{sec:threats} and related work is presented in Section~\ref{sec:related-work}. We conclude by summarizing our findings and discussing future work in Section~\ref{sec:conclusion}.
 
 
 \section{Background}
@@ -225,7 +225,7 @@ Indeed, the implementation in Listing~\ref{lst_es5class} represents one possibil
 \subsection{Class-To-Class Dependencies}
 \label{subsec:dependencies}
 
-Based on the UML specification~\cite{Fowler2003}, we consider two types of class-to-class dependencies in JavaScript. \textit{Associations} are particular cases of dependencies in which a class contains one or more attributes that are bound to instances of other classes. Figure~\ref{fig:example-associations} shows two examples of associations in JavaScript. In code (1), the constructor function for class \mcode{Z} is implemented in lines 8-11. The attribute \mcode{x}, which is part of class \mcode{Z}, receives an instance of class \mcode{X} (line 10), creating an association between the two classes. In code (2), the constructor function \mcode{Z} has a parameter \mcode{x} (line 8), which is assigned to the attribute \mcode{this.x} (line 9). In line 12, an instance of \mcode{Z} is created, with the parameter \mcode{x} bound to a newly created object of type \mcode{X}. If we consider the source code of the constructor functions, in code (1) we clearly notice the association between the two classes. However, in code (2), we need a client code (line 12), with the instantiation of classes \mcode{Z} and \mcode{X}, to establish the association.
+Based on the UML specification~\cite{Fowler2003}, we consider two types of class-to-class dependencies in JavaScript: associations an dependencies of type \aspas{uses}. \textit{Associations} are particular cases of dependencies in which a class contains one or more attributes that are bound to instances of other classes. Figure~\ref{fig:example-associations} shows two examples of associations in JavaScript. In code (1), the constructor function for class \mcode{Z} is implemented in lines 6-8. The attribute \mcode{x}, which is part of class \mcode{Z}, receives an instance of class \mcode{X} (line 7), creating an association between the two classes. In code (2), the constructor function \mcode{Z} has a parameter \mcode{x} (line 6), which is assigned to the attribute \mcode{this.x} (line 7). In line 9, an instance of \mcode{Z} is created, with the parameter \mcode{x} bound to a newly created object of type \mcode{X}. If we consider the source code of the constructor functions, in code (1) we clearly notice the association between the two classes. However, in code (2), we need a client code (line 9), with the instantiation of classes \mcode{Z} and \mcode{X}, to establish the association.
 
 \begin{figure}[ht]
 	%\textit{Rule \#1: Class}\par\medskip
@@ -328,7 +328,7 @@ Z.prototype.foo =
 \end{figure}
 
 
-In the remaining of this paper, the term dependency is used generically to reference associations and dependencies of the type \textit{uses}.
+In the remaining of this paper, the term dependency is used generically to reference both associations and dependencies of the type \textit{uses}.
 
 
 \subsection{Type Inference}
@@ -336,7 +336,7 @@ In the remaining of this paper, the term dependency is used generically to refer
 
 A type is a collection of program entities that share common properties. In general, we refer to the process of reasoning about unknown types as \textit{type inference}~\cite{Palsberg:1991}. A type inference mechanism analyzes the static structure of a program to infer the types of some or all of its expressions. Commonly, a type checker verifies if all the types are properly defined and used according to the semantics of the programming language. Statically typed languages, such as Java and C++, perform type checking at compile-time, demanding the developers to explicitly declare the types in the source code. Dynamically typed programming languages, such as JavaScript and Smalltalk, only check types at runtime. 
 
-Flow\footnote{\url{http://flowtype.org/}} is a static type checker for JavaScript designed by Facebook. It employs a control-flow analysis that compilers typically perform to extract semantic information from code, and then uses this information for type inference. Listing~\ref{lst_flow} is one example of code in which Flow can detect incompatible types involving an expression (line 3) and the type passed as argument of the function call (line 5). Listing~\ref{lst_flow-feedback} shows the result of applying Flow to the code in Listing~\ref{lst_flow}. As we can see, Flow indicates a type error in line 3 (a string is used as an operand in a multiplication).
+Flow\footnote{\url{http://flowtype.org/}} is a static type checker for JavaScript designed by Facebook. It employs a control-flow analysis that compilers typically perform to extract semantic information from code, and then uses this information for type inference. Listing~\ref{lst_flow} is one example of code in which Flow can detect incompatible types involving an expression (line 3) and the type passed as argument of the function call (line 5). Listing~\ref{lst_flow-feedback} shows the result of applying Flow to the code in Listing~\ref{lst_flow}. As we can see, Flow indicates a type error in the code of line 3 (a string is used as an operand in a multiplication).
 
 %\vspace{5.5 mm}
 
@@ -364,9 +364,7 @@ Developers can also use type annotations to document their systems and to help F
 \section{Using Flow to Infer Dependencies}
 \label{sec:approach}
 
-In this section, we describe the usage of a static type checker (Facebook's Flow) to identify dependencies between classes in legacy JavaScript code. The idea of using Flow as a type inferencer tool was initially proposed by Silva \emph{et al.} \cite{sanerera2017} in their preliminary study to identify class-to-class dependencies. 
-
-Figure~\ref{fig:proposed-approach} presents an overview of this methodology. Given a JavaScript application, we infer the dependencies as described next.
+In this section, we describe the usage of a static type checker (Facebook's Flow) to identify dependencies between classes in legacy JavaScript code. The idea of using Flow as a type inferencer tool was initially proposed by Silva \emph{et al.} \cite{sanerera2017} in their preliminary study to identify class-to-class dependencies. We extend their approach by preprocessing the source code in the \mcode{require} statements, \emph{i.e.}, statements used to import source code definitions from other files, eliminating variable references to class constructor functions implemented in other modules. Figure~\ref{fig:proposed-approach} presents an overview of this methodology. Given a JavaScript application, we infer dependencies as described next.
 
 % I used the site draw-io to create the flow chart of figure \label{fig:proposed-approach}
 \begin{figure}[ht]
@@ -377,23 +375,23 @@ Figure~\ref{fig:proposed-approach} presents an overview of this methodology. Giv
 	\label{fig:proposed-approach}
 \end{figure}
 
-%\vspace{1.5 mm}
+\vspace{2.5 mm}
 
-\noindent \textit{Class identification in case of legacy code.} In this step, we identify the classes emulated in a legacy JavaScript codebase using JSClassFinder~\cite{silva-cbsoft2015}, which is a tool designed to detect classes in legacy JavaScript code. JSClassFinder works on the application's abstract syntax tree that is generated after pre-processing the source code. The tool then applies a set of heuristics to identify classes, methods, and attributes~\cite{leonardo-jsep2017}. 
+\noindent \textit{Class identification in case of legacy code.} In this step, we identify the classes emulated in a legacy JavaScript codebase using JSClassFinder~\cite{silva-cbsoft2015, leonardo-jsep2017}, which is a tool designed to detect classes in legacy JavaScript code. JSClassFinder works on the application's abstract syntax tree that is generated after pre-processing the source code. The tool then applies a set of heuristics to identify classes, methods, and attributes.%~\cite{leonardo-jsep2017}. 
 
-\vspace{2.0 mm}
+\vspace{2.5 mm}
 
-\noindent \textit{Bundle together code in \aspas{import} statements.} We bundle together files that depend on each other and use it as input for the type inferencer tool. 
+\noindent \textit{Bundle together code in \mcode{require} statements.} We bundle together files that depend on each other and use it as input for the type inferencer tool. 
 
-\vspace{2.0 mm}
+\vspace{2.5 mm}
 
 \noindent \textit{Add related tests.} We infer types passing the application's source code and tests as input. In this case, the tests are important to determine some of the types involved in class instantiations and method calls, like in the association showed in code (2) of Figure~\ref{fig:example-associations}.
 
-\vspace{2.0 mm}
+\vspace{2.5 mm}
 
 \noindent \textit{Rename duplicated class names and their references.} After bundling together the necessary files, \emph{i.e.}, related classes an tests, we look for duplicated class names in order to eliminate any ambiguity during the type inference process.  
 
-\vspace{2.0 mm}
+\vspace{2.5 mm}
 
 \noindent \textit{Use Flow to infer types.} Flow is a very active open source project, with more than 582 contributors, 8,054 commits, and almost 19K stars (data collected in January 2019).\footnote{\url{https://github.com/facebook/flow}} We execute Flow passing the application's source code and tests as input. The output produced by Flow is a text file that contains the coordinates (line, column) for every element of the source code (variable, function, object, etc), and their respective types. Figure \ref{fig:example-flow-point} shows the emulation of a simple class \mcode{Point} (code on the left) and the correspondent Flow's output (text on the right). We can see that there is a function in line 1 of the output file, denoted by the arrow (\aspas{=$>$}), whose name is located in line 4 of the file \mcode{Point.js}, between columns 10 and 14. This function has two arguments (\mcode{x} and \mcode{y}) of type \mcode{number} and returns \mcode{void}. Every time the keyword \mcode{this} is used, Flow infers the structure of the object that it represents as its type. For example, the structure of the object \mcode{this} that appears in lines 5 and 6 of the legacy code is \mcode{\{x:number, y:number\}} (see lines 4 and 7 of Flow's output file). In this case, the inferred object represents the attributes of \mcode{Point}. In other words, when a reference to an emulated class is found, Flow infers the structure of the object that represents the class as its type. 
 
@@ -483,7 +481,9 @@ identifying the return type as \mcode{number}.
 
 \section{Using Flow to Infer ES6 Class Dependencies}
 \label{sec:approach_es6}
-The use of structural typing becomes an obstacle when we move to larger systems. To favor the scalability of our approach, it would be important to be able to use name equivalence when looking for specific types. To achieve that, we propose the migration of class structures to ES6 syntax instead on working directly on the legacy code. When we apply Flow to a code written in ES6, the class names are recognized as types, and we can use name equivalence to compare these types. As an example, consider the code presented in Figure \ref{fig:example-flow-point}. If we rewrite the class \mcode{Point} according to ES6 syntax, and apply Flow, we will have an output file similar to the one in Figure \ref{fig:example-flow-point-es6}. In this case, we can see the class name as a type, instead of the structure of the object. In lines 1 and 14 of the output file, we can see the type \mcode{[class: Point]}, indicating that it represents the class declaration or one direct reference to the class name. In lines 4, 7, 10, 12 and 13, we can see the type \mcode{Point}, indicating the occurrence of an instance of the class \mcode{Point} in the source code. 
+%The use of structural typing becomes an obstacle when we move to larger systems. To favor the scalability of our approach, it would be important to be able to use name equivalence when looking for specific types. To achieve that, we propose the migration of class structures to ES6 syntax instead on working directly on the legacy code. 
+
+When we apply Flow to a code written in ES6, the class names are recognized as types, and we can use name equivalence to compare these types. As an example, consider the code presented in Figure \ref{fig:example-flow-point}. If we rewrite the class \mcode{Point} according to ES6 syntax, and apply Flow, we will have an output file similar to the one in Figure \ref{fig:example-flow-point-es6}. In this case, we can see the class name as a type, instead of the structure of the object. In lines 1 and 14 of the output file, we can see the type \mcode{[class: Point]}, indicating that it represents the class declaration or one direct reference to the class name. In lines 4, 7, 10, 12 and 13, we can see the type \mcode{Point}, indicating the occurrence of an instance of the class \mcode{Point} in the source code. 
  
 \begin{figure*}[ht]
 	\centering
@@ -556,15 +556,15 @@ Point.js:19:21: number
 	\label{fig:example-flow-point-es6}
 \end{figure*}
 
-The migration to ES6 classes and, by consequence, the use of name typing, simplifies the identification of class-to-class dependencies and allows the use of the proposed approach in larger systems. However, the migration of ES5 to ES6 classes can be challenging and risky, as we presented in a previous study~\cite{icsr2017}. 
+The migration to ES6 classes and, by consequence, the use of name typing, simplifies the identification of class-to-class dependencies and allows the use of the proposed approach in larger systems. However, the migration of ES5 to ES6 classes can be challenging and risky, as we presented in a previous study~\cite{icsr2017}. In the next section we present the design of a study that uses structural equivalence to identify class dependencies in JavaScript legacy code.
 
-In Section~\ref{sec:study-design} we present the design of a study that uses structural equivalence to identify class dependencies in JavaScript legacy code. In Section~\ref{sec:study-design-vanilla} we identify dependencies in JavaScript systems using ES6 classes and name equivalence.
+%In Section~\ref{sec:study-design} we present the design of a study that uses structural equivalence to identify class dependencies in JavaScript legacy code. In Section~\ref{sec:study-design-vanilla} we identify dependencies in JavaScript systems using ES6 classes and name equivalence.
 
 %:%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Evaluation Design}
 \label{sec:study-design}
 
-In this section, we detail the design of a study proposed to evaluate the usage of Flow to detect dependencies between classes in legacy JavaScript systems. First, we present the dataset and the oracle we use (Section \ref{subsec:dataset-oracle}). Then, we present the research questions that guide this study (Section \ref{subsec:rqs}).
+In this section, we detail the design of a study proposed to evaluate the usage of Flow to detect dependencies between classes in legacy JavaScript systems. First, we present the metrics adopted to measure class-to-class dependencies in Section \ref{subsec:metrics}. The dataset and the oracle we use are described in Section \ref{subsec:dataset-oracle}. Then, we present the research questions that guide this study in Section \ref{subsec:rqs}.
 
 \subsection{Class-Diagram Scope Metrics}
 \label{subsec:metrics}
@@ -574,15 +574,19 @@ few metrics for class diagrams~\cite{yi2004,genero2005}. These measures can be u
 
 \begin{itemize}
 	\item \textit{NAssoc} - The total number of associations.
-	\item \textit{NAgg} - The total number of aggregation relationships within a classdiagram (each whole-part pair in an aggregation relationship).
+	\item \textit{NAgg} - The total number of aggregation relationships within a class
+diagram (each whole-part pair in an aggregation relationship).
 	\item \textit{NDep} - The total number of dependency relationships.
-	\item \textit{NGen} - The total number of generalization relationshipswithin a class diagram (each parent-child pair in ageneralisation relationship).
-	\item \textit{NgenH} - The total number of generalizations hierarchies in a classdiagram.
+	\item \textit{NGen} - The total number of generalization relationships
+within a class diagram (each parent-child pair in a
+generalisation relationship).
+	\item \textit{NgenH} - The total number of generalizations hierarchies in a class
+diagram.
 \end{itemize} 
 %	\item \textit{NAssoc} - Association relationships. Representing the number of associations between classes.
 %\item \textit{NDep} - Dependency relationships. Representing the number of dependencies of type \aspas{uses} between classes.
 
-In this paper, we are collecting information about associations and dependencies of type \aspas{uses}. We are using NAssoc, for associations, and, since we do not measure aggregations separately, the \aspas{uses} dependencies include both: \textit{NAgg} and \textit{NDep}. Once generalizations are not included in our measures for \aspas{uses} dependencies, \textit{NGen} and \textit{NgenH} are not being used.  
+In this paper, we are collecting information about associations and dependencies of type \aspas{uses}. We are using the metric \textit{NAssoc}, for associations, and, since we do not measure aggregations separately, the \aspas{uses} dependencies include both: \textit{NAgg} and \textit{NDep}. Once generalizations are not included in our measures for \aspas{uses} dependencies, \textit{NGen} and \textit{NgenH} are not being used.  
 
 For the sake of simplicity, we are introducing a metric called \textit{NUsesDep}, which represents the sum of Genero's metrics \textit{NAgg} and \textit{NDep}.
 
@@ -605,13 +609,13 @@ For the sake of simplicity, we are introducing a metric called \textit{NUsesDep}
 For our study, we need systems that emulate classes in legacy JavaScript in order to find the dependencies between these classes. We also need an oracle of class dependencies to measure the accuracy of the types inferred by Flow. For these reasons, we use TypeScript open-source projects to build this oracle and minimize possible bias. TypeScript is an extension of JavaScript that offers classes, interfaces, and a gradual type system~\cite{nance2014}. Therefore, by parsing and extracting explicit types in TypeScript programs, class-to-class dependencies can be found and added to an oracle. Before performing our analyses, TypeScript code is \textit{transpiled}\footnote{A transpiler is a source-to-source compiler. Transpilers are used, for example, to convert from TypeScript to JavaScript, in order to guarantee compatibility with existing browsers and runtime tools.} to vanilla JavaScript. The automatically generated code contains all constructor functions and methods, along with their dependencies, implemented according to JavaScript ES5 syntax. The strategy of using TypeScript projects to build an oracle is also adopted by Rostami \emph{et al.} \cite{rostami2016} in their work to detect constructor functions in JavaScript and by Silva \emph{et al.}~\cite{sanerera2017} in their preliminary study that evaluates the use of Flow as a type checker.
 %, and by Silva \emph{et al.} \cite{sanerera2017} in their study to identify dependencies between classes in legacy JavaScript code. 
 
-Table~\ref{tab:dataset} presents the main characteristics of the three TypeScript projects in our dataset, including version number, size (LOC), number of classes, number of dependencies of type \aspas{uses}, number of class associations, and the total of dependencies. The information about the dependencies can be obtained directly by analyzing the TypeScript code, which has explicit types. {\sc inversifyjs}\footnote{\url{https://github.com/inversify/InversifyJS}} is a lightweight inversion of control container for TypeScript and JavaScript applications. {\sc satellizer}\footnote{\url{https://github.com/sahat/satellizer}} is an end-to-end token-based authentication module for \mcode{AngularJS} with built-in support to different service providers. {\sc xstream}\footnote{\url{http://staltz.com/xstream/}} is a fast functional reactive stream library for JavaScript. {\sc inversifyjs} and {\sc satellizer} are also used by Silva \emph{et al.}~\cite{sanerera2017} in their study.
+Table~\ref{tab:dataset} presents the main characteristics of the three TypeScript projects in our dataset, including version number, size (LOC), number of classes, number of dependencies of type \aspas{uses} (\textit{NUsesDep}), number of class associations (\textit{NAssoc}), and the total of dependencies. The information about the dependencies can be obtained directly by analyzing the TypeScript code, which has explicit types. {\sc inversifyjs}\footnote{\url{https://github.com/inversify/InversifyJS}} is a lightweight inversion of control container for TypeScript and JavaScript applications. {\sc satellizer}\footnote{\url{https://github.com/sahat/satellizer}} is an end-to-end token-based authentication module for \mcode{AngularJS} with built-in support to different service providers. {\sc xstream}\footnote{\url{http://staltz.com/xstream/}} is a fast functional reactive stream library for JavaScript. {\sc inversifyjs} and {\sc satellizer} are also used by Silva \emph{et al.}~\cite{sanerera2017} in their study.
 
 
 \begin{table}[!ht]
 	\scriptsize	
 	\centering
-	\caption{\textsc{Characteristics of the analyzed systems}}
+	\caption{\textsc{Characteristics of the analyzed TypeScript systems}}
 	\tabcolsep=0.11cm
 	\begin{tabular}{lrrr|ccc}
 		\toprule
@@ -629,7 +633,7 @@ Table~\ref{tab:dataset} presents the main characteristics of the three TypeScrip
 %\end{comment}
 
 
-Listing~\ref{lst_typescript_inversifyjs} shows a simple class-based example in TypeScript. We can see explicit type annotations in attributes (line 2), which are used to infer associations, and in parameters (lines 4 and 7), which are used to infer \textit{uses} relations, when building the oracle of class dependencies used in this chapter. 
+Listing~\ref{lst_typescript_inversifyjs} shows a simple class-based example in TypeScript. We can see explicit type annotations in attributes (line 2), which are used to infer associations, and in parameters (lines 4) and return types (line 7), which are used to infer \textit{uses} relations when building the oracle of class dependencies. % used in this chapter. 
 
 \begin{lstlisting}[caption=Example of class in TypeScript, label=lst_typescript_inversifyjs, emph={[2]string,boolean},emphstyle={[2]\ttfamily\bfseries\color{darkgreen}}]
 class Greeter {
@@ -712,7 +716,7 @@ Answering this first research question is important to assess how accurate and c
 \subsubsection*{RQ \#2 - Can we improve the accuracy of Flow by expanding \mcode{require} statements?}
 \label{sec:rq3-rename}
 
-Both analyzed systems address module dependencies that comply with \mcode{CommonJS}\footnote{\url{http://www.commonjs.org/}} standard, which is implemented by \mcode{Node.js}. In this module system, JavaScript files use the built-in function \mcode{require()} to load modules, which can reference other JavaScript files or entire folders. In this second research question, we intend to improve Flow's accuracy by eliminating the need of variables that make reference to class constructor functions implemented in other modules, using instead the names of these functions directly. We use the example in Figure \ref{fig:example-rq2} to illustrate this approach. In this figure, we initially represent two class constructor functions, \mcode{X} and \mcode{Z}, implemented in files \mcode{fileX.js} and \mcode{fileZ.js}, respectively. There is a dependency between them, as we can see in the implementation of \mcode{fileZ.js} (lines 2 and 5). The \mcode{require()} invocation in line 2 assigns the implementation of \mcode{X} to variable \mcode{x\_1}. This variable is then used to establish the association between \mcode{X} and \mcode{Z} (line 5). In order to eliminate the need of the variable \mcode{x\_1} and, by consequence, the need of the \mcode{require} statement, in this research question we propose to \aspas{expand} the source code of \mcode{fileX.js}, which is passed as argument to \mcode{require}, in \mcode{fileZ.js}. As a result, the implementations of \mcode{X} and \mcode{Z} are bundled together, as we can see in the final implementation of \mcode{fileZ.js}. Therefore, after bundling together the files that depend on each other, dependencies can be established by making direct reference to other class constructor functions, like in line 8 of the bundled file. 
+The analyzed systems address module dependencies that comply with \mcode{CommonJS}\footnote{\url{http://www.commonjs.org/}} standard, which is implemented by \mcode{Node.js}. In this module system, JavaScript files use the built-in function \mcode{require()} to load modules, which can reference other JavaScript files or entire folders. In this second research question, we intend to improve Flow's accuracy by eliminating the need of variables that make reference to class constructor functions implemented in other modules, using instead the names of these functions directly. We use the example in Figure \ref{fig:example-rq2} to illustrate this approach. In this figure, we initially represent two class constructor functions, \mcode{X} and \mcode{Z}, implemented in files \mcode{fileX.js} and \mcode{fileZ.js}, respectively. There is a dependency between them, as we can see in the implementation of \mcode{fileZ.js} (lines 2 and 4). The \mcode{require()} invocation in line 2 assigns the implementation of \mcode{X} to variable \mcode{x\_1}. This variable is then used to establish the association between \mcode{X} and \mcode{Z} (line 4). In order to eliminate the need of the variable \mcode{x\_1} and, by consequence, the need of the \mcode{require} statement, in this research question we propose to \aspas{expand} the source code of \mcode{fileX.js}, which is passed as argument to \mcode{require}, in \mcode{fileZ.js}. As a result, the implementations of \mcode{X} and \mcode{Z} are bundled together, as we can see in the final implementation of \mcode{fileZ.js}. Therefore, after bundling together the files that depend on each other, dependencies can be established by making direct reference to other class constructor functions, like in line 7 of the bundled file. 
 
 \begin{figure}[ht]
 	\centering
@@ -792,7 +796,7 @@ To answer RQ \#2, we expanded the source code of all \mcode{require} statements 
 \subsection{What is the accuracy of Flow in detecting class-to-class dependencies?}
 \label{sec:rq1}
 
-In this first research question, after executing Flow, we could not identify any class-to-class dependencies; therefore, we have (P)recision = (R)ecall = 0. After a manual inspection and analysis, we found that this result is due to the use of variables that denote constructor functions implemented in other files, like in the example shown in Listing~\ref{lst_rq1_inversifyjs}. In this case, we can see two import statements (lines 1-2) and the constructor function of class \mcode{BindingInWhenOnSyntax} (lines 4-9) in {\sc inversifyjs}. Since Flow cannot determine the return type of function \mcode{require} (lines 1-2), the types of variables \mcode{binding\_when\_syntax\_1} (lines 1 and 6) and \mcode{binding\_on\_syntax\_1} (lines 2 and 7) are unknown. The three analyzed systems rely on variables to import class definitions from other files. This observation motivated the investigation proposed in RQ \#2.
+In this first research question, after executing Flow, we could not identify any class-to-class dependencies; therefore, we have (P)recision = (R)ecall = 0. After a manual inspection and analysis, we found that this result is due to the use of variables that denote constructor functions implemented in other files, like in the example shown in Listing~\ref{lst_rq1_inversifyjs}. In this case, we can see two import statements (lines 1-2) and the constructor function of class \mcode{BindingInWhenOnSyntax} (lines 4-11) in {\sc inversifyjs}. Since Flow cannot determine the return type of function \mcode{require} (lines 1-2), the types of variables \mcode{binding\_when\_syntax\_1} (lines 1 and 7) and \mcode{binding\_on\_syntax\_1} (lines 2 and 9) are unknown. The three analyzed systems rely on variables to import class definitions from other files. This observation motivated the investigation proposed in RQ \#2.
 
 %\vspace{20pt}
 
@@ -828,26 +832,26 @@ In this second research question, we expand the source code of classes implement
 
 \begin{table*}[htp]
 	\caption{\textsc{Precision and Recall results}}
-	\begin{small} %{footnotesize}
+	\begin{footnotesize}%{small}
 		\begin{center}
-			\begin{tabular}{p{2.5cm}|@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}|r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}}
+			\begin{tabular}{p{2.0cm}|@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}|r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}|r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}r@{\hspace{1mm}}@{\hspace{1mm}}}
 				\toprule 
-				\multirow{2}{*}\textbf{\hspace{5pt}System} & \multicolumn{05}{c|}{All Dependencies} & \multicolumn{05}{c}{Associations} \\
-				\cmidrule(lr){2-6}\cmidrule(lr){7-11}
+				\multirow{2}{*}\textbf{\hspace{5pt}System} & \multicolumn{04}{c|}{\textit{NUsesDep}} & \multicolumn{04}{c|}{\textit{NAssoc}} & \multicolumn{04}{c}{All Dependencies} \\
+				\cmidrule(lr){2-5}\cmidrule(lr){6-9}\cmidrule(lr){10-13}
 				
-				&  TP & FP &  FN &  Precision & Recall & TP & FP & FN & Precision & Recall  \\
+				&  TP & FP &  FN &  Recall & TP & FP & FN & Recall & TP & FP & FN & Recall  \\
 				\midrule 
 				
-				{\sc inversifyjs} & 138 &  0 & 22 &  100\% &  86\%  & 25 &  0 &  1 & 100\% &  96\%  \\
+				{\sc inversifyjs} & 113 &  0 & 21 &  81\%  & 25 &  0 &  1 & 96\%  & 138 &  0 & 22 &  86\% \\
 				
-				{\sc satellizer}   &  31 &  0 &  8  &  100\% &  80\%  & 17 &  0 &  3 & 100\% &  85\%  \\
+				{\sc satellizer}   &  14 &  0 &  5  & 64\%  & 17 &  0 &  3 &  85\%  & 31 &  0 & 8 &  80\% \\
 				
-				{\sc xstream}     & 121 &  0 &  3 &  100\% &  98\%  & 42 &  0 &  2 & 100\% &  95\%  \\
+				{\sc xstream}     & 79 &  0 &  1 & 99\%  & 42 &  0 &  2 &  95\%  & 121 &  0 & 3 &  98\% \\
 				
 				\bottomrule
 			\end{tabular}
 		\end{center}
-	\end{small}
+	\end{footnotesize}
 	\label{tab:results}
 \end{table*}
 
