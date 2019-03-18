@@ -153,8 +153,9 @@
 \address[bergeladdress]{ISCLab, DCC, University of Chile}
 
 \begin{abstract}
-Accurately identifying dependencies between software components is an essential activity when maintaining and evolving software applications. It is also known that developers often use classes to tackle the complexity of legacy JavaScript code, \emph{i.e.}, code implemented in JavaScript versions that do not provide syntactical support to classes. In this scenario, identifying associations and other dependencies between classes is specially challenging due to the lack of types in the source code. This paper investigates the use of type inference to identify relationships between classes in legacy JavaScript code. We demonstrate how to use Flow, a static type-checker for JavaScript, to infer types that correspond to class references in systems transpiled from TypeScript to JavaScript. Our results show that precision reaches 100\% in the evaluated systems. Flow's recall ranges from 85\% to 96\% for associations, 64\% to 99\% for \aspas{uses} dependencies, and, if we consider both, from 80\% to 98\%. We manually analyzed and categorized all false negatives identified in our study. Finally, we successfully apply our approach in a set of vanilla JavaScript systems. We find that the migration of legacy code to the new class syntax simplifies type inference and, by consequence, the identification of class-to-class dependencies. The overall results suggest that using a type inferencer is a reliable approach to identify dependencies between software components in JavaScript.
+Accurately identifying dependencies between software components is an essential activity when maintaining and evolving software applications. It is also known that developers often use classes to tackle the complexity of legacy JavaScript code, \emph{i.e.}, code implemented in JavaScript versions that do not provide syntactical support to classes. In this scenario, identifying associations and other dependencies between classes is specially challenging due to the lack of types in the source code. This paper investigates the use of type inference to identify relationships between classes in legacy JavaScript code. We demonstrate how to use Flow, a static type-checker for JavaScript, to infer types that correspond to class references in systems transpiled from TypeScript to JavaScript. Our results show that precision reaches 100\% in the evaluated systems. Flow's recall ranges from 85\% to 96\% for associations, 64\% to 99\% for \aspas{uses} dependencies, and, if we consider both, from 80\% to 98\%. We manually analyzed and categorized all false negatives identified in our study. Finally, we successfully apply our approach in a set of vanilla JavaScript systems. The overall results suggest that using a type inferencer is a reliable approach to identify dependencies between software components in JavaScript.
 %\ab{What is the take-away message? That using a type inferencer is a cheap and reliable approach to identify dependencies between software component? If yes, then say it}
+%We find that the migration of legacy code to the new class syntax simplifies type inference and, by consequence, the identification of class-to-class dependencies. 
 \end{abstract}
 
 \begin{keyword}
@@ -477,10 +478,10 @@ Point.js:18:21: number
 	\label{fig:example-flow-point}
 \end{figure*}
 
+\vspace{4.0 mm}
 
 In JavaScript, the value of \mcode{this} depends on how a function is called, and it may be different each time the function is called.\footnote{https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/this}
-For this reason, we do not have the return type of function \mcode{getX} in line 11 of the output file. In this case, since \mcode{getX} is not invoked in the code, Flow does not infer neither its return type nor the type of \mcode{this.x}, used in \mcode{getX} (lines 11-15 of the output file). To overcome this problem, it is important to pass the tests together with the source code as input for Flow, using as many function invocations as possible. If we add a call to \mcode{getX} at the end of the source code on the left, for example \mcode{p.getX()}, then Flow gives the following output: \mcode{{getX: ()=> number}}, 
-identifying the return type as \mcode{number}.
+For this reason, we do not have the return type of function \mcode{getX} in line 11 of the output file. In this case, since \mcode{getX} is not invoked in the code, Flow does not infer neither its return type nor the type of \mcode{this.x}, used in \mcode{getX} (lines 11-15 of the output file). To overcome this problem, it is important to pass the tests together with the source code as input for Flow, using as many function invocations as possible. If we add a call to \mcode{getX} at the end of the source code on the left, for example \mcode{p.getX()}, then Flow gives the following output: \mcode{{getX: ()=> number}}, identifying the return type as \mcode{number}.
 
 \vspace{2.0 mm}
 
@@ -641,7 +642,7 @@ Table~\ref{tab:dataset} presents the main characteristics of the three TypeScrip
 %\end{comment}
 
 
-Listing~\ref{lst_typescript_inversifyjs} shows a simple class-based example in TypeScript. We can see explicit type annotations in attributes (line 2), which are used to infer associations, and in parameters (lines 4) and return types (line 7), which are used to infer \textit{uses} relations when building the oracle of class dependencies. % used in this chapter. 
+Listing~\ref{lst_typescript_inversifyjs} shows a simple class-based example in TypeScript. We can see explicit type annotations in attributes (line 2), which are used to infer associations, and in parameters (lines 4) and return types (line 8), which are used to infer \textit{uses} relations when building the oracle of class dependencies. % used in this chapter. 
 
 \begin{lstlisting}[caption=Example of class in TypeScript, label=lst_typescript_inversifyjs, emph={[2]string,boolean},emphstyle={[2]\ttfamily\bfseries\color{darkgreen}}]
 class Greeter {
@@ -650,13 +651,18 @@ class Greeter {
 	constructor(message: string) {
 		this.greeting = message;
 	}
+	
 	public greet(): string {
 		return "Hello, " + this.greeting;
 	}
 }  
 \end{lstlisting} 
 
+\vspace{2.0 mm}
+
 Listing \ref{lst_typescript_kernel} shows a second example that contains class associations in {\sc inversifyjs}. The import statements (lines 1-3) link the variables (\mcode{Planner}, \mcode{Resolver}, and \mcode{Lookup}) to the respective classes, implemented in other files. Lines 5-19 contain the implementation of class \mcode{Kernel}, whose attributes are defined in lines 6-9 and initialized in the constructor function (lines 12-17). The attributes \mcode{\_planner}, \mcode{\_resolver}, and \mcode{\_bindingDictionary} receive new instances of the classes \mcode{Planner}, \mcode{Resolver}, and \mcode{Lookup}, respectively (lines 14-16). Therefore, we count three class associations in this example.
+
+\vspace{6.0 mm}
 
 \begin{lstlisting}[caption=Example of class associations in TypeScript, label=lst_typescript_kernel, basicstyle=\ttfamily\footnotesize, emph={[2]},emphstyle={[2]\ttfamily\bfseries\color{darkgreen}}]
 import Planner from "../planning/planner";
@@ -793,6 +799,8 @@ function Z() {
 	\caption{Example of constructor functions \mcode{Z} and \mcode{X} bundled together in a same file}
 	\label{fig:example-rq2}
 \end{figure}
+
+\vspace{4.0 mm}
 
 To answer RQ \#2, we expanded the source code of all \mcode{require} statements that import the definitions of other class constructor functions, in the analyzed systems. Then, we used the resulting files as input for Flow. The transformation proposed in this research question is similar to the one performed by the C preprocessor when handling \mcode{\#include} directions. The main difference is the need to replace every use of the variable with the \mcode{require} result by the imported class constructor.
 
@@ -1049,7 +1057,7 @@ In this section, we detail the design of a study proposed to evaluate the usage 
 \subsection{Dataset}
 \label{sec:dataset-vanilla}
 
-For this study, we need systems originally implemented in JavaScript. We started analyzing legacy code, what implies in comparing class structures to locate dependencies. However, the use of structural typing becomes an obstacle when we move to larger systems\ab{Why?}. To favor the scalability of our approach, it would be important to be able to use name equivalence when looking for specific types (see Section~\ref{sec:approach_es6} for more details about name vs structural equivalence). For this reason, we use a dataset of JavaScript open-source projects that have been migrated to ES6 for the study presented in Silva \emph{et al.}~\cite{icsr2017}. We filter systems that have more than 2 classes, since we focus in dependencies between classes. Table~\ref{tab:dataset-vanilla} presents the selected systems, including a brief description, checkout date, size (LOC), number of files, and number of classes. The selection includes well-known and widely used JavaScript systems, covering frameworks ({\sc socket.io}), graphic libraries ({\sc isomer}), rendering engines ({\sc pixi.js}), and data structures and algorithms ({\sc algorithms.js}). 
+For this study, we need systems originally implemented in JavaScript. We started analyzing legacy code, what implies in comparing class structures to locate dependencies. However, the use of structural typing becomes an obstacle when we move to larger systems. To favor the scalability of our approach, it would be important to be able to use name equivalence when looking for specific types (see Section~\ref{sec:approach_es6} for more details about name vs structural typing). For this reason, we use a dataset of JavaScript open-source projects that have been migrated to ES6 for the study presented in Silva \emph{et al.}~\cite{icsr2017}. We filter systems that have more than 2 classes, since we focus in dependencies between classes. Table~\ref{tab:dataset-vanilla} presents the selected systems, including a brief description, checkout date, size (LOC), number of files, and number of classes. The selection includes well-known and widely used JavaScript systems, covering frameworks ({\sc socket.io}), graphic libraries ({\sc isomer}), rendering engines ({\sc pixi.js}), and data structures and algorithms ({\sc algorithms.js}). 
 
 \begin{table}[h]%[htbp]
 	%\scriptsize
@@ -1074,7 +1082,7 @@ For this study, we need systems originally implemented in JavaScript. We started
 \subsection{Results}
 \label{sec:results-vanilla}
 
-Table \ref{tab:results-vanilla} presents the number of associations (\textit{NAssoc}), dependencies of type \aspas{uses} (\textit{NUsesDep}), and total, per system. In this case, unfortunately, we do not have an oracle that allows us to measure precision and recall. On the other hand, we can use these information about dependencies to better understand how these systems work, as we can see in Figure~\ref{fig:class-diagram}. This class diagram contains all classes of system XXX and their relationships. As we can see... 
+Table \ref{tab:results-vanilla} presents the number of associations (\textit{NAssoc}), dependencies of type \aspas{uses} (\textit{NUsesDep}), and total, per system. In this case, unfortunately, we do not have an oracle that allows us to measure precision and recall. On the other hand, we can use these information about dependencies to better understand how these systems work, and to support the usage of our approach by reverse engineering tools.
  
 \begin{table}[hbp]
 	%\scriptsize
@@ -1095,13 +1103,13 @@ Table \ref{tab:results-vanilla} presents the number of associations (\textit{NAs
 \end{table}
 
 
-\begin{figure}[h]
-	\centering
-	\captionsetup{justification=centering}
-	\includegraphics[width=3.4in]{fig/class-diagram-XXX.png}
-	\caption{Class Diagram with Dependencies between JavaScript Classes}
-	\label{fig:class-diagram}
-\end{figure}
+%\begin{figure}[h]
+%	\centering
+%	\captionsetup{justification=centering}
+%	\includegraphics[width=3.4in]{fig/class-diagram-XXX.png}
+%	\caption{Class Diagram with Dependencies between JavaScript Classes}
+%	\label{fig:class-diagram}
+%\end{figure}
 
 
 
@@ -1212,7 +1220,7 @@ Other external validity is related to the fact that we only address module depen
 \section{Related Work}
 \label{sec:related-work}
 
-Silva \emph{et al.} \cite{sanerera2017} originally introduced the idea of using Flow, a static type-checker for JavaScript, to infer class-to-class associations and dependencies of type \textit{uses} in legacy JavaScript code. They report a preliminary study on two open-source projects whose code is transpiled from TypeScript to JavaScript. They manually annotate import statements with type information in order to infer types for classes. Their results show that precision reaches 100\% in the two evaluated systems. However, recall is lower, ranging from 37\% to 51\% for all dependencies, which is probably not sufficient to provide reliable reverse engineering tools to JavaScript developers. In this paper, we also use Flow to infer types that correspond to class references, but with a different strategy. We expand the source code in the \mcode{require} statements to eliminate variable references to class constructor functions implemented in other modules. In a first study, we analyzed the same TypeScript systems they used in their study, {\sc inversifyjs} and {\sc satellizer}, plus another system called {\sc xstream}. Our results show that precision continues in 100\% in the three evaluated systems. Flow's recall increases, 80\% - 98\% for all dependencies, including associations and dependencies of type \aspas{uses}.
+In a previous work~\cite{sanerera2017}, we originally introduced the idea of using Flow, a static type-checker for JavaScript, to infer class-to-class associations and dependencies of type \textit{uses} in legacy JavaScript code. They report a preliminary study on two open-source projects whose code is transpiled from TypeScript to JavaScript. They manually annotate import statements with type information in order to infer types for classes. Their results show that precision reaches 100\% in the two evaluated systems. However, recall is lower, ranging from 37\% to 51\% for all dependencies, which is probably not sufficient to provide reliable reverse engineering tools to JavaScript developers. In this paper, we also use Flow to infer types that correspond to class references, but with a different strategy. We expand the source code in the \mcode{require} statements to eliminate variable references to class constructor functions implemented in other modules. In a first study, we analyzed the same TypeScript systems they used in their study, {\sc inversifyjs} and {\sc satellizer}, plus another system called {\sc xstream}. Our results show that precision continues in 100\% in the three evaluated systems. Flow's recall increases, 80\% - 98\% for all dependencies, including associations and dependencies of type \aspas{uses}.
 
 Gao et al.~\cite{Gao2017} investigate the benefits of using static type systems, notably Facebook's Flow and Microsoft's TypeScript, to detect public bugs. For the analyzed systems, they select a fixed bug and check out the code just prior to the fix. They manually add type annotations to the buggy code and test whether Flow and TypeScript report an error. They then report the proportion of bugs on which these type systems reported an error. The conclusion is that both static type systems find an important percentage of public bugs: 15\% each. Moreover, they state that the use of such type systems can bring other benefits, such as facilitating code search/completion and serving as documentation.
 
@@ -1230,7 +1238,7 @@ There are also tools and techniques that rely on execution traces to understand 
 \section{Conclusion and Future Work}
 \label{sec:conclusion}
 
-In this paper, we evaluate the usage of Flow, a static type-checker for JavaScript, to infer class-to-class associations and dependencies of type \aspas{uses} in legacy JavaScript code. We report a study on three open-source projects whose code is transpiled from TypeScript to JavaScript. We could not find any class-to-class dependencies when Flow is used in its default configuration, as in the first research question. After expanding the source code in the \mcode{require} statements to eliminate variable references to class constructor functions implemented in other modules, our results show that precision reaches 100\% in the evaluated systems. Flow's recall ranges from 85\% to 96\% for associations, 64\% to 99\% for \aspas{uses} dependencies, and, if we consider both, from 80\% to 98\%. We manually analyzed and categorized all false negatives identified in our study. \ab{How many dependencies in total? We give absolute numerical values here, not sure what they actually mean} These false negatives are due to: (i) use of dependency injection (8 instances); (ii) absence of method invocation (8 instances); (iii) use of the object \mcode{arguments} (10 instances); and (iv) use of attributes of type \mcode{Array} (7 instances). The overall results suggest that this approach can be used to support the implementation of reverse engineering tools for JavaScript. Finally, in a second study, we successfully identify class-to-class dependencies and associations on vanilla JavaScript projects by applying our approach. Although it is not mandatory, the migration of legacy JavaScript code to the ES6 class syntax allows the use of name typing instead of structural typing, simplifying the type inference and, by consequence, the identification of class-to-class dependencies. 
+In this paper, we evaluate the usage of Flow, a static type-checker for JavaScript, to infer class-to-class associations and dependencies of type \aspas{uses} in legacy JavaScript code. We report a study on three open-source projects whose code is transpiled from TypeScript to JavaScript. We could not find any class-to-class dependencies when Flow is used in its default configuration, as in the first research question. After expanding the source code in the \mcode{require} statements to eliminate variable references to class constructor functions implemented in other modules, our results show that precision reaches 100\% in the evaluated systems. Flow's recall ranges from 85\% to 96\% for associations, 64\% to 99\% for \aspas{uses} dependencies, and, if we consider both, from 80\% to 98\%. We manually analyzed and categorized all false negatives identified in our study. These false negatives are due to: (i) use of dependency injection (8 instances); (ii) absence of method invocation (8 instances); (iii) use of the object \mcode{arguments} (10 instances); and (iv) use of attributes of type \mcode{Array} (7 instances). The overall results suggest that this approach can be used to support the implementation of reverse engineering tools for JavaScript. Finally, in a second study, we successfully identify class-to-class dependencies and associations on vanilla JavaScript projects by applying our approach. Although it is not mandatory, the migration of legacy JavaScript code to the ES6 class syntax allows the use of name typing instead of structural typing, simplifying the type inference and, by consequence, the identification of class-to-class dependencies. 
 
 As future work, we plan to extend our study by analyzing a larger set of JavaScript systems. We also intent to investigate the use of our approach to assist developers that intent to migrate their JavaScript systems to a typed version, \emph{e.g.,} TypeScript. Recent reports show that this kind of migration can be a hard and time consuming task~\footnote{\url{https://davidgom.es/porting-30k-lines-of-code-from-flow-to-typescript/}}. Moreover, we may improve recall by combining Flow (or other static analysis tool) with dynamic analysis. We can instrument JavaScript code to record execution traces using, for example, tools like Aran~\cite{aran-2015} or Jalangi~\cite{jalangi2013}. Finally, the class-to-class dependencies can also be used to compute software quality metrics for JavaScript, such as \textit{fanin}, \textit{fanout}, and other source code metrics~\cite{CK_metrics}.
 
