@@ -367,19 +367,21 @@ foo.js:5
 ^^^^^^ number
 \end{lstlisting} 
 
+\vspace{1.0 mm}
+
 Developers can also use type annotations to document their systems and to help Flow during type checking, although this is not mandatory.
 
 
 \section{Using Flow to Infer Dependencies}
 \label{sec:approach}
 
-In this section, we describe the usage of a static type checker (Facebook's Flow) to identify dependencies between classes in legacy JavaScript code. The idea of using Flow as a type inferencer tool was initially proposed by Silva \emph{et al.} \cite{sanerera2017} in their preliminary study to identify class-to-class dependencies. We extend their approach by preprocessing the source code in the \mcode{require} statements, \emph{i.e.}, statements used to import source code definitions from other files, eliminating variable references to class constructor functions implemented in other modules. Figure~\ref{fig:proposed-approach} presents an overview of this methodology. Given a JavaScript application, we infer dependencies as described next.
+In this section, we describe the usage of a static type checker (Facebook's Flow) to identify dependencies between classes in legacy JavaScript code. The idea of using Flow as a type inferencer was originally introduced in our preliminary study to identify class-to-class dependencies~\cite{sanerera2017}. In this paper, we extend the initial approach by preprocessing the source code in the \mcode{require} statements, \emph{i.e.}, statements used to import source code definitions from other files, eliminating variable references to class constructor functions implemented in other modules. Figure~\ref{fig:proposed-approach} presents an overview of this new methodology. Given a JavaScript application, we infer dependencies as described next.
 
 % I used the site draw-io to create the flow chart of figure \label{fig:proposed-approach}
 \begin{figure*}[ht]
 	\centering
 	\captionsetup{justification=centering}
-	\includegraphics[width=12.5cm]{fig/flowchart_draw-io.png}
+	\includegraphics[width=12.3cm]{fig/flowchart_draw-io.png}
 	\caption{Overview of the evaluated approach}
 	\label{fig:proposed-approach}
 \end{figure*}
@@ -478,7 +480,7 @@ Point.js:18:21: number
 	\label{fig:example-flow-point}
 \end{figure*}
 
-\vspace{4.0 mm}
+\vspace{3.0 mm}
 
 In JavaScript, the value of \mcode{this} depends on how a function is called, and it may be different each time the function is called.\footnote{https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/this}
 For this reason, we do not have the return type of function \mcode{getX} in line 11 of the output file. In this case, since \mcode{getX} is not invoked in the code, Flow does not infer neither its return type nor the type of \mcode{this.x}, used in \mcode{getX} (lines 11-15 of the output file). To overcome this problem, it is important to pass the tests together with the source code as input for Flow, using as many function invocations as possible. If we add a call to \mcode{getX} at the end of the source code on the left, for example \mcode{p.getX()}, then Flow gives the following output: \mcode{{getX: ()=> number}}, identifying the return type as \mcode{number}.
@@ -615,10 +617,10 @@ For the sake of simplicity, we are introducing a metric called \textit{NUsesDep}
 \label{subsec:dataset-oracle}
 
 %\noindent \textit{Dataset and the oracle.} 
-For our study, we need systems that emulate classes in legacy JavaScript in order to find the dependencies between these classes. We also need an oracle of class dependencies to measure the accuracy of the types inferred by Flow. For these reasons, we use TypeScript open-source projects to build this oracle and minimize possible bias. TypeScript is an extension of JavaScript that offers classes, interfaces, and a gradual type system~\cite{nance2014}. Therefore, by parsing and extracting explicit types in TypeScript programs, class-to-class dependencies can be found and added to an oracle. Before performing our analyses, TypeScript code is \textit{transpiled}\footnote{A transpiler is a source-to-source compiler. Transpilers are used, for example, to convert from TypeScript to JavaScript, in order to guarantee compatibility with existing browsers and runtime tools.} to vanilla JavaScript. The automatically generated code contains all constructor functions and methods, along with their dependencies, implemented according to JavaScript ES5 syntax. The strategy of using TypeScript projects to build an oracle is also adopted by Rostami \emph{et al.} \cite{rostami2016} in their work to detect constructor functions in JavaScript and by Silva \emph{et al.}~\cite{sanerera2017} in their preliminary study that evaluates the use of Flow as a type checker.
+For our study, we need systems that emulate classes in legacy JavaScript in order to find the dependencies between these classes. We also need an oracle of class dependencies to measure the accuracy of the types inferred by Flow. For these reasons, we use TypeScript open-source projects to build this oracle and minimize possible bias. TypeScript is an extension of JavaScript that offers classes, interfaces, and a gradual type system~\cite{nance2014}. Therefore, by parsing and extracting explicit types in TypeScript programs, class-to-class dependencies can be found and added to an oracle. Before performing our analyses, TypeScript code is \textit{transpiled}\footnote{A transpiler is a source-to-source compiler. Transpilers are used, for example, to convert from TypeScript to JavaScript, in order to guarantee compatibility with existing browsers and runtime tools.} to vanilla JavaScript. The automatically generated code contains all constructor functions and methods, along with their dependencies, implemented according to JavaScript ES5 syntax. The strategy of using TypeScript projects to build an oracle is also adopted by Rostami \emph{et al.} \cite{rostami2016} in their work to detect constructor functions in JavaScript and by Silva \emph{et al.}~\cite{sanerera2017} in our preliminary study that evaluates the use of Flow as a type checker.
 %, and by Silva \emph{et al.} \cite{sanerera2017} in their study to identify dependencies between classes in legacy JavaScript code. 
 
-Table~\ref{tab:dataset} presents the main characteristics of the three TypeScript projects in our dataset, including version number, size (LOC), number of classes, number of dependencies of type \aspas{uses} (\textit{NUsesDep}), number of class associations (\textit{NAssoc}), and the total of dependencies. The information about the dependencies can be obtained directly by analyzing the TypeScript code, which has explicit types. {\sc inversifyjs}\footnote{\url{https://github.com/inversify/InversifyJS}} is a lightweight inversion of control container for TypeScript and JavaScript applications. {\sc satellizer}\footnote{\url{https://github.com/sahat/satellizer}} is an end-to-end token-based authentication module for \mcode{AngularJS} with built-in support to different service providers. {\sc xstream}\footnote{\url{http://staltz.com/xstream/}} is a fast functional reactive stream library for JavaScript. {\sc inversifyjs} and {\sc satellizer} are also used by Silva \emph{et al.}~\cite{sanerera2017} in their study.
+Table~\ref{tab:dataset} presents the main characteristics of the three TypeScript projects in our dataset, including version number, size (LOC), number of classes, number of dependencies of type \aspas{uses} (\textit{NUsesDep}), number of class associations (\textit{NAssoc}), and the total of dependencies. The information about the dependencies can be obtained directly by analyzing the TypeScript code, which has explicit types. {\sc inversifyjs}\footnote{\url{https://github.com/inversify/InversifyJS}} is a lightweight inversion of control container for TypeScript and JavaScript applications. {\sc satellizer}\footnote{\url{https://github.com/sahat/satellizer}} is an end-to-end token-based authentication module for \mcode{AngularJS} with built-in support to different service providers. {\sc xstream}\footnote{\url{http://staltz.com/xstream/}} is a fast functional reactive stream library for JavaScript. {\sc inversifyjs} and {\sc satellizer} are also used in our preliminary study~\cite{sanerera2017}.
 
 
 \begin{table}[!ht]
@@ -1057,7 +1059,7 @@ In this section, we detail the design of a study proposed to evaluate the usage 
 \subsection{Dataset}
 \label{sec:dataset-vanilla}
 
-For this study, we need systems originally implemented in JavaScript. We started analyzing legacy code, what implies in comparing class structures to locate dependencies. However, the use of structural typing becomes an obstacle when we move to larger systems. To favor the scalability of our approach, it would be important to be able to use name equivalence when looking for specific types (see Section~\ref{sec:approach_es6} for more details about name vs structural typing). For this reason, we use a dataset of JavaScript open-source projects that have been migrated to ES6 for the study presented in Silva \emph{et al.}~\cite{icsr2017}. We filter systems that have more than 2 classes, since we focus in dependencies between classes. Table~\ref{tab:dataset-vanilla} presents the selected systems, including a brief description, checkout date, size (LOC), number of files, and number of classes. The selection includes well-known and widely used JavaScript systems, covering frameworks ({\sc socket.io}), graphic libraries ({\sc isomer}), rendering engines ({\sc pixi.js}), and data structures and algorithms ({\sc algorithms.js}). 
+For this study, we need systems originally implemented in JavaScript. We started analyzing legacy code, what implies in comparing class structures to locate dependencies. However, the use of structural typing becomes an obstacle when we move to larger systems. To favor the scalability of our approach, it would be important to be able to use name equivalence when looking for specific types (see Section~\ref{sec:approach_es6} for more details about name vs structural typing). For this reason, we use a dataset of JavaScript open-source projects that have been migrated to ES6 in a previous study~\cite{icsr2017}. We filter systems that have more than 2 classes, since we focus in dependencies between classes. Table~\ref{tab:dataset-vanilla} presents the selected systems, including a brief description, checkout date, size (LOC), number of files, and number of classes. The selection includes well-known and widely used JavaScript systems, covering frameworks ({\sc socket.io}), graphic libraries ({\sc isomer}), rendering engines ({\sc pixi.js}), and data structures and algorithms ({\sc algorithms.js}). 
 
 \begin{table}[h]%[htbp]
 	%\scriptsize
@@ -1173,7 +1175,7 @@ core.CanvasRenderer.registerPlugin('accessibility', AccessibilityManager);
 
 \vspace{2.5 mm}
 
-\noindent \textit{Extra features.} We may miss eventual dependencies added by extra features (i.e. features added at runtime) when they are implemented in separated files. For example, class \mcode{DisplayObject}, in system {\sc pixi.js}, is \aspas{extended} in a file called \mcode{cacheAsBitmap.js}, which adds new methods to the class. In our analysis, we investigate the original implementation of the classes, without these extra features, although it would be possible to consider them if necessary. Silva \emph{et al.}~\cite{icsr2017} have already identified the presence of extra features in system {\sc pixi.js}. 
+\noindent \textit{Extra features.} We may miss eventual dependencies added by extra features (i.e. features added at runtime) when they are implemented in separated files. For example, class \mcode{DisplayObject}, in system {\sc pixi.js}, is \aspas{extended} in a file called \mcode{cacheAsBitmap.js}, which adds new methods to the class. In our analysis, we investigate the original implementation of the classes, without these extra features, although it would be possible to consider them if necessary. In previous work~\cite{icsr2017}, we have already identified the presence of extra features in system {\sc pixi.js}. 
 %Ex: class DisplayObject is "extended" in file cacheAsBitmap.js (CacheData-flow.js).
 
 
