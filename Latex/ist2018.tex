@@ -880,7 +880,7 @@ In this second research question, we expand the source code of classes implement
 
 \begin{center}
 	\noindent \fbox{\parbox{0.98\textwidth}{
-			{\em Summary: } By eliminating and expanding the code of \mcode{require} statements precision improves to 100\% in the analyzed systems. The values of recall range from 80\% to 98\% for all dependencies and from 85\% to 96\% for associations.}}
+			{\em Summary: } By eliminating and expanding the code of \mcode{require} statements precision improves to 100\% in the analyzed systems. The values of recall range from 80\% to 98\% for all dependencies.}}
 \end{center}
 
 \vspace{0.07cm}
@@ -1245,6 +1245,10 @@ In this paper, we evaluate the usage of Flow, a static type-checker for JavaScri
 As future work, we plan to extend our study by analyzing a larger set of JavaScript systems. We also intent to investigate the use of our approach to assist developers that intent to migrate their JavaScript systems to a typed version, \emph{e.g.,} TypeScript. Recent reports show that this kind of migration can be a hard and time consuming task~\footnote{\url{https://davidgom.es/porting-30k-lines-of-code-from-flow-to-typescript/}}. Moreover, we may improve recall by combining Flow (or other static analysis tool) with dynamic analysis. We can instrument JavaScript code to record execution traces using, for example, tools like Aran~\cite{aran-2015} or Jalangi~\cite{jalangi2013}. Finally, the class-to-class dependencies can also be used to compute software quality metrics for JavaScript, such as \textit{fanin}, \textit{fanout}, and other source code metrics~\cite{CK_metrics}.
 
 % , including the investigation of systems whose native language is JavaScript
+
+\section*{Acknowledgments}
+
+The authors would like to thank CNPq, CAPES and FAPEMIG. 
 
 \section*{References}
 
