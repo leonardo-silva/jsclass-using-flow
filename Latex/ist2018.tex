@@ -128,7 +128,7 @@
 
 \begin{frontmatter}
 
-\title{Using Facebook's Flow to Retrieve Class Dependencies in JavaScript: An Empirical Assessment}
+\title{Using Flow to Retrieve Class Dependencies in JavaScript: An Empirical Assessment}
 
 %\tnotetext[mytitlenote]{Fully documented templates are available in the elsarticle package on \href{http://www.ctan.org/tex-archive/macros/latex/contrib/elsarticle}{CTAN}.}
 
@@ -153,7 +153,16 @@
 \address[bergeladdress]{ISCLab, DCC, University of Chile}
 
 \begin{abstract}
-Accurately identifying dependencies between software components is an essential activity when maintaining and evolving software applications. It is also known that developers often use classes to tackle the complexity of legacy JavaScript code, \emph{i.e.}, code implemented in JavaScript versions that do not provide syntactical support to classes. In this scenario, identifying associations and other dependencies between classes is specially challenging due to the lack of types in the source code. This paper investigates the use of type inference to identify relationships between classes in legacy JavaScript code. We demonstrate how to use Flow, a static type-checker for JavaScript, to infer types that correspond to class references in systems transpiled from TypeScript to JavaScript. Our results show that precision reaches 100\% in the evaluated systems. Flow's recall ranges from 85\% to 96\% for associations, 64\% to 99\% for \aspas{uses} dependencies, and, if we consider both, from 80\% to 98\%. We manually analyzed and categorized all false negatives identified in our study. Finally, we successfully apply our approach in a set of vanilla JavaScript systems. The overall results suggest that using a type inferencer is a reliable approach to identify dependencies between software components in JavaScript.
+Context: Accurately identifying dependencies between software components is an essential activity when maintaining and evolving software applications. It is also known that developers often use classes to tackle the complexity of legacy JavaScript code, \emph{i.e.}, code implemented in JavaScript versions that do not provide syntactical support to classes. In this scenario, identifying class dependencies is specially challenging due to the lack of types in the source code. 
+%In this scenario, identifying associations and other dependencies between classes is specially challenging due to the lack of types in the source code. 
+
+Objective: This paper investigates the use of type inference to identify relationships between classes in legacy JavaScript code. 
+
+Method: We demonstrate how to use Flow, a static type-checker for JavaScript, to infer types that correspond to class references in systems transpiled from TypeScript to JavaScript. We manually analyzed and categorized all false negatives identified in our study. Finally, we successfully apply our approach in a set of vanilla JavaScript systems. 
+
+Results: Our results show that precision reaches 100\% in the evaluated systems. Flow's recall ranges from 85\% to 96\% for associations, 64\% to 99\% for \aspas{uses} dependencies, and, if we consider both, from 80\% to 98\%. 
+
+Conclusions: The overall results suggest that using a type inferencer is a reliable approach to identify dependencies between software components in JavaScript.
 %\ab{What is the take-away message? That using a type inferencer is a cheap and reliable approach to identify dependencies between software component? If yes, then say it}
 %We find that the migration of legacy code to the new class syntax simplifies type inference and, by consequence, the identification of class-to-class dependencies. 
 \end{abstract}
@@ -198,7 +207,7 @@ Type information is essential to properly identify dependencies between class st
 
 \end{comment}
 
-In a previous work~\cite{sanerera2017}, we presented a preliminary study to evaluate the use of Facebook's Flow\footnote{\url{https://flow.org/}}, a static type checker, to retrieve class-to-class dependencies in legacy JavaScript systems. We performed a study using code with and without annotating the class import statements in two modular applications. We achieved 100\% precision in the two analyzed systems, and recall ranging from 37\% to 51\% for dependencies in general and from 54\% to 85\% for associations, using type annotations for classes. In this paper, we extend their approach by preprocessing the source code in the \mcode{require} statements, eliminating variable references to class constructor functions implemented in other modules, instead of using type annotations for classes. This new approach increases recall, eliminates the need of annotating the source code, and allows the use of wildcards to import a set of classes in the same \mcode{require} statement. We analyze a set of systems transpiled from TypeScript to JavaScript and our results show that precision continues to be 100\%, and recall increases, reaching 99\% for \aspas{uses} dependencies and 96\% for associations, in the evaluated systems. We manually analyze and categorize all false negatives identified in our study. Our results suggest that: (i) inferencing types is key to extract inter-class dependencies in legacy JavaScript applications; (ii) Facebook's Flow represents a practical solution to extract dependencies from existing software and systems. Moreover, in a second study, we successfully identify class-to-class dependencies and associations on vanilla JavaScript projects by applying our approach. We find that the migration of legacy JavaScript code to the ES6 class syntax allows the use of name typing instead of structural typing, simplifying the type inference and, by consequence, the identification of class-to-class dependencies. 
+In a previous work~\cite{sanerera2017}, we presented a preliminary study to evaluate the use of Facebook's Flow\footnote{\url{https://flow.org/}}, a static type checker, to retrieve class-to-class dependencies in legacy JavaScript systems. Flow is an open source (i.e., non-commercial) project, which is available under an MIT license. We performed a study using code with and without annotating the class import statements in two modular applications. We achieved 100\% precision in the two analyzed systems, and recall ranging from 37\% to 51\% for dependencies in general and from 54\% to 85\% for associations, using type annotations for classes. In this paper, we extend their approach by preprocessing the source code in the \mcode{require} statements, eliminating variable references to class constructor functions implemented in other modules, instead of using type annotations for classes. This new approach increases recall, eliminates the need of annotating the source code, and allows the use of wildcards to import a set of classes in the same \mcode{require} statement. We analyze a set of systems transpiled from TypeScript to JavaScript and our results show that precision continues to be 100\%, and recall increases, reaching 99\% for \aspas{uses} dependencies and 96\% for associations, in the evaluated systems. We manually analyze and categorize all false negatives identified in our study. Our results suggest that: (i) inferencing types is key to extract inter-class dependencies in legacy JavaScript applications; (ii) Facebook's Flow represents a practical solution to extract dependencies from existing software and systems. Moreover, in a second study, we successfully identify class-to-class dependencies and associations on vanilla JavaScript projects by applying our approach. We find that the migration of legacy JavaScript code to the ES6 class syntax allows the use of name typing instead of structural typing, simplifying the type inference and, by consequence, the identification of class-to-class dependencies. 
 
 %Besides the improvement in the values of recall, our approach does not require the migration of the constructor functions to use the new syntax for classes, introduced by ES6, in order to produce the type annotations for classes, as described in their preliminary work~\cite{sanerera2017}. 
 
@@ -367,7 +376,7 @@ foo.js:5
 ^^^^^^ number
 \end{lstlisting} 
 
-\vspace{1.0 mm}
+%\vspace{1.0 mm}
 
 Developers can also use type annotations to document their systems and to help Flow during type checking, although this is not mandatory.
 
